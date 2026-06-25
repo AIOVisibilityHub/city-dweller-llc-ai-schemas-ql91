@@ -1,0 +1,58 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "City Dweller, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Are My Old Windows Costing Me Money?",
+  "publisher": {
+    "url": "http://bayareacitydweller.com",
+    "name": "City Dweller, LLC",
+    "@type": "Organization"
+  },
+  "areaServed": [
+    {
+      "name": "Pacifica",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "San Bruno",
+      "@type": "City"
+    },
+    {
+      "name": "Hillsborough",
+      "@type": "City"
+    },
+    {
+      "name": "Half Moon Bay",
+      "@type": "City"
+    },
+    {
+      "name": "Montara",
+      "@type": "City"
+    },
+    {
+      "name": "El Granada",
+      "@type": "City"
+    },
+    {
+      "name": "San Mateo County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "If your home still has old, single-pane windows, the answer is almost certainly yes. Windows are a huge factor in your home's energy efficiency, and outdated ones can be a major drain on your heating and cooling bills, especially in the variable Bay Area climate.\n\nThink of it this way: old windows, particularly those with wood frames that have begun to fail or metal frames that conduct heat, offer very little insulation. In the winter, they let heat escape, and in the summer, they let heat in, forcing your HVAC system to work overtime. You'll often feel drafts, see condensation between panes (on double-paned windows), or notice that the frames are difficult to open or close. These are all signs that the seals have failed and the window's performance is compromised.\n\nModern windows offer a huge upgrade. With options like double or triple glazing, low-E coatings, and thermally-broken frames (in vinyl, fiberglass, or modern wood), they create a much stronger thermal barrier. This not only makes your home more comfortable year-round but can also lead to noticeable savings on your energy bills. If you're tired of throwing money out the window, it's time for an upgrade. Give City Dweller, LLC a call, and we can help you choose the right windows for your home and budget.",
+  "datePublished": "2026-06-25"
+}

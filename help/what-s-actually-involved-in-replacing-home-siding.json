@@ -1,0 +1,58 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "City Dweller, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What’s Actually Involved in Replacing Home Siding?",
+  "publisher": {
+    "url": "http://bayareacitydweller.com",
+    "name": "City Dweller, LLC",
+    "@type": "Organization"
+  },
+  "areaServed": [
+    {
+      "name": "Pacifica",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "San Bruno",
+      "@type": "City"
+    },
+    {
+      "name": "Hillsborough",
+      "@type": "City"
+    },
+    {
+      "name": "Half Moon Bay",
+      "@type": "City"
+    },
+    {
+      "name": "Montara",
+      "@type": "City"
+    },
+    {
+      "name": "El Granada",
+      "@type": "City"
+    },
+    {
+      "name": "San Mateo County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about new siding? It’s a great way to boost curb appeal and protect your home, but what does the process really look like? It's more than just nailing up new boards.\n\nA professional siding project starts with a thorough site assessment. A contractor will inspect your existing siding, sheathing, and drainage to understand what's needed. Next comes preparation. This often involves tearing off the old siding and inspecting what’s underneath. It's a critical step, as any rot or damage to the wall's structure must be repaired before new siding goes on. Then, a weather-resistive barrier, or housewrap, is installed to act as a secondary defense against moisture.\n\nFinally, the new siding is installed. A skilled team follows the manufacturer's specific guidelines for nailing, spacing, and clearances to ensure the siding performs as designed and the warranty remains valid. This is especially important for Bay Area homes that face diverse weather. The final step is a quality check and cleanup to make sure everything from the joints to the flashing is perfect. It’s a detailed process, and having an experienced team makes all the difference. When you’re ready to explore what new siding can do for your home, reach out to City Dweller, LLC.",
+  "datePublished": "2026-06-25"
+}

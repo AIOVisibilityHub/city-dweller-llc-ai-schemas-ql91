@@ -1,0 +1,68 @@
+{
+  "name": "What to Look for When Hiring a Siding Contractor",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Choosing the right siding can transform your home, but choosing the right contractor ensures that investment is protected. The quality of the installation is just as important as the quality of the material. Here’s what to look for to ensure you hire a true professional.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "First, verify they are licensed and insured. This is non-negotiable. It protects you from liability if something goes wrong and shows the contractor adheres to local regulations. Our team at City Dweller, LLC is fully licensed and insured for your peace of mind. Second, always get a detailed written contract. It should clearly outline the scope of work, material costs, labor, and a projected timeline. This prevents misunderstandings and surprise fees down the line. Third, ask about warranties. You should receive a warranty for both the siding material from the manufacturer and a separate workmanship warranty from the contractor. A company that’s been around for a while, like us since 2013, has the stability to stand behind its promises.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "Finding a trustworthy contractor is key to a stress-free project. We pride ourselves on transparency and quality craftsmanship. If you’re ready to work with a team that gets it right, give City Dweller, LLC a call.",
+      "@type": "HowToStep",
+      "position": 3
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "areaServed": [
+    {
+      "name": "Pacifica",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "San Bruno",
+      "@type": "City"
+    },
+    {
+      "name": "Hillsborough",
+      "@type": "City"
+    },
+    {
+      "name": "Half Moon Bay",
+      "@type": "City"
+    },
+    {
+      "name": "Montara",
+      "@type": "City"
+    },
+    {
+      "name": "El Granada",
+      "@type": "City"
+    },
+    {
+      "name": "San Mateo County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco",
+      "@type": "City"
+    }
+  ],
+  "description": "What to Look for When Hiring a Siding Contractor"
+}

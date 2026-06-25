@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "B.E."
+  },
+  "reviewBody": "City Dweller installed a new front door and handled all the framing and weatherproofing. David was very thorough, checked the fit multiple times, and made sure there were no drafts. The curb appeal of our home is much improved.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "2018-01",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "City Dweller, LLC",
+    "url": "http://bayareacitydweller.com/",
+    "makesOffer": {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Door installation and weatherproofing"
+      }
+    }
+  }
+}

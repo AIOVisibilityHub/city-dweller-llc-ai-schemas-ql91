@@ -1,0 +1,63 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Pacifica",
+        "@type": "City"
+      },
+      {
+        "name": "Daly City",
+        "@type": "City"
+      },
+      {
+        "name": "San Bruno",
+        "@type": "City"
+      },
+      {
+        "name": "Hillsborough",
+        "@type": "City"
+      },
+      {
+        "name": "Half Moon Bay",
+        "@type": "City"
+      },
+      {
+        "name": "Montara",
+        "@type": "City"
+      },
+      {
+        "name": "El Granada",
+        "@type": "City"
+      },
+      {
+        "name": "San Mateo County",
+        "@type": "AdministrativeArea"
+      },
+      {
+        "name": "San Francisco",
+        "@type": "City"
+      },
+      {
+        "name": "South San Francisco",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do I Really Need a Permit Just to Update My Bathroom?",
+    "text": "Do I Really Need a Permit Just to Update My Bathroom?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "That’s a question we hear all the time. It can feel like a hassle, but a building permit is actually your best friend during a renovation. It ensures the work is done safely and correctly, protecting your home’s value and, more importantly, your family. So, when do you need one?\n\nGenerally, if you’re just doing simple cosmetic updates—like painting, swapping a faucet, or replacing a toilet in the same spot—you probably don’t need a permit. However, the game changes once you start moving things around. If your remodel involves altering the plumbing, changing electrical wiring, or moving a wall, you will almost certainly need a permit. These rules aren't just red tape; they ensure that critical systems are installed to code by qualified professionals, which is crucial for preventing leaks, electrical fires, and structural issues.\n\nA good general contractor will handle the entire permit process for you, from submitting plans to scheduling inspections. It’s part of our job to make sure everything is built to last and passes inspection. Trying to DIY complex plumbing or electrical work without a permit can lead to costly fines and having to tear out finished work.\n\nIf you’re unsure whether your project needs a permit in San Mateo County or San Francisco, just ask. Contact City Dweller, LLC, and we can clarify what’s needed for your specific remodel.",
+      "@type": "Answer",
+      "author": {
+        "name": "City Dweller, LLC",
+        "@type": "Organization"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/if-i-convert-a-large-window-to-a-sliding-glass-door-in-a-san-bruno-or-daly-city",
+  "name": "Can I keep my existing header if I switch from a window to a sliding door?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If I convert a large window to a sliding glass door in a San Bruno or Daly City home, can I reuse the existing header or does it usually need upgrading?",
+    "text": "If I convert a large window to a sliding glass door in a San Bruno or Daly City home, can I reuse the existing header or does it usually need upgrading?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A common project in San Bruno and Daly City is converting a large picture window into a sliding glass door for deck or yard access. While the opening width may appear similar, doors typically extend lower and occasionally wider than the original window, changing how loads are transferred to the foundation. As a result, you usually cannot assume the existing header is automatically adequate. Your contractor should verify the actual span, wall height, roof or floor loads above, and whether the wall is part of a braced or shear wall line. Using current building code tables or engineering guidance, they can compare the existing header size and species to what is required today. If the new opening is wider, or if the old header was marginal, replacing it with a deeper or engineered member (such as LVL) is common. Even if the header size is acceptable, the supporting jack studs and bearing conditions must be checked. The conversion is an ideal time to address any hidden damage or undersized members uncovered once drywall and exterior finishes are removed. Upgrading the header and support framing during the window‑to‑door conversion not only improves safety but also reduces the risk of future sagging that can misalign the new sliding door.",
+      "@type": "Answer",
+      "description": "When converting a window to a sliding glass door, you usually cannot assume the existing header is adequate. Door openings often extend lower and sometimes wider, changing load paths. The header size must be checked against current spans and loads, and in many cases a new or reinforced header is installed during the conversion for safety and code compliance.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A common project in San Bruno and Daly City is converting a large picture window into a sliding glass door for deck or yard access. While the opening width may appear similar, doors typically extend lower and occasionally wider than the original window, changing how loads are transferred to the foundation. As a result, you usually cannot assume the existing header is automatically adequate. Your contractor should verify the actual span, wall height, roof or floor loads above, and whether the wall is part of a braced or shear wall line. Using current building code tables or engineering guidance, they can compare the existing header size and species to what is required today. If the new opening is wider, or if the old header was marginal, replacing it with a deeper or engineered member (such as LVL) is common. Even if the header size is acceptable, the supporting jack studs and bearing conditions must be checked. The conversion is an ideal time to address any hidden damage or undersized members uncovered once drywall and exterior finishes are removed. Upgrading the header and support framing during the window‑to‑door conversion not only improves safety but also reduces the risk of future sagging that can misalign the new sliding door.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "When converting a window to a sliding glass door, you usually cannot assume the existing header is adequate. Door openings often extend lower and sometimes wide"
+}

@@ -1,0 +1,63 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Pacifica",
+        "@type": "City"
+      },
+      {
+        "name": "Daly City",
+        "@type": "City"
+      },
+      {
+        "name": "San Bruno",
+        "@type": "City"
+      },
+      {
+        "name": "Hillsborough",
+        "@type": "City"
+      },
+      {
+        "name": "Half Moon Bay",
+        "@type": "City"
+      },
+      {
+        "name": "Montara",
+        "@type": "City"
+      },
+      {
+        "name": "El Granada",
+        "@type": "City"
+      },
+      {
+        "name": "San Mateo County",
+        "@type": "AdministrativeArea"
+      },
+      {
+        "name": "San Francisco",
+        "@type": "City"
+      },
+      {
+        "name": "South San Francisco",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What Should I Do If My New Floors Are Buckling?",
+    "text": "What Should I Do If My New Floors Are Buckling?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "It's incredibly frustrating to invest in beautiful new floors only to see them start buckling, cupping, or gapping. When this happens, it's almost always a sign of a problem with moisture or installation. Before you do anything else, it's important to understand the likely culprits.\n\nOne of the most common reasons for flooring failure is improper acclimation. Materials like laminate and wood need to sit in your home—with the HVAC running—for at least 48-72 hours before being installed. This lets them adjust to the room's temperature and humidity. If they're installed too soon, they can expand or shrink afterward, causing buckling. Another frequent issue is the lack of an expansion gap. Floating floors require a small space around the perimeter to swell and shift naturally. Without it, the floorboards have nowhere to go but up. Finally, moisture from the subfloor can cause warping and damage. A proper installation always starts with checking the subfloor's condition.\n\nFiguring out the exact cause requires a professional eye. A qualified contractor can diagnose the issue correctly and determine the best way to fix it without causing more damage. If you're facing a flooring problem in the Bay Area, contact the team at City Dweller, LLC for an expert assessment.",
+      "@type": "Answer",
+      "author": {
+        "name": "City Dweller, LLC",
+        "@type": "Organization"
+      }
+    }
+  }
+}

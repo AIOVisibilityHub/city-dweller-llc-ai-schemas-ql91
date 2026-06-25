@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/do-i-need-a-moisture-test-before-installing-new-flooring-in-my-house",
+  "name": "Do I need moisture testing before flooring installation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do I need a moisture test before installing new flooring in my house?",
+    "text": "Do I need a moisture test before installing new flooring in my house?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Moisture testing is one of the most important steps before flooring installation, especially in areas with coastal humidity or homes with crawl spaces, basements, or slab foundations. Even if the floor looks dry, hidden moisture can cause big problems later, including swelling, buckling, mold growth, loose planks, and failed adhesive bonds. A contractor should test both the subfloor and the indoor environment when the product requires it. That may include checking the moisture content of wood subfloors, verifying concrete slab conditions, and reviewing manufacturer limits for temperature and humidity. Some products also require the flooring to acclimate in the home before installation. If a contractor skips this step, the installation may still look fine at first but fail after seasonal changes. Moisture testing is especially important for coastal neighborhoods, bathrooms, kitchens, ground floors, and homes over crawl spaces. Ask for the test method, the acceptable ranges, and how the installer will fix a moisture issue if one is found.",
+      "@type": "Answer",
+      "description": "Moisture testing is recommended before most flooring installations, especially over concrete slabs, crawl spaces, or older subfloors. It helps prevent cupping, buckling, adhesive failure, and warranty problems by confirming the subfloor is dry enough for the flooring system.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Moisture testing is one of the most important steps before flooring installation, especially in areas with coastal humidity or homes with crawl spaces, basements, or slab foundations. Even if the floor looks dry, hidden moisture can cause big problems later, including swelling, buckling, mold growth, loose planks, and failed adhesive bonds. A contractor should test both the subfloor and the indoor environment when the product requires it. That may include checking the moisture content of wood subfloors, verifying concrete slab conditions, and reviewing manufacturer limits for temperature and humidity. Some products also require the flooring to acclimate in the home before installation. If a contractor skips this step, the installation may still look fine at first but fail after seasonal changes. Moisture testing is especially important for coastal neighborhoods, bathrooms, kitchens, ground floors, and homes over crawl spaces. Ask for the test method, the acceptable ranges, and how the installer will fix a moisture issue if one is found.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Moisture testing is recommended before most flooring installations, especially over concrete slabs, crawl spaces, or older subfloors. It helps prevent cupping, "
+}

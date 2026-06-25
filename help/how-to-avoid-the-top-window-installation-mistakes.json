@@ -1,0 +1,68 @@
+{
+  "name": "How to Avoid the Top Window Installation Mistakes",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "A window replacement project can be a smooth process or a major headache—the difference often comes down to avoiding a few common pitfalls. Knowing what to watch out for can save you time, money, and frustration.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "First, insist on precise measurements. It sounds obvious, but incorrect measurements are a frequent source of problems, leading to ill-fitting windows that are difficult to install and seal properly. Second, make sure your installer thoroughly inspects the window opening. It's critical to identify and repair any rot or structural damage *before* the new window goes in. Simply covering up damaged framing is a recipe for future leaks and bigger issues. Third, pay attention to flashing and sealing. This is where many DIY jobs and inexperienced installers fail. Proper integration with your home's weather-resistive barrier is essential for preventing water intrusion.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "Finally, don't overlook local building codes, which may have rules about emergency egress or safety glass. Working with a professional is the best way to navigate these requirements. An experienced team knows how to manage these details from the start. Ready to get your project done right the first time? Contact City Dweller, LLC for an expert installation.",
+      "@type": "HowToStep",
+      "position": 3
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "areaServed": [
+    {
+      "name": "Pacifica",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "San Bruno",
+      "@type": "City"
+    },
+    {
+      "name": "Hillsborough",
+      "@type": "City"
+    },
+    {
+      "name": "Half Moon Bay",
+      "@type": "City"
+    },
+    {
+      "name": "Montara",
+      "@type": "City"
+    },
+    {
+      "name": "El Granada",
+      "@type": "City"
+    },
+    {
+      "name": "San Mateo County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco",
+      "@type": "City"
+    }
+  ],
+  "description": "How to Avoid the Top Window Installation Mistakes"
+}

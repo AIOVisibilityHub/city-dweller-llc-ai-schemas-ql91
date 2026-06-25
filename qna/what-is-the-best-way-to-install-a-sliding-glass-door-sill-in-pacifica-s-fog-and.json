@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/what-is-the-best-way-to-install-a-sliding-glass-door-sill-in-pacifica-s-fog-and",
+  "name": "Preventing water intrusion at the sill in foggy, wind-driven rain",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the best way to install a sliding glass door sill in Pacifica’s fog and wind-driven rain so water doesn’t sneak under the track over time?",
+    "text": "What is the best way to install a sliding glass door sill in Pacifica’s fog and wind-driven rain so water doesn’t sneak under the track over time?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "In coastal cities like Pacifica and Half Moon Bay, sliding door sills are constantly exposed to damp air and wind‑driven rain, so a basic “caulk and hope” approach is not enough. The key is building in a second line of defense beneath the door that manages any water that gets past the top surface. A sloped sill pan—either preformed or site‑built from metal or flexible flashing—should be installed under the door’s threshold, with its interior leg higher than the exterior and its ends turned up to contain water. A continuous bed of high‑quality sealant belongs under the door track and along the back dam of the pan. The pan itself should be integrated with the wall system by lapping it correctly over building paper or housewrap so that water always drains outward, never inward. Side and head flashing tapes should overlap shingle‑style, directing water toward the exterior. Inside, avoid fastener penetrations at the low point of the pan and don’t overfill weep areas with sealant or foam, which can trap water. After installation, check weep holes and keep exterior surfaces clear of debris and raised patio finishes that can block drainage. If you are hiring a contractor, ask specifically whether they use a sill pan and how they integrate it with your existing weather barrier.",
+      "@type": "Answer",
+      "description": "For foggy, wind‑driven rain climates, use a sloped sill pan under the sliding door, continuous sealant under the track, and properly layered flashing that integrates with housewrap. The interior side should be higher than the exterior, with weep paths kept clear. Relying only on surface caulk without a pan is a common cause of slow leaks at the sill.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "In coastal cities like Pacifica and Half Moon Bay, sliding door sills are constantly exposed to damp air and wind‑driven rain, so a basic “caulk and hope” approach is not enough. The key is building in a second line of defense beneath the door that manages any water that gets past the top surface. A sloped sill pan—either preformed or site‑built from metal or flexible flashing—should be installed under the door’s threshold, with its interior leg higher than the exterior and its ends turned up to contain water. A continuous bed of high‑quality sealant belongs under the door track and along the back dam of the pan. The pan itself should be integrated with the wall system by lapping it correctly over building paper or housewrap so that water always drains outward, never inward. Side and head flashing tapes should overlap shingle‑style, directing water toward the exterior. Inside, avoid fastener penetrations at the low point of the pan and don’t overfill weep areas with sealant or foam, which can trap water. After installation, check weep holes and keep exterior surfaces clear of debris and raised patio finishes that can block drainage. If you are hiring a contractor, ask specifically whether they use a sill pan and how they integrate it with your existing weather barrier.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "For foggy, wind‑driven rain climates, use a sloped sill pan under the sliding door, continuous sealant under the track, and properly layered flashing that integ"
+}

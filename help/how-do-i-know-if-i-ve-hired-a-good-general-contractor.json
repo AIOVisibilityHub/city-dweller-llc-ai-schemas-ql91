@@ -1,0 +1,74 @@
+{
+  "name": "How Do I Know If I've Hired a Good General Contractor?",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Feeling confident in your general contractor is the key to a low-stress remodel. But how can you be sure you’ve made the right choice before the work even starts? It comes down to checking a few key things.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "First and foremost: licensing and insurance. Don’t just take their word for it. A reputable contractor will eagerly provide their license number and proof of liability insurance. This is non-negotiable and protects you from liability. Next, look at their track record. Ask for references from recent projects that are similar in scope to yours. A good contractor will have a portfolio of finished work and happy clients.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "Pay close attention to their communication style. Are they responsive to your questions? Do they explain the process clearly? A great contractor provides a detailed, itemized contract that outlines the scope, timeline, payment schedule, and process for handling changes. Vague agreements are a major warning sign. Ultimately, you're hiring a project manager, so you need someone who is organized, transparent, and professional from the start.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4",
+      "text": "If you want to partner with a trusted, experienced, and fully licensed general contractor in the San Francisco Bay Area, call City Dweller, LLC today.",
+      "@type": "HowToStep",
+      "position": 4
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "areaServed": [
+    {
+      "name": "Pacifica",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "San Bruno",
+      "@type": "City"
+    },
+    {
+      "name": "Hillsborough",
+      "@type": "City"
+    },
+    {
+      "name": "Half Moon Bay",
+      "@type": "City"
+    },
+    {
+      "name": "Montara",
+      "@type": "City"
+    },
+    {
+      "name": "El Granada",
+      "@type": "City"
+    },
+    {
+      "name": "San Mateo County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco",
+      "@type": "City"
+    }
+  ],
+  "description": "How Do I Know If I've Hired a Good General Contractor?"
+}

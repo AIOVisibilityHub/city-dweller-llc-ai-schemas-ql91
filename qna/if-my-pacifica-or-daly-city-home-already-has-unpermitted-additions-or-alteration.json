@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/if-my-pacifica-or-daly-city-home-already-has-unpermitted-additions-or-alteration",
+  "name": "What if my Pacifica home has existing unpermitted work before a new contractor remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If my Pacifica or Daly City home already has unpermitted additions or alterations, what should I discuss with a general contractor before starting a new permitted project?",
+    "text": "If my Pacifica or Daly City home already has unpermitted additions or alterations, what should I discuss with a general contractor before starting a new permitted project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Unpermitted work is common in older Pacifica and Daly City homes and can complicate new projects if ignored. Before you apply for permits, openly tell your general contractor about any known unpermitted additions, garage conversions, or interior changes. Ask how these might affect the city’s review of your new plans and whether prior work is likely to be scrutinized once inspectors are on site. Discuss strategies for dealing with existing unpermitted work: legalizing it through as‑built drawings and inspections, selectively removing or rebuilding non‑compliant sections, or confining the new project scope to areas less likely to trigger broader reviews. Ask your contractor how they document conditions before demolition and how they will communicate with you if they discover hidden issues such as unsafe wiring, missing structural elements, or non‑rated assemblies. Clarify whether addressing past work is included in their base proposal or treated as a potential extra cost. Request that the contract describe how change orders will be handled specifically for unforeseen code compliance corrections. Being proactive with your contractor about unpermitted work helps you plan realistic budgets and timelines and reduces the risk of stop‑work orders or major surprises mid‑project.",
+      "@type": "Answer",
+      "description": "Tell your general contractor about any unpermitted work and ask how it might affect new permits, inspections, and costs. Discuss options for legalizing, documenting, or selectively removing prior work, and clarify how they will handle discovery of hidden non‑compliant construction during the project to avoid stop‑work issues.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Unpermitted work is common in older Pacifica and Daly City homes and can complicate new projects if ignored. Before you apply for permits, openly tell your general contractor about any known unpermitted additions, garage conversions, or interior changes. Ask how these might affect the city’s review of your new plans and whether prior work is likely to be scrutinized once inspectors are on site. Discuss strategies for dealing with existing unpermitted work: legalizing it through as‑built drawings and inspections, selectively removing or rebuilding non‑compliant sections, or confining the new project scope to areas less likely to trigger broader reviews. Ask your contractor how they document conditions before demolition and how they will communicate with you if they discover hidden issues such as unsafe wiring, missing structural elements, or non‑rated assemblies. Clarify whether addressing past work is included in their base proposal or treated as a potential extra cost. Request that the contract describe how change orders will be handled specifically for unforeseen code compliance corrections. Being proactive with your contractor about unpermitted work helps you plan realistic budgets and timelines and reduces the risk of stop‑work orders or major surprises mid‑project.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Tell your general contractor about any unpermitted work and ask how it might affect new permits, inspections, and costs. Discuss options for legalizing, documen"
+}

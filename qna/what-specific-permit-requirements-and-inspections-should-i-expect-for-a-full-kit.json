@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/what-specific-permit-requirements-and-inspections-should-i-expect-for-a-full-kit",
+  "name": "What’s different about kitchen remodel permits in Daly City, San Bruno, and Pacifica?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What specific permit requirements and inspections should I expect for a full kitchen remodel in Daly City, San Bruno, or Pacifica, and how do they differ between these cities?",
+    "text": "What specific permit requirements and inspections should I expect for a full kitchen remodel in Daly City, San Bruno, or Pacifica, and how do they differ between these cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "All three cities follow California’s building, electrical, and plumbing codes, but each has its own processes, thresholds, and inspection routines for kitchen remodels. In Daly City, even “like‑for‑like” kitchen updates may trigger permits if you move outlets, lighting, or plumbing, and plan review is typically needed for layout changes or new walls. San Bruno might allow simpler over‑the‑counter permits for straight cabinet and countertop replacements but require full submittals when moving sinks, adding circuits, or modifying structural framing. Pacifica often places extra emphasis on life‑safety elements such as GFCI/AFCI protection, range hood ducting to the exterior, and proper combustion‑air clearances if gas appliances remain in use. Some cities require a separate mechanical permit when you install or relocate a range hood or gas line. Across all three, you should expect at least rough‑in and final inspections. Rough‑in typically checks framing, electrical, plumbing, and mechanical before insulation and drywall. Finals verify GFCIs, lighting, appliance hookups, venting, and safety clearances. Ask your contractor to pull the permits in their name, provide you with stamped plans if required, and walk you through the city’s kitchen‑specific checklist so there are no surprises or failed inspections once work begins.",
+      "@type": "Answer",
+      "description": "Kitchen remodel permits in Daly City, San Bruno, and Pacifica follow California building, electrical, and plumbing codes but differ in thresholds, fees, and submittal details. Some cities require full plans for layout changes, stricter hood and receptacle rules, or separate over‑the‑counter permits. Always confirm city‑specific checklists before starting work.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "All three cities follow California’s building, electrical, and plumbing codes, but each has its own processes, thresholds, and inspection routines for kitchen remodels. In Daly City, even “like‑for‑like” kitchen updates may trigger permits if you move outlets, lighting, or plumbing, and plan review is typically needed for layout changes or new walls. San Bruno might allow simpler over‑the‑counter permits for straight cabinet and countertop replacements but require full submittals when moving sinks, adding circuits, or modifying structural framing. Pacifica often places extra emphasis on life‑safety elements such as GFCI/AFCI protection, range hood ducting to the exterior, and proper combustion‑air clearances if gas appliances remain in use. Some cities require a separate mechanical permit when you install or relocate a range hood or gas line. Across all three, you should expect at least rough‑in and final inspections. Rough‑in typically checks framing, electrical, plumbing, and mechanical before insulation and drywall. Finals verify GFCIs, lighting, appliance hookups, venting, and safety clearances. Ask your contractor to pull the permits in their name, provide you with stamped plans if required, and walk you through the city’s kitchen‑specific checklist so there are no surprises or failed inspections once work begins.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Kitchen remodel permits in Daly City, San Bruno, and Pacifica follow California building, electrical, and plumbing codes but differ in thresholds, fees, and sub"
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Anonymous"
+  },
+  "reviewBody": "City Dweller installed new flooring in our living room and hallway. The job was completed on time, the cuts were clean, and the transitions look great. David’s professionalism and communication made the project very easy.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "2021-11",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "City Dweller, LLC",
+    "url": "http://bayareacitydweller.com/",
+    "makesOffer": {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Flooring installation"
+      }
+    }
+  }
+}

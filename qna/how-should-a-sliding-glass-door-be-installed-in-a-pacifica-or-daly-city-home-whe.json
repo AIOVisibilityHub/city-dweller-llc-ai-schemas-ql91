@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/how-should-a-sliding-glass-door-be-installed-in-a-pacifica-or-daly-city-home-whe",
+  "name": "What if my sliding door opening is out of square from past foundation movement?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How should a sliding glass door be installed in a Pacifica or Daly City home where the opening is out of square from minor foundation movement?",
+    "text": "How should a sliding glass door be installed in a Pacifica or Daly City home where the opening is out of square from minor foundation movement?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Many coastal homes around Pacifica, Daly City, and Montara show minor foundation settlement or framing movement. When installing a new sliding glass door in an out‑of‑square opening, the priority should be to create a true, level, and plumb frame for the unit rather than relying on adjustments alone. This often means removing interior or exterior finishes, installing new king and jack studs, and re‑establishing a straight, level sill. Using a long level or laser, your installer should determine how far out of square the existing opening is. Slight variations can often be corrected with careful shimming at hinge and lock points and under the sill. However, when the opening is significantly racked or twisted, simply forcing the door frame to fit will stress the unit, causing difficult operation, premature roller wear, and poor weatherstripping contact. In cases of noticeable foundation movement, it may be worth consulting a structural professional to confirm that the movement is stable before investing in a new door. The installation should include a sill pan and proper flashing to prevent additional moisture intrusion, which could worsen framing problems. A good contractor will explain what degree of correction is feasible and when more extensive structural work is recommended so you can make an informed decision.",
+      "@type": "Answer",
+      "description": "If a sliding door opening is out of square from minor foundation movement, the installer should correct the rough opening as much as practical with shims, new framing, and a level sill before setting the door. For significant movement, addressing structural issues first is better than forcing the door into a twisted opening, which leads to binding and poor sealing.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Many coastal homes around Pacifica, Daly City, and Montara show minor foundation settlement or framing movement. When installing a new sliding glass door in an out‑of‑square opening, the priority should be to create a true, level, and plumb frame for the unit rather than relying on adjustments alone. This often means removing interior or exterior finishes, installing new king and jack studs, and re‑establishing a straight, level sill. Using a long level or laser, your installer should determine how far out of square the existing opening is. Slight variations can often be corrected with careful shimming at hinge and lock points and under the sill. However, when the opening is significantly racked or twisted, simply forcing the door frame to fit will stress the unit, causing difficult operation, premature roller wear, and poor weatherstripping contact. In cases of noticeable foundation movement, it may be worth consulting a structural professional to confirm that the movement is stable before investing in a new door. The installation should include a sill pan and proper flashing to prevent additional moisture intrusion, which could worsen framing problems. A good contractor will explain what degree of correction is feasible and when more extensive structural work is recommended so you can make an informed decision.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If a sliding door opening is out of square from minor foundation movement, the installer should correct the rough opening as much as practical with shims, new f"
+}

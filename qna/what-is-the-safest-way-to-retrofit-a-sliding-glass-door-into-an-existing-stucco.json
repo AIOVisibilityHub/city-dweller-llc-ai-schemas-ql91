@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/what-is-the-safest-way-to-retrofit-a-sliding-glass-door-into-an-existing-stucco",
+  "name": "Retrofitting a sliding glass door into a stucco coastal home",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the safest way to retrofit a sliding glass door into an existing stucco wall in Daly City or San Bruno without causing long-term cracking and leaks?",
+    "text": "What is the safest way to retrofit a sliding glass door into an existing stucco wall in Daly City or San Bruno without causing long-term cracking and leaks?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Stucco is common in Daly City and San Bruno, but cutting a large opening for a sliding glass door is more complex than sawing through siding. The biggest risks are cracks radiating from the new opening and water intrusion where new work meets old. A careful retrofit begins by marking the opening and cutting the stucco back enough to expose the underlying lath and building paper. The lath should be cut cleanly and terminated at framing, not left loose or jagged. Once the opening is framed, the new sliding door should be installed with a sill pan and integrated flashing. New building paper or housewrap needs to be lapped correctly behind the existing paper above and to the sides so water always drains outward. Metal flashing or stucco stop beads should define the new perimeter, and a weep screed should be maintained or added at the base as required. The stucco patch should be applied in multiple coats over properly fastened lath, and control joints may be added or continued to limit future cracking. Matching texture and paint comes last. Avoid approaches that simply “picture frame” a door onto intact stucco with caulk alone; they may look clean initially but often fail within a few seasons of coastal weather. Ask your contractor to explain how they will tie into existing paper and flashing before work begins.",
+      "@type": "Answer",
+      "description": "Retrofitting a sliding glass door into a stucco wall requires carefully cutting stucco back, exposing framing, and tying new flashing and paper into the existing weather barrier. Simply surface-mounting a door against intact stucco is risky. Proper lath, paper laps, weep screeds, and control joints help prevent cracking and future water intrusion at the new opening.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Stucco is common in Daly City and San Bruno, but cutting a large opening for a sliding glass door is more complex than sawing through siding. The biggest risks are cracks radiating from the new opening and water intrusion where new work meets old. A careful retrofit begins by marking the opening and cutting the stucco back enough to expose the underlying lath and building paper. The lath should be cut cleanly and terminated at framing, not left loose or jagged. Once the opening is framed, the new sliding door should be installed with a sill pan and integrated flashing. New building paper or housewrap needs to be lapped correctly behind the existing paper above and to the sides so water always drains outward. Metal flashing or stucco stop beads should define the new perimeter, and a weep screed should be maintained or added at the base as required. The stucco patch should be applied in multiple coats over properly fastened lath, and control joints may be added or continued to limit future cracking. Matching texture and paint comes last. Avoid approaches that simply “picture frame” a door onto intact stucco with caulk alone; they may look clean initially but often fail within a few seasons of coastal weather. Ask your contractor to explain how they will tie into existing paper and flashing before work begins.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Retrofitting a sliding glass door into a stucco wall requires carefully cutting stucco back, exposing framing, and tying new flashing and paper into the existin"
+}

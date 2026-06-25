@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/how-should-i-prepare-my-house-before-the-flooring-crew-arrives",
+  "name": "How do I prepare my home for flooring installation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How should I prepare my house before the flooring crew arrives?",
+    "text": "How should I prepare my house before the flooring crew arrives?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Preparing the home properly can save time and reduce damage during installation. Start by removing furniture, décor, rugs, and breakables from the work area. Ask the contractor whether appliances will be disconnected and moved by the crew or by you. If the project includes dusty removal or subfloor grinding, protect nearby rooms and keep pets away from the work zone. You should also plan for parking, access, and where the installers can stage tools and materials. In occupied homes, it helps to discuss daily start times, restroom access, and which rooms will remain usable. If baseboards are removed, expect nail holes, caulking, and paint touch-up afterward. Before work begins, confirm what is included in cleanup and what is not. A well-prepared home usually leads to a smoother installation, fewer delays, and less chance of accidental damage to furniture, walls, or door trim.",
+      "@type": "Answer",
+      "description": "Clear furniture, remove fragile items, secure pets, and plan for appliance moving, dust, and parking access. You should also confirm which rooms the installers will use for staging, whether the HVAC should be off, and who is responsible for baseboard touch-up.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Preparing the home properly can save time and reduce damage during installation. Start by removing furniture, décor, rugs, and breakables from the work area. Ask the contractor whether appliances will be disconnected and moved by the crew or by you. If the project includes dusty removal or subfloor grinding, protect nearby rooms and keep pets away from the work zone. You should also plan for parking, access, and where the installers can stage tools and materials. In occupied homes, it helps to discuss daily start times, restroom access, and which rooms will remain usable. If baseboards are removed, expect nail holes, caulking, and paint touch-up afterward. Before work begins, confirm what is included in cleanup and what is not. A well-prepared home usually leads to a smoother installation, fewer delays, and less chance of accidental damage to furniture, walls, or door trim.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Clear furniture, remove fragile items, secure pets, and plan for appliance moving, dust, and parking access. You should also confirm which rooms the installers "
+}

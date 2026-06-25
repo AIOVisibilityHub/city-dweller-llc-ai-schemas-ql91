@@ -1,0 +1,58 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "City Dweller, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Can I Just Replace the Door or Do I Need a Whole New Frame?",
+  "publisher": {
+    "url": "http://bayareacitydweller.com",
+    "name": "City Dweller, LLC",
+    "@type": "Organization"
+  },
+  "areaServed": [
+    {
+      "name": "Pacifica",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "San Bruno",
+      "@type": "City"
+    },
+    {
+      "name": "Hillsborough",
+      "@type": "City"
+    },
+    {
+      "name": "Half Moon Bay",
+      "@type": "City"
+    },
+    {
+      "name": "Montara",
+      "@type": "City"
+    },
+    {
+      "name": "El Granada",
+      "@type": "City"
+    },
+    {
+      "name": "San Mateo County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "That's one of the first questions people ask when thinking about a new door. The answer really depends on the condition of your existing door frame. The two main options you'll hear about are a 'slab' door and a 'pre-hung' door.\n\nA 'slab' is just the door itself. You can go this route if your current frame is perfectly square, plumb, and level, with no signs of damage or rot. A slab installation requires precise work to mortise hinges and drill for the lockset to match the existing frame perfectly. A 'pre-hung' door, on the other hand, comes as a complete package—the door is already hanging in its own new frame. This is almost always the better choice, especially for exterior doors where a tight seal is critical.\n\nSo, when is a new frame necessary? If you can see rot at the bottom of the jambs, if the frame is warped, or if the opening has settled out of square, a pre-hung unit is the way to go. It ensures the door and frame are perfectly matched for a weathertight seal and smooth operation from day one. It addresses any underlying issues with the opening instead of just covering them up. Getting a professional opinion is key here; a quick inspection can tell you whether a simple slab swap is realistic or if a full pre-hung system is needed for a lasting, quality result. If you're in the Bay Area, we'd be happy to take a look and advise on the best approach.",
+  "datePublished": "2026-06-25"
+}

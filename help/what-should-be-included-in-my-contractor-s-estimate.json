@@ -1,0 +1,58 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "City Dweller, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What Should Be Included in My Contractor's Estimate?",
+  "publisher": {
+    "url": "http://bayareacitydweller.com",
+    "name": "City Dweller, LLC",
+    "@type": "Organization"
+  },
+  "areaServed": [
+    {
+      "name": "Pacifica",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "San Bruno",
+      "@type": "City"
+    },
+    {
+      "name": "Hillsborough",
+      "@type": "City"
+    },
+    {
+      "name": "Half Moon Bay",
+      "@type": "City"
+    },
+    {
+      "name": "Montara",
+      "@type": "City"
+    },
+    {
+      "name": "El Granada",
+      "@type": "City"
+    },
+    {
+      "name": "San Mateo County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A good contract is the foundation of a successful renovation project, and it starts with a detailed estimate. If you’re looking at a vague, one-page proposal with a single number at the bottom, it’s a major red flag. You need clarity to avoid misunderstandings.\n\nFirst, your estimate should be itemized. It needs to clearly break down the scope of work, separating costs for labor, materials, and any specific allowances for things like fixtures or tile. This prevents confusion about what is and isn't included. Second, look for specifics on materials. It shouldn’t just say “install new flooring”; it should specify the exact product, model numbers, and finish. \n\nYour proposal should also outline logistics. Does it cover daily site cleanup and final debris removal? How will your property be protected from dust and damage? Finally, it must address the administrative side: payment schedules, how change orders are handled, and projected timelines. A professional contractor is happy to provide this detail because it protects both you and them.\n\nAt City Dweller, LLC, we believe in transparent communication from day one. If you’re looking for a detailed, comprehensive estimate for your home improvement project in the Pacifica area, give us a call.",
+  "datePublished": "2026-06-25"
+}

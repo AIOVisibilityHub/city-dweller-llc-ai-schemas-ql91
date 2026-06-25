@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Anonymous"
+  },
+  "reviewBody": "We used City Dweller for a bathroom update that included new flooring, trim, and fixtures. David’s work was precise, and he offered helpful suggestions that improved the final look. The bathroom now feels fresh and modern.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "2022-05",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "City Dweller, LLC",
+    "url": "http://bayareacitydweller.com/",
+    "makesOffer": {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Bathroom remodeling (partial)"
+      }
+    }
+  }
+}

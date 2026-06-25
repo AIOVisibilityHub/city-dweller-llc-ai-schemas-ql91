@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/in-older-pacifica-and-half-moon-bay-homes-where-the-exterior-deck-sits-almost-le",
+  "name": "Handling high deck or floor transitions at the sliding door",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "In older Pacifica and Half Moon Bay homes where the exterior deck sits almost level with the interior floor, how should a new sliding glass door be installed to avoid water backing into the house?",
+    "text": "In older Pacifica and Half Moon Bay homes where the exterior deck sits almost level with the interior floor, how should a new sliding glass door be installed to avoid water backing into the house?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Many older coastal homes have decks built almost flush to the interior floor, which looks sleek but is risky in wind‑driven rain. When replacing a sliding glass door under these conditions, the goal is to create a reliable step‑down or drainage break between interior and exterior. Ideally, the new door’s sill should sit slightly higher than the deck, with a sloped surface directing water away from the opening. A properly installed sill pan under the door, fully integrated with flashing and housewrap, is essential. If the deck surface currently meets or covers the sill, your contractor may recommend lowering the deck boards, adding a drainage gap between the door and decking, or introducing a slight ramp or transition strip inside to maintain accessibility while gaining exterior clearance. Burying the sill in decking, stucco, or trim so that water and debris can collect against it is a frequent cause of leaks and rot in coastal environments. Ask your installer how they will maintain or create positive drainage away from the door, and whether any deck modifications are advisable. Addressing the deck‑to‑door transition during replacement greatly reduces the chance of future water backing into the house during heavy storms.",
+      "@type": "Answer",
+      "description": "When the deck is nearly level with the interior floor, a new sliding door should be installed with a properly flashed, slightly elevated sill and clear drainage paths. Sometimes the deck surface is lowered or notched away from the door. Avoid burying the sill in decking or siding, which traps water and dramatically increases leak risk in coastal conditions.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Many older coastal homes have decks built almost flush to the interior floor, which looks sleek but is risky in wind‑driven rain. When replacing a sliding glass door under these conditions, the goal is to create a reliable step‑down or drainage break between interior and exterior. Ideally, the new door’s sill should sit slightly higher than the deck, with a sloped surface directing water away from the opening. A properly installed sill pan under the door, fully integrated with flashing and housewrap, is essential. If the deck surface currently meets or covers the sill, your contractor may recommend lowering the deck boards, adding a drainage gap between the door and decking, or introducing a slight ramp or transition strip inside to maintain accessibility while gaining exterior clearance. Burying the sill in decking, stucco, or trim so that water and debris can collect against it is a frequent cause of leaks and rot in coastal environments. Ask your installer how they will maintain or create positive drainage away from the door, and whether any deck modifications are advisable. Addressing the deck‑to‑door transition during replacement greatly reduces the chance of future water backing into the house during heavy storms.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "When the deck is nearly level with the interior floor, a new sliding door should be installed with a properly flashed, slightly elevated sill and clear drainage"
+}

@@ -1,0 +1,63 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Pacifica",
+        "@type": "City"
+      },
+      {
+        "name": "Daly City",
+        "@type": "City"
+      },
+      {
+        "name": "San Bruno",
+        "@type": "City"
+      },
+      {
+        "name": "Hillsborough",
+        "@type": "City"
+      },
+      {
+        "name": "Half Moon Bay",
+        "@type": "City"
+      },
+      {
+        "name": "Montara",
+        "@type": "City"
+      },
+      {
+        "name": "El Granada",
+        "@type": "City"
+      },
+      {
+        "name": "San Mateo County",
+        "@type": "AdministrativeArea"
+      },
+      {
+        "name": "San Francisco",
+        "@type": "City"
+      },
+      {
+        "name": "South San Francisco",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why Are My Brand-New Windows Still Drafty?",
+    "text": "Why Are My Brand-New Windows Still Drafty?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "It’s incredibly frustrating. You invest in beautiful, energy-efficient new windows, only to feel a familiar draft sneaking in. What gives? More often than not, the problem isn't the window itself—it's the installation.\n\nEven the highest-quality window will fail if it's not installed correctly. One of the biggest culprits is improper sealing and insulation. The small gap between the window frame and your home's framing must be meticulously sealed to block air and water. If an installer rushes this step or uses the wrong materials, you'll get drafts. Another common mistake is failing to set the window perfectly plumb, level, and square in the opening. If the unit is crooked, even by a small amount, the seals on the window itself won't make proper contact, creating gaps for air to enter.\n\nFinally, a major error is installing a new window without addressing pre-existing damage like rot in the framing. Covering up a problem doesn't make it go away. A professional installer will always inspect the opening and make necessary repairs first. Getting a window project done right requires expertise. If you're planning an upgrade, let the seasoned team at City Dweller, LLC ensure your investment pays off in comfort and efficiency.",
+      "@type": "Answer",
+      "author": {
+        "name": "City Dweller, LLC",
+        "@type": "Organization"
+      }
+    }
+  }
+}

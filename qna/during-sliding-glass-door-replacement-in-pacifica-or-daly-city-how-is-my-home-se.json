@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/during-sliding-glass-door-replacement-in-pacifica-or-daly-city-how-is-my-home-se",
+  "name": "Temporary security during sliding door replacement",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "During sliding glass door replacement in Pacifica or Daly City, how is my home secured overnight if the project takes more than one day?",
+    "text": "During sliding glass door replacement in Pacifica or Daly City, how is my home secured overnight if the project takes more than one day?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Homeowners understandably worry about security during sliding glass door replacement, especially if the opening faces a public area or alley. In most standard replacements, contractors plan work so that removal and installation of the new unit occur on the same day, allowing the door to be fully operable and lockable before they leave. For more complex projects—such as enlarging openings, structural repairs, or stucco rebuilds—work may span multiple days. In these cases, reputable installers will not leave a simple plastic sheet or tarps as the only barrier overnight. Instead, they typically frame in a temporary wood or OSB panel cut to the opening and screwed into framing. This panel can include a basic locking door or secure latch if needed. Before the project begins, ask your contractor how they handle multi‑day openings, what their end‑of‑day security standard is, and whether they anticipate any nights when the full door cannot be in place. Clarifying expectations and daily milestones helps ensure your home remains weather‑tight and secure throughout the project, even if unexpected delays occur.",
+      "@type": "Answer",
+      "description": "If sliding door replacement spans more than one day, reputable installers typically fully install and temporarily secure the new unit the same day or use a framed-in temporary panel with a lock. Leaving an open or covered-only opening overnight is not standard. Discuss security plans and daily milestones with your contractor before work starts.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Homeowners understandably worry about security during sliding glass door replacement, especially if the opening faces a public area or alley. In most standard replacements, contractors plan work so that removal and installation of the new unit occur on the same day, allowing the door to be fully operable and lockable before they leave. For more complex projects—such as enlarging openings, structural repairs, or stucco rebuilds—work may span multiple days. In these cases, reputable installers will not leave a simple plastic sheet or tarps as the only barrier overnight. Instead, they typically frame in a temporary wood or OSB panel cut to the opening and screwed into framing. This panel can include a basic locking door or secure latch if needed. Before the project begins, ask your contractor how they handle multi‑day openings, what their end‑of‑day security standard is, and whether they anticipate any nights when the full door cannot be in place. Clarifying expectations and daily milestones helps ensure your home remains weather‑tight and secure throughout the project, even if unexpected delays occur.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If sliding door replacement spans more than one day, reputable installers typically fully install and temporarily secure the new unit the same day or use a fram"
+}

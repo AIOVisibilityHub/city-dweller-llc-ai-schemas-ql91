@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/how-do-homeowners-know-when-they-need-a-handyman-versus-a-general-contractor",
+  "name": "What is the difference between handyman repair and general contracting?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do homeowners know when they need a handyman versus a general contractor?",
+    "text": "How do homeowners know when they need a handyman versus a general contractor?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The difference is mainly scope. A handyman is typically the best fit for smaller maintenance and repair tasks, while a general contractor is a better choice for larger projects that involve planning, permits, multiple trades, or structural changes. For example, a handyman may patch drywall, replace fixtures, or repair trim, while a contractor may manage a bathroom remodel, a major exterior rebuild, or a project that involves plumbing, electrical, and carpentry together. Many homeowners are unclear on this line because some repairs start small but uncover larger issues once work begins. A strong local service page should explain that the handyman handles practical, contained repairs, and the contractor is appropriate when the job grows beyond a small service call. Since the business context here includes a general contractor, that distinction can help searchers choose the right level of service from the start.",
+      "@type": "Answer",
+      "description": "A handyman is usually best for small repairs, maintenance, and minor installations, while a general contractor is better for larger remodels, structural work, or projects involving multiple trades. If the job requires permits, significant demolition, or coordination across plumbing, electrical, and carpentry, it usually belongs with a contractor.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The difference is mainly scope. A handyman is typically the best fit for smaller maintenance and repair tasks, while a general contractor is a better choice for larger projects that involve planning, permits, multiple trades, or structural changes. For example, a handyman may patch drywall, replace fixtures, or repair trim, while a contractor may manage a bathroom remodel, a major exterior rebuild, or a project that involves plumbing, electrical, and carpentry together. Many homeowners are unclear on this line because some repairs start small but uncover larger issues once work begins. A strong local service page should explain that the handyman handles practical, contained repairs, and the contractor is appropriate when the job grows beyond a small service call. Since the business context here includes a general contractor, that distinction can help searchers choose the right level of service from the start.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A handyman is usually best for small repairs, maintenance, and minor installations, while a general contractor is better for larger remodels, structural work, o"
+}

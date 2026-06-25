@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/when-is-drywall-damage-small-enough-for-a-patch-and-when-is-replacement-needed",
+  "name": "How much does it cost to repair a drywall patch versus replace a whole section?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When is drywall damage small enough for a patch, and when is replacement needed?",
+    "text": "When is drywall damage small enough for a patch, and when is replacement needed?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Drywall patching is usually the cheaper option when the damage is small, dry, and stable. Nail holes, dents, small cracks, and isolated holes can often be patched, sanded, and painted. Replacement is more appropriate when the drywall is soft, sagging, water-damaged, mold-affected, or broken across a large area. Even a small visible stain may hide a larger moisture issue behind the wall, so recurring damage should be investigated before finishing the surface. In coastal homes, moisture can make drywall issues more common, especially around windows, bathrooms, and exterior walls. The most useful content for searchers explains the difference in plain language and sets expectations about finishing work, drying time, and whether paint matching is included. That makes the answer suitable for a snippet while still helping the homeowner decide what to request.",
+      "@type": "Answer",
+      "description": "A small hole, dent, or minor water spot can often be patched, while soft, sagging, moldy, or heavily damaged drywall usually needs replacement. Patch jobs are cheaper because they use less material and labor. If the damage keeps returning, the underlying moisture problem should be fixed first.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Drywall patching is usually the cheaper option when the damage is small, dry, and stable. Nail holes, dents, small cracks, and isolated holes can often be patched, sanded, and painted. Replacement is more appropriate when the drywall is soft, sagging, water-damaged, mold-affected, or broken across a large area. Even a small visible stain may hide a larger moisture issue behind the wall, so recurring damage should be investigated before finishing the surface. In coastal homes, moisture can make drywall issues more common, especially around windows, bathrooms, and exterior walls. The most useful content for searchers explains the difference in plain language and sets expectations about finishing work, drying time, and whether paint matching is included. That makes the answer suitable for a snippet while still helping the homeowner decide what to request.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A small hole, dent, or minor water spot can often be patched, while soft, sagging, moldy, or heavily damaged drywall usually needs replacement. Patch jobs are c"
+}

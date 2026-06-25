@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/how-do-i-choose-and-install-a-sliding-glass-door-in-pacifica-or-half-moon-bay-th",
+  "name": "Can a sliding glass door handle constant coastal wind without rattling or air leaks?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I choose and install a sliding glass door in Pacifica or Half Moon Bay that won’t rattle, whistle, or leak air during strong coastal winds?",
+    "text": "How do I choose and install a sliding glass door in Pacifica or Half Moon Bay that won’t rattle, whistle, or leak air during strong coastal winds?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "In coastal cities like Pacifica and Half Moon Bay, wind exposure is much higher than in sheltered inland neighborhoods, so both product selection and installation details matter more than brand alone. Look for a sliding glass door with a clearly listed design pressure (DP) or performance rating, not just generic “high performance” marketing language. Higher DP ratings mean the door has been tested to withstand stronger wind loads and resist deflection that causes rattling. Choose a unit with a rigid, reinforced frame, multi-point locking hardware, and continuous high-quality weatherstripping around the panel. During installation, the opening must be level, plumb, and square, with proper shimming at lock points and corners so the panel seals evenly when closed. The sill should be set in sealant over a pan or flashing system, and the sides and top should be integrated with housewrap using flashing tape, not just caulk. Any gaps between the frame and framing should be filled with low-expansion foam or backer rod and sealant, not stuffed with fiberglass alone. Tell your contractor you are specifically worried about wind noise and whistling. Ask what DP rating they recommend for your exposure, how they handle shimming and fastening, and whether they’ve installed similar doors in ocean-facing or bluff-side homes. Request that they do a final adjustment of rollers and locks on a windy day if possible.",
+      "@type": "Answer",
+      "description": "For windy Pacifica and Half Moon Bay homes, choose a sliding glass door with a high design pressure (DP) rating, multi-point locking, and high-quality weatherstripping. During installation, the frame must be square, fully shimmed, and properly sealed with flashing and low-expansion foam. Poorly supported frames and gaps around the opening are the main causes of rattling and wind-driven air leaks.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "In coastal cities like Pacifica and Half Moon Bay, wind exposure is much higher than in sheltered inland neighborhoods, so both product selection and installation details matter more than brand alone. Look for a sliding glass door with a clearly listed design pressure (DP) or performance rating, not just generic “high performance” marketing language. Higher DP ratings mean the door has been tested to withstand stronger wind loads and resist deflection that causes rattling. Choose a unit with a rigid, reinforced frame, multi-point locking hardware, and continuous high-quality weatherstripping around the panel. During installation, the opening must be level, plumb, and square, with proper shimming at lock points and corners so the panel seals evenly when closed. The sill should be set in sealant over a pan or flashing system, and the sides and top should be integrated with housewrap using flashing tape, not just caulk. Any gaps between the frame and framing should be filled with low-expansion foam or backer rod and sealant, not stuffed with fiberglass alone. Tell your contractor you are specifically worried about wind noise and whistling. Ask what DP rating they recommend for your exposure, how they handle shimming and fastening, and whether they’ve installed similar doors in ocean-facing or bluff-side homes. Request that they do a final adjustment of rollers and locks on a windy day if possible.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "For windy Pacifica and Half Moon Bay homes, choose a sliding glass door with a high design pressure (DP) rating, multi-point locking, and high-quality weatherst"
+}

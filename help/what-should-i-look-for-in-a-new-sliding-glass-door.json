@@ -1,0 +1,68 @@
+{
+  "name": "What Should I Look For in a New Sliding Glass Door?",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Shopping for a new sliding glass door goes way beyond just measuring the opening. The right door can improve your home's comfort, security, and energy bills. Here’s a quick guide on what to focus on.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "First, think about energy efficiency. Glass is a major source of heat transfer, so look for doors with at least double-pane, insulated glass. A 'Low-E' (low-emissivity) coating is also a must-have, as it reflects heat, keeping your home cooler in the summer and warmer in the winter. This is a big deal for comfort and energy savings. Second, consider security. Modern sliding doors have come a long way. Look for models with multi-point locking systems, which secure the door at several places along the frame, not just at the handle. Also, ensure the glass is tempered safety glass, which is much stronger and safer than standard glass.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "Finally, don't forget the frame material and the installer's quality. A great, energy-efficient door won't perform well if it's installed poorly. A professional installation ensures the frame is perfectly level and sealed to prevent air and water leaks. When you're ready to upgrade, it’s important to discuss these features with an expert who can recommend the best options for your home and budget. Feel free to reach out to us at City Dweller, LLC to explore your options!",
+      "@type": "HowToStep",
+      "position": 3
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "areaServed": [
+    {
+      "name": "Pacifica",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "San Bruno",
+      "@type": "City"
+    },
+    {
+      "name": "Hillsborough",
+      "@type": "City"
+    },
+    {
+      "name": "Half Moon Bay",
+      "@type": "City"
+    },
+    {
+      "name": "Montara",
+      "@type": "City"
+    },
+    {
+      "name": "El Granada",
+      "@type": "City"
+    },
+    {
+      "name": "San Mateo County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco",
+      "@type": "City"
+    }
+  ],
+  "description": "What Should I Look For in a New Sliding Glass Door?"
+}

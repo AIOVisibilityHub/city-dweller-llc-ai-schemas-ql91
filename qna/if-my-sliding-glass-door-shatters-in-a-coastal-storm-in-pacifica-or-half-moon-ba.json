@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/if-my-sliding-glass-door-shatters-in-a-coastal-storm-in-pacifica-or-half-moon-ba",
+  "name": "Emergency replacement options after sliding door glass shatters",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If my sliding glass door shatters in a coastal storm in Pacifica or Half Moon Bay, what are practical short-term and long-term replacement options?",
+    "text": "If my sliding glass door shatters in a coastal storm in Pacifica or Half Moon Bay, what are practical short-term and long-term replacement options?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Storms, impact, or stress can cause sliding glass doors to shatter unexpectedly, leaving a large, vulnerable opening. The first step is safety and security: carefully remove loose glass, then board up the opening with plywood or have a professional install a temporary panel to keep out weather and intruders. Ensure pets and children are kept away from remaining shards in the track and frame. Next, decide whether to replace just the glass panel or the entire door. Glass-only replacement may be possible if the frame is in good shape and the manufacturer’s parts are still available. However, in older coastal homes where frames are corroded, drafty, or poorly sealing, this event is often a trigger to upgrade to a modern, coastal-rated sliding door with better performance. Ask a contractor to assess frame condition, track wear, and surrounding flashing. They can advise on standard-size versus custom units; standard sizes may be faster and cheaper but might require minor framing changes. Lead times for quality coastal doors can vary, so plan for a secure temporary solution while waiting for the permanent unit. Document the damage for insurance purposes and keep any receipts for emergency board-up and replacement work.",
+      "@type": "Answer",
+      "description": "After sliding door glass shatters, secure the opening immediately with plywood or a temporary panel, then decide between glass-only replacement and full unit replacement. In older or leaky frames, a full coastal-rated door upgrade is usually better long term. Check availability of standard sizes versus custom, and consider interim safety and weather protection while waiting.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Storms, impact, or stress can cause sliding glass doors to shatter unexpectedly, leaving a large, vulnerable opening. The first step is safety and security: carefully remove loose glass, then board up the opening with plywood or have a professional install a temporary panel to keep out weather and intruders. Ensure pets and children are kept away from remaining shards in the track and frame. Next, decide whether to replace just the glass panel or the entire door. Glass-only replacement may be possible if the frame is in good shape and the manufacturer’s parts are still available. However, in older coastal homes where frames are corroded, drafty, or poorly sealing, this event is often a trigger to upgrade to a modern, coastal-rated sliding door with better performance. Ask a contractor to assess frame condition, track wear, and surrounding flashing. They can advise on standard-size versus custom units; standard sizes may be faster and cheaper but might require minor framing changes. Lead times for quality coastal doors can vary, so plan for a secure temporary solution while waiting for the permanent unit. Document the damage for insurance purposes and keep any receipts for emergency board-up and replacement work.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "After sliding door glass shatters, secure the opening immediately with plywood or a temporary panel, then decide between glass-only replacement and full unit re"
+}

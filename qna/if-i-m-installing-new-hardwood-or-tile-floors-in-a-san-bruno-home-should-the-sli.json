@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/if-i-m-installing-new-hardwood-or-tile-floors-in-a-san-bruno-home-should-the-sli",
+  "name": "Managing interior floor height changes at new sliding doors",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If I’m installing new hardwood or tile floors in a San Bruno home, should the sliding glass door be installed before or after the flooring, and how do I avoid awkward thresholds?",
+    "text": "If I’m installing new hardwood or tile floors in a San Bruno home, should the sliding glass door be installed before or after the flooring, and how do I avoid awkward thresholds?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "When remodeling a San Bruno or Daly City home with both new flooring and a sliding glass door, sequencing and elevation planning are crucial to avoid awkward steps and drafts. Typically, the door is installed after subfloor repairs or leveling but before the finish flooring is laid. The installer should know the exact finished floor thickness, including underlayment, so they can set the door at the right height. The goal is a smooth, low-profile transition at the threshold that still maintains positive drainage to the exterior. If the door is set too low, the flooring may end up higher than the sill on the inside, creating a water trap. If it is set too high, you get a tall step that’s uncomfortable and may pose accessibility issues. Coordinate early between the general contractor, door installer, and flooring contractor. Provide product data for the flooring so the door installer can calculate the final height. Interior trim and baseboards around the opening should also be planned to cover any gaps and insulation. When done correctly, the finished floor tucks neatly to the door, the sill remains weathertight, and the transition feels natural underfoot.",
+      "@type": "Answer",
+      "description": "For new hardwood or tile, sliding doors are generally installed with the finished floor height in mind, often before flooring but after subfloor prep. The sill height and interior trim should be coordinated so the final threshold is minimal, code-compliant, and properly sealed. Clear communication between flooring and door contractors prevents tripping edges and gaps.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "When remodeling a San Bruno or Daly City home with both new flooring and a sliding glass door, sequencing and elevation planning are crucial to avoid awkward steps and drafts. Typically, the door is installed after subfloor repairs or leveling but before the finish flooring is laid. The installer should know the exact finished floor thickness, including underlayment, so they can set the door at the right height. The goal is a smooth, low-profile transition at the threshold that still maintains positive drainage to the exterior. If the door is set too low, the flooring may end up higher than the sill on the inside, creating a water trap. If it is set too high, you get a tall step that’s uncomfortable and may pose accessibility issues. Coordinate early between the general contractor, door installer, and flooring contractor. Provide product data for the flooring so the door installer can calculate the final height. Interior trim and baseboards around the opening should also be planned to cover any gaps and insulation. When done correctly, the finished floor tucks neatly to the door, the sill remains weathertight, and the transition feels natural underfoot.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "For new hardwood or tile, sliding doors are generally installed with the finished floor height in mind, often before flooring but after subfloor prep. The sill "
+}

@@ -1,0 +1,58 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "City Dweller, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Which Step Comes First in a Kitchen Remodel?",
+  "publisher": {
+    "url": "http://bayareacitydweller.com",
+    "name": "City Dweller, LLC",
+    "@type": "Organization"
+  },
+  "areaServed": [
+    {
+      "name": "Pacifica",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "San Bruno",
+      "@type": "City"
+    },
+    {
+      "name": "Hillsborough",
+      "@type": "City"
+    },
+    {
+      "name": "Half Moon Bay",
+      "@type": "City"
+    },
+    {
+      "name": "Montara",
+      "@type": "City"
+    },
+    {
+      "name": "El Granada",
+      "@type": "City"
+    },
+    {
+      "name": "San Mateo County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A kitchen remodel is an intricate dance of different trades, and getting the sequence right is critical for a smooth project. Doing things out of order can lead to damaged work, delays, and extra costs. While every project is unique, most professional remodels follow a trusted order of operations.\n\nIt all begins with planning and demolition. After you've finalized your design and ordered materials (especially cabinets, which can have long lead times), the old kitchen is carefully torn out. Next comes the \"rough-in\" phase. This is when electricians and plumbers open up the walls to move wiring and pipes for your new layout. Any required inspections often happen at this stage. Once the walls are closed back up, it's time for the main event: cabinet installation. After the cabinets are set, the countertop fabricator will create a precise template and install the new counters. This is followed by installing the sink, faucet, and major appliances.\n\nThe final steps include installing the backsplash, finishing the flooring, and handling all the trim work and painting. Trying to coordinate all these steps is a major challenge, which is why homeowners often hire a general contractor. If you need an expert to manage your project from start to finish, call City Dweller, LLC for a free quote.",
+  "datePublished": "2026-06-25"
+}

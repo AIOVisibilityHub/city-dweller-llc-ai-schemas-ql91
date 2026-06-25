@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/what-kinds-of-minor-leak-repairs-are-appropriate-for-a-handyman",
+  "name": "Can a handyman fix leaks in kitchens and bathrooms without replacing plumbing?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What kinds of minor leak repairs are appropriate for a handyman?",
+    "text": "What kinds of minor leak repairs are appropriate for a handyman?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Many small leaks can be handled by a handyman when the problem is straightforward and limited to visible components. Examples include tightening a loose connection, replacing a faucet part, resealing around a sink or tub, fixing a toilet flange issue, or stopping a slow drip caused by a worn seal. These repairs are often enough when the source is obvious and accessible. If the leak is inside a wall, affects multiple fixtures, keeps returning, or has already caused damage to drywall, flooring, or framing, the job becomes more serious and may require a licensed plumber or a larger repair plan. In coastal and humid environments, hidden moisture can also cause recurring damage, so the underlying cause should be checked before only patching the surface. Good handyman service pages should explain the difference between simple visible fixes and larger plumbing problems so customers know what to expect during the visit.",
+      "@type": "Answer",
+      "description": "A handyman can often fix minor leaks caused by loose fittings, worn caulk, failed seals, or simple fixture issues. Small under-sink leaks, re-caulking around tubs and sinks, and replacing basic parts are common. If the leak involves pipes inside walls, repeated water damage, or major plumbing changes, a licensed plumber is usually needed.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Many small leaks can be handled by a handyman when the problem is straightforward and limited to visible components. Examples include tightening a loose connection, replacing a faucet part, resealing around a sink or tub, fixing a toilet flange issue, or stopping a slow drip caused by a worn seal. These repairs are often enough when the source is obvious and accessible. If the leak is inside a wall, affects multiple fixtures, keeps returning, or has already caused damage to drywall, flooring, or framing, the job becomes more serious and may require a licensed plumber or a larger repair plan. In coastal and humid environments, hidden moisture can also cause recurring damage, so the underlying cause should be checked before only patching the surface. Good handyman service pages should explain the difference between simple visible fixes and larger plumbing problems so customers know what to expect during the visit.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A handyman can often fix minor leaks caused by loose fittings, worn caulk, failed seals, or simple fixture issues. Small under-sink leaks, re-caulking around tu"
+}

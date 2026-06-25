@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/before-hiring-what-detailed-questions-should-i-ask-a-general-contractor-to-confi",
+  "name": "What should I ask a general contractor about ADU feasibility in Pacifica, Daly City, and San Bruno?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Before hiring, what detailed questions should I ask a general contractor to confirm whether an ADU is truly feasible on my lot in Pacifica, Daly City, or San Bruno?",
+    "text": "Before hiring, what detailed questions should I ask a general contractor to confirm whether an ADU is truly feasible on my lot in Pacifica, Daly City, or San Bruno?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Accessory dwelling units (ADUs) are heavily promoted, but not every lot in Pacifica, Daly City, or San Bruno is equally straightforward. Before you commit to design fees, ask a general contractor for a focused ADU feasibility discussion. They should start by confirming your city’s current ADU rules, including maximum size, height, setbacks, and parking requirements for your zoning. Ask them to walk your property and identify practical constraints—slope, retaining walls, trees, easements, and existing utility lines. Clarify where an ADU could realistically be placed and whether that location affects privacy, views, drainage, or access for construction. You should also ask about potential infrastructure upgrades, such as sewer capacity, water service, electrical load, and fire access requirements. Request that they outline the typical permit sequence for ADUs in your city and any extra reviews that might apply. Ideally, the contractor can provide or coordinate a written feasibility summary distinguishing what seems straightforward from what would require variances or significant engineering. Having this early, site‑specific assessment helps you decide whether to proceed, adjust your expectations, or redirect funds toward a simpler remodel that better fits your property.",
+      "@type": "Answer",
+      "description": "Ask your general contractor to review ADU zoning rules for your city, measure setbacks, confirm utility capacity and access, and flag slope, parking, or easement constraints. Request a feasibility study outlining potential ADU size, placement, required upgrades, and permit steps. This prevents surprises before you invest in full design or construction.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Accessory dwelling units (ADUs) are heavily promoted, but not every lot in Pacifica, Daly City, or San Bruno is equally straightforward. Before you commit to design fees, ask a general contractor for a focused ADU feasibility discussion. They should start by confirming your city’s current ADU rules, including maximum size, height, setbacks, and parking requirements for your zoning. Ask them to walk your property and identify practical constraints—slope, retaining walls, trees, easements, and existing utility lines. Clarify where an ADU could realistically be placed and whether that location affects privacy, views, drainage, or access for construction. You should also ask about potential infrastructure upgrades, such as sewer capacity, water service, electrical load, and fire access requirements. Request that they outline the typical permit sequence for ADUs in your city and any extra reviews that might apply. Ideally, the contractor can provide or coordinate a written feasibility summary distinguishing what seems straightforward from what would require variances or significant engineering. Having this early, site‑specific assessment helps you decide whether to proceed, adjust your expectations, or redirect funds toward a simpler remodel that better fits your property.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask your general contractor to review ADU zoning rules for your city, measure setbacks, confirm utility capacity and access, and flag slope, parking, or easemen"
+}

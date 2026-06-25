@@ -1,0 +1,63 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Pacifica",
+        "@type": "City"
+      },
+      {
+        "name": "Daly City",
+        "@type": "City"
+      },
+      {
+        "name": "San Bruno",
+        "@type": "City"
+      },
+      {
+        "name": "Hillsborough",
+        "@type": "City"
+      },
+      {
+        "name": "Half Moon Bay",
+        "@type": "City"
+      },
+      {
+        "name": "Montara",
+        "@type": "City"
+      },
+      {
+        "name": "El Granada",
+        "@type": "City"
+      },
+      {
+        "name": "San Mateo County",
+        "@type": "AdministrativeArea"
+      },
+      {
+        "name": "San Francisco",
+        "@type": "City"
+      },
+      {
+        "name": "South San Francisco",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What Should I Ask Before Hiring a Handyman?",
+    "text": "What Should I Ask Before Hiring a Handyman?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "That home repair to-do list isn't going to tackle itself, but hiring the right person for the job can feel tricky. Asking a few key questions upfront makes all the difference and protects you from headaches later. First and foremost, always ask about insurance. A legitimate handyman service will carry general liability insurance to protect your property in case of an accident. At City Dweller, for example, our team is fully licensed and insured for your peace of mind.\n\nNext, get specific about your needs and their skills. Can they handle your exact list, whether it's drywall repair, a door installation, or assembling furniture? You also need to understand pricing. Ask if they charge an hourly rate or a flat fee for the job, and always request a written estimate before work begins so there are no surprises. Finally, don't be shy about asking for their timeline. Knowing when they can start and how long they expect the job to take helps you plan your life around the work.\n\nA true professional will be happy to answer these questions. If you're in the Bay Area and looking for reliable help, give City Dweller a call. We're ready to provide a transparent quote and get the job done right.",
+      "@type": "Answer",
+      "author": {
+        "name": "City Dweller, LLC",
+        "@type": "Organization"
+      }
+    }
+  }
+}

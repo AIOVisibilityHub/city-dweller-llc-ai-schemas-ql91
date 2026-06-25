@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/what-should-i-look-for-when-hiring-someone-to-seal-patch-or-weatherproof-a-home",
+  "name": "How do I choose a handyman for coastal weatherproofing work?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I look for when hiring someone to seal, patch, or weatherproof a home near the coast?",
+    "text": "What should I look for when hiring someone to seal, patch, or weatherproof a home near the coast?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "For coastal weatherproofing work, the most important factor is experience with moisture, salt exposure, and exterior maintenance. A good handyman should know how to inspect gaps, failed caulking, rotted trim, loose flashing, and other common entry points for water and air. They should also understand that product choice and timing matter, because caulk, paint, and sealants need proper surface prep and dry conditions to last. Homeowners should ask whether the handyman has worked on older homes or exposed coastal properties, and whether they will identify the source of the issue instead of just covering the symptom. If the work is around windows, doors, decks, or exterior trim, it is worth confirming how they handle prep, cleanup, and weather delays. This topic has strong local search potential because coastal maintenance problems are specific, practical, and frequently recurring in Pacifica, Half Moon Bay, and nearby communities.",
+      "@type": "Answer",
+      "description": "Look for experience with caulking, exterior trim repair, moisture-prone materials, and older homes exposed to wind and salt air. Ask whether they inspect for the source of leaks, use weather-appropriate products, and understand dry-time requirements. Coastal work fails more often when materials or timing are wrong.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "text": "For coastal weatherproofing work, the most important factor is experience with moisture, salt exposure, and exterior maintenance. A good handyman should know how to inspect gaps, failed caulking, rotted trim, loose flashing, and other common entry points for water and air. They should also understand that product choice and timing matter, because caulk, paint, and sealants need proper surface prep and dry conditions to last. Homeowners should ask whether the handyman has worked on older homes or exposed coastal properties, and whether they will identify the source of the issue instead of just covering the symptom. If the work is around windows, doors, decks, or exterior trim, it is worth confirming how they handle prep, cleanup, and weather delays. This topic has strong local search potential because coastal maintenance problems are specific, practical, and frequently recurring in Pacifica, Half Moon Bay, and nearby communities.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Look for experience with caulking, exterior trim repair, moisture-prone materials, and older homes exposed to wind and salt air. Ask whether they inspect for th"
+}

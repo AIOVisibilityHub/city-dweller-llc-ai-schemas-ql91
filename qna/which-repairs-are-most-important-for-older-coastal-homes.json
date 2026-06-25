@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/which-repairs-are-most-important-for-older-coastal-homes",
+  "name": "What kind of handyman services are best for older homes in Daly City and Pacifica?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which repairs are most important for older coastal homes?",
+    "text": "Which repairs are most important for older coastal homes?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Older homes in Daly City and Pacifica often benefit from preventive handyman maintenance rather than waiting for major failures. Common priorities include resealing windows and doors, replacing damaged trim, repairing minor wood rot, tightening loose fixtures, patching drywall, fixing sticking doors, and refreshing caulk in wet or drafty areas. Because coastal weather accelerates wear, these small repairs can help reduce drafts, water intrusion, and cosmetic damage before they become larger restoration jobs. Homeowners should also pay attention to exterior hardware, fences, decks, and any area that shows recurring moisture. A helpful local service page should connect the repair list to the property type, since older homes and salt-air exposure create different maintenance needs than newer inland homes. It should also explain that recurring leaks, structural settling, or major exterior deterioration may need a larger assessment rather than a one-off fix.",
+      "@type": "Answer",
+      "description": "Older coastal homes often need caulking, trim repair, door and window adjustments, weatherproofing, drywall patching, and fixture replacement. Salt air and moisture can wear down wood, metal, and seals faster than in inland areas. Regular small repairs help prevent larger damage from spreading.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Older homes in Daly City and Pacifica often benefit from preventive handyman maintenance rather than waiting for major failures. Common priorities include resealing windows and doors, replacing damaged trim, repairing minor wood rot, tightening loose fixtures, patching drywall, fixing sticking doors, and refreshing caulk in wet or drafty areas. Because coastal weather accelerates wear, these small repairs can help reduce drafts, water intrusion, and cosmetic damage before they become larger restoration jobs. Homeowners should also pay attention to exterior hardware, fences, decks, and any area that shows recurring moisture. A helpful local service page should connect the repair list to the property type, since older homes and salt-air exposure create different maintenance needs than newer inland homes. It should also explain that recurring leaks, structural settling, or major exterior deterioration may need a larger assessment rather than a one-off fix.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Older coastal homes often need caulking, trim repair, door and window adjustments, weatherproofing, drywall patching, and fixture replacement. Salt air and mois"
+}

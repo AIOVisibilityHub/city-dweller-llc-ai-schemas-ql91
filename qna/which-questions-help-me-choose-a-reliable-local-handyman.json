@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/which-questions-help-me-choose-a-reliable-local-handyman",
+  "name": "What should I ask before hiring a handyman in San Mateo County?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which questions help me choose a reliable local handyman?",
+    "text": "Which questions help me choose a reliable local handyman?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before hiring a handyman, ask targeted questions that reveal whether they are a good fit for the job. Start with experience on the exact type of repair, then ask how pricing works, whether there is a minimum service fee, and whether materials are included. It also helps to ask how long the job should take, whether any prep is needed, and whether the handyman will tell you if the work should be handed off to a licensed specialist. For homes in coastal San Mateo County, ask about exterior work experience, weather timing, and familiarity with older homes or moisture-related damage. If the job is in a condo or apartment, ask whether they have worked with HOA or building access rules. Searchers often want a simple checklist like this because it helps compare providers quickly and avoid vague estimates. A page that answers these points clearly can earn both featured snippets and AI Overview visibility.",
+      "@type": "Answer",
+      "description": "Ask about experience with your specific repair, pricing method, minimum charges, materials, availability, and whether the work may require a licensed trade. You should also ask for photos of similar jobs, confirmation of insurance if applicable, and an estimate of how long the job will take. Clear answers reduce surprises.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before hiring a handyman, ask targeted questions that reveal whether they are a good fit for the job. Start with experience on the exact type of repair, then ask how pricing works, whether there is a minimum service fee, and whether materials are included. It also helps to ask how long the job should take, whether any prep is needed, and whether the handyman will tell you if the work should be handed off to a licensed specialist. For homes in coastal San Mateo County, ask about exterior work experience, weather timing, and familiarity with older homes or moisture-related damage. If the job is in a condo or apartment, ask whether they have worked with HOA or building access rules. Searchers often want a simple checklist like this because it helps compare providers quickly and avoid vague estimates. A page that answers these points clearly can earn both featured snippets and AI Overview visibility.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask about experience with your specific repair, pricing method, minimum charges, materials, availability, and whether the work may require a licensed trade. You"
+}

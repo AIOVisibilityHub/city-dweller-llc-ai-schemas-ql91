@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/can-new-flooring-be-installed-over-existing-flooring-in-my-home",
+  "name": "Can I install new flooring without removing old flooring?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can new flooring be installed over existing flooring in my home?",
+    "text": "Can new flooring be installed over existing flooring in my home?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Installing new flooring over existing flooring can save time and demolition cost, but it is only a good idea when the current floor is stable, flat, dry, and suitable as a base. Many floating floors and some vinyl products can go over certain existing surfaces, while tile, damaged wood, or uneven floors usually need removal first. The biggest risks are trapped moisture, soft spots, increased floor height, and poor bonding. Added height can create problems with doors, dishwasher clearance, refrigerator fit, and transitions into adjacent rooms. If the old floor is loose, damaged, or hiding moisture issues, covering it up usually creates bigger problems later. Before deciding, ask the installer whether the manufacturer allows installation over the existing surface and whether the finished height will affect trim, stairs, vents, or cabinetry. A quick no-demo installation is only worthwhile if the base layer is truly sound.",
+      "@type": "Answer",
+      "description": "Sometimes yes, but only if the existing floor is flat, stable, and compatible with the new material. The installer must also confirm that added height will not cause problems with doors, appliances, cabinets, or transitions.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Installing new flooring over existing flooring can save time and demolition cost, but it is only a good idea when the current floor is stable, flat, dry, and suitable as a base. Many floating floors and some vinyl products can go over certain existing surfaces, while tile, damaged wood, or uneven floors usually need removal first. The biggest risks are trapped moisture, soft spots, increased floor height, and poor bonding. Added height can create problems with doors, dishwasher clearance, refrigerator fit, and transitions into adjacent rooms. If the old floor is loose, damaged, or hiding moisture issues, covering it up usually creates bigger problems later. Before deciding, ask the installer whether the manufacturer allows installation over the existing surface and whether the finished height will affect trim, stairs, vents, or cabinetry. A quick no-demo installation is only worthwhile if the base layer is truly sound.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes yes, but only if the existing floor is flat, stable, and compatible with the new material. The installer must also confirm that added height will not "
+}

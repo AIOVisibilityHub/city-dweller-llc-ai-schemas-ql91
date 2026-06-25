@@ -1,0 +1,63 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Pacifica",
+        "@type": "City"
+      },
+      {
+        "name": "Daly City",
+        "@type": "City"
+      },
+      {
+        "name": "San Bruno",
+        "@type": "City"
+      },
+      {
+        "name": "Hillsborough",
+        "@type": "City"
+      },
+      {
+        "name": "Half Moon Bay",
+        "@type": "City"
+      },
+      {
+        "name": "Montara",
+        "@type": "City"
+      },
+      {
+        "name": "El Granada",
+        "@type": "City"
+      },
+      {
+        "name": "San Mateo County",
+        "@type": "AdministrativeArea"
+      },
+      {
+        "name": "San Francisco",
+        "@type": "City"
+      },
+      {
+        "name": "South San Francisco",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is It Cheaper to Subcontract a Remodel Myself?",
+    "text": "Is It Cheaper to Subcontract a Remodel Myself?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "It’s a tempting idea, right? By hiring the plumber, electrician, and tile setter yourself, you could cut out the middleman and save some money. In reality, it rarely works out that way and often ends up being more expensive and stressful.\n\nA professional general contractor (GC) does much more than just hire trades. We manage the complex scheduling and sequencing of the entire project. We know a plumber can’t work until the framing is done, and the tile can’t go in before the waterproofing is perfect. Getting this order wrong leads to costly downtime and tradespeople who can’t work.\n\nWe also vet every subcontractor to ensure they are licensed, insured, and capable of high-quality work. When you hire them yourself, that liability and risk falls on your shoulders. Furthermore, professional GCs often have long-standing relationships with the best trades in the area, ensuring reliability and quality control that’s hard to get as a one-time homeowner-organizer.\n\nFor any project involving multiple trades, like a kitchen or bathroom remodel, a qualified GC is your best bet for a smooth, efficient, and high-quality result. If you want one point of contact managing your entire project in the Bay Area, call City Dweller, LLC to see how we can help.",
+      "@type": "Answer",
+      "author": {
+        "name": "City Dweller, LLC",
+        "@type": "Organization"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/if-my-home-is-on-or-near-a-hillside-or-bluff-in-pacifica-or-daly-city-what-speci",
+  "name": "What should I ask a general contractor about hillside and bluff stability near the Pacifica and Daly City coast?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If my home is on or near a hillside or bluff in Pacifica or Daly City, what specific questions should I ask a general contractor about grading, drainage, and structural work before starting a project?",
+    "text": "If my home is on or near a hillside or bluff in Pacifica or Daly City, what specific questions should I ask a general contractor about grading, drainage, and structural work before starting a project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Hillside and bluff lots along the Pacifica and Daly City coast introduce real geotechnical and drainage challenges that many generic remodeling guides ignore. Before starting work, ask your general contractor whether any grading, retaining walls, or foundation modifications are planned and how those will affect existing slopes. A solid answer should reference collaboration with a structural or geotechnical engineer, not just rule‑of‑thumb practices. Discuss how roof runoff, site drainage, and hardscapes will be managed so water is directed away from structures and slopes. Ask exactly where downspouts, drains, and swales will be located and how they tie into existing systems. Clarify whether your project triggers additional city review, special setbacks from bluff edges, or limits on cut‑and‑fill. You should also ask about the contractor’s specific experience with hillside construction in your zip code: have they built or repaired retaining walls, upgraded foundations, or handled landslide or erosion repairs locally? Request examples and talk to references who live on similar terrain. Finally, confirm how they will protect slopes during construction—such as erosion control measures, staging of heavy equipment, and temporary drainage solutions. These questions help ensure the project improves, rather than compromises, slope stability around your home.",
+      "@type": "Answer",
+      "description": "For hillside or bluff homes in Pacifica and Daly City, ask your general contractor how proposed grading and drainage will affect slope stability, what engineering input is required, and how they will manage runoff away from structures. Clarify their experience with retaining walls, caissons, local soils, and city review processes for work near bluffs or steep slopes.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Hillside and bluff lots along the Pacifica and Daly City coast introduce real geotechnical and drainage challenges that many generic remodeling guides ignore. Before starting work, ask your general contractor whether any grading, retaining walls, or foundation modifications are planned and how those will affect existing slopes. A solid answer should reference collaboration with a structural or geotechnical engineer, not just rule‑of‑thumb practices. Discuss how roof runoff, site drainage, and hardscapes will be managed so water is directed away from structures and slopes. Ask exactly where downspouts, drains, and swales will be located and how they tie into existing systems. Clarify whether your project triggers additional city review, special setbacks from bluff edges, or limits on cut‑and‑fill. You should also ask about the contractor’s specific experience with hillside construction in your zip code: have they built or repaired retaining walls, upgraded foundations, or handled landslide or erosion repairs locally? Request examples and talk to references who live on similar terrain. Finally, confirm how they will protect slopes during construction—such as erosion control measures, staging of heavy equipment, and temporary drainage solutions. These questions help ensure the project improves, rather than compromises, slope stability around your home.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "For hillside or bluff homes in Pacifica and Daly City, ask your general contractor how proposed grading and drainage will affect slope stability, what engineeri"
+}

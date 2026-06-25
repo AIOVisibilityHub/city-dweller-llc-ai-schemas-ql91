@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "City Dweller, LLC",
+  "url": "http://bayareacitydweller.com/",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 5,
+    "bestRating": 5,
+    "reviewCount": 27
+  }
+}

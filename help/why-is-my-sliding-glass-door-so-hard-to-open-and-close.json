@@ -1,0 +1,63 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Pacifica",
+        "@type": "City"
+      },
+      {
+        "name": "Daly City",
+        "@type": "City"
+      },
+      {
+        "name": "San Bruno",
+        "@type": "City"
+      },
+      {
+        "name": "Hillsborough",
+        "@type": "City"
+      },
+      {
+        "name": "Half Moon Bay",
+        "@type": "City"
+      },
+      {
+        "name": "Montara",
+        "@type": "City"
+      },
+      {
+        "name": "El Granada",
+        "@type": "City"
+      },
+      {
+        "name": "San Mateo County",
+        "@type": "AdministrativeArea"
+      },
+      {
+        "name": "San Francisco",
+        "@type": "City"
+      },
+      {
+        "name": "South San Francisco",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why Is My Sliding Glass Door So Hard to Open and Close?",
+    "text": "Why Is My Sliding Glass Door So Hard to Open and Close?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "A sliding glass door should glide smoothly on its track with minimal effort. When you suddenly have to wrestle it open or closed, it's not just annoying—it's a sign that something is wrong. The good news is that the cause is usually one of a few common issues.\n\nThe number one culprit is often the simplest: a dirty track. Dirt, dust, pet hair, and other gunk can build up in the bottom track and jam up the rollers. The first thing to try is giving the track a thorough vacuuming and cleaning. If that doesn't solve it, the problem is likely the rollers themselves. Over years of use, these little wheels can wear out, break, or get gummed up. Another possibility is that the door itself has gone out of alignment. Just like a regular door, a sliding door needs to be perfectly plumb and square in its frame to operate correctly. An out-of-level track can cause the door to bind or drag.\n\nWhile cleaning the track is easy DIY, replacing rollers or realigning the door is a job for a pro. It requires taking the heavy glass panel out of the frame, which can be risky without the right tools and experience. If your slider is still stuck after cleaning, give City Dweller, LLC a call. We can diagnose the problem and get your door gliding again.",
+      "@type": "Answer",
+      "author": {
+        "name": "City Dweller, LLC",
+        "@type": "Organization"
+      }
+    }
+  }
+}

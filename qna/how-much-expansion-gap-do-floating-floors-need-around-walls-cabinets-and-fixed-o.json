@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/how-much-expansion-gap-do-floating-floors-need-around-walls-cabinets-and-fixed-o",
+  "name": "What expansion gap do I need for floating floors?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How much expansion gap do floating floors need around walls, cabinets, and fixed objects?",
+    "text": "How much expansion gap do floating floors need around walls, cabinets, and fixed objects?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Floating floors must have room to expand and contract with temperature and humidity changes. That means leaving an expansion gap around walls, cabinets, pipes, fireplaces, and other fixed objects. The exact gap size depends on the product, but many flooring systems require a perimeter gap in the quarter-inch to half-inch range, with additional rules for long runs and room transitions. If the gap is too small, the floor can buckle, pinch, or push against trim. If the gap is too large and not covered properly, the finish will look incomplete. The installer should also follow manufacturer rules for transition pieces when a room run gets too long or when the flooring crosses into another space. Ask the contractor to explain how they will handle closets, door jambs, kitchen islands, and built-ins. These details are where many installation problems start. The correct expansion space is not guesswork; it is part of the product’s installation system.",
+      "@type": "Answer",
+      "description": "Floating floors usually need an expansion gap around the perimeter and around fixed objects so the floor can move naturally. The exact gap depends on the manufacturer, but many products require about 1/4 inch to 1/2 inch and may need transitions on long runs.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Floating floors must have room to expand and contract with temperature and humidity changes. That means leaving an expansion gap around walls, cabinets, pipes, fireplaces, and other fixed objects. The exact gap size depends on the product, but many flooring systems require a perimeter gap in the quarter-inch to half-inch range, with additional rules for long runs and room transitions. If the gap is too small, the floor can buckle, pinch, or push against trim. If the gap is too large and not covered properly, the finish will look incomplete. The installer should also follow manufacturer rules for transition pieces when a room run gets too long or when the flooring crosses into another space. Ask the contractor to explain how they will handle closets, door jambs, kitchen islands, and built-ins. These details are where many installation problems start. The correct expansion space is not guesswork; it is part of the product’s installation system.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Floating floors usually need an expansion gap around the perimeter and around fixed objects so the floor can move naturally. The exact gap depends on the manufa"
+}

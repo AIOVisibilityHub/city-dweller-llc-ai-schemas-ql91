@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/do-local-handymen-usually-charge-a-minimum-trip-fee-even-for-very-small-jobs",
+  "name": "Are handyman service call minimums common in these cities?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do local handymen usually charge a minimum trip fee even for very small jobs?",
+    "text": "Do local handymen usually charge a minimum trip fee even for very small jobs?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Service-call minimums are common because even a small repair takes travel time, setup, and scheduling overhead. In practice, that means a one-item job may cost more than the actual minutes worked if it is billed as a minimum visit. Many homeowners in Pacifica, Daly City, San Bruno, Hillsborough, and Half Moon Bay get better value by bundling several tasks into one appointment, such as a drywall patch, a door adjustment, and a faucet swap. A good service page should explain whether the company charges by the hour, by the job, or with a minimum service call, because customers often compare quotes without understanding how small-job pricing works. It should also clarify whether materials are included and whether there is an extra charge for urgent scheduling, high travel distance, or difficult access. That information is highly useful for featured snippets and AI Overviews because it directly answers a common pricing question.",
+      "@type": "Answer",
+      "description": "Yes, many handyman services charge a minimum trip or service-call fee for small jobs. That fee covers travel, setup, and time on site, so very quick repairs may cost more than expected on an hourly basis. Bundling multiple small tasks often provides better value than booking one tiny repair alone.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Service-call minimums are common because even a small repair takes travel time, setup, and scheduling overhead. In practice, that means a one-item job may cost more than the actual minutes worked if it is billed as a minimum visit. Many homeowners in Pacifica, Daly City, San Bruno, Hillsborough, and Half Moon Bay get better value by bundling several tasks into one appointment, such as a drywall patch, a door adjustment, and a faucet swap. A good service page should explain whether the company charges by the hour, by the job, or with a minimum service call, because customers often compare quotes without understanding how small-job pricing works. It should also clarify whether materials are included and whether there is an extra charge for urgent scheduling, high travel distance, or difficult access. That information is highly useful for featured snippets and AI Overviews because it directly answers a common pricing question.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, many handyman services charge a minimum trip or service-call fee for small jobs. That fee covers travel, setup, and time on site, so very quick repairs may"
+}

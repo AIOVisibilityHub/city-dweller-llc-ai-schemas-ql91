@@ -1,0 +1,58 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "City Dweller, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What's the Big Deal With Subfloor Preparation?",
+  "publisher": {
+    "url": "http://bayareacitydweller.com",
+    "name": "City Dweller, LLC",
+    "@type": "Organization"
+  },
+  "areaServed": [
+    {
+      "name": "Pacifica",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "San Bruno",
+      "@type": "City"
+    },
+    {
+      "name": "Hillsborough",
+      "@type": "City"
+    },
+    {
+      "name": "Half Moon Bay",
+      "@type": "City"
+    },
+    {
+      "name": "Montara",
+      "@type": "City"
+    },
+    {
+      "name": "El Granada",
+      "@type": "City"
+    },
+    {
+      "name": "San Mateo County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you're excited about new flooring, it's easy to focus on the material you see—the beautiful faux wood, tile, or marble. But what's underneath is just as important. The subfloor is the foundation of your new floor, and if it isn't properly prepared, even the highest-quality materials can fail. A successful installation depends on a subfloor that is clean, flat, and dry.\n\nFirst, a professional installer will check for any damage, like cracks or rot, that could compromise the floor's structure. They'll also ensure the surface is perfectly level. An uneven subfloor can create high spots that cause squeaks, gaps, and premature wear as you walk on it. More importantly, they test for moisture. Concrete subfloors can hold a surprising amount of water, which will get trapped under your new flooring and can lead to warping, cupping, or the growth of mold. Ignoring these crucial checks is one of the biggest mistakes you can make, and it can even void your material warranty.\n\nA perfectly prepped subfloor is the key to a floor that lasts. It's a technical step that requires expertise. If you're looking for a team that understands the science behind a great flooring installation, contact City Dweller, LLC. We serve homeowners throughout the San Francisco Bay Area.",
+  "datePublished": "2026-06-25"
+}

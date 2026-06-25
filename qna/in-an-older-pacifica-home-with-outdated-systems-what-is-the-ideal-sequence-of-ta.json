@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/in-an-older-pacifica-home-with-outdated-systems-what-is-the-ideal-sequence-of-ta",
+  "name": "What’s the best sequence of work for a full kitchen remodel in an older Pacifica home?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "In an older Pacifica home with outdated systems, what is the ideal sequence of tasks for a full kitchen remodel so inspections and hidden repairs are handled efficiently?",
+    "text": "In an older Pacifica home with outdated systems, what is the ideal sequence of tasks for a full kitchen remodel so inspections and hidden repairs are handled efficiently?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Older Pacifica homes often hide outdated wiring, plumbing, or moisture issues, so your kitchen remodel sequence should anticipate discovery and repair. Start with design, selections, and permit approvals so the crew knows what structural and system changes are planned. Once permits are in hand, demolition can expose framing, subfloors, and existing utilities. Next come framing and structural work: modifying or reinforcing walls, adding beams, resizing windows or doors if needed. With framing set, rough‑in plumbing, electrical, and any HVAC or range‑hood ducting are installed according to the new layout. This is followed by required inspections at the rough‑in stage. After rough inspections pass, insulation, soundproofing (if desired), and drywall go in, then taping and sanding. Many contractors install flooring at this point, before cabinets, to create a continuous surface and simplify future layout changes, though some prefer to run flooring to the cabinet toe‑kicks only. Cabinets come next, followed by countertop templating and installation, backsplash tile, and then trim and paint touch‑ups. Finally, fixtures, lighting, outlets, and appliances are installed and tested before final inspections. Ask your contractor to explicitly block time after demolition for addressing hidden issues so they don’t derail the entire schedule when discovered.",
+      "@type": "Answer",
+      "description": "A typical sequence in an older Pacifica kitchen is: design and permits, demolition, framing and structural changes, rough plumbing, rough electrical and HVAC, inspections, insulation and drywall, flooring, cabinets, countertops, backsplash, trim and paint, then fixtures and appliance installation. Building in time for hidden repairs after demo prevents schedule chaos.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Older Pacifica homes often hide outdated wiring, plumbing, or moisture issues, so your kitchen remodel sequence should anticipate discovery and repair. Start with design, selections, and permit approvals so the crew knows what structural and system changes are planned. Once permits are in hand, demolition can expose framing, subfloors, and existing utilities. Next come framing and structural work: modifying or reinforcing walls, adding beams, resizing windows or doors if needed. With framing set, rough‑in plumbing, electrical, and any HVAC or range‑hood ducting are installed according to the new layout. This is followed by required inspections at the rough‑in stage. After rough inspections pass, insulation, soundproofing (if desired), and drywall go in, then taping and sanding. Many contractors install flooring at this point, before cabinets, to create a continuous surface and simplify future layout changes, though some prefer to run flooring to the cabinet toe‑kicks only. Cabinets come next, followed by countertop templating and installation, backsplash tile, and then trim and paint touch‑ups. Finally, fixtures, lighting, outlets, and appliances are installed and tested before final inspections. Ask your contractor to explicitly block time after demolition for addressing hidden issues so they don’t derail the entire schedule when discovered.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A typical sequence in an older Pacifica kitchen is: design and permits, demolition, framing and structural changes, rough plumbing, rough electrical and HVAC, i"
+}

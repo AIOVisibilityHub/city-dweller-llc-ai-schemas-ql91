@@ -1,0 +1,68 @@
+{
+  "name": "Handyman vs. General Contractor: Which Do I Need for My Project?",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "It's a common question: does your project need a handyman or a full general contractor? Getting it right saves you time and money. Think of it in terms of scale and complexity. A handyman is perfect for tackling that list of smaller repairs and single-trade installations. Things like installing a new door, repairing a faulty cabinet, or replacing baseboards are right in their wheelhouse. These are typically jobs that take a few hours to a day or two and don't involve changing your home's structure.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "A general contractor (GC) comes in for the big stuff. We're talking kitchen and bathroom remodels, projects that require multiple specialized trades (plumbing, electrical, carpentry), or anything that needs a building permit. A GC manages the entire project from planning and permits to completion, ensuring everything is up to code and coordinated seamlessly. If you're removing walls or reconfiguring a space, you need a GC.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "Ultimately, the key difference often comes down to regulations. Major electrical, plumbing, and structural work legally require licensed contractors and permits. A professional service can help guide you. At City Dweller, we offer both handyman and general contractor services, so we can help you make the right call. Give us a ring to talk through your project, and we'll make sure you get the right expertise for the job.",
+      "@type": "HowToStep",
+      "position": 3
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "areaServed": [
+    {
+      "name": "Pacifica",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "San Bruno",
+      "@type": "City"
+    },
+    {
+      "name": "Hillsborough",
+      "@type": "City"
+    },
+    {
+      "name": "Half Moon Bay",
+      "@type": "City"
+    },
+    {
+      "name": "Montara",
+      "@type": "City"
+    },
+    {
+      "name": "El Granada",
+      "@type": "City"
+    },
+    {
+      "name": "San Mateo County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco",
+      "@type": "City"
+    }
+  ],
+  "description": "Handyman vs. General Contractor: Which Do I Need for My Project?"
+}

@@ -1,0 +1,68 @@
+{
+  "name": "How to Prepare for a Professional Door Installation",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Getting a new door installed is exciting, and a little prep work can make the entire process go incredibly smoothly for you and the installation team. It's all about creating a clear and safe workspace.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "First, clear the area around the door, both inside and out. Move any furniture, rugs, planters, or decorations at least several feet away from the opening. This gives the installers room to work and protects your belongings from dust and damage. The path from the street to the door should also be clear for carrying the new door in and the old one out. Second, if you have pets or young children, it's a good idea to plan on keeping them in a separate room or area, so they stay safe and don't get underfoot.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "Finally, have a quick chat with your installer when they arrive. Confirm what's being installed and ask about the estimated timeline. It's also a great time to ask about what they'll do with your old door and any debris from the project. Taking these simple steps ensures that the technicians can work efficiently and deliver the high-quality result you're expecting. At City Dweller, LLC, we handle the hard parts of the installation, but this teamwork at the start makes a huge difference. Ready for a new door? Give us a call!",
+      "@type": "HowToStep",
+      "position": 3
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "areaServed": [
+    {
+      "name": "Pacifica",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "San Bruno",
+      "@type": "City"
+    },
+    {
+      "name": "Hillsborough",
+      "@type": "City"
+    },
+    {
+      "name": "Half Moon Bay",
+      "@type": "City"
+    },
+    {
+      "name": "Montara",
+      "@type": "City"
+    },
+    {
+      "name": "El Granada",
+      "@type": "City"
+    },
+    {
+      "name": "San Mateo County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco",
+      "@type": "City"
+    }
+  ],
+  "description": "How to Prepare for a Professional Door Installation"
+}

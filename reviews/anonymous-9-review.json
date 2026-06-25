@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Anonymous"
+  },
+  "reviewBody": "David helped us with several parts of our kitchen remodel, including cabinet installation and finish carpentry. He was detail-oriented and made sure everything lined up perfectly. We’re very happy with the outcome and would recommend him.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "2021-11",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "City Dweller, LLC",
+    "url": "http://bayareacitydweller.com/",
+    "makesOffer": {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Kitchen remodeling (cabinet, trim, finish work)"
+      }
+    }
+  }
+}

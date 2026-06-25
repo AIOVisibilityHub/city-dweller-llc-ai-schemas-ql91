@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/when-is-wood-rot-repair-a-handyman-job-versus-a-larger-construction-project",
+  "name": "Can a handyman repair coastal wood rot, or does that require a contractor?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When is wood rot repair a handyman job versus a larger construction project?",
+    "text": "When is wood rot repair a handyman job versus a larger construction project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A handyman can usually handle small, localized wood rot repairs when the damage is limited to trim, fascia, siding edges, door frames, or other non-structural components. That type of work often includes removing the soft wood, replacing the damaged section, sealing the new material, and repainting or caulking the area. If the rot extends into framing, supports, balconies, stairs, or other structural elements, the job becomes larger and may require a licensed contractor and additional trades. In coastal cities, it is also important to identify the moisture source first. Replacing the rotted wood without fixing the leak, failed flashing, or bad caulking will only delay the problem. The most helpful local content should tell property owners how to judge the scope: cosmetic or trim-level damage may fit a handyman, while structural, recurring, or hidden damage should be inspected more carefully. Photos and a short inspection can often determine which path is appropriate before work begins.",
+      "@type": "Answer",
+      "description": "A handyman can often handle small areas of surface wood rot, trim replacement, and sealing when the damage is limited and non-structural. If the rot affects framing, structural members, stairs, balconies, or widespread exterior damage, it usually needs a licensed contractor and more extensive repair work. Moisture source correction is also important.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A handyman can usually handle small, localized wood rot repairs when the damage is limited to trim, fascia, siding edges, door frames, or other non-structural components. That type of work often includes removing the soft wood, replacing the damaged section, sealing the new material, and repainting or caulking the area. If the rot extends into framing, supports, balconies, stairs, or other structural elements, the job becomes larger and may require a licensed contractor and additional trades. In coastal cities, it is also important to identify the moisture source first. Replacing the rotted wood without fixing the leak, failed flashing, or bad caulking will only delay the problem. The most helpful local content should tell property owners how to judge the scope: cosmetic or trim-level damage may fit a handyman, while structural, recurring, or hidden damage should be inspected more carefully. Photos and a short inspection can often determine which path is appropriate before work begins.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A handyman can often handle small areas of surface wood rot, trim replacement, and sealing when the damage is limited and non-structural. If the rot affects fra"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/in-dense-coastal-neighborhoods-in-pacifica-and-daly-city-what-should-i-ask-a-gen",
+  "name": "How can I protect my yard and neighbors during construction with a general contractor?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "In dense coastal neighborhoods in Pacifica and Daly City, what should I ask a general contractor about protecting my landscaping and minimizing impacts on neighbors during construction?",
+    "text": "In dense coastal neighborhoods in Pacifica and Daly City, what should I ask a general contractor about protecting my landscaping and minimizing impacts on neighbors during construction?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Coastal neighborhoods in Pacifica and Daly City often have tight lots and limited street parking, so construction impacts can strain relationships if not managed. When interviewing general contractors, ask specifically how they plan to protect your landscaping—trees, lawns, and hardscapes—from equipment, foot traffic, and material storage. Request that they define staging areas and access routes in writing. Discuss dust and noise control measures, including temporary fencing, debris containment, saw and hammer hours, and any local noise rules they follow. Ask how workers will park and where deliveries will occur to minimize blocked driveways and congestion. You should also ask whether the contractor will communicate directly with neighbors about schedule, major milestones, and particularly disruptive activities, or whether that will be your role. Request that site cleanup standards be included in the contract, covering daily trash removal and end‑of‑project restoration of disturbed areas. Having a clear site‑protection and neighbor‑impact plan helps preserve your yard and local goodwill throughout the remodel.",
+      "@type": "Answer",
+      "description": "Ask your general contractor how they will protect landscaping, manage dust and noise, control parking, and communicate with neighbors. Request a site‑protection plan that covers fencing, material staging, cleanup, and complaint handling so the project respects your property and community while work proceeds.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Coastal neighborhoods in Pacifica and Daly City often have tight lots and limited street parking, so construction impacts can strain relationships if not managed. When interviewing general contractors, ask specifically how they plan to protect your landscaping—trees, lawns, and hardscapes—from equipment, foot traffic, and material storage. Request that they define staging areas and access routes in writing. Discuss dust and noise control measures, including temporary fencing, debris containment, saw and hammer hours, and any local noise rules they follow. Ask how workers will park and where deliveries will occur to minimize blocked driveways and congestion. You should also ask whether the contractor will communicate directly with neighbors about schedule, major milestones, and particularly disruptive activities, or whether that will be your role. Request that site cleanup standards be included in the contract, covering daily trash removal and end‑of‑project restoration of disturbed areas. Having a clear site‑protection and neighbor‑impact plan helps preserve your yard and local goodwill throughout the remodel.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask your general contractor how they will protect landscaping, manage dust and noise, control parking, and communicate with neighbors. Request a site‑protection"
+}

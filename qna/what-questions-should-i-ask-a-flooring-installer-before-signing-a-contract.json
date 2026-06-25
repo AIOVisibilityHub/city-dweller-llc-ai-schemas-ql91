@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/what-questions-should-i-ask-a-flooring-installer-before-signing-a-contract",
+  "name": "What should I ask a flooring contractor before hiring them?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What questions should I ask a flooring installer before signing a contract?",
+    "text": "What questions should I ask a flooring installer before signing a contract?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before hiring a flooring contractor, ask questions that reveal how they handle both quality and risk. Start with licensing, insurance, and experience with your specific flooring type. Then ask whether they test for moisture, inspect the subfloor, and include leveling or repair in the bid. Those are the steps that often determine whether the floor lasts. You should also ask for a written estimate, a clear project timeline, and a warranty for workmanship. Find out who moves appliances, removes old flooring, handles dust control, and cleans up at the end. If the project includes trim or baseboards, confirm whether reinstallation, caulking, and painting are included. A good installer should be able to explain why they recommend a certain material and method for your home. If answers are vague, that is a warning sign. The best contractor is the one who clearly explains prep, product limits, and what is included in the price.",
+      "@type": "Answer",
+      "description": "Ask about licensing, insurance, material experience, moisture testing, subfloor prep, timeline, warranty, cleanup, and written estimates. You should also ask whether they follow the manufacturer’s installation instructions and who handles baseboard, trim, and appliance moving.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before hiring a flooring contractor, ask questions that reveal how they handle both quality and risk. Start with licensing, insurance, and experience with your specific flooring type. Then ask whether they test for moisture, inspect the subfloor, and include leveling or repair in the bid. Those are the steps that often determine whether the floor lasts. You should also ask for a written estimate, a clear project timeline, and a warranty for workmanship. Find out who moves appliances, removes old flooring, handles dust control, and cleans up at the end. If the project includes trim or baseboards, confirm whether reinstallation, caulking, and painting are included. A good installer should be able to explain why they recommend a certain material and method for your home. If answers are vague, that is a warning sign. The best contractor is the one who clearly explains prep, product limits, and what is included in the price.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask about licensing, insurance, material experience, moisture testing, subfloor prep, timeline, warranty, cleanup, and written estimates. You should also ask wh"
+}

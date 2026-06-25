@@ -1,0 +1,63 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Pacifica",
+        "@type": "City"
+      },
+      {
+        "name": "Daly City",
+        "@type": "City"
+      },
+      {
+        "name": "San Bruno",
+        "@type": "City"
+      },
+      {
+        "name": "Hillsborough",
+        "@type": "City"
+      },
+      {
+        "name": "Half Moon Bay",
+        "@type": "City"
+      },
+      {
+        "name": "Montara",
+        "@type": "City"
+      },
+      {
+        "name": "El Granada",
+        "@type": "City"
+      },
+      {
+        "name": "San Mateo County",
+        "@type": "AdministrativeArea"
+      },
+      {
+        "name": "San Francisco",
+        "@type": "City"
+      },
+      {
+        "name": "South San Francisco",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why Does My New Door Stick or Rub?",
+    "text": "Why Does My New Door Stick or Rub?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "It's super frustrating when a door, whether it's new or old, refuses to close smoothly. You shouldn't have to slam it or lift it just right to get it to latch. So what's the deal when it starts sticking or rubbing against the frame?\n\nMore often than not, the problem lies with alignment. The door frame might not be perfectly plumb and square, causing uneven gaps. This can happen if the house has settled over time or if the door wasn't installed with precise shimming to begin with. Another common culprit is the hinges. If the hinges are loose or bent, the door will sag and rub on either the threshold or the top of the frame. While high humidity can cause wood to swell and stick, a properly installed door should have enough clearance to handle minor seasonal changes without a problem.\n\nSometimes, the issue is an easy fix, like tightening a few hinge screws. But if the problem is in the frame itself or the wall has shifted, that's when a simple adjustment becomes a bigger challenge. Trying to sand or plane the door down without fixing the root cause can just make things worse. If you're tired of fighting with your door, it's a good time to get a professional evaluation. We can figure out exactly what's going on and get it swinging smoothly again. Give City Dweller, LLC a call!",
+      "@type": "Answer",
+      "author": {
+        "name": "City Dweller, LLC",
+        "@type": "Organization"
+      }
+    }
+  }
+}

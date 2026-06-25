@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/when-i-get-several-bids-from-general-contractors-for-a-project-in-pacifica-or-ha",
+  "name": "How should I evaluate multiple bids from general contractors in San Mateo County coastal towns?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When I get several bids from general contractors for a project in Pacifica or Half Moon Bay, what specific differences should I look for beyond just total price?",
+    "text": "When I get several bids from general contractors for a project in Pacifica or Half Moon Bay, what specific differences should I look for beyond just total price?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "In coastal San Mateo County towns like Pacifica and Half Moon Bay, bids can vary widely because contractors make different assumptions. Start by comparing scope line by line. Does each proposal describe the same rooms, structural changes, and finish quality, or is one noticeably vague? Detailed bids usually indicate better planning. Material specifications are critical. Check whether siding, roofing, windows, and hardware are clearly listed with models or performance ratings. Pay attention to how each contractor addresses coastal issues such as moisture management, corrosion resistance, and drainage; these details may justify a higher price. Review how permits, inspections, and coordination with designers are handled. Some bids include full permit support, while others assume you or your architect will take the lead. Note allowances and exclusions—items like fixtures, appliances, or landscaping that are capped with budget placeholders rather than firm numbers. Compare schedules and contingencies for unforeseen conditions. A realistic timeline and clear contingency process for hidden damage are often more valuable than optimistic promises. Finally, balance price against clarity, local experience, and references on similar coastal projects. A mid‑range bid with a thorough scope and strong coastal track record frequently delivers better value than the cheapest number on paper.",
+      "@type": "Answer",
+      "description": "Compare bids for scope detail, material quality, permit handling, schedule realism, allowances, exclusions, and how coastal conditions are addressed. Look for clear line items, defined contingencies, and contractors who explain moisture, corrosion, and drainage solutions. A lower price with vague scope or coastal shortcuts often costs more later.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "In coastal San Mateo County towns like Pacifica and Half Moon Bay, bids can vary widely because contractors make different assumptions. Start by comparing scope line by line. Does each proposal describe the same rooms, structural changes, and finish quality, or is one noticeably vague? Detailed bids usually indicate better planning. Material specifications are critical. Check whether siding, roofing, windows, and hardware are clearly listed with models or performance ratings. Pay attention to how each contractor addresses coastal issues such as moisture management, corrosion resistance, and drainage; these details may justify a higher price. Review how permits, inspections, and coordination with designers are handled. Some bids include full permit support, while others assume you or your architect will take the lead. Note allowances and exclusions—items like fixtures, appliances, or landscaping that are capped with budget placeholders rather than firm numbers. Compare schedules and contingencies for unforeseen conditions. A realistic timeline and clear contingency process for hidden damage are often more valuable than optimistic promises. Finally, balance price against clarity, local experience, and references on similar coastal projects. A mid‑range bid with a thorough scope and strong coastal track record frequently delivers better value than the cheapest number on paper.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Compare bids for scope detail, material quality, permit handling, schedule realism, allowances, exclusions, and how coastal conditions are addressed. Look for c"
+}

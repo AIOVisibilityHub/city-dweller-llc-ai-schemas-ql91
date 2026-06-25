@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/what-subfloor-problems-should-i-expect-in-older-homes-in-pacifica-or-daly-city-b",
+  "name": "What subfloor problems are most common in older coastal homes?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What subfloor problems should I expect in older homes in Pacifica or Daly City before flooring installation?",
+    "text": "What subfloor problems should I expect in older homes in Pacifica or Daly City before flooring installation?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Older coastal homes often have subfloor issues that are not obvious until the old flooring comes up. Common problems include uneven framing, loose panels, squeaks, water staining, rot near exterior walls, previous patchwork repairs, and hidden moisture from crawl spaces or past leaks. These issues can make a new floor fail if they are not corrected first. A good installer should inspect for movement, check for soft areas, and verify that the surface is flat enough for the chosen product. Some materials are more forgiving than others, but no flooring system performs well over a weak or unstable subfloor. If there is visible damage, the contractor may need to replace sections, fasten loose areas, sand high spots, or use a leveling compound. For homes near the coast, it is smart to ask whether the subfloor has been exposed to salt air, standing water, or long-term humidity. Fixing subfloor problems before installation usually costs less than repairing a failed floor later.",
+      "@type": "Answer",
+      "description": "Common subfloor problems include uneven floors, squeaks, water damage, soft spots, delamination, and moisture intrusion from crawl spaces. Older coastal homes often need leveling, fastening, or partial replacement before new flooring can be installed correctly.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Older coastal homes often have subfloor issues that are not obvious until the old flooring comes up. Common problems include uneven framing, loose panels, squeaks, water staining, rot near exterior walls, previous patchwork repairs, and hidden moisture from crawl spaces or past leaks. These issues can make a new floor fail if they are not corrected first. A good installer should inspect for movement, check for soft areas, and verify that the surface is flat enough for the chosen product. Some materials are more forgiving than others, but no flooring system performs well over a weak or unstable subfloor. If there is visible damage, the contractor may need to replace sections, fasten loose areas, sand high spots, or use a leveling compound. For homes near the coast, it is smart to ask whether the subfloor has been exposed to salt air, standing water, or long-term humidity. Fixing subfloor problems before installation usually costs less than repairing a failed floor later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Common subfloor problems include uneven floors, squeaks, water damage, soft spots, delamination, and moisture intrusion from crawl spaces. Older coastal homes o"
+}

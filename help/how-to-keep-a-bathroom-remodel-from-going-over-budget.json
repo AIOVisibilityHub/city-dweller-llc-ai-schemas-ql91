@@ -1,0 +1,74 @@
+{
+  "name": "How to Keep a Bathroom Remodel from Going Over Budget",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "It’s the number one fear for any homeowner starting a renovation: the surprise budget-busting expense. We get it. A bathroom remodel is an investment, and you need to know what you’re getting into. So, how do you keep costs from spiraling?",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "First, start with a detailed plan. Rushing into demolition without knowing exactly which tiles, fixtures, and finishes you want is a recipe for on-the-fly decisions that cause delays and drive up costs. Second, have a frank conversation about where your money is best spent. Moving major plumbing lines is expensive; designing around the existing layout can often save you thousands without sacrificing a ton of function.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "Most importantly, plan for the unexpected. We always advise clients to set aside a contingency fund of about 10-15% of the total budget. This covers unforeseen issues, like old water damage or outdated wiring hidden behind the walls. Working with a professional who provides a detailed, itemized estimate is key. It ensures you know exactly what’s included, from labor and materials to debris removal.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4",
+      "text": "If you’re planning a bathroom remodel in the Bay Area and want a clear, transparent estimate, give City Dweller, LLC a call. We’d be happy to walk you through the process.",
+      "@type": "HowToStep",
+      "position": 4
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "areaServed": [
+    {
+      "name": "Pacifica",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "San Bruno",
+      "@type": "City"
+    },
+    {
+      "name": "Hillsborough",
+      "@type": "City"
+    },
+    {
+      "name": "Half Moon Bay",
+      "@type": "City"
+    },
+    {
+      "name": "Montara",
+      "@type": "City"
+    },
+    {
+      "name": "El Granada",
+      "@type": "City"
+    },
+    {
+      "name": "San Mateo County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco",
+      "@type": "City"
+    }
+  ],
+  "description": "How to Keep a Bathroom Remodel from Going Over Budget"
+}

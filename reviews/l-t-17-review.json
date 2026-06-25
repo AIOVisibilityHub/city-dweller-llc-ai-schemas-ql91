@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "L.T."
+  },
+  "reviewBody": "We hired City Dweller for some kitchen updates including new flooring and backsplash. David was organized, kept the work area tidy, and the finish is beautiful. Communication was great from the quote through completion. Highly recommend for kitchen projects.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "2021-12",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "City Dweller, LLC",
+    "url": "http://bayareacitydweller.com/",
+    "makesOffer": {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Kitchen updates (cabinet, flooring, and backsplash work)"
+      }
+    }
+  }
+}

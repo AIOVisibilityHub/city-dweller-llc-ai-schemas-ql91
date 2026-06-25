@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/what-should-homeowners-know-before-drilling-into-older-wall-surfaces",
+  "name": "Can a handyman install TV mounts, shelves, and curtain rods in plaster or stucco walls?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should homeowners know before drilling into older wall surfaces?",
+    "text": "What should homeowners know before drilling into older wall surfaces?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A handyman can usually install TV mounts, shelves, curtain rods, and similar hardware in plaster or stucco walls, but those surfaces require careful prep and the right fasteners. Older plaster can crack if drilled incorrectly, and stucco or masonry surfaces may need specialty anchors or different mounting methods. Load-bearing needs matter too, because a light curtain rod and a large TV have very different support requirements. Before drilling, the installer should check for studs, hidden wiring, plumbing, or brittle surface areas, especially in older homes. The best service content explains that installation is possible but not one-size-fits-all, and it should encourage customers to share what they are mounting, the approximate weight, and a photo of the wall. That reduces the chance of damage and helps the handyman bring the proper tools and hardware.",
+      "@type": "Answer",
+      "description": "Yes, a handyman can often install mounts and hardware in plaster or stucco walls, but the wall type matters because anchors, load limits, and hidden utilities change the approach. The installer should locate studs or use the right masonry anchors. Improper drilling can crack plaster or weaken the hold.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A handyman can usually install TV mounts, shelves, curtain rods, and similar hardware in plaster or stucco walls, but those surfaces require careful prep and the right fasteners. Older plaster can crack if drilled incorrectly, and stucco or masonry surfaces may need specialty anchors or different mounting methods. Load-bearing needs matter too, because a light curtain rod and a large TV have very different support requirements. Before drilling, the installer should check for studs, hidden wiring, plumbing, or brittle surface areas, especially in older homes. The best service content explains that installation is possible but not one-size-fits-all, and it should encourage customers to share what they are mounting, the approximate weight, and a photo of the wall. That reduces the chance of damage and helps the handyman bring the proper tools and hardware.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, a handyman can often install mounts and hardware in plaster or stucco walls, but the wall type matters because anchors, load limits, and hidden utilities c"
+}

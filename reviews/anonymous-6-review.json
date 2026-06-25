@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Anonymous"
+  },
+  "reviewBody": "David installed a sliding glass door for our home and did a fantastic job. He measured carefully, explained our options, and the final result is smooth, quiet, and well-finished. Very professional and easy to work with.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "2023-08",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "City Dweller, LLC",
+    "url": "http://bayareacitydweller.com/",
+    "makesOffer": {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Sliding glass door installation"
+      }
+    }
+  }
+}

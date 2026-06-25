@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/what-should-homeowners-ask-a-siding-installer-before-signing-a-contract",
+  "name": "What questions should I ask before hiring a siding contractor?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should homeowners ask a siding installer before signing a contract?",
+    "text": "What should homeowners ask a siding installer before signing a contract?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before hiring a siding contractor, homeowners should ask questions that reveal both workmanship quality and project management. Important topics include license and insurance, local permit handling, whether the estimate includes tear-off, disposal, flashing, trim, caulking, and painting, and how hidden rot or sheathing damage will be billed. It is also important to ask which siding brands or systems they use, what warranty applies to labor and materials, and how they protect the home from weather during the project. In coastal cities, ask specifically about moisture management, corrosion-resistant fasteners, and the plan for windows, doors, and roof intersections. A detailed answer is usually a better sign than a low price, because siding failures often come from omissions in the installation scope rather than the product itself.",
+      "@type": "Answer",
+      "description": "Ask about license status, insurance, permits, material brands, flashing details, rot repair, cleanup, warranty coverage, and how hidden damage is handled. The best contractors can explain their full wall assembly approach, not just the visible siding product.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before hiring a siding contractor, homeowners should ask questions that reveal both workmanship quality and project management. Important topics include license and insurance, local permit handling, whether the estimate includes tear-off, disposal, flashing, trim, caulking, and painting, and how hidden rot or sheathing damage will be billed. It is also important to ask which siding brands or systems they use, what warranty applies to labor and materials, and how they protect the home from weather during the project. In coastal cities, ask specifically about moisture management, corrosion-resistant fasteners, and the plan for windows, doors, and roof intersections. A detailed answer is usually a better sign than a low price, because siding failures often come from omissions in the installation scope rather than the product itself.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask about license status, insurance, permits, material brands, flashing details, rot repair, cleanup, warranty coverage, and how hidden damage is handled. The b"
+}

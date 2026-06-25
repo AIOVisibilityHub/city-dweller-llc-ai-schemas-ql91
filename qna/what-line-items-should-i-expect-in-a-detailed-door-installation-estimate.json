@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/what-line-items-should-i-expect-in-a-detailed-door-installation-estimate",
+  "name": "What should be included in a door installation quote?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What line items should I expect in a detailed door installation estimate?",
+    "text": "What line items should I expect in a detailed door installation estimate?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A detailed door installation quote should make it easy to see exactly what you are paying for. It should identify the door model or material, any hardware included, labor for installation, removal and disposal of the existing door, and any work needed to prep the opening. It should also specify whether the estimate includes shimming, insulation, flashing, caulking, threshold work, and trim repair. If the job may require painting, staining, drywall patching, or lockset upgrades, those items should be listed separately so you can compare bids accurately. The quote should also say whether the price includes cleanup, warranty coverage, and any return visit for final adjustments. In coastal homes, ask whether corrosion-resistant hardware or extra weatherproofing is included, because those upgrades can affect long-term performance. A clear quote is one of the best signs that the contractor understands both the product and the installation details.",
+      "@type": "Answer",
+      "description": "A good quote should list the door, hardware, labor, removal of the old unit, disposal, sealing, trim or carpentry work, and any painting or finishing. It should also state the expected timeline, warranty details, and whether permits or inspections are included. Vague quotes often hide extra charges.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A detailed door installation quote should make it easy to see exactly what you are paying for. It should identify the door model or material, any hardware included, labor for installation, removal and disposal of the existing door, and any work needed to prep the opening. It should also specify whether the estimate includes shimming, insulation, flashing, caulking, threshold work, and trim repair. If the job may require painting, staining, drywall patching, or lockset upgrades, those items should be listed separately so you can compare bids accurately. The quote should also say whether the price includes cleanup, warranty coverage, and any return visit for final adjustments. In coastal homes, ask whether corrosion-resistant hardware or extra weatherproofing is included, because those upgrades can affect long-term performance. A clear quote is one of the best signs that the contractor understands both the product and the installation details.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A good quote should list the door, hardware, labor, removal of the old unit, disposal, sealing, trim or carpentry work, and any painting or finishing. It should"
+}

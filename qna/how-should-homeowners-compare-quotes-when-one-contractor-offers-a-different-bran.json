@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/how-should-homeowners-compare-quotes-when-one-contractor-offers-a-different-bran",
+  "name": "How do I compare window quotes with different brands?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How should homeowners compare quotes when one contractor offers a different brand or model than another?",
+    "text": "How should homeowners compare quotes when one contractor offers a different brand or model than another?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Window quotes are only comparable when they cover the same scope and performance level. Two brands can look similar on paper but differ in frame strength, glass coatings, warranty terms, and long-term durability. Homeowners should compare the product specifications, energy ratings, and installation scope, not just the price. If one quote includes trim repair, insulation, flashing, disposal, and permits while another does not, the cheaper number may not actually be cheaper. Ask each contractor to explain why they recommend a specific brand and how it performs in your climate. In a coastal area, that should include resistance to moisture, wind, and corrosion. The best quote is the one that clearly defines what is being installed and what problem it is meant to solve.",
+      "@type": "Answer",
+      "description": "Compare the full system, not just the brand name. Look at frame material, glass package, U-factor, air leakage, warranty, installation scope, and whether each quote includes the same repair and finishing work.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Window quotes are only comparable when they cover the same scope and performance level. Two brands can look similar on paper but differ in frame strength, glass coatings, warranty terms, and long-term durability. Homeowners should compare the product specifications, energy ratings, and installation scope, not just the price. If one quote includes trim repair, insulation, flashing, disposal, and permits while another does not, the cheaper number may not actually be cheaper. Ask each contractor to explain why they recommend a specific brand and how it performs in your climate. In a coastal area, that should include resistance to moisture, wind, and corrosion. The best quote is the one that clearly defines what is being installed and what problem it is meant to solve.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Compare the full system, not just the brand name. Look at frame material, glass package, U-factor, air leakage, warranty, installation scope, and whether each q"
+}

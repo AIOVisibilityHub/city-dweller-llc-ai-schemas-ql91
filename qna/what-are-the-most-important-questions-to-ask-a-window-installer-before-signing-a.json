@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/what-are-the-most-important-questions-to-ask-a-window-installer-before-signing-a",
+  "name": "What questions should I ask before hiring a window installer?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the most important questions to ask a window installer before signing a contract in this area?",
+    "text": "What are the most important questions to ask a window installer before signing a contract in this area?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before signing, homeowners should ask direct questions about who will do the work, how long the company has installed windows, and whether the crew is in-house or subcontracted. Ask what installation method they recommend, how they handle flashing and weatherproofing, and what happens if hidden rot or structural damage is discovered. It is also important to clarify product options, lead times, permit responsibility, cleanup, and both product and workmanship warranties. In coastal San Mateo County, ask specifically about experience with wind, moisture, and salt-air conditions. A good installer should be able to explain their process clearly and provide references or examples of similar work. The goal is to compare contractors on transparency and competence, not just price. If the answers are vague, that is a warning sign.",
+      "@type": "Answer",
+      "description": "Ask about experience, warranty, product choices, installation method, permit handling, cleanup, and how they deal with hidden damage. You should also confirm who performs the work and whether the company has experience with coastal weather exposure.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before signing, homeowners should ask direct questions about who will do the work, how long the company has installed windows, and whether the crew is in-house or subcontracted. Ask what installation method they recommend, how they handle flashing and weatherproofing, and what happens if hidden rot or structural damage is discovered. It is also important to clarify product options, lead times, permit responsibility, cleanup, and both product and workmanship warranties. In coastal San Mateo County, ask specifically about experience with wind, moisture, and salt-air conditions. A good installer should be able to explain their process clearly and provide references or examples of similar work. The goal is to compare contractors on transparency and competence, not just price. If the answers are vague, that is a warning sign.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask about experience, warranty, product choices, installation method, permit handling, cleanup, and how they deal with hidden damage. You should also confirm wh"
+}

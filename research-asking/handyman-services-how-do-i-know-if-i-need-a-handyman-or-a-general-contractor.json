@@ -1,0 +1,21 @@
+{
+  "url": "http://bayareacitydweller.com/research-asking/handyman-services-how-do-i-know-if-i-need-a-handyman-or-a-general-contractor",
+  "name": "How do I know if I need a handyman or a general contractor?",
+  "@type": "QAPage",
+  "about": "Handyman Services",
+  "@context": "https://schema.org",
+  "headline": "How do I know if I need a handyman or a general contractor?",
+  "mainEntity": {
+    "name": "How do I know if I need a handyman or a general contractor?",
+    "text": "How do I know if I need a handyman or a general contractor?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "A handyman is best for **small to medium home repairs and projects**, while a general contractor is better for **large, complex jobs** that need permits, multiple trades, or structural changes. Use a **handyman** when you need things like: - Minor drywall repairs, caulking, and touch-up painting - Installing light fixtures, faucets, or door hardware - Fixing a fence or gate - Small carpentry jobs, like trim, shelving, or cabinets - Furniture assembly or TV mounting Use a **general contractor** when your project: - Changes the structure (walls moved, beams added, room additions) - Involves multiple trades at once (framing, electrical, plumbing, roofing) - Needs city permits or inspections - Has a higher budget and longer timeline, like a full kitchen or bathroom remodel Common pitfalls: - Hiring a handyman for work that legally needs a permit or licensed trade, like major electrical or plumbing changes. This can cause failed inspections or safety hazards. - Hiring a general contractor for tiny jobs; you may pay more and wait longer than necessary. Before you decide, write down what you want done. If it fits on a simple “honey‑do” list, a handyman is usually right. If it sounds like a “project with plans,” inspections, or months of work, you are probably in general‑contractor territory.",
+      "@type": "Answer",
+      "upvoteCount": 5
+    }
+  },
+  "description": "A handyman is best for **small to medium home repairs and projects**, while a general contractor is better for **large, complex jobs** that need permits, multip",
+  "articleSection": "What are people asking?"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/how-can-a-homeowner-tell-whether-a-window-in-pacifica-or-daly-city-needs-repair",
+  "name": "How do I know if my window needs repair or full replacement?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can a homeowner tell whether a window in Pacifica or Daly City needs repair, reglazing, or complete replacement?",
+    "text": "How can a homeowner tell whether a window in Pacifica or Daly City needs repair, reglazing, or complete replacement?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The decision between repair and replacement depends on the condition of the frame, sash, glass, and hardware. Minor problems such as a broken latch, worn weatherstripping, or a sticky lock can often be repaired. Replacement becomes the better choice when the window has recurring leaks, fogging between panes, rotted wood, warped frames, or repeated operational problems that return after repairs. In coastal homes, moisture damage is especially important because hidden rot can spread behind trim and flashing. If a window is hard to open, lets in drafts, or shows water staining around the opening, the issue may be more than cosmetic. A good installer should inspect the whole assembly and explain whether the failure is in the glass, sash, frame, or surrounding wall. Homeowners should ask for a clear diagnosis before approving replacement so they do not spend money on a full project when a targeted repair would solve the problem.",
+      "@type": "Answer",
+      "description": "A window usually needs replacement when it has chronic drafts, water leaks, fogged insulated glass, rotted frames, failed hardware, or poor operation that repairs no longer solve. Minor issues like broken latches or worn seals may only need repair.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The decision between repair and replacement depends on the condition of the frame, sash, glass, and hardware. Minor problems such as a broken latch, worn weatherstripping, or a sticky lock can often be repaired. Replacement becomes the better choice when the window has recurring leaks, fogging between panes, rotted wood, warped frames, or repeated operational problems that return after repairs. In coastal homes, moisture damage is especially important because hidden rot can spread behind trim and flashing. If a window is hard to open, lets in drafts, or shows water staining around the opening, the issue may be more than cosmetic. A good installer should inspect the whole assembly and explain whether the failure is in the glass, sash, frame, or surrounding wall. Homeowners should ask for a clear diagnosis before approving replacement so they do not spend money on a full project when a targeted repair would solve the problem.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A window usually needs replacement when it has chronic drafts, water leaks, fogged insulated glass, rotted frames, failed hardware, or poor operation that repai"
+}

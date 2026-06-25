@@ -1,0 +1,21 @@
+{
+  "url": "http://bayareacitydweller.com/research-asking/kitchen-remodeling-can-i-remove-a-wall-to-open-up-my-kitchen-safely",
+  "name": "Can I remove a wall to open up my kitchen safely?",
+  "@type": "QAPage",
+  "about": "Kitchen Remodeling",
+  "@context": "https://schema.org",
+  "headline": "Can I remove a wall to open up my kitchen safely?",
+  "mainEntity": {
+    "name": "Can I remove a wall to open up my kitchen safely?",
+    "text": "Can I remove a wall to open up my kitchen safely?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "In cities like Pacifica, Daly City, San Bruno, and Half Moon Bay, many kitchen homeowners want open layouts, but removing a wall can be complex, especially in older homes. Taking out a wall is usually possible, but the key question is whether it’s **load-bearing** (supporting the structure above). If it is, you can’t just knock it down. You’ll need an engineer or qualified contractor to design a beam or other support, and your city will likely require permits and inspections. This adds cost and time. Even if the wall isn’t structural, it may contain electrical lines, plumbing, or HVAC. Rerouting those safely requires licensed trades and permits. Ignoring this can lead to serious safety issues, code violations, and big trouble when you sell the home or if something fails later. Cost-wise, a kitchen remodel that includes removing a non-load-bearing wall can push the total into the higher range of typical Bay Area kitchen budgets. If the wall is load-bearing, expect engineering fees, more labor, and possibly stronger beams for earthquake safety. If you’re set on an open concept, talk to a local contractor early and ask for an honest assessment of what your walls are doing. Sometimes partial openings, pass-throughs, or widened doorways give you a more open feel without the full complexity and cost of removing an entire wall.",
+      "@type": "Answer",
+      "upvoteCount": 4
+    }
+  },
+  "description": "In cities like Pacifica, Daly City, San Bruno, and Half Moon Bay, many kitchen homeowners want open layouts, but removing a wall can be complex, especially in o",
+  "articleSection": "What are people asking?"
+}

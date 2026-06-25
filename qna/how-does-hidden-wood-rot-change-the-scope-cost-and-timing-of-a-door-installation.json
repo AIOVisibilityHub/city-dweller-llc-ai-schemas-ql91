@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/how-does-hidden-wood-rot-change-the-scope-cost-and-timing-of-a-door-installation",
+  "name": "What happens if the door frame has hidden rot?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How does hidden wood rot change the scope, cost, and timing of a door installation?",
+    "text": "How does hidden wood rot change the scope, cost, and timing of a door installation?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Hidden rot is one of the most common reasons a door installation becomes more expensive than expected. Once the trim, casing, or existing frame is removed, the installer may find soft or damaged wood in the sill, jamb, or surrounding wall. If that happens, the rotten material usually has to be cut out and replaced before the new door can be installed correctly. That adds carpentry labor, materials, and time. Rot also points to a moisture problem, so the cause should be addressed, not just the visible damage. In coastal homes, repeated fog, rain exposure, or poor flashing can make hidden decay more likely. If you are gathering bids, ask whether the estimate includes an allowance for rot repair and how the contractor handles surprise discoveries. A good installer should explain what happens if the opening is not sound when the old unit is removed.",
+      "@type": "Answer",
+      "description": "Hidden rot can turn a simple replacement into a larger carpentry job because damaged wood must be removed and rebuilt before the new door is installed. That usually increases cost and time. Rot near the sill or jamb also signals a moisture problem that should be fixed so the new door does not fail again.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Hidden rot is one of the most common reasons a door installation becomes more expensive than expected. Once the trim, casing, or existing frame is removed, the installer may find soft or damaged wood in the sill, jamb, or surrounding wall. If that happens, the rotten material usually has to be cut out and replaced before the new door can be installed correctly. That adds carpentry labor, materials, and time. Rot also points to a moisture problem, so the cause should be addressed, not just the visible damage. In coastal homes, repeated fog, rain exposure, or poor flashing can make hidden decay more likely. If you are gathering bids, ask whether the estimate includes an allowance for rot repair and how the contractor handles surprise discoveries. A good installer should explain what happens if the opening is not sound when the old unit is removed.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Hidden rot can turn a simple replacement into a larger carpentry job because damaged wood must be removed and rebuilt before the new door is installed. That usu"
+}

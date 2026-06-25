@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/which-one-should-i-choose-for-a-replacement-project-and-why",
+  "name": "What is the difference between pre-hung and slab doors?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which one should I choose for a replacement project, and why?",
+    "text": "Which one should I choose for a replacement project, and why?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A pre-hung door includes the slab, frame, and hinges assembled together, so it is usually the better choice when the existing frame is damaged, warped, or badly out of square. It gives the installer a fresh system to work with and can solve problems caused by an old or failing jamb. A slab door is just the panel itself, which means the installer reuses the existing frame and hardware locations. That can save money if the frame is solid and properly aligned. In older homes or coastal homes with possible moisture damage, pre-hung replacement is often safer because it replaces more of the worn structure. The best option depends on whether you want a quick cosmetic swap or a more complete repair that improves fit, sealing, and performance.",
+      "@type": "Answer",
+      "description": "A pre-hung door comes already mounted in its own frame, which makes it better when the existing frame is damaged or out of square. A slab door is just the door itself and works best when the existing frame is still in good condition. The right choice depends on the state of the opening and how much carpentry is needed.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A pre-hung door includes the slab, frame, and hinges assembled together, so it is usually the better choice when the existing frame is damaged, warped, or badly out of square. It gives the installer a fresh system to work with and can solve problems caused by an old or failing jamb. A slab door is just the panel itself, which means the installer reuses the existing frame and hardware locations. That can save money if the frame is solid and properly aligned. In older homes or coastal homes with possible moisture damage, pre-hung replacement is often safer because it replaces more of the worn structure. The best option depends on whether you want a quick cosmetic swap or a more complete repair that improves fit, sealing, and performance.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A pre-hung door comes already mounted in its own frame, which makes it better when the existing frame is damaged or out of square. A slab door is just the door "
+}

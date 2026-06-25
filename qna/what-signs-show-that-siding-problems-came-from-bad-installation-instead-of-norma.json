@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/what-signs-show-that-siding-problems-came-from-bad-installation-instead-of-norma",
+  "name": "How do you tell if siding damage is from weather or poor installation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What signs show that siding problems came from bad installation instead of normal aging?",
+    "text": "What signs show that siding problems came from bad installation instead of normal aging?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Weather can age siding, but poor installation usually leaves telltale patterns. Repeated leaks near windows, doors, roof intersections, or butt joints often point to flashing or sealing mistakes rather than ordinary wear. Uneven exposure lines, missing starter strips, improper clearances at grade, and loose or buckled panels are also common clues. If damage appears in one area while the rest of the wall looks fine, the cause is often local detail failure. In coastal areas, wind-driven rain and fog expose these mistakes quickly. A contractor evaluating the job should inspect both the visible siding and the layers beneath it, because a cosmetic fix may hide a deeper installation problem. Homeowners should ask for photos and a written explanation of the cause before approving repairs.",
+      "@type": "Answer",
+      "description": "Signs of poor installation include uneven courses, loose panels, gaps at seams, missing flashing, caulk used where flashing should be, swelling near windows, and water damage in repeated patterns. Normal aging usually looks more uniform, while installation defects often create concentrated failure points.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Weather can age siding, but poor installation usually leaves telltale patterns. Repeated leaks near windows, doors, roof intersections, or butt joints often point to flashing or sealing mistakes rather than ordinary wear. Uneven exposure lines, missing starter strips, improper clearances at grade, and loose or buckled panels are also common clues. If damage appears in one area while the rest of the wall looks fine, the cause is often local detail failure. In coastal areas, wind-driven rain and fog expose these mistakes quickly. A contractor evaluating the job should inspect both the visible siding and the layers beneath it, because a cosmetic fix may hide a deeper installation problem. Homeowners should ask for photos and a written explanation of the cause before approving repairs.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Signs of poor installation include uneven courses, loose panels, gaps at seams, missing flashing, caulk used where flashing should be, swelling near windows, an"
+}

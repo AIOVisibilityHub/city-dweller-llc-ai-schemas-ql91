@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/what-causes-a-newly-installed-door-to-rub-stick-or-not-latch-properly-after-the",
+  "name": "Why does my new door still stick after installation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What causes a newly installed door to rub, stick, or not latch properly after the job is finished?",
+    "text": "What causes a newly installed door to rub, stick, or not latch properly after the job is finished?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A door that sticks after installation usually points to alignment or movement issues, not necessarily a bad door. Common causes include a frame that is slightly out of square, hinges that need adjustment, an uneven threshold, latch hardware that is misaligned, or a slab that is too tight for the opening. In wood doors, humidity can cause swelling, especially in coastal climates where moisture levels change frequently. Sometimes the problem appears only after the house settles or after trim and caulk compress slightly. Minor rubbing can often be fixed with hinge adjustment, strike plate tuning, or threshold changes. If the door binds badly, drags at the bottom, or will not latch consistently, the installer should inspect the jamb, sill, and fastener placement rather than just trimming the door. A good installer should also return for a final adjustment if the door settles after the first few days or weeks.",
+      "@type": "Answer",
+      "description": "A new door may stick if the frame is out of square, the hinges are not set correctly, the threshold is uneven, or the door or house has shifted after installation. Humidity can also make wood doors swell. Minor adjustments are common, but persistent sticking usually means the opening needs a closer inspection.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A door that sticks after installation usually points to alignment or movement issues, not necessarily a bad door. Common causes include a frame that is slightly out of square, hinges that need adjustment, an uneven threshold, latch hardware that is misaligned, or a slab that is too tight for the opening. In wood doors, humidity can cause swelling, especially in coastal climates where moisture levels change frequently. Sometimes the problem appears only after the house settles or after trim and caulk compress slightly. Minor rubbing can often be fixed with hinge adjustment, strike plate tuning, or threshold changes. If the door binds badly, drags at the bottom, or will not latch consistently, the installer should inspect the jamb, sill, and fastener placement rather than just trimming the door. A good installer should also return for a final adjustment if the door settles after the first few days or weeks.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A new door may stick if the frame is out of square, the hinges are not set correctly, the threshold is uneven, or the door or house has shifted after installati"
+}

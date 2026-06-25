@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/is-it-possible-to-replace-a-door-while-keeping-the-existing-interior-and-exterio",
+  "name": "Can I install a door in an older home without replacing the trim?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it possible to replace a door while keeping the existing interior and exterior trim intact?",
+    "text": "Is it possible to replace a door while keeping the existing interior and exterior trim intact?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "It is sometimes possible to replace a door without removing all of the trim, but that depends on the condition of the opening and the type of replacement. If the existing trim is in good shape, the frame is sound, and the new door fits the same rough opening, the installer may be able to preserve much of the trim. That can reduce mess and labor. However, older homes often have hidden issues such as soft wood, uneven walls, prior repair layers, or an opening that is no longer square. If the door needs a full-frame replacement or the new unit is a different size, trim removal and reinstallation may be necessary. In older Peninsula homes, it is smart to budget for the possibility of carpentry repair even if the first inspection looks simple. Ask the contractor whether the quote assumes trim stays in place and what would trigger extra work if the opening is not in ideal condition.",
+      "@type": "Answer",
+      "description": "Sometimes yes, but only if the existing trim is solid, square, and compatible with the new door system. If the frame is damaged, the wall is out of plumb, or the new door needs different sizing, trim removal may be unavoidable. Older homes often reveal hidden rot or uneven framing during installation.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "It is sometimes possible to replace a door without removing all of the trim, but that depends on the condition of the opening and the type of replacement. If the existing trim is in good shape, the frame is sound, and the new door fits the same rough opening, the installer may be able to preserve much of the trim. That can reduce mess and labor. However, older homes often have hidden issues such as soft wood, uneven walls, prior repair layers, or an opening that is no longer square. If the door needs a full-frame replacement or the new unit is a different size, trim removal and reinstallation may be necessary. In older Peninsula homes, it is smart to budget for the possibility of carpentry repair even if the first inspection looks simple. Ask the contractor whether the quote assumes trim stays in place and what would trigger extra work if the opening is not in ideal condition.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes yes, but only if the existing trim is solid, square, and compatible with the new door system. If the frame is damaged, the wall is out of plumb, or th"
+}

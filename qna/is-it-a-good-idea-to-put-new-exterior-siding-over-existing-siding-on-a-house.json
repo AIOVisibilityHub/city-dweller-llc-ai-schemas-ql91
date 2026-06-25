@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/is-it-a-good-idea-to-put-new-exterior-siding-over-existing-siding-on-a-house",
+  "name": "Can new siding be installed over old siding?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it a good idea to put new exterior siding over existing siding on a house?",
+    "text": "Is it a good idea to put new exterior siding over existing siding on a house?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Installing new siding over old siding can save time and demolition costs, but it is not always the best choice. The existing siding must be flat, securely attached, dry, and free of rot or trapped moisture. If the old layer is damaged, wavy, soft, or hiding failed flashing, covering it up can lock in problems and shorten the life of the new system. Some materials also have specific requirements about whether they can be installed over another layer. In coastal areas, where moisture intrusion is a common issue, full removal is often the safer option because it allows the contractor to inspect sheathing, repair hidden damage, and install proper water management details. Homeowners should ask the contractor to explain the pros and cons of overlay versus tear-off for their specific house, not just the material in general.",
+      "@type": "Answer",
+      "description": "Sometimes siding can be installed over an existing layer, but only if the old siding is stable, flat, dry, and allowed by local code and manufacturer instructions. In many cases, removing the old siding is better because it reveals rot, improves flashing, and creates a safer wall assembly.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Installing new siding over old siding can save time and demolition costs, but it is not always the best choice. The existing siding must be flat, securely attached, dry, and free of rot or trapped moisture. If the old layer is damaged, wavy, soft, or hiding failed flashing, covering it up can lock in problems and shorten the life of the new system. Some materials also have specific requirements about whether they can be installed over another layer. In coastal areas, where moisture intrusion is a common issue, full removal is often the safer option because it allows the contractor to inspect sheathing, repair hidden damage, and install proper water management details. Homeowners should ask the contractor to explain the pros and cons of overlay versus tear-off for their specific house, not just the material in general.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes siding can be installed over an existing layer, but only if the old siding is stable, flat, dry, and allowed by local code and manufacturer instructio"
+}

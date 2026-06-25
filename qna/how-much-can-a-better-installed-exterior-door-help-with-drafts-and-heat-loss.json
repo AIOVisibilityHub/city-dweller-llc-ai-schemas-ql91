@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/how-much-can-a-better-installed-exterior-door-help-with-drafts-and-heat-loss",
+  "name": "Can door installation improve energy efficiency enough to lower bills?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How much can a better-installed exterior door help with drafts and heat loss?",
+    "text": "How much can a better-installed exterior door help with drafts and heat loss?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A new exterior door can improve energy efficiency, but the biggest gains usually come from the quality of the installation rather than just the door model. If the old door had gaps, failed weatherstripping, a warped frame, or a leaking threshold, replacing it can noticeably reduce drafts and improve comfort. That can be especially helpful in windy coastal areas where air leakage is more noticeable. Proper shimming, sealing, flashing, and threshold setup all help the door perform as intended. A high-end door with poor installation may leak more than a midrange door that is fitted correctly. If energy savings matter to you, ask the installer which parts of the assembly reduce air infiltration and whether they recommend upgraded weatherstripping, insulated cores, or better seals for your exposure level.",
+      "@type": "Answer",
+      "description": "A well-installed exterior door can reduce drafts, air leakage, and heat loss, especially if the old door was poorly sealed or out of square. The biggest energy gains usually come from proper weatherstripping, a sealed threshold, and a tight frame fit. Installation quality often matters more than door style alone.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A new exterior door can improve energy efficiency, but the biggest gains usually come from the quality of the installation rather than just the door model. If the old door had gaps, failed weatherstripping, a warped frame, or a leaking threshold, replacing it can noticeably reduce drafts and improve comfort. That can be especially helpful in windy coastal areas where air leakage is more noticeable. Proper shimming, sealing, flashing, and threshold setup all help the door perform as intended. A high-end door with poor installation may leak more than a midrange door that is fitted correctly. If energy savings matter to you, ask the installer which parts of the assembly reduce air infiltration and whether they recommend upgraded weatherstripping, insulated cores, or better seals for your exposure level.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A well-installed exterior door can reduce drafts, air leakage, and heat loss, especially if the old door was poorly sealed or out of square. The biggest energy "
+}

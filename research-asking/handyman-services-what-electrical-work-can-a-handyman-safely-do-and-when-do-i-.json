@@ -1,0 +1,21 @@
+{
+  "url": "http://bayareacitydweller.com/research-asking/handyman-services-what-electrical-work-can-a-handyman-safely-do-and-when-do-i-",
+  "name": "What electrical work can a handyman safely do, and when do I need an electrician?",
+  "@type": "QAPage",
+  "about": "Handyman Services",
+  "@context": "https://schema.org",
+  "headline": "What electrical work can a handyman safely do, and when do I need an electrician?",
+  "mainEntity": {
+    "name": "What electrical work can a handyman safely do, and when do I need an electrician?",
+    "text": "What electrical work can a handyman safely do, and when do I need an electrician?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Many handymen can do **light electrical work**, but only licensed electricians should handle major or risky tasks. This is both a safety and code issue. A handyman is usually fine for: - Swapping existing light fixtures or ceiling fans where wiring is already in place - Replacing outlets and switches, especially if they are like‑for‑like - Installing simple dimmers (within limits) or smart switches that match existing wiring Call a **licensed electrician** when you need: - New circuits, new wiring runs, or panel upgrades - Work near water (bathrooms, kitchens, outdoors) that must meet specific code rules - Electric car chargers, hot tubs, or other high‑load equipment - Troubleshooting flickering lights, frequent breaker trips, or burning smells Pitfalls: - Letting unqualified people open your electrical panel or modify wiring behind walls. Mistakes can cause shocks, fires, or insurance problems later. - Skipping permits when they are required. Future buyers and inspectors may flag unpermitted electrical work. Before starting, ask the handyman what kind of electrical work they are comfortable with and how often they do it. If they sound unsure, do not push them into it. It is safer and often cheaper long term to call a pro for anything beyond basic fixture replacement.",
+      "@type": "Answer",
+      "upvoteCount": 5
+    }
+  },
+  "description": "Many handymen can do **light electrical work**, but only licensed electricians should handle major or risky tasks. This is both a safety and code issue. A handy",
+  "articleSection": "What are people asking?"
+}

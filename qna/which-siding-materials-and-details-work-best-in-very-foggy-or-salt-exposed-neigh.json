@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/which-siding-materials-and-details-work-best-in-very-foggy-or-salt-exposed-neigh",
+  "name": "What is the best siding for homes with heavy fog and salt air?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which siding materials and details work best in very foggy or salt-exposed neighborhoods?",
+    "text": "Which siding materials and details work best in very foggy or salt-exposed neighborhoods?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Homes exposed to fog and salt air need more than a durable face material. The assembly must dry properly, resist corrosion, and keep water out at joints and penetrations. Fiber cement is often preferred because it is stable and low-maintenance, but it still needs correct flashing, joint treatment, and paint or coating maintenance. Engineered wood can perform well if installed to manufacturer standards and kept away from splash zones. Fasteners should be corrosion-resistant, and trim details should avoid trapping moisture. Ventilation behind the siding, proper clearances above grade and roofs, and kickout flashing at roof intersections are especially important in coastal neighborhoods. In this environment, a well-installed moderate-cost siding often outperforms a premium product that was installed poorly.",
+      "@type": "Answer",
+      "description": "The best siding for fog and salt air is usually a material with high moisture resistance plus a system designed for drainage and drying. Fiber cement and well-detailed engineered products are common choices, but flashing, sealants, corrosion-resistant fasteners, and clearances matter just as much as the siding itself.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Homes exposed to fog and salt air need more than a durable face material. The assembly must dry properly, resist corrosion, and keep water out at joints and penetrations. Fiber cement is often preferred because it is stable and low-maintenance, but it still needs correct flashing, joint treatment, and paint or coating maintenance. Engineered wood can perform well if installed to manufacturer standards and kept away from splash zones. Fasteners should be corrosion-resistant, and trim details should avoid trapping moisture. Ventilation behind the siding, proper clearances above grade and roofs, and kickout flashing at roof intersections are especially important in coastal neighborhoods. In this environment, a well-installed moderate-cost siding often outperforms a premium product that was installed poorly.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The best siding for fog and salt air is usually a material with high moisture resistance plus a system designed for drainage and drying. Fiber cement and well-d"
+}

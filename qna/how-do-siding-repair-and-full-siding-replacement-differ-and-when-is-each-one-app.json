@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/how-do-siding-repair-and-full-siding-replacement-differ-and-when-is-each-one-app",
+  "name": "What is the difference between a re-side and a siding repair?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do siding repair and full siding replacement differ, and when is each one appropriate?",
+    "text": "How do siding repair and full siding replacement differ, and when is each one appropriate?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A siding repair is usually limited to a damaged area, such as a few boards, a corner, or a section around one opening. A full re-side removes and replaces most or all of the exterior cladding, often along with trim, flashing upgrades, and related wall repairs. Repair can be a smart option when the rest of the siding is in good condition and the damage is clearly isolated. Re-siding is usually the better investment when the siding is old, brittle, repeatedly leaking, or has widespread rot or cosmetic failure. In coastal communities, homeowners often start with a “repair” request and discover that hidden water damage makes a broader replacement more practical. The contractor should explain whether the problem is local or systemic and why their recommended scope makes the most sense.",
+      "@type": "Answer",
+      "description": "Siding repair fixes localized damage in a small section of the wall, while a re-side replaces most or all of the exterior siding system. Repair is appropriate for isolated damage; replacement is better when the siding is widespread, failing in multiple areas, or hiding moisture problems.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A siding repair is usually limited to a damaged area, such as a few boards, a corner, or a section around one opening. A full re-side removes and replaces most or all of the exterior cladding, often along with trim, flashing upgrades, and related wall repairs. Repair can be a smart option when the rest of the siding is in good condition and the damage is clearly isolated. Re-siding is usually the better investment when the siding is old, brittle, repeatedly leaking, or has widespread rot or cosmetic failure. In coastal communities, homeowners often start with a “repair” request and discover that hidden water damage makes a broader replacement more practical. The contractor should explain whether the problem is local or systemic and why their recommended scope makes the most sense.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Siding repair fixes localized damage in a small section of the wall, while a re-side replaces most or all of the exterior siding system. Repair is appropriate f"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/how-is-a-door-installation-handled-when-the-rough-opening-does-not-fit-the-new-u",
+  "name": "What should I do if my installer finds the opening is too small?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How is a door installation handled when the rough opening does not fit the new unit?",
+    "text": "How is a door installation handled when the rough opening does not fit the new unit?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If the rough opening is too small, the installer should not force the door in. Depending on the situation, they may be able to trim framing, adjust the jamb area, or recommend a different-size unit that fits the opening more naturally. In some cases, the best solution is to order a custom-size door rather than making major field modifications. The exact fix depends on how far off the opening is, whether the wall structure allows safe modification, and whether the new door can still be sealed and operated properly after adjustment. If the opening is only slightly undersized, small framing changes may solve the problem. If it is significantly off, a different door size is often safer and cleaner. Ask the installer to explain the tradeoff between modifying the opening and changing the door order so you understand the impact on cost, time, and final fit.",
+      "@type": "Answer",
+      "description": "If the opening is too small, the installer may need to trim framing, adjust the rough opening, or order a different-size door. Forcing the door into place can cause future sticking and sealing problems. The right fix depends on how much the opening misses the required dimensions.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If the rough opening is too small, the installer should not force the door in. Depending on the situation, they may be able to trim framing, adjust the jamb area, or recommend a different-size unit that fits the opening more naturally. In some cases, the best solution is to order a custom-size door rather than making major field modifications. The exact fix depends on how far off the opening is, whether the wall structure allows safe modification, and whether the new door can still be sealed and operated properly after adjustment. If the opening is only slightly undersized, small framing changes may solve the problem. If it is significantly off, a different door size is often safer and cleaner. Ask the installer to explain the tradeoff between modifying the opening and changing the door order so you understand the impact on cost, time, and final fit.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If the opening is too small, the installer may need to trim framing, adjust the rough opening, or order a different-size door. Forcing the door into place can c"
+}

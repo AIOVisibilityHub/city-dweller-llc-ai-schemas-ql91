@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/what-should-be-included-in-a-good-siding-estimate-so-homeowners-can-compare-bids",
+  "name": "How do you compare siding bids fairly?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should be included in a good siding estimate so homeowners can compare bids?",
+    "text": "What should be included in a good siding estimate so homeowners can compare bids?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The best siding estimates are itemized enough to show what is actually included. Homeowners should look for scope details on tear-off, hauling away debris, sheathing repairs, flashing, trim replacement, sealants, painting, permit costs, and site cleanup. It is also important to see whether the bid includes an allowance for hidden rot or whether every repair becomes a change order. Two bids can differ by thousands of dollars simply because one contractor has included the full wall assembly while another has priced only the visible siding. In coastal communities, flashing, moisture control, and corrosion-resistant hardware should be clearly named, not assumed. A well-written estimate makes it possible to compare contractors on scope and quality, not just on price.",
+      "@type": "Answer",
+      "description": "A fair siding bid should list demolition, disposal, materials, trim, flashing, caulking, painting, permits, labor, cleanup, and allowances for hidden damage. Comparing only the bottom-line price can be misleading if one bid excludes important parts of the wall system.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The best siding estimates are itemized enough to show what is actually included. Homeowners should look for scope details on tear-off, hauling away debris, sheathing repairs, flashing, trim replacement, sealants, painting, permit costs, and site cleanup. It is also important to see whether the bid includes an allowance for hidden rot or whether every repair becomes a change order. Two bids can differ by thousands of dollars simply because one contractor has included the full wall assembly while another has priced only the visible siding. In coastal communities, flashing, moisture control, and corrosion-resistant hardware should be clearly named, not assumed. A well-written estimate makes it possible to compare contractors on scope and quality, not just on price.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A fair siding bid should list demolition, disposal, materials, trim, flashing, caulking, painting, permits, labor, cleanup, and allowances for hidden damage. Co"
+}

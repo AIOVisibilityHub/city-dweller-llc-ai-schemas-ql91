@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/how-can-a-contractor-tell-if-the-walls-under-old-siding-have-rot-or-water-damage",
+  "name": "How do you find hidden rot before new siding goes on?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can a contractor tell if the walls under old siding have rot or water damage?",
+    "text": "How can a contractor tell if the walls under old siding have rot or water damage?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Hidden rot is one of the most important issues in exterior siding replacement, especially in foggy or wind-driven rain areas. Contractors typically inspect around windows, doors, bottom edges, roof-to-wall transitions, and any place where old flashing may have failed. They may use a moisture meter, probe soft spots, and remove small test sections before committing to full replacement. Once the old siding comes off, they can see whether the sheathing is sound, whether framing is compromised, and whether the housewrap or vapor barrier has failed. If rot is found, the contractor should document it with photos and explain the repair scope before continuing. Homeowners should ask whether the estimate includes a repair allowance or whether hidden damage will be billed separately. That question prevents surprises and makes it easier to compare bids fairly.",
+      "@type": "Answer",
+      "description": "Hidden rot is usually found by removing sample sections of old siding, checking sheathing and framing around windows, doors, and edges, and inspecting for softness, staining, mold, or failed flashing. Moisture meters and close visual inspection help, but some damage only becomes visible after demolition begins.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Hidden rot is one of the most important issues in exterior siding replacement, especially in foggy or wind-driven rain areas. Contractors typically inspect around windows, doors, bottom edges, roof-to-wall transitions, and any place where old flashing may have failed. They may use a moisture meter, probe soft spots, and remove small test sections before committing to full replacement. Once the old siding comes off, they can see whether the sheathing is sound, whether framing is compromised, and whether the housewrap or vapor barrier has failed. If rot is found, the contractor should document it with photos and explain the repair scope before continuing. Homeowners should ask whether the estimate includes a repair allowance or whether hidden damage will be billed separately. That question prevents surprises and makes it easier to compare bids fairly.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Hidden rot is usually found by removing sample sections of old siding, checking sheathing and framing around windows, doors, and edges, and inspecting for softn"
+}

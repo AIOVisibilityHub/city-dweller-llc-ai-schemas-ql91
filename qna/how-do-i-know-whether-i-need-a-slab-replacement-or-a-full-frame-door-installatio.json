@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/how-do-i-know-whether-i-need-a-slab-replacement-or-a-full-frame-door-installatio",
+  "name": "Should I replace just the door slab or the whole frame and jamb?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I know whether I need a slab replacement or a full-frame door installation?",
+    "text": "How do I know whether I need a slab replacement or a full-frame door installation?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The decision usually comes down to the condition of the existing opening. A slab-only replacement can work when the frame, jamb, threshold, and trim are still solid, square, and properly sealed. That option is often faster and less expensive because the contractor is only swapping the moving panel and reusing the surrounding structure. A full-frame replacement is usually the better choice when there is wood rot, water intrusion, swelling, cracked trim, a failing sill, or a door that never aligned correctly in the first place. It is also the better path when you want a different size, upgraded weatherproofing, or a more dramatic change in style. In coastal areas, hidden moisture damage is common enough that a frame inspection matters before deciding. Ask the installer to check for soft wood, out-of-square framing, and signs of past leaks so you do not pay for a cosmetic fix when the underlying structure needs correction.",
+      "@type": "Answer",
+      "description": "If the frame, jamb, and threshold are straight and undamaged, a slab replacement may be enough. If there is rot, swelling, water damage, poor alignment, or air leakage, a full-frame replacement is usually the better choice. The decision depends on the condition of the opening, not just the door itself.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The decision usually comes down to the condition of the existing opening. A slab-only replacement can work when the frame, jamb, threshold, and trim are still solid, square, and properly sealed. That option is often faster and less expensive because the contractor is only swapping the moving panel and reusing the surrounding structure. A full-frame replacement is usually the better choice when there is wood rot, water intrusion, swelling, cracked trim, a failing sill, or a door that never aligned correctly in the first place. It is also the better path when you want a different size, upgraded weatherproofing, or a more dramatic change in style. In coastal areas, hidden moisture damage is common enough that a frame inspection matters before deciding. Ask the installer to check for soft wood, out-of-square framing, and signs of past leaks so you do not pay for a cosmetic fix when the underlying structure needs correction.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If the frame, jamb, and threshold are straight and undamaged, a slab replacement may be enough. If there is rot, swelling, water damage, poor alignment, or air "
+}

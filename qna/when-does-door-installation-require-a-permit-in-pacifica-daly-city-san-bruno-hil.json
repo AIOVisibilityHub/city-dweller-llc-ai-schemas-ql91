@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/when-does-door-installation-require-a-permit-in-pacifica-daly-city-san-bruno-hil",
+  "name": "Do I need a permit to replace or enlarge a door opening in San Mateo County cities?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When does door installation require a permit in Pacifica, Daly City, San Bruno, Hillsborough, or Half Moon Bay?",
+    "text": "When does door installation require a permit in Pacifica, Daly City, San Bruno, Hillsborough, or Half Moon Bay?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Permit needs usually depend on whether the project is a simple replacement or a structural change. Replacing an existing door in the same opening is often simpler than cutting a new opening, widening a doorway, or changing a load-bearing wall. Exterior work may also trigger additional review if it affects framing, fire separation, accessibility, or emergency egress. In coastal and hillside homes, weatherproofing, structural anchoring, and exterior wall conditions can also affect how the work is reviewed. Because these rules can differ by city and by project scope, the safest approach is to confirm permit requirements before ordering the door or scheduling installation. A contractor should be able to tell you whether the project is likely to need approval, what drawings or measurements may be required, and whether inspections are part of the process. If you are comparing installers, ask them to explain exactly which part of the job is permit-ready and which part is just standard replacement work.",
+      "@type": "Answer",
+      "description": "A permit is more likely when the work changes the structural opening, enlarges a doorway, alters exterior walls, or affects egress requirements. A like-for-like door replacement may not need the same review as a structural change. Requirements can vary by city, so homeowners should confirm before starting the project.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Permit needs usually depend on whether the project is a simple replacement or a structural change. Replacing an existing door in the same opening is often simpler than cutting a new opening, widening a doorway, or changing a load-bearing wall. Exterior work may also trigger additional review if it affects framing, fire separation, accessibility, or emergency egress. In coastal and hillside homes, weatherproofing, structural anchoring, and exterior wall conditions can also affect how the work is reviewed. Because these rules can differ by city and by project scope, the safest approach is to confirm permit requirements before ordering the door or scheduling installation. A contractor should be able to tell you whether the project is likely to need approval, what drawings or measurements may be required, and whether inspections are part of the process. If you are comparing installers, ask them to explain exactly which part of the job is permit-ready and which part is just standard replacement work.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A permit is more likely when the work changes the structural opening, enlarges a doorway, alters exterior walls, or affects egress requirements. A like-for-like"
+}

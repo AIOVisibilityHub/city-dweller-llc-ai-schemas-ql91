@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/what-should-be-considered-when-choosing-siding-for-a-house-with-older-or-custom",
+  "name": "How do you match new siding to an older home style?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should be considered when choosing siding for a house with older or custom architecture?",
+    "text": "What should be considered when choosing siding for a house with older or custom architecture?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Matching siding to an older home is about proportion as much as material. The wrong reveal width, trim thickness, or texture can make a house look awkward even if the product is high quality. Homeowners should consider whether the original architecture favors shingles, lap siding, vertical boards, or a mixed facade. Color also matters because dark or high-contrast finishes can change how large or small the home appears. A skilled contractor can recommend siding profiles that respect the original style while still using modern, durable materials. This is especially important in neighborhoods where curb appeal and historic character influence resale value. The best result usually comes from selecting a product that works with the design instead of forcing a generic modern look onto the house.",
+      "@type": "Answer",
+      "description": "Match the siding profile, reveal, trim size, texture, and color to the home’s architectural style, not just the existing material. Older homes often look best when proportions are preserved and modern materials are detailed to mimic the original design.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Matching siding to an older home is about proportion as much as material. The wrong reveal width, trim thickness, or texture can make a house look awkward even if the product is high quality. Homeowners should consider whether the original architecture favors shingles, lap siding, vertical boards, or a mixed facade. Color also matters because dark or high-contrast finishes can change how large or small the home appears. A skilled contractor can recommend siding profiles that respect the original style while still using modern, durable materials. This is especially important in neighborhoods where curb appeal and historic character influence resale value. The best result usually comes from selecting a product that works with the design instead of forcing a generic modern look onto the house.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Match the siding profile, reveal, trim size, texture, and color to the home’s architectural style, not just the existing material. Older homes often look best w"
+}

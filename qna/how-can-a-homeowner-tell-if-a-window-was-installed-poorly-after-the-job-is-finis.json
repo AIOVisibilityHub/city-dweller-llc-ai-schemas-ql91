@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/how-can-a-homeowner-tell-if-a-window-was-installed-poorly-after-the-job-is-finis",
+  "name": "What are signs of a bad window installation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can a homeowner tell if a window was installed poorly after the job is finished?",
+    "text": "How can a homeowner tell if a window was installed poorly after the job is finished?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A bad installation often shows up as performance problems after the crew leaves. Drafts, water leaks, rattling in the frame, uneven trim, or windows that stick and do not lock properly are common warning signs. In coastal areas, these issues can become more obvious during wind and rain. Homeowners should also look for caulk that is messy or incomplete, gaps around the frame, damaged interior finishes, and any signs of moisture staining after a storm. If a window fogs between panes, the issue may be with the product itself, but if the whole unit feels loose or leaks around the perimeter, the installation may be the problem. It is best to report concerns quickly while the workmanship warranty is still active. A reputable installer should inspect and correct legitimate issues rather than dismiss them.",
+      "@type": "Answer",
+      "description": "Common signs of poor installation include drafts, sticking sashes, visible gaps, water intrusion, uneven trim, rattling, and condensation from air leakage. If windows do not open and lock smoothly or show staining after rain, the installation may need correction.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A bad installation often shows up as performance problems after the crew leaves. Drafts, water leaks, rattling in the frame, uneven trim, or windows that stick and do not lock properly are common warning signs. In coastal areas, these issues can become more obvious during wind and rain. Homeowners should also look for caulk that is messy or incomplete, gaps around the frame, damaged interior finishes, and any signs of moisture staining after a storm. If a window fogs between panes, the issue may be with the product itself, but if the whole unit feels loose or leaks around the perimeter, the installation may be the problem. It is best to report concerns quickly while the workmanship warranty is still active. A reputable installer should inspect and correct legitimate issues rather than dismiss them.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Common signs of poor installation include drafts, sticking sashes, visible gaps, water intrusion, uneven trim, rattling, and condensation from air leakage. If w"
+}

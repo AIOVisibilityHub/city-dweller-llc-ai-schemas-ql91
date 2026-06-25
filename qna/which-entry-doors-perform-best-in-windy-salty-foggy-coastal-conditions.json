@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/which-entry-doors-perform-best-in-windy-salty-foggy-coastal-conditions",
+  "name": "What kind of door is best for strong wind and salt air?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which entry doors perform best in windy, salty, foggy coastal conditions?",
+    "text": "Which entry doors perform best in windy, salty, foggy coastal conditions?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "In windy coastal areas, the best door is usually one that stays stable, seals tightly, and uses hardware that will not corrode quickly. Fiberglass is often a strong choice because it resists swelling and warping better than many wood doors. Quality steel doors can also perform well if they have proper coatings and corrosion-resistant hinges, locks, and fasteners. For any material, the installation matters as much as the product. A strong door can still leak air and water if the frame is not square, the sill is not sealed, or the weatherstripping is weak. In places like Pacifica, Half Moon Bay, and other exposed Peninsula neighborhoods, ask about wind resistance, insulation around the frame, exterior sealants, and whether the lockset and hinges are rated for coastal use. If the home gets direct ocean air or frequent gusts, prioritize a tight seal and durable hardware over decorative features.",
+      "@type": "Answer",
+      "description": "For windy, salty conditions, the best doors usually combine a stable core, strong weatherstripping, corrosion-resistant hardware, and a well-sealed frame. Fiberglass and quality steel doors are common choices because they resist warping better than many wood options. Installation quality is critical because air leaks and poor sealing reduce performance quickly.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "In windy coastal areas, the best door is usually one that stays stable, seals tightly, and uses hardware that will not corrode quickly. Fiberglass is often a strong choice because it resists swelling and warping better than many wood doors. Quality steel doors can also perform well if they have proper coatings and corrosion-resistant hinges, locks, and fasteners. For any material, the installation matters as much as the product. A strong door can still leak air and water if the frame is not square, the sill is not sealed, or the weatherstripping is weak. In places like Pacifica, Half Moon Bay, and other exposed Peninsula neighborhoods, ask about wind resistance, insulation around the frame, exterior sealants, and whether the lockset and hinges are rated for coastal use. If the home gets direct ocean air or frequent gusts, prioritize a tight seal and durable hardware over decorative features.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "For windy, salty conditions, the best doors usually combine a stable core, strong weatherstripping, corrosion-resistant hardware, and a well-sealed frame. Fiber"
+}

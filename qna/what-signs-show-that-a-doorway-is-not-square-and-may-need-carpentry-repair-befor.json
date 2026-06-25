@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/what-signs-show-that-a-doorway-is-not-square-and-may-need-carpentry-repair-befor",
+  "name": "How do I know if my door opening is out of square?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What signs show that a doorway is not square and may need carpentry repair before installation?",
+    "text": "What signs show that a doorway is not square and may need carpentry repair before installation?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "An out-of-square opening usually shows up through uneven gaps, difficult latching, rubbing at one corner, or a door that swings but never sits quite right. Installers confirm this by measuring the diagonals of the opening, checking whether the jamb is plumb and level, and testing whether the sill and head are aligned. Even a small deviation can make a door bind or leave drafts. In older homes or homes that have settled, an opening may also be out of square because of prior water damage or structural movement. If the opening is noticeably off, the installer may need to reset the frame, add shims, plane the door, or perform carpentry repair before the door will work correctly. If you are getting estimates, ask whether the contractor expects the opening to be standard or whether they have already seen signs that the frame needs correction.",
+      "@type": "Answer",
+      "description": "A doorway may be out of square if gaps are uneven, the door rubs in one corner, the latch does not line up, or the frame measurements differ from corner to corner. Installers check diagonals, plumb, and level to confirm it. An out-of-square opening often needs adjustment before a new door will operate correctly.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "An out-of-square opening usually shows up through uneven gaps, difficult latching, rubbing at one corner, or a door that swings but never sits quite right. Installers confirm this by measuring the diagonals of the opening, checking whether the jamb is plumb and level, and testing whether the sill and head are aligned. Even a small deviation can make a door bind or leave drafts. In older homes or homes that have settled, an opening may also be out of square because of prior water damage or structural movement. If the opening is noticeably off, the installer may need to reset the frame, add shims, plane the door, or perform carpentry repair before the door will work correctly. If you are getting estimates, ask whether the contractor expects the opening to be standard or whether they have already seen signs that the frame needs correction.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A doorway may be out of square if gaps are uneven, the door rubs in one corner, the latch does not line up, or the frame measurements differ from corner to corn"
+}

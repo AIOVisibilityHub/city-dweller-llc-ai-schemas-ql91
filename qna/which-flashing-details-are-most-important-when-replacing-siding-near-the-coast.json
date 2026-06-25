@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/which-flashing-details-are-most-important-when-replacing-siding-near-the-coast",
+  "name": "What flashing details matter most on coastal siding jobs?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which flashing details are most important when replacing siding near the coast?",
+    "text": "Which flashing details are most important when replacing siding near the coast?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Flashing is one of the biggest factors in whether a siding job lasts or fails. Around windows and doors, the installer should integrate flashing with the weather-resistive barrier so water can drain outward. At roof-to-wall intersections, kickout flashing is essential because it keeps runoff from dumping behind the siding. Decks, hose bibs, vents, electrical penetrations, and pipe openings all need careful sealing and flashing as well. In coastal communities, wind-driven rain can find tiny gaps, so the details matter more than many homeowners realize. The siding itself may look perfect while hidden water slowly damages the wall assembly behind it. A quality contractor should be able to explain exactly how each vulnerable junction will be waterproofed and should not treat flashing as an optional extra.",
+      "@type": "Answer",
+      "description": "The most critical flashing details are around windows, doors, roof-to-wall intersections, deck connections, and penetrations such as vents and pipes. Kickout flashing, sill flashing, and correct housewrap integration are especially important because they direct water out of the wall instead of letting it soak into the structure.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Flashing is one of the biggest factors in whether a siding job lasts or fails. Around windows and doors, the installer should integrate flashing with the weather-resistive barrier so water can drain outward. At roof-to-wall intersections, kickout flashing is essential because it keeps runoff from dumping behind the siding. Decks, hose bibs, vents, electrical penetrations, and pipe openings all need careful sealing and flashing as well. In coastal communities, wind-driven rain can find tiny gaps, so the details matter more than many homeowners realize. The siding itself may look perfect while hidden water slowly damages the wall assembly behind it. A quality contractor should be able to explain exactly how each vulnerable junction will be waterproofed and should not treat flashing as an optional extra.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The most critical flashing details are around windows, doors, roof-to-wall intersections, deck connections, and penetrations such as vents and pipes. Kickout fl"
+}

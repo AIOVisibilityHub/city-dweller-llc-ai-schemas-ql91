@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/do-homes-in-pacifica-half-moon-bay-and-other-coastal-areas-need-different-window",
+  "name": "Do coastal homes need special windows near the ocean?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do homes in Pacifica, Half Moon Bay, and other coastal areas need different windows than homes farther inland?",
+    "text": "Do homes in Pacifica, Half Moon Bay, and other coastal areas need different windows than homes farther inland?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Homes near the ocean often benefit from window systems designed for salt air, heavy moisture, and wind-driven rain. In Pacifica, Half Moon Bay, and other exposed coastal neighborhoods, installers should pay close attention to frame material, hardware finish, seal quality, and flashing details. Salt exposure can shorten the life of lower-grade hardware and metal components, so corrosion-resistant parts matter. Strong weather sealing also helps reduce drafts and water intrusion during storms. Homeowners should ask whether the window package is rated for coastal conditions and whether the installer uses marine-appropriate flashing and sealants. The best choice depends on the home’s exposure, budget, and maintenance preferences. Vinyl, fiberglass, and well-finished clad wood can all work, but the details of installation matter as much as the product. If the home is in a very windy or wet location, it is worth confirming the installation method and warranty coverage for water intrusion, because even a good window can fail if the opening is not prepared correctly.",
+      "@type": "Answer",
+      "description": "Coastal homes often need windows with stronger corrosion resistance, better weather sealing, and glazing that handles wind-driven rain and salt air. Frames, hardware, and exterior finishes should be chosen for marine exposure so they last longer and reduce leaks, drafts, and maintenance.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Homes near the ocean often benefit from window systems designed for salt air, heavy moisture, and wind-driven rain. In Pacifica, Half Moon Bay, and other exposed coastal neighborhoods, installers should pay close attention to frame material, hardware finish, seal quality, and flashing details. Salt exposure can shorten the life of lower-grade hardware and metal components, so corrosion-resistant parts matter. Strong weather sealing also helps reduce drafts and water intrusion during storms. Homeowners should ask whether the window package is rated for coastal conditions and whether the installer uses marine-appropriate flashing and sealants. The best choice depends on the home’s exposure, budget, and maintenance preferences. Vinyl, fiberglass, and well-finished clad wood can all work, but the details of installation matter as much as the product. If the home is in a very windy or wet location, it is worth confirming the installation method and warranty coverage for water intrusion, because even a good window can fail if the opening is not prepared correctly.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Coastal homes often need windows with stronger corrosion resistance, better weather sealing, and glazing that handles wind-driven rain and salt air. Frames, har"
+}

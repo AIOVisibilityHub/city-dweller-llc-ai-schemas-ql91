@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/will-new-exterior-siding-make-a-house-warmer-or-reduce-drafts",
+  "name": "Can siding installation improve energy efficiency?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Will new exterior siding make a house warmer or reduce drafts?",
+    "text": "Will new exterior siding make a house warmer or reduce drafts?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "New siding can help energy efficiency, but the improvement usually comes from what is done behind it. If the project includes air sealing, new housewrap, taped seams, better flashing, and added continuous insulation, the home may feel less drafty and more stable in temperature. If the contractor simply replaces the outer cladding without addressing leaks or thermal breaks, the energy benefit will be limited. This is one reason siding replacement is a good time to inspect the wall assembly and improve it while it is open. Homeowners should ask whether the proposal includes insulation upgrades or only the siding layer itself. In many homes, the best value comes from combining re-siding with envelope repairs rather than treating them as separate projects.",
+      "@type": "Answer",
+      "description": "New siding can improve energy performance if it includes upgraded housewrap, air sealing, insulation, and properly sealed penetrations. Siding by itself is not a major insulator, so the biggest gains come from fixing leaks and improving the wall assembly during replacement.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "New siding can help energy efficiency, but the improvement usually comes from what is done behind it. If the project includes air sealing, new housewrap, taped seams, better flashing, and added continuous insulation, the home may feel less drafty and more stable in temperature. If the contractor simply replaces the outer cladding without addressing leaks or thermal breaks, the energy benefit will be limited. This is one reason siding replacement is a good time to inspect the wall assembly and improve it while it is open. Homeowners should ask whether the proposal includes insulation upgrades or only the siding layer itself. In many homes, the best value comes from combining re-siding with envelope repairs rather than treating them as separate projects.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "New siding can improve energy performance if it includes upgraded housewrap, air sealing, insulation, and properly sealed penetrations. Siding by itself is not "
+}

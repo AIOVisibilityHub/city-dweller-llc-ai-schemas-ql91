@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/what-should-a-homeowner-do-if-the-installer-finds-rot-or-water-damage-after-remo",
+  "name": "What happens if hidden rot is found during window replacement?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should a homeowner do if the installer finds rot or water damage after removing the old windows?",
+    "text": "What should a homeowner do if the installer finds rot or water damage after removing the old windows?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Hidden rot is a common surprise in older or coastal homes because moisture can travel behind trim and into framing. If damage is found, the installer should document it, explain how extensive it is, and give the homeowner options before moving ahead. In many cases, the opening must be repaired or rebuilt so the new window has a solid, dry base. Simply covering rot with a new unit can trap moisture and shorten the life of the installation. Homeowners should ask whether the contractor charges separately for carpentry repairs, how those repairs will be approved, and whether the project timeline changes. A transparent installer will show photos, describe the condition clearly, and avoid guessing. This is one reason full-frame replacement can be safer in moisture-prone homes: it exposes problems that would otherwise remain hidden.",
+      "@type": "Answer",
+      "description": "If hidden rot is found, the installer should stop, document the damage, and explain the repair scope before continuing. The homeowner may need framing, trim, or flashing repairs before the new window can be installed correctly.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Hidden rot is a common surprise in older or coastal homes because moisture can travel behind trim and into framing. If damage is found, the installer should document it, explain how extensive it is, and give the homeowner options before moving ahead. In many cases, the opening must be repaired or rebuilt so the new window has a solid, dry base. Simply covering rot with a new unit can trap moisture and shorten the life of the installation. Homeowners should ask whether the contractor charges separately for carpentry repairs, how those repairs will be approved, and whether the project timeline changes. A transparent installer will show photos, describe the condition clearly, and avoid guessing. This is one reason full-frame replacement can be safer in moisture-prone homes: it exposes problems that would otherwise remain hidden.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If hidden rot is found, the installer should stop, document the damage, and explain the repair scope before continuing. The homeowner may need framing, trim, or"
+}

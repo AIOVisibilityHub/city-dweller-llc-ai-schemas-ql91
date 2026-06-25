@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/which-door-materials-hold-up-best-in-salt-air-wind-and-moisture-near-the-coast",
+  "name": "What is the best door material for coastal weather near Pacifica and Half Moon Bay?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which door materials hold up best in salt air, wind, and moisture near the coast?",
+    "text": "Which door materials hold up best in salt air, wind, and moisture near the coast?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "In coastal communities like Pacifica, Half Moon Bay, Montara, and El Granada, the best door material is usually the one that can handle moisture, wind, and salt exposure without warping or corroding. Fiberglass doors are popular because they are stable, low-maintenance, and can mimic wood without the same moisture sensitivity. Steel doors can perform well if they are properly finished and paired with corrosion-resistant hardware, but they need good protection against rust and dents. Wood doors can look excellent, but they generally require more maintenance and better sealing in marine climates. Material choice is only part of the decision, though. A high-quality installation should include proper flashing, sill sealing, exterior caulking, and hardware chosen for coastal exposure. If the door is for a front entry exposed to wind and rain, ask the installer which parts of the system are rated for moisture and salt resistance, not just which door slab looks best.",
+      "@type": "Answer",
+      "description": "For coastal areas, fiberglass, properly sealed steel, and high-quality protected wood are common choices, but the best option is usually the one that resists moisture, corrosion, and warping. Salt air and fog make poor sealing and low-grade hardware fail faster. A well-installed door with weatherproofing often matters as much as the material itself.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "In coastal communities like Pacifica, Half Moon Bay, Montara, and El Granada, the best door material is usually the one that can handle moisture, wind, and salt exposure without warping or corroding. Fiberglass doors are popular because they are stable, low-maintenance, and can mimic wood without the same moisture sensitivity. Steel doors can perform well if they are properly finished and paired with corrosion-resistant hardware, but they need good protection against rust and dents. Wood doors can look excellent, but they generally require more maintenance and better sealing in marine climates. Material choice is only part of the decision, though. A high-quality installation should include proper flashing, sill sealing, exterior caulking, and hardware chosen for coastal exposure. If the door is for a front entry exposed to wind and rain, ask the installer which parts of the system are rated for moisture and salt resistance, not just which door slab looks best.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "For coastal areas, fiberglass, properly sealed steel, and high-quality protected wood are common choices, but the best option is usually the one that resists mo"
+}

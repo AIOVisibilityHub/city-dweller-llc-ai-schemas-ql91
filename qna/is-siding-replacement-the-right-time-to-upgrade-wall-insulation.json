@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/is-siding-replacement-the-right-time-to-upgrade-wall-insulation",
+  "name": "Should old insulation be replaced when siding is removed?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is siding replacement the right time to upgrade wall insulation?",
+    "text": "Is siding replacement the right time to upgrade wall insulation?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Siding replacement is one of the best opportunities to evaluate wall insulation because the exterior assembly is already being opened. If insulation is wet, moldy, compressed, or missing in spots, it should be replaced rather than covered over. Many homeowners also use a re-side to improve thermal performance by adding continuous insulation or upgrading the air barrier. This can reduce drafts and improve comfort, especially in coastal homes with cool, damp conditions. The contractor should explain whether the existing insulation is sound, whether the wall cavity will be inspected, and whether any energy upgrades are practical within the project budget. Even if insulation is not replaced, the chance to inspect the wall is valuable because it can reveal hidden moisture paths that would otherwise keep causing problems.",
+      "@type": "Answer",
+      "description": "Yes, siding replacement is often the best time to inspect and replace damaged insulation, especially if the wall is already open. Wet, compressed, or contaminated insulation should be removed, and many owners also choose to add continuous insulation during the re-side.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Siding replacement is one of the best opportunities to evaluate wall insulation because the exterior assembly is already being opened. If insulation is wet, moldy, compressed, or missing in spots, it should be replaced rather than covered over. Many homeowners also use a re-side to improve thermal performance by adding continuous insulation or upgrading the air barrier. This can reduce drafts and improve comfort, especially in coastal homes with cool, damp conditions. The contractor should explain whether the existing insulation is sound, whether the wall cavity will be inspected, and whether any energy upgrades are practical within the project budget. Even if insulation is not replaced, the chance to inspect the wall is valuable because it can reveal hidden moisture paths that would otherwise keep causing problems.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, siding replacement is often the best time to inspect and replace damaged insulation, especially if the wall is already open. Wet, compressed, or contaminat"
+}

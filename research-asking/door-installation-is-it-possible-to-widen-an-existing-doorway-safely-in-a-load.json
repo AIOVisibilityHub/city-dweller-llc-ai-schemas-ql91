@@ -1,0 +1,21 @@
+{
+  "url": "http://bayareacitydweller.com/research-asking/door-installation-is-it-possible-to-widen-an-existing-doorway-safely-in-a-load",
+  "name": "Is it possible to widen an existing doorway safely in a load-bearing wall?",
+  "@type": "QAPage",
+  "about": "Door Installation",
+  "@context": "https://schema.org",
+  "headline": "Is it possible to widen an existing doorway safely in a load-bearing wall?",
+  "mainEntity": {
+    "name": "Is it possible to widen an existing doorway safely in a load-bearing wall?",
+    "text": "Is it possible to widen an existing doorway safely in a load-bearing wall?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Yes, you can usually widen an existing doorway, but it becomes more complicated when the wall is load-bearing. A load-bearing wall supports floors or roof above, so changing openings in these walls must be carefully planned and often requires a permit and inspection. To widen a doorway safely, the contractor may install a stronger header (a horizontal support above the opening) and adjust or add studs on each side to carry the load. This structural work must follow building code so the home remains stable. Non-load-bearing walls are simpler, but even then you need to deal with electrical wires, switches, or plumbing that might be inside the wall. Cutting without checking can damage hidden systems. Pitfalls include assuming a wall isn’t load-bearing based on guesswork, or cutting the opening larger without proper support. This can cause cracks in walls and ceilings or even sagging over time. Another risk is forgetting that widening affects trim, flooring, and maybe doors themselves, adding cost. Before widening, it’s wise to get a professional opinion about whether the wall carries load. If it does, plan for structural changes and permits. This is not a project to rush or treat as simple demo, especially in older homes where framing patterns can be less predictable.",
+      "@type": "Answer",
+      "upvoteCount": 4
+    }
+  },
+  "description": "Yes, you can usually widen an existing doorway, but it becomes more complicated when the wall is load-bearing. A load-bearing wall supports floors or roof above",
+  "articleSection": "What are people asking?"
+}

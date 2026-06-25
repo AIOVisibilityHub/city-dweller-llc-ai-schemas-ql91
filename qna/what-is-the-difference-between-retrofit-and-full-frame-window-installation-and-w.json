@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/what-is-the-difference-between-retrofit-and-full-frame-window-installation-and-w",
+  "name": "What is the difference between retrofit and full-frame window installation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the difference between retrofit and full-frame window installation, and which one is better for older homes in this area?",
+    "text": "What is the difference between retrofit and full-frame window installation, and which one is better for older homes in this area?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Retrofit installation is usually faster and less expensive because the installer leaves the existing frame in place and fits a new window into that opening. Full-frame installation removes the old window, frame, and trim down to the rough opening, which allows the crew to inspect and repair hidden damage. For older homes in Pacifica, Daly City, and coastal areas with moisture exposure, full-frame replacement is often the better choice if there are signs of rot, failed flashing, or past leaks. Retrofit can be a good option when the existing frame is square, dry, and in sound condition. The downside is that retrofit may preserve hidden problems and slightly reduce glass area. Full-frame takes more time and costs more, but it gives the installer a cleaner starting point and usually better long-term performance. Homeowners should ask the contractor to explain which method is being proposed, what condition the existing frame is in, and whether any hidden repairs are included in the estimate.",
+      "@type": "Answer",
+      "description": "Retrofit installation keeps the existing frame and replaces only the window unit, while full-frame installation removes the entire window down to the rough opening. Full-frame is better when there is rot, leaks, damaged framing, or a need to change the window size or style.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Retrofit installation is usually faster and less expensive because the installer leaves the existing frame in place and fits a new window into that opening. Full-frame installation removes the old window, frame, and trim down to the rough opening, which allows the crew to inspect and repair hidden damage. For older homes in Pacifica, Daly City, and coastal areas with moisture exposure, full-frame replacement is often the better choice if there are signs of rot, failed flashing, or past leaks. Retrofit can be a good option when the existing frame is square, dry, and in sound condition. The downside is that retrofit may preserve hidden problems and slightly reduce glass area. Full-frame takes more time and costs more, but it gives the installer a cleaner starting point and usually better long-term performance. Homeowners should ask the contractor to explain which method is being proposed, what condition the existing frame is in, and whether any hidden repairs are included in the estimate.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Retrofit installation keeps the existing frame and replaces only the window unit, while full-frame installation removes the entire window down to the rough open"
+}

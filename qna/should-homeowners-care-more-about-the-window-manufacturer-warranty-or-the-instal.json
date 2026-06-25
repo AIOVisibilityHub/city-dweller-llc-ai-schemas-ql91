@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/should-homeowners-care-more-about-the-window-manufacturer-warranty-or-the-instal",
+  "name": "What warranty matters most: product or installation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should homeowners care more about the window manufacturer warranty or the installer’s workmanship warranty?",
+    "text": "Should homeowners care more about the window manufacturer warranty or the installer’s workmanship warranty?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Product warranties and installation warranties serve different purposes. The manufacturer’s warranty usually covers defects in the window unit, such as hardware failures or glass seal problems, while the installer’s warranty covers workmanship issues like leaks, misalignment, and sealing problems. In coastal homes, the workmanship warranty is especially important because even a good window can fail if flashing or sealing is done poorly. Homeowners should ask how long the installation warranty lasts, what it covers, and how service calls are handled if something goes wrong. It is also important to know whether the warranty is transferable to a future owner, which can matter when selling the home. A strong warranty is only useful if it is backed by a contractor who will still be around to honor it, so experience and reputation matter too.",
+      "@type": "Answer",
+      "description": "Both matter, but they cover different risks. The product warranty covers defects in the window itself, while the installation warranty covers problems caused by workmanship, sealing, or fit. A strong workmanship warranty is especially important for leak-prone coastal homes.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Product warranties and installation warranties serve different purposes. The manufacturer’s warranty usually covers defects in the window unit, such as hardware failures or glass seal problems, while the installer’s warranty covers workmanship issues like leaks, misalignment, and sealing problems. In coastal homes, the workmanship warranty is especially important because even a good window can fail if flashing or sealing is done poorly. Homeowners should ask how long the installation warranty lasts, what it covers, and how service calls are handled if something goes wrong. It is also important to know whether the warranty is transferable to a future owner, which can matter when selling the home. A strong warranty is only useful if it is backed by a contractor who will still be around to honor it, so experience and reputation matter too.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Both matter, but they cover different risks. The product warranty covers defects in the window itself, while the installation warranty covers problems caused by"
+}

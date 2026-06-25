@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/what-should-homeowners-move-cover-or-clear-before-the-installer-arrives",
+  "name": "How do I prepare my home before door installation day?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should homeowners move, cover, or clear before the installer arrives?",
+    "text": "What should homeowners move, cover, or clear before the installer arrives?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before installation day, clear a path from the entry to the work area so the crew can move tools, the new door, and the old unit without obstacles. Move furniture, shoes, rugs, plants, and wall decor away from the doorway, and make sure the installer has easy access to the entry both inside and outside. If there is a security system, smart lock, or doorbell wiring, note that in advance so the crew can work around it safely. Pets and children should be kept away from the area during the job because the opening may be exposed and tools will be in use. In homes with limited driveway or stair access, it also helps to confirm parking and material staging ahead of time. A little preparation can save time, reduce accidental damage, and make it easier for the installer to complete final adjustments and cleanup.",
+      "@type": "Answer",
+      "description": "Clear the work area, remove wall decor and furniture near the door, unlock access points, and keep pets and children away from the site. If possible, make space for the old door and materials to be carried through safely. Good preparation helps the job go faster and reduces the chance of damage.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before installation day, clear a path from the entry to the work area so the crew can move tools, the new door, and the old unit without obstacles. Move furniture, shoes, rugs, plants, and wall decor away from the doorway, and make sure the installer has easy access to the entry both inside and outside. If there is a security system, smart lock, or doorbell wiring, note that in advance so the crew can work around it safely. Pets and children should be kept away from the area during the job because the opening may be exposed and tools will be in use. In homes with limited driveway or stair access, it also helps to confirm parking and material staging ahead of time. A little preparation can save time, reduce accidental damage, and make it easier for the installer to complete final adjustments and cleanup.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Clear the work area, remove wall decor and furniture near the door, unlock access points, and keep pets and children away from the site. If possible, make space"
+}

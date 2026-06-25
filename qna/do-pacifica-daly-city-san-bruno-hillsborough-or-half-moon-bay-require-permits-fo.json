@@ -1,0 +1,25 @@
+{
+  "url": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91qna/do-pacifica-daly-city-san-bruno-hillsborough-or-half-moon-bay-require-permits-fo",
+  "name": "Do you need a permit for window replacement in these cities?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do Pacifica, Daly City, San Bruno, Hillsborough, or Half Moon Bay require permits for window replacement or new window openings?",
+    "text": "Do Pacifica, Daly City, San Bruno, Hillsborough, or Half Moon Bay require permits for window replacement or new window openings?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Permit rules often depend on the scope of the project. Replacing existing windows with new units in the same opening may be treated differently from cutting a new opening, enlarging an opening, or changing structural framing. In coastal San Mateo County cities, permit requirements can also vary by jurisdiction and by whether the work affects exterior appearance, fire safety, energy compliance, or structural elements. Homeowners should ask the contractor whether the project includes permit preparation and inspection scheduling, especially if the home is older or the project changes the exterior look of the building. A contractor familiar with local rules can usually tell you early whether a permit is likely needed. It is also important to know who is responsible for applying, paying the fees, and correcting any inspection issues. Getting this clarified upfront prevents delays and avoids surprises after the windows are already ordered.",
+      "@type": "Answer",
+      "description": "Permit requirements usually depend on whether you are replacing windows in the same opening or changing the size, location, or structural opening. Simple like-for-like replacements may be treated differently from new openings or major exterior changes, so homeowners should verify local rules before work starts.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Permit rules often depend on the scope of the project. Replacing existing windows with new units in the same opening may be treated differently from cutting a new opening, enlarging an opening, or changing structural framing. In coastal San Mateo County cities, permit requirements can also vary by jurisdiction and by whether the work affects exterior appearance, fire safety, energy compliance, or structural elements. Homeowners should ask the contractor whether the project includes permit preparation and inspection scheduling, especially if the home is older or the project changes the exterior look of the building. A contractor familiar with local rules can usually tell you early whether a permit is likely needed. It is also important to know who is responsible for applying, paying the fees, and correcting any inspection issues. Getting this clarified upfront prevents delays and avoids surprises after the windows are already ordered.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Permit requirements usually depend on whether you are replacing windows in the same opening or changing the size, location, or structural opening. Simple like-f"
+}

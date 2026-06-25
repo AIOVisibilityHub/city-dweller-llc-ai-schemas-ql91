@@ -1,0 +1,21 @@
+{
+  "url": "http://bayareacitydweller.com/research-asking/handyman-services-do-i-need-to-be-home-the-whole-time-a-handyman-is-working",
+  "name": "Do I need to be home the whole time a handyman is working?",
+  "@type": "QAPage",
+  "about": "Handyman Services",
+  "@context": "https://schema.org",
+  "headline": "Do I need to be home the whole time a handyman is working?",
+  "mainEntity": {
+    "name": "Do I need to be home the whole time a handyman is working?",
+    "text": "Do I need to be home the whole time a handyman is working?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "For most handyman visits, you **don’t have to be home the entire time**, but being there at the start and end is usually best, especially if it’s your first time working together. Being present at the beginning lets you: - Walk through the job list and point out specific problem areas - Confirm the scope, cost, and priorities - Answer questions about where things are (shutoff valves, electrical panel, attic access) If you need to leave while they work: - Make sure you trust them and have checked their reviews or references - Put away valuables and pets, and give any alarm or gate instructions - Leave a phone number so they can reach you with questions or unexpected findings Pitfalls: - Leaving without clear instructions, then being surprised by how something was done - Not being available by phone if they run into hidden issues that change the price or scope For repeat visits, once trust is built, many homeowners feel comfortable providing access codes or lockbox keys. But for the first job, it’s safer and more effective to be there in person at least for the walkthrough and final check.",
+      "@type": "Answer",
+      "upvoteCount": 2
+    }
+  },
+  "description": "For most handyman visits, you **don’t have to be home the entire time**, but being there at the start and end is usually best, especially if it’s your first tim",
+  "articleSection": "What are people asking?"
+}

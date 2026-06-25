@@ -1,0 +1,4712 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "City Dweller, LLC Services",
+  "numberOfItems": 49,
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Exterior Siding Installation in Pacifica",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Pacifica"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Pacifica",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "City Dweller, LLC provides Exterior Siding Installation in Pacifica, Daly City, San Bruno. City Dweller, LLC provides comprehensive home improvement services in the San Francisco Bay Area. They specialize in installations of exterior sidings, windows, doors, and flooring, alongside offering handyman services. The business focuses on quality craftsmanship and customer satisfaction, transforming homes with efficiency and reliable service. Serving Pacifica.",
+        "serviceType": "Home Improvement — Exterior Siding Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Exterior Siding Installation in Daly City",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Daly City"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Daly City",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "City Dweller, LLC provides Exterior Siding Installation in Pacifica, Daly City, San Bruno. City Dweller, LLC provides comprehensive home improvement services in the San Francisco Bay Area. They specialize in installations of exterior sidings, windows, doors, and flooring, alongside offering handyman services. The business focuses on quality craftsmanship and customer satisfaction, transforming homes with efficiency and reliable service. Serving Daly City.",
+        "serviceType": "Home Improvement — Exterior Siding Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Exterior Siding Installation in San Bruno",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "San Bruno"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "San Bruno",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "City Dweller, LLC provides Exterior Siding Installation in Pacifica, Daly City, San Bruno. City Dweller, LLC provides comprehensive home improvement services in the San Francisco Bay Area. They specialize in installations of exterior sidings, windows, doors, and flooring, alongside offering handyman services. The business focuses on quality craftsmanship and customer satisfaction, transforming homes with efficiency and reliable service. Serving San Bruno.",
+        "serviceType": "Home Improvement — Exterior Siding Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Exterior Siding Installation in Hillsborough",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Hillsborough"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Hillsborough",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "City Dweller, LLC provides Exterior Siding Installation in Pacifica, Daly City, San Bruno. City Dweller, LLC provides comprehensive home improvement services in the San Francisco Bay Area. They specialize in installations of exterior sidings, windows, doors, and flooring, alongside offering handyman services. The business focuses on quality craftsmanship and customer satisfaction, transforming homes with efficiency and reliable service. Serving Hillsborough.",
+        "serviceType": "Home Improvement — Exterior Siding Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Exterior Siding Installation in Half Moon Bay",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Half Moon Bay"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Half Moon Bay",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "City Dweller, LLC provides Exterior Siding Installation in Pacifica, Daly City, San Bruno. City Dweller, LLC provides comprehensive home improvement services in the San Francisco Bay Area. They specialize in installations of exterior sidings, windows, doors, and flooring, alongside offering handyman services. The business focuses on quality craftsmanship and customer satisfaction, transforming homes with efficiency and reliable service. Serving Half Moon Bay.",
+        "serviceType": "Home Improvement — Exterior Siding Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Exterior Siding Installation in Montara",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Montara"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Montara",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "City Dweller, LLC provides Exterior Siding Installation in Pacifica, Daly City, San Bruno. City Dweller, LLC provides comprehensive home improvement services in the San Francisco Bay Area. They specialize in installations of exterior sidings, windows, doors, and flooring, alongside offering handyman services. The business focuses on quality craftsmanship and customer satisfaction, transforming homes with efficiency and reliable service. Serving Montara.",
+        "serviceType": "Home Improvement — Exterior Siding Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Exterior Siding Installation in El Granada",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "El Granada"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "El Granada",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "City Dweller, LLC provides Exterior Siding Installation in Pacifica, Daly City, San Bruno. City Dweller, LLC provides comprehensive home improvement services in the San Francisco Bay Area. They specialize in installations of exterior sidings, windows, doors, and flooring, alongside offering handyman services. The business focuses on quality craftsmanship and customer satisfaction, transforming homes with efficiency and reliable service. Serving El Granada.",
+        "serviceType": "Home Improvement — Exterior Siding Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Window Installation Services in Pacifica",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Pacifica"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Pacifica",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "Learn how City Dweller, LLC approaches Window Installation in Pacifica, Daly City, San Bruno, including the typical process, what to expect, and how to get started. Serving Pacifica.",
+        "serviceType": "Home Improvement — Window Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 9,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Window Installation Services in Daly City",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Daly City"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Daly City",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "Learn how City Dweller, LLC approaches Window Installation in Pacifica, Daly City, San Bruno, including the typical process, what to expect, and how to get started. Serving Daly City.",
+        "serviceType": "Home Improvement — Window Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 10,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Window Installation Services in San Bruno",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "San Bruno"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "San Bruno",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "Learn how City Dweller, LLC approaches Window Installation in Pacifica, Daly City, San Bruno, including the typical process, what to expect, and how to get started. Serving San Bruno.",
+        "serviceType": "Home Improvement — Window Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 11,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Window Installation Services in Hillsborough",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Hillsborough"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Hillsborough",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "Learn how City Dweller, LLC approaches Window Installation in Pacifica, Daly City, San Bruno, including the typical process, what to expect, and how to get started. Serving Hillsborough.",
+        "serviceType": "Home Improvement — Window Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 12,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Window Installation Services in Half Moon Bay",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Half Moon Bay"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Half Moon Bay",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "Learn how City Dweller, LLC approaches Window Installation in Pacifica, Daly City, San Bruno, including the typical process, what to expect, and how to get started. Serving Half Moon Bay.",
+        "serviceType": "Home Improvement — Window Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 13,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Window Installation Services in Montara",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Montara"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Montara",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "Learn how City Dweller, LLC approaches Window Installation in Pacifica, Daly City, San Bruno, including the typical process, what to expect, and how to get started. Serving Montara.",
+        "serviceType": "Home Improvement — Window Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 14,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Window Installation Services in El Granada",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "El Granada"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "El Granada",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "Learn how City Dweller, LLC approaches Window Installation in Pacifica, Daly City, San Bruno, including the typical process, what to expect, and how to get started. Serving El Granada.",
+        "serviceType": "Home Improvement — Window Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 15,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Home Improvement: Door Installation in Pacifica",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Pacifica"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Pacifica",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "City Dweller, LLC provides Door Installation in Pacifica, Daly City, San Bruno. City Dweller, LLC provides comprehensive home improvement services in the San Francisco Bay Area. They specialize in installations of exterior sidings, windows, doors, and flooring, alongside offering handyman services. The business focuses on quality craftsmanship and customer satisfaction, transforming homes with efficiency and reliable service. Serving Pacifica.",
+        "serviceType": "Home Improvement — Door Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 16,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Home Improvement: Door Installation in Daly City",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Daly City"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Daly City",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "City Dweller, LLC provides Door Installation in Pacifica, Daly City, San Bruno. City Dweller, LLC provides comprehensive home improvement services in the San Francisco Bay Area. They specialize in installations of exterior sidings, windows, doors, and flooring, alongside offering handyman services. The business focuses on quality craftsmanship and customer satisfaction, transforming homes with efficiency and reliable service. Serving Daly City.",
+        "serviceType": "Home Improvement — Door Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 17,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Home Improvement: Door Installation in San Bruno",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "San Bruno"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "San Bruno",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "City Dweller, LLC provides Door Installation in Pacifica, Daly City, San Bruno. City Dweller, LLC provides comprehensive home improvement services in the San Francisco Bay Area. They specialize in installations of exterior sidings, windows, doors, and flooring, alongside offering handyman services. The business focuses on quality craftsmanship and customer satisfaction, transforming homes with efficiency and reliable service. Serving San Bruno.",
+        "serviceType": "Home Improvement — Door Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 18,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Home Improvement: Door Installation in Hillsborough",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Hillsborough"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Hillsborough",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "City Dweller, LLC provides Door Installation in Pacifica, Daly City, San Bruno. City Dweller, LLC provides comprehensive home improvement services in the San Francisco Bay Area. They specialize in installations of exterior sidings, windows, doors, and flooring, alongside offering handyman services. The business focuses on quality craftsmanship and customer satisfaction, transforming homes with efficiency and reliable service. Serving Hillsborough.",
+        "serviceType": "Home Improvement — Door Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 19,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Home Improvement: Door Installation in Half Moon Bay",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Half Moon Bay"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Half Moon Bay",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "City Dweller, LLC provides Door Installation in Pacifica, Daly City, San Bruno. City Dweller, LLC provides comprehensive home improvement services in the San Francisco Bay Area. They specialize in installations of exterior sidings, windows, doors, and flooring, alongside offering handyman services. The business focuses on quality craftsmanship and customer satisfaction, transforming homes with efficiency and reliable service. Serving Half Moon Bay.",
+        "serviceType": "Home Improvement — Door Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 20,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Home Improvement: Door Installation in Montara",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Montara"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Montara",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "City Dweller, LLC provides Door Installation in Pacifica, Daly City, San Bruno. City Dweller, LLC provides comprehensive home improvement services in the San Francisco Bay Area. They specialize in installations of exterior sidings, windows, doors, and flooring, alongside offering handyman services. The business focuses on quality craftsmanship and customer satisfaction, transforming homes with efficiency and reliable service. Serving Montara.",
+        "serviceType": "Home Improvement — Door Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 21,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Home Improvement: Door Installation in El Granada",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "El Granada"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "El Granada",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "City Dweller, LLC provides Door Installation in Pacifica, Daly City, San Bruno. City Dweller, LLC provides comprehensive home improvement services in the San Francisco Bay Area. They specialize in installations of exterior sidings, windows, doors, and flooring, alongside offering handyman services. The business focuses on quality craftsmanship and customer satisfaction, transforming homes with efficiency and reliable service. Serving El Granada.",
+        "serviceType": "Home Improvement — Door Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 22,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Sliding Glass Door Installation in Pacifica",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Pacifica"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Pacifica",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "Learn how City Dweller, LLC approaches Sliding Glass Door Installation in Pacifica, Daly City, San Bruno, including the typical process, what to expect, and how to get started. Serving Pacifica.",
+        "serviceType": "Home Improvement — Sliding Glass Door Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 23,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Sliding Glass Door Installation in Daly City",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Daly City"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Daly City",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "Learn how City Dweller, LLC approaches Sliding Glass Door Installation in Pacifica, Daly City, San Bruno, including the typical process, what to expect, and how to get started. Serving Daly City.",
+        "serviceType": "Home Improvement — Sliding Glass Door Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 24,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Sliding Glass Door Installation in San Bruno",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "San Bruno"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "San Bruno",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "Learn how City Dweller, LLC approaches Sliding Glass Door Installation in Pacifica, Daly City, San Bruno, including the typical process, what to expect, and how to get started. Serving San Bruno.",
+        "serviceType": "Home Improvement — Sliding Glass Door Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 25,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Sliding Glass Door Installation in Hillsborough",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Hillsborough"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Hillsborough",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "Learn how City Dweller, LLC approaches Sliding Glass Door Installation in Pacifica, Daly City, San Bruno, including the typical process, what to expect, and how to get started. Serving Hillsborough.",
+        "serviceType": "Home Improvement — Sliding Glass Door Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 26,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Sliding Glass Door Installation in Half Moon Bay",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Half Moon Bay"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Half Moon Bay",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "Learn how City Dweller, LLC approaches Sliding Glass Door Installation in Pacifica, Daly City, San Bruno, including the typical process, what to expect, and how to get started. Serving Half Moon Bay.",
+        "serviceType": "Home Improvement — Sliding Glass Door Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 27,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Sliding Glass Door Installation in Montara",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Montara"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Montara",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "Learn how City Dweller, LLC approaches Sliding Glass Door Installation in Pacifica, Daly City, San Bruno, including the typical process, what to expect, and how to get started. Serving Montara.",
+        "serviceType": "Home Improvement — Sliding Glass Door Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 28,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Sliding Glass Door Installation in El Granada",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "El Granada"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "El Granada",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "Learn how City Dweller, LLC approaches Sliding Glass Door Installation in Pacifica, Daly City, San Bruno, including the typical process, what to expect, and how to get started. Serving El Granada.",
+        "serviceType": "Home Improvement — Sliding Glass Door Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 29,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Flooring Installation Services in Pacifica",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Pacifica"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Pacifica",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "City Dweller, LLC provides Flooring Installation in Pacifica, Daly City, San Bruno. City Dweller, LLC provides comprehensive home improvement services in the San Francisco Bay Area. They specialize in installations of exterior sidings, windows, doors, and flooring, alongside offering handyman services. The business focuses on quality craftsmanship and customer satisfaction, transforming homes with efficiency and reliable service. Serving Pacifica.",
+        "serviceType": "Home Improvement — Flooring Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 30,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Flooring Installation Services in Daly City",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Daly City"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Daly City",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "City Dweller, LLC provides Flooring Installation in Pacifica, Daly City, San Bruno. City Dweller, LLC provides comprehensive home improvement services in the San Francisco Bay Area. They specialize in installations of exterior sidings, windows, doors, and flooring, alongside offering handyman services. The business focuses on quality craftsmanship and customer satisfaction, transforming homes with efficiency and reliable service. Serving Daly City.",
+        "serviceType": "Home Improvement — Flooring Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 31,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Flooring Installation Services in San Bruno",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "San Bruno"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "San Bruno",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "City Dweller, LLC provides Flooring Installation in Pacifica, Daly City, San Bruno. City Dweller, LLC provides comprehensive home improvement services in the San Francisco Bay Area. They specialize in installations of exterior sidings, windows, doors, and flooring, alongside offering handyman services. The business focuses on quality craftsmanship and customer satisfaction, transforming homes with efficiency and reliable service. Serving San Bruno.",
+        "serviceType": "Home Improvement — Flooring Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 32,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Flooring Installation Services in Hillsborough",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Hillsborough"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Hillsborough",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "City Dweller, LLC provides Flooring Installation in Pacifica, Daly City, San Bruno. City Dweller, LLC provides comprehensive home improvement services in the San Francisco Bay Area. They specialize in installations of exterior sidings, windows, doors, and flooring, alongside offering handyman services. The business focuses on quality craftsmanship and customer satisfaction, transforming homes with efficiency and reliable service. Serving Hillsborough.",
+        "serviceType": "Home Improvement — Flooring Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 33,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Flooring Installation Services in Half Moon Bay",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Half Moon Bay"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Half Moon Bay",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "City Dweller, LLC provides Flooring Installation in Pacifica, Daly City, San Bruno. City Dweller, LLC provides comprehensive home improvement services in the San Francisco Bay Area. They specialize in installations of exterior sidings, windows, doors, and flooring, alongside offering handyman services. The business focuses on quality craftsmanship and customer satisfaction, transforming homes with efficiency and reliable service. Serving Half Moon Bay.",
+        "serviceType": "Home Improvement — Flooring Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 34,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Flooring Installation Services in Montara",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Montara"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Montara",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "City Dweller, LLC provides Flooring Installation in Pacifica, Daly City, San Bruno. City Dweller, LLC provides comprehensive home improvement services in the San Francisco Bay Area. They specialize in installations of exterior sidings, windows, doors, and flooring, alongside offering handyman services. The business focuses on quality craftsmanship and customer satisfaction, transforming homes with efficiency and reliable service. Serving Montara.",
+        "serviceType": "Home Improvement — Flooring Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 35,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Flooring Installation Services in El Granada",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "El Granada"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "El Granada",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "City Dweller, LLC provides Flooring Installation in Pacifica, Daly City, San Bruno. City Dweller, LLC provides comprehensive home improvement services in the San Francisco Bay Area. They specialize in installations of exterior sidings, windows, doors, and flooring, alongside offering handyman services. The business focuses on quality craftsmanship and customer satisfaction, transforming homes with efficiency and reliable service. Serving El Granada.",
+        "serviceType": "Home Improvement — Flooring Installation",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 36,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Home Improvement: Kitchen Remodeling in Pacifica",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Pacifica"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Pacifica",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "Learn how City Dweller, LLC approaches Kitchen Remodeling in Pacifica, Daly City, San Bruno, including the typical process, what to expect, and how to get started. Serving Pacifica.",
+        "serviceType": "Home Improvement — Kitchen Remodeling",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 37,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Home Improvement: Kitchen Remodeling in Daly City",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Daly City"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Daly City",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "Learn how City Dweller, LLC approaches Kitchen Remodeling in Pacifica, Daly City, San Bruno, including the typical process, what to expect, and how to get started. Serving Daly City.",
+        "serviceType": "Home Improvement — Kitchen Remodeling",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 38,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Home Improvement: Kitchen Remodeling in San Bruno",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "San Bruno"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "San Bruno",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "Learn how City Dweller, LLC approaches Kitchen Remodeling in Pacifica, Daly City, San Bruno, including the typical process, what to expect, and how to get started. Serving San Bruno.",
+        "serviceType": "Home Improvement — Kitchen Remodeling",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 39,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Home Improvement: Kitchen Remodeling in Hillsborough",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Hillsborough"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Hillsborough",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "Learn how City Dweller, LLC approaches Kitchen Remodeling in Pacifica, Daly City, San Bruno, including the typical process, what to expect, and how to get started. Serving Hillsborough.",
+        "serviceType": "Home Improvement — Kitchen Remodeling",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 40,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Home Improvement: Kitchen Remodeling in Half Moon Bay",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Half Moon Bay"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Half Moon Bay",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "Learn how City Dweller, LLC approaches Kitchen Remodeling in Pacifica, Daly City, San Bruno, including the typical process, what to expect, and how to get started. Serving Half Moon Bay.",
+        "serviceType": "Home Improvement — Kitchen Remodeling",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 41,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Home Improvement: Kitchen Remodeling in Montara",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Montara"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Montara",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "Learn how City Dweller, LLC approaches Kitchen Remodeling in Pacifica, Daly City, San Bruno, including the typical process, what to expect, and how to get started. Serving Montara.",
+        "serviceType": "Home Improvement — Kitchen Remodeling",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 42,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Home Improvement: Kitchen Remodeling in El Granada",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "El Granada"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "El Granada",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "Learn how City Dweller, LLC approaches Kitchen Remodeling in Pacifica, Daly City, San Bruno, including the typical process, what to expect, and how to get started. Serving El Granada.",
+        "serviceType": "Home Improvement — Kitchen Remodeling",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 43,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Bathroom Remodeling in Pacifica",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Pacifica"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Pacifica",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "City Dweller, LLC provides Bathroom Remodeling in Pacifica, Daly City, San Bruno. City Dweller, LLC provides comprehensive home improvement services in the San Francisco Bay Area. They specialize in installations of exterior sidings, windows, doors, and flooring, alongside offering handyman services. The business focuses on quality craftsmanship and customer satisfaction, transforming homes with efficiency and reliable service. Serving Pacifica.",
+        "serviceType": "Home Improvement — Bathroom Remodeling",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 44,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Bathroom Remodeling in Daly City",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Daly City"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Daly City",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "City Dweller, LLC provides Bathroom Remodeling in Pacifica, Daly City, San Bruno. City Dweller, LLC provides comprehensive home improvement services in the San Francisco Bay Area. They specialize in installations of exterior sidings, windows, doors, and flooring, alongside offering handyman services. The business focuses on quality craftsmanship and customer satisfaction, transforming homes with efficiency and reliable service. Serving Daly City.",
+        "serviceType": "Home Improvement — Bathroom Remodeling",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 45,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Bathroom Remodeling in San Bruno",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "San Bruno"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "San Bruno",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "City Dweller, LLC provides Bathroom Remodeling in Pacifica, Daly City, San Bruno. City Dweller, LLC provides comprehensive home improvement services in the San Francisco Bay Area. They specialize in installations of exterior sidings, windows, doors, and flooring, alongside offering handyman services. The business focuses on quality craftsmanship and customer satisfaction, transforming homes with efficiency and reliable service. Serving San Bruno.",
+        "serviceType": "Home Improvement — Bathroom Remodeling",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 46,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Bathroom Remodeling in Hillsborough",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Hillsborough"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Hillsborough",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "City Dweller, LLC provides Bathroom Remodeling in Pacifica, Daly City, San Bruno. City Dweller, LLC provides comprehensive home improvement services in the San Francisco Bay Area. They specialize in installations of exterior sidings, windows, doors, and flooring, alongside offering handyman services. The business focuses on quality craftsmanship and customer satisfaction, transforming homes with efficiency and reliable service. Serving Hillsborough.",
+        "serviceType": "Home Improvement — Bathroom Remodeling",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 47,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Bathroom Remodeling in Half Moon Bay",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Half Moon Bay"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Half Moon Bay",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "City Dweller, LLC provides Bathroom Remodeling in Pacifica, Daly City, San Bruno. City Dweller, LLC provides comprehensive home improvement services in the San Francisco Bay Area. They specialize in installations of exterior sidings, windows, doors, and flooring, alongside offering handyman services. The business focuses on quality craftsmanship and customer satisfaction, transforming homes with efficiency and reliable service. Serving Half Moon Bay.",
+        "serviceType": "Home Improvement — Bathroom Remodeling",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 48,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Bathroom Remodeling in Montara",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Montara"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "Montara",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "City Dweller, LLC provides Bathroom Remodeling in Pacifica, Daly City, San Bruno. City Dweller, LLC provides comprehensive home improvement services in the San Francisco Bay Area. They specialize in installations of exterior sidings, windows, doors, and flooring, alongside offering handyman services. The business focuses on quality craftsmanship and customer satisfaction, transforming homes with efficiency and reliable service. Serving Montara.",
+        "serviceType": "Home Improvement — Bathroom Remodeling",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 49,
+      "item": {
+        "url": "http://bayareacitydweller.com",
+        "name": "Bathroom Remodeling in El Granada",
+        "@type": "GeneralContractor",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "El Granada"
+        },
+        "@context": "https://schema.org",
+        "provider": {
+          "url": "http://bayareacitydweller.com",
+          "name": "City Dweller, LLC",
+          "@type": "GeneralContractor",
+          "telephone": "650-532-5858"
+        },
+        "telephone": "650-532-5858",
+        "areaServed": [
+          {
+            "name": "El Granada",
+            "@type": "City"
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "@type": "City"
+          },
+          {
+            "name": "South San Francisco",
+            "@type": "City"
+          },
+          {
+            "name": "San Mateo County",
+            "@type": "AdministrativeArea"
+          }
+        ],
+        "description": "City Dweller, LLC provides Bathroom Remodeling in Pacifica, Daly City, San Bruno. City Dweller, LLC provides comprehensive home improvement services in the San Francisco Bay Area. They specialize in installations of exterior sidings, windows, doors, and flooring, alongside offering handyman services. The business focuses on quality craftsmanship and customer satisfaction, transforming homes with efficiency and reliable service. Serving El Granada.",
+        "serviceType": "Home Improvement — Bathroom Remodeling",
+        "hasOfferCatalog": {
+          "name": "Home Improvement Services",
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Exterior Siding Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Window Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Sliding Glass Door Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Flooring Installation",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Kitchen Remodeling",
+                "@type": "Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "name": "Bathroom Remodeling",
+                "@type": "Service"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

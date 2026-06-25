@@ -1,0 +1,2786 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-06-25T23:13:30.767Z",
+  "client": {
+    "name": "City Dweller, LLC",
+    "canonicalUrl": "http://bayareacitydweller.com",
+    "pagesUrl": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91",
+    "phone": "650-532-5858",
+    "email": "citydwellergeneralcontracting@gmail.com",
+    "locations": [],
+    "services": [
+      "Exterior Siding Installation",
+      "Window Installation",
+      "Door Installation",
+      "Sliding Glass Door Installation",
+      "Flooring Installation",
+      "Kitchen Remodeling",
+      "Bathroom Remodeling",
+      "General Contractor Services",
+      "Handyman Services"
+    ],
+    "cities": [
+      "Pacifica",
+      "Daly City",
+      "San Bruno",
+      "Hillsborough",
+      "Half Moon Bay",
+      "Montara",
+      "El Granada",
+      "San Mateo County",
+      "San Francisco",
+      "South San Francisco"
+    ]
+  },
+  "package": {
+    "totalFiles": 536,
+    "totalBytes": 5425380,
+    "stats": {
+      "qna": 213,
+      "faqs": 166,
+      "press": 0,
+      "total": 796,
+      "awards": 0,
+      "reviews": 27,
+      "products": 0,
+      "research": 151,
+      "services": 49,
+      "webpages": 90,
+      "locations": 0,
+      "personnel": 51,
+      "caseStudies": 0,
+      "helpArticles": 47,
+      "organization": 1
+    }
+  },
+  "entrypoints": {
+    "aiData": "ai-data.html",
+    "index": "index.html",
+    "llms": "llms.txt",
+    "aiSitemap": "ai-sitemap.xml",
+    "sitemap": "sitemap.xml",
+    "manifest": "publishing-manifest.json",
+    "canonicalManifest": "data/publishing-manifest.json",
+    "readme": "README.md"
+  },
+  "categories": {
+    "faqs": [
+      {
+        "path": "faqs/what-should-i-check-before-starting-exterior-siding-installation.json",
+        "bytes": 876,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-do-i-need-to-get-a-siding-installation-estimate.json",
+        "bytes": 953,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-exterior-siding-installation-usually-work.json",
+        "bytes": 976,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-siding-installation-usually-take.json",
+        "bytes": 853,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-exterior-siding-installation-cost.json",
+        "bytes": 840,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-tell-if-a-siding-contractor-is-reputable.json",
+        "bytes": 888,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-can-go-wrong-with-siding-installation.json",
+        "bytes": 850,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-expect-after-new-siding-is-installed.json",
+        "bytes": 896,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-siding-material-is-best-for-my-house.json",
+        "bytes": 860,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-consider-for-siding-installation-in-the-san-francisco-bay-area.json",
+        "bytes": 1030,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-the-siding-company-is-pressuring-me-to-sign-right-away.json",
+        "bytes": 922,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-permit-for-siding-replacement.json",
+        "bytes": 829,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-happens-during-a-siding-estimate-and-consultation.json",
+        "bytes": 959,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-is-my-siding-project-taking-longer-than-expected.json",
+        "bytes": 837,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-install-new-siding-over-the-old-siding-or-remove-it-first.json",
+        "bytes": 936,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-most-common-siding-installation-mistakes.json",
+        "bytes": 856,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-if-the-siding-installation-was-done-correctly.json",
+        "bytes": 860,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-i-need-new-siding-but-i-m-on-a-tight-budget.json",
+        "bytes": 935,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-questions-should-i-ask-before-hiring-a-siding-installer.json",
+        "bytes": 934,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-siding-works-best-near-the-coast.json",
+        "bytes": 910,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-the-contractor-finds-damage-under-my-old-siding.json",
+        "bytes": 876,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-siding-replacement-different-for-older-bay-area-homes.json",
+        "bytes": 940,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-warranty-should-i-expect-with-new-siding.json",
+        "bytes": 844,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-siding-contractors-usually-require-a-deposit.json",
+        "bytes": 790,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-if-a-siding-quote-is-actually-a-good-deal.json",
+        "bytes": 955,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-if-it-s-really-time-to-replace-my-windows-or-if-i-can-wait-a-few-m.json",
+        "bytes": 2083,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-window-installation-usually-take-and-will-my-house-be-exposed-over.json",
+        "bytes": 1983,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-real-difference-between-full-frame-and-pocket-window-installation-and.json",
+        "bytes": 2214,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-realistically-install-my-own-replacement-windows-or-is-diy-too-risky.json",
+        "bytes": 2149,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-should-i-expect-to-pay-per-window-for-professional-installation-in-the.json",
+        "bytes": 2200,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-type-of-window-material-holds-up-best-in-coastal-areas-like-pacifica-and-ha.json",
+        "bytes": 2065,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-to-get-my-house-ready-before-the-window-installers-show-up.json",
+        "bytes": 1980,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-if-my-new-windows-are-still-drafty-or-leaking-after-installatio.json",
+        "bytes": 2002,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-most-common-window-installation-mistakes-that-cause-problems-later.json",
+        "bytes": 2045,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-building-permit-to-replace-or-add-windows-in-my-bay-area-home.json",
+        "bytes": 2000,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-look-for-in-replacement-windows-if-my-main-goal-is-better-energy-e.json",
+        "bytes": 2060,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-new-windows-really-going-to-make-my-older-bay-area-home-more-comfortable-or.json",
+        "bytes": 2098,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-should-i-prioritize-window-replacement-if-i-can-t-afford-to-do-the-whole-hou.json",
+        "bytes": 2102,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-hoa-approval-to-replace-my-windows-in-a-condo-or-townhouse-in-san-mate.json",
+        "bytes": 1937,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-look-for-when-choosing-a-window-installation-contractor-beyond-jus.json",
+        "bytes": 2020,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-avoid-repeating-a-bad-window-installation-experience-i-had-with-a-prev.json",
+        "bytes": 2003,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-a-bad-idea-to-replace-my-windows-in-the-rainy-season-around-san-francisco.json",
+        "bytes": 1996,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-disruptive-is-window-installation-really-going-to-be-for-my-household.json",
+        "bytes": 1830,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-tell-if-my-new-windows-were-installed-correctly-and-not-just-slapped-i.json",
+        "bytes": 1899,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-a-window-breaks-suddenly-can-installers-handle-emergency-replacements-or.json",
+        "bytes": 1960,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-replacing-all-my-windows-trigger-a-big-property-tax-increase-or-is-it-treat.json",
+        "bytes": 2015,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/my-double-pane-windows-are-fogged-between-the-glass-does-that-mean-i-have-to-rep.json",
+        "bytes": 1975,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-need-a-new-door-but-have-no-idea-where-to-start-what-should-i-do-first-before.json",
+        "bytes": 1933,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-professional-door-installation-usually-take-from-start-to-finish-i.json",
+        "bytes": 1914,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-does-it-really-cost-to-have-a-door-professionally-installed-and-why-does-it.json",
+        "bytes": 1974,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-to-measure-my-existing-door-opening-before-i-call-someone-and-what-exa.json",
+        "bytes": 1922,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-installing-a-door-a-realistic-diy-project-or-am-i-setting-myself-up-for-probl.json",
+        "bytes": 1923,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-live-near-the-ocean-in-pacifica-what-kind-of-exterior-door-holds-up-best-to-sa.json",
+        "bytes": 1962,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/my-door-is-warped-and-keeps-sticking-should-i-try-to-repair-it-again-or-is-it-ti.json",
+        "bytes": 1937,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/for-a-front-entry-door-how-do-i-decide-between-wood-fiberglass-and-steel-what-ar.json",
+        "bytes": 1947,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/my-house-in-daly-city-is-old-and-quirky-can-a-new-door-even-be-installed-properl.json",
+        "bytes": 1884,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-permit-to-replace-or-add-a-door-in-my-san-mateo-county-home-or-can-i.json",
+        "bytes": 1929,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-m-in-a-condo-hoa-building-in-south-san-francisco-can-i-just-swap-my-front-or-b.json",
+        "bytes": 1930,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/my-exterior-door-is-damaged-and-won-t-close-what-should-i-do-right-now-and-how-f.json",
+        "bytes": 1931,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-need-several-doors-replaced-but-can-t-afford-to-do-everything-how-do-i-decide.json",
+        "bytes": 1799,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-keep-my-existing-door-trim-or-casing-when-i-replace-the-door-or-does-every.json",
+        "bytes": 1787,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-mainly-care-about-drafts-and-noise-what-should-i-look-for-in-a-new-door-and-it.json",
+        "bytes": 1868,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-sliding-patio-doors-harder-to-install-than-regular-doors-and-what-can-go-wro.json",
+        "bytes": 1812,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-there-anything-special-i-should-know-about-doors-between-the-garage-and-the-h.json",
+        "bytes": 1855,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-a-trustworthy-door-installer-and-avoid-getting-burned-by-a-bad-c.json",
+        "bytes": 1799,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-have-a-limited-budget-and-feel-awkward-talking-numbers-how-much-should-i-share.json",
+        "bytes": 1793,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/my-new-door-has-small-gaps-and-drafts-does-that-mean-it-was-installed-wrong-and.json",
+        "bytes": 1758,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-do-i-need-to-do-to-prepare-my-home-for-door-installation-day-so-it-doesn-t.json",
+        "bytes": 1763,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-often-should-exterior-doors-be-checked-or-maintained-in-places-like-half-moo.json",
+        "bytes": 1891,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-to-be-home-the-whole-time-during-door-installation-or-can-the-crew-wor.json",
+        "bytes": 1752,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-want-to-add-or-replace-a-sliding-glass-door-but-don-t-know-where-to-start-what.json",
+        "bytes": 2247,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-usually-take-to-install-a-new-sliding-glass-patio-door-from-sta.json",
+        "bytes": 2036,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-should-i-realistically-budget-to-install-or-replace-a-sliding-glass-doo.json",
+        "bytes": 2089,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-measurements-and-information-do-i-need-before-i-can-order-or-install-a-new.json",
+        "bytes": 2054,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/my-house-is-old-and-nothing-is-square-can-i-still-get-a-sliding-glass-door-insta.json",
+        "bytes": 2106,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-live-near-the-coast-pacifica-half-moon-bay-what-should-i-look-for-in-a-sliding.json",
+        "bytes": 2209,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/my-current-sliding-glass-door-is-drafty-should-i-repair-it-or-bite-the-bullet-an.json",
+        "bytes": 2062,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-install-a-sliding-glass-door-myself-or-is-this-one-of-those-projects-that.json",
+        "bytes": 1998,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-building-permit-to-install-or-replace-a-sliding-glass-door-at-my-hou.json",
+        "bytes": 2094,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-type-of-sliding-glass-door-is-best-for-the-bay-area-climate-and-my-energy-b.json",
+        "bytes": 1972,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/my-house-has-stucco-what-should-i-watch-out-for-when-installing-a-sliding-glass.json",
+        "bytes": 2110,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-a-new-sliding-glass-door-actually-help-with-street-noise-or-is-that-just-mar.json",
+        "bytes": 1930,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-if-my-sliding-glass-door-was-installed-correctly-and-won-t-leak-or.json",
+        "bytes": 1912,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-if-my-sliding-glass-door-leaks-when-it-rains-hard-can-it-be-fix.json",
+        "bytes": 1906,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/my-patio-is-small-what-kind-of-sliding-glass-door-setup-works-best-without-eatin.json",
+        "bytes": 1950,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-widen-my-existing-door-opening-to-fit-a-larger-sliding-glass-door-or-is-th.json",
+        "bytes": 1852,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-sliding-glass-doors-easy-to-break-into-and-what-can-i-do-during-installation.json",
+        "bytes": 1889,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-m-a-landlord-adding-sliding-glass-doors-to-a-rental-what-should-i-prioritize-s.json",
+        "bytes": 1917,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-sliding-glass-doors-safe-in-earthquake-country-like-the-bay-area-or-am-i-ask.json",
+        "bytes": 1960,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-happens-if-my-sliding-glass-door-installation-gets-delayed-after-they-ve-al.json",
+        "bytes": 1970,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-a-sliding-glass-door-be-replaced-without-tearing-up-my-interior-flooring-rig.json",
+        "bytes": 1858,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/we-have-small-kids-and-pets-what-should-we-look-for-in-a-sliding-glass-door-inst.json",
+        "bytes": 1912,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-first-thing-i-should-do-if-i-m-thinking-about-new-flooring-installati.json",
+        "bytes": 1941,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-professional-flooring-installation-usually-cost-per-square-foot.json",
+        "bytes": 1847,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-flooring-installation-actually-take-from-start-to-finish-in-a-norm.json",
+        "bytes": 1836,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-live-in-my-house-while-new-flooring-is-being-installed-or-is-that-a-bad-id.json",
+        "bytes": 1800,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-the-coastal-humidity-in-pacifica-or-half-moon-bay-affect-how-my-flooring-sh.json",
+        "bytes": 1873,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-do-i-need-to-do-to-prepare-my-home-before-the-flooring-installers-show-up.json",
+        "bytes": 1686,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/my-subfloor-isn-t-perfectly-level-can-i-still-install-new-flooring-over-it-witho.json",
+        "bytes": 1761,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-try-to-install-my-new-flooring-myself-or-is-it-really-better-to-hire-a.json",
+        "bytes": 1850,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-type-of-flooring-holds-up-best-for-a-busy-family-in-the-san-francisco-bay-a.json",
+        "bytes": 1697,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-do-new-floors-need-to-acclimate-before-installation-and-is-it-really-ne.json",
+        "bytes": 1706,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-tell-if-my-flooring-installation-was-done-poorly-or-if-what-i-m-seeing.json",
+        "bytes": 1785,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-be-looking-for-when-comparing-flooring-installation-quotes-from-di.json",
+        "bytes": 1729,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-most-budget-friendly-flooring-option-that-still-holds-up-well-over-ti.json",
+        "bytes": 1794,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-really-need-waterproof-flooring-in-bathrooms-and-laundry-rooms-or-will-norm.json",
+        "bytes": 1794,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-permit-or-any-approvals-to-replace-flooring-in-my-san-mateo-county-h.json",
+        "bytes": 1746,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-most-important-things-to-get-right-so-my-new-flooring-lasts-as-long.json",
+        "bytes": 1721,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-are-stairs-handled-during-flooring-installation-and-why-do-they-seem-so-expe.json",
+        "bytes": 1693,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-there-special-sound-or-noise-rules-i-need-to-think-about-when-installing-har.json",
+        "bytes": 1807,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/my-new-floors-squeak-when-i-walk-on-them-what-should-i-do-and-is-that-normal.json",
+        "bytes": 1686,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-kind-of-flooring-stands-up-best-to-sand-and-moisture-in-coastal-areas-like.json",
+        "bytes": 1765,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-had-a-terrible-flooring-installation-experience-before-how-do-i-avoid-the-same.json",
+        "bytes": 1764,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/on-a-limited-budget-which-rooms-should-i-prioritize-for-new-flooring-and-where-c.json",
+        "bytes": 1739,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-the-flooring-installers-move-my-furniture-and-appliances-or-is-that-my-resp.json",
+        "bytes": 1698,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-soon-can-i-put-my-furniture-and-appliances-back-after-flooring-installation.json",
+        "bytes": 1732,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-full-kitchen-remodel-realistically-take-from-start-to-finish.json",
+        "bytes": 2069,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-should-i-expect-to-spend-on-a-kitchen-remodel-and-what-drives-the-cost.json",
+        "bytes": 1909,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-m-thinking-about-remodeling-my-kitchen-but-feel-tota.json",
+        "bytes": 1875,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-a-kitchen-remodel-actually-increase-my-home-s-value-or-am-i-just-dumping-mo.json",
+        "bytes": 1938,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-we-realistically-live-in-the-house-while-our-kitchen-is-being-remodeled-or-i.json",
+        "bytes": 1995,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-really-need-permits-for-a-kitchen-remodel-in-places-like-pacifica-or-daly-c.json",
+        "bytes": 2061,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-a-kitchen-remodel-really-worth-the-money-or-should-i-just-live-with-what-i-ha.json",
+        "bytes": 1885,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-keep-my-kitchen-remodel-costs-under-control-without-ending-up-with-som.json",
+        "bytes": 1918,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-does-the-kitchen-remodeling-process-actually-look-like-from-first-meeting-t.json",
+        "bytes": 1969,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-try-to-diy-my-kitchen-remodel-or-is-that-asking-for-a-disaster.json",
+        "bytes": 1772,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-look-for-when-choosing-a-contractor-for-my-kitchen-remodel-so-i-do.json",
+        "bytes": 1893,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-do-kitchen-remodels-seem-so-much-more-expensive-in-the-san-francisco-bay-are.json",
+        "bytes": 1923,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/if-i-m-on-a-tight-budget-what-should-i-prioritize-in-a-kitchen-remodel-and-where.json",
+        "bytes": 1861,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-there-special-materials-i-should-use-for-a-kitchen-remodel-in-coastal-areas.json",
+        "bytes": 1956,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-biggest-mistakes-people-regret-after-a-kitchen-remodel-that-i-shoul.json",
+        "bytes": 1860,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-extra-money-should-i-set-aside-for-unexpected-issues-during-a-kitchen-r.json",
+        "bytes": 1858,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-remodel-my-kitchen-in-phases-to-spread-out-the-cost-or-is-that-a-bad-idea.json",
+        "bytes": 1794,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-can-i-do-as-the-homeowner-to-prevent-my-kitchen-remodel-from-dragging-on-fo.json",
+        "bytes": 1785,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-really-need-to-upgrade-my-electrical-and-plumbing-during-a-kitchen-remodel.json",
+        "bytes": 1898,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-plan-a-kitchen-remodel-that-will-still-work-for-me-as-i-get-older-or-if.json",
+        "bytes": 1727,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-parts-of-a-kitchen-remodel-eat-up-the-most-budget-so-i-can-decide-where-to.json",
+        "bytes": 1691,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-best-way-to-handle-a-small-or-galley-kitchen-remodel-in-towns-like-da.json",
+        "bytes": 1797,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-had-a-terrible-contractor-last-time-how-do-i-avoid-getting-burned-again-on-my.json",
+        "bytes": 1807,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-most-durable-low-maintenance-choices-for-cabinets-countertops-and-f.json",
+        "bytes": 1813,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-should-i-plan-a-kitchen-remodel-if-i-might-sell-in-a-few-years-in-places-lik.json",
+        "bytes": 1889,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-permit-for-a-bathroom-remodel-or-is-that-only-for-big-projects.json",
+        "bytes": 1168,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-should-a-bathroom-remodel-cost-if-i-want-to-keep-it-within-budget.json",
+        "bytes": 1065,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-bathroom-remodel-usually-take-from-start-to-finish.json",
+        "bytes": 1116,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-diy-a-bathroom-remodel-or-should-i-hire-a-contractor.json",
+        "bytes": 1043,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-ask-a-bathroom-remodeler-before-signing-a-contract.json",
+        "bytes": 1044,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-my-new-shower-will-not-leak-later.json",
+        "bytes": 960,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-my-bathroom-remodel-uncovers-water-damage-or-old-plumbing.json",
+        "bytes": 1031,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-kind-of-results-can-i-realistically-expect-from-a-bathroom-remodel.json",
+        "bytes": 1137,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-compare-bathroom-remodeling-bids-without-getting-confused.json",
+        "bytes": 1049,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-bathroom-remodel-rules-change-in-pacifica-daly-city-or-san-mateo-county.json",
+        "bytes": 1126,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-if-i-need-a-bathroom-remodel-instead-of-just-repairs.json",
+        "bytes": 1037,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-a-bathroom-remodel-fix-mold-and-moisture-problems-too.json",
+        "bytes": 1012,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-do-a-partial-bathroom-remodel-or-a-full-gut-renovation.json",
+        "bytes": 1110,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-do-i-need-before-i-start-a-bathroom-remodel-estimate.json",
+        "bytes": 1035,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-save-money-on-a-bathroom-remodel-without-making-it-look-cheap.json",
+        "bytes": 1071,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-usually-goes-wrong-during-a-bathroom-remodel.json",
+        "bytes": 945,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/who-should-be-doing-the-plumbing-and-electrical-in-a-bathroom-remodel.json",
+        "bytes": 1043,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-be-included-in-a-bathroom-remodeling-contract.json",
+        "bytes": 967,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-money-should-i-pay-upfront-for-a-bathroom-remodel.json",
+        "bytes": 894,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-a-bathroom-fan-really-necessary-in-a-remodel.json",
+        "bytes": 925,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-bathroom-materials-are-worth-paying-more-for.json",
+        "bytes": 940,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-contractors-keep-the-rest-of-the-house-clean-during-a-bathroom-remodel.json",
+        "bytes": 1081,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-there-a-bad-time-of-year-to-remodel-a-bathroom.json",
+        "bytes": 969,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-if-a-bathroom-remodeler-has-the-right-experience-for-my-project.json",
+        "bytes": 1050,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-hire-a-contractor-who-has-done-bathroom-remodels-in-my-city-before.json",
+        "bytes": 1038,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs.jsonld",
+        "bytes": 315720,
+        "purpose": "FAQs ItemList"
+      },
+      {
+        "path": "faq.md",
+        "bytes": 139320,
+        "purpose": "FAQs (markdown)"
+      }
+    ],
+    "services": [
+      {
+        "path": "services/exterior-siding-installation-pacifica-service.json",
+        "bytes": 1802,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/exterior-siding-installation-daly-city-service.json",
+        "bytes": 1806,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/exterior-siding-installation-san-bruno-service.json",
+        "bytes": 1806,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/exterior-siding-installation-hillsborough-service.json",
+        "bytes": 1818,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/exterior-siding-installation-half-moon-bay-service.json",
+        "bytes": 1822,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/exterior-siding-installation-montara-service.json",
+        "bytes": 1798,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/exterior-siding-installation-el-granada-service.json",
+        "bytes": 1810,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/window-installation-pacifica-service.json",
+        "bytes": 1517,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/window-installation-daly-city-service.json",
+        "bytes": 1521,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/window-installation-san-bruno-service.json",
+        "bytes": 1521,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/window-installation-hillsborough-service.json",
+        "bytes": 1533,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/window-installation-half-moon-bay-service.json",
+        "bytes": 1537,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/window-installation-montara-service.json",
+        "bytes": 1513,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/window-installation-el-granada-service.json",
+        "bytes": 1525,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/door-installation-pacifica-service.json",
+        "bytes": 1787,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/door-installation-daly-city-service.json",
+        "bytes": 1791,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/door-installation-san-bruno-service.json",
+        "bytes": 1791,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/door-installation-hillsborough-service.json",
+        "bytes": 1803,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/door-installation-half-moon-bay-service.json",
+        "bytes": 1807,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/door-installation-montara-service.json",
+        "bytes": 1783,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/door-installation-el-granada-service.json",
+        "bytes": 1795,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/sliding-glass-door-installation-pacifica-service.json",
+        "bytes": 1544,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/sliding-glass-door-installation-daly-city-service.json",
+        "bytes": 1548,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/sliding-glass-door-installation-san-bruno-service.json",
+        "bytes": 1548,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/sliding-glass-door-installation-hillsborough-service.json",
+        "bytes": 1560,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/sliding-glass-door-installation-half-moon-bay-service.json",
+        "bytes": 1564,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/sliding-glass-door-installation-montara-service.json",
+        "bytes": 1540,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/sliding-glass-door-installation-el-granada-service.json",
+        "bytes": 1552,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/flooring-installation-pacifica-service.json",
+        "bytes": 1790,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/flooring-installation-daly-city-service.json",
+        "bytes": 1794,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/flooring-installation-san-bruno-service.json",
+        "bytes": 1794,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/flooring-installation-hillsborough-service.json",
+        "bytes": 1806,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/flooring-installation-half-moon-bay-service.json",
+        "bytes": 1810,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/flooring-installation-montara-service.json",
+        "bytes": 1786,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/flooring-installation-el-granada-service.json",
+        "bytes": 1798,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-remodeling-pacifica-service.json",
+        "bytes": 1523,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-remodeling-daly-city-service.json",
+        "bytes": 1527,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-remodeling-san-bruno-service.json",
+        "bytes": 1527,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-remodeling-hillsborough-service.json",
+        "bytes": 1539,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-remodeling-half-moon-bay-service.json",
+        "bytes": 1543,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-remodeling-montara-service.json",
+        "bytes": 1519,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-remodeling-el-granada-service.json",
+        "bytes": 1531,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-remodeling-pacifica-service.json",
+        "bytes": 1775,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-remodeling-daly-city-service.json",
+        "bytes": 1779,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-remodeling-san-bruno-service.json",
+        "bytes": 1779,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-remodeling-hillsborough-service.json",
+        "bytes": 1791,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-remodeling-half-moon-bay-service.json",
+        "bytes": 1795,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-remodeling-montara-service.json",
+        "bytes": 1771,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-remodeling-el-granada-service.json",
+        "bytes": 1783,
+        "purpose": "schema"
+      },
+      {
+        "path": "services.jsonld",
+        "bytes": 146932,
+        "purpose": "Services ItemList"
+      },
+      {
+        "path": "practice-areas.jsonld",
+        "bytes": 146938,
+        "purpose": "Practice areas ItemList"
+      },
+      {
+        "path": "specialties.jsonld",
+        "bytes": 146935,
+        "purpose": "Specialties ItemList"
+      },
+      {
+        "path": "case-types.json",
+        "bytes": 337,
+        "purpose": "Case types"
+      },
+      {
+        "path": "offer-catalog.jsonld",
+        "bytes": 146045,
+        "purpose": "OfferCatalog JSON-LD"
+      },
+      {
+        "path": "service-catalog.json",
+        "bytes": 134494,
+        "purpose": "Service catalog data"
+      },
+      {
+        "path": "service-pages.json",
+        "bytes": 134499,
+        "purpose": "Service pages data"
+      }
+    ],
+    "lawyers": [
+      {
+        "path": "lawyers/david-gohn-profile.json",
+        "bytes": 1666,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/david-gohn-pacifica.json",
+        "bytes": 1290,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/david-gohn-daly-city.json",
+        "bytes": 1291,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/david-gohn-san-bruno.json",
+        "bytes": 1291,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/david-gohn-hillsborough.json",
+        "bytes": 1294,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/david-gohn-half-moon-bay.json",
+        "bytes": 1295,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/david-gohn-montara.json",
+        "bytes": 1289,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/david-gohn-el-granada.json",
+        "bytes": 1292,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/david-gohn-exterior-sidings-pacifica-faq.json",
+        "bytes": 1445,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/david-gohn-exterior-sidings-daly-city-faq.json",
+        "bytes": 1449,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/david-gohn-exterior-sidings-san-bruno-faq.json",
+        "bytes": 1449,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/david-gohn-exterior-sidings-hillsborough-faq.json",
+        "bytes": 1461,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/david-gohn-exterior-sidings-half-moon-bay-faq.json",
+        "bytes": 1465,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/david-gohn-windows-pacifica-faq.json",
+        "bytes": 1409,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/david-gohn-windows-daly-city-faq.json",
+        "bytes": 1413,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/david-gohn-windows-san-bruno-faq.json",
+        "bytes": 1413,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/david-gohn-windows-hillsborough-faq.json",
+        "bytes": 1425,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/david-gohn-windows-half-moon-bay-faq.json",
+        "bytes": 1429,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/david-gohn-doors-pacifica-faq.json",
+        "bytes": 1401,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/david-gohn-doors-daly-city-faq.json",
+        "bytes": 1405,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/david-gohn-doors-san-bruno-faq.json",
+        "bytes": 1405,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/david-gohn-doors-hillsborough-faq.json",
+        "bytes": 1417,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/david-gohn-doors-half-moon-bay-faq.json",
+        "bytes": 1421,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/david-gohn-sliding-glass-doors-pacifica-faq.json",
+        "bytes": 1457,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/david-gohn-sliding-glass-doors-daly-city-faq.json",
+        "bytes": 1461,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/david-gohn-sliding-glass-doors-san-bruno-faq.json",
+        "bytes": 1461,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/david-gohn-sliding-glass-doors-hillsborough-faq.json",
+        "bytes": 1473,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/david-gohn-sliding-glass-doors-half-moon-bay-faq.json",
+        "bytes": 1477,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/glen-hogerton-profile.json",
+        "bytes": 1099,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/glen-hogerton-pacifica.json",
+        "bytes": 723,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/glen-hogerton-daly-city.json",
+        "bytes": 724,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/glen-hogerton-san-bruno.json",
+        "bytes": 724,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/glen-hogerton-hillsborough.json",
+        "bytes": 727,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/glen-hogerton-half-moon-bay.json",
+        "bytes": 728,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/glen-hogerton-montara.json",
+        "bytes": 722,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/glen-hogerton-el-granada.json",
+        "bytes": 725,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/glen-hogerton-installing-windows-pacifica-faq.json",
+        "bytes": 887,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/glen-hogerton-installing-windows-daly-city-faq.json",
+        "bytes": 891,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/glen-hogerton-installing-windows-san-bruno-faq.json",
+        "bytes": 891,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/glen-hogerton-installing-windows-hillsborough-faq.json",
+        "bytes": 903,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/glen-hogerton-installing-windows-half-moon-bay-faq.json",
+        "bytes": 907,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/glen-hogerton-sliding-glass-doors-pacifica-faq.json",
+        "bytes": 891,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/glen-hogerton-sliding-glass-doors-daly-city-faq.json",
+        "bytes": 895,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/glen-hogerton-sliding-glass-doors-san-bruno-faq.json",
+        "bytes": 895,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/glen-hogerton-sliding-glass-doors-hillsborough-faq.json",
+        "bytes": 907,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/glen-hogerton-sliding-glass-doors-half-moon-bay-faq.json",
+        "bytes": 911,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/glen-hogerton-and-exterior-doors-pacifica-faq.json",
+        "bytes": 887,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/glen-hogerton-and-exterior-doors-daly-city-faq.json",
+        "bytes": 891,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/glen-hogerton-and-exterior-doors-san-bruno-faq.json",
+        "bytes": 891,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/glen-hogerton-and-exterior-doors-hillsborough-faq.json",
+        "bytes": 903,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/glen-hogerton-and-exterior-doors-half-moon-bay-faq.json",
+        "bytes": 907,
+        "purpose": "schema"
+      }
+    ],
+    "help": [
+      {
+        "path": "help/how-do-i-choose-the-right-siding-for-my-bay-area-home.json",
+        "bytes": 2124,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-s-the-process-for-replacing-siding-on-my-home.json",
+        "bytes": 2250,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-are-the-biggest-mistakes-to-avoid-with-siding-replacement.json",
+        "bytes": 2030,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/do-i-really-need-a-permit-to-replace-my-windows.json",
+        "bytes": 2115,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-avoid-leaky-windows-and-water-damage.json",
+        "bytes": 2095,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/will-new-windows-actually-make-my-home-quieter.json",
+        "bytes": 2157,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-s-involved-in-a-professional-door-installation.json",
+        "bytes": 1944,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-front-door-is-sticking-and-drafty-should-i-repair-or-replace-it.json",
+        "bytes": 1837,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/does-replacing-a-door-require-a-permit.json",
+        "bytes": 1879,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-it-worth-upgrading-to-an-energy-efficient-sliding-glass-door.json",
+        "bytes": 1869,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-sliding-door-is-leaking-water-at-the-bottom-what-should-i-do.json",
+        "bytes": 2004,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/can-i-replace-a-window-with-a-sliding-glass-door.json",
+        "bytes": 2013,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-should-i-ask-a-flooring-installer-before-hiring.json",
+        "bytes": 1748,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-prepare-for-your-new-flooring-installation.json",
+        "bytes": 1726,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-new-floors-might-be-buckling-or-gapping.json",
+        "bytes": 1758,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-should-my-kitchen-remodel-contract-actually-cover.json",
+        "bytes": 1804,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-keep-your-home-livable-during-a-kitchen-remodel.json",
+        "bytes": 1740,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-is-my-kitchen-remodel-taking-longer-than-i-expected.json",
+        "bytes": 1781,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-much-will-my-bay-area-bathroom-remodel-actually-cost.json",
+        "bytes": 1600,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/do-i-really-need-a-permit-for-my-bathroom-remodel.json",
+        "bytes": 1640,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-are-the-biggest-mistakes-to-avoid-in-a-bathroom-remodel.json",
+        "bytes": 2021,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-my-warped-siding-a-sign-of-bigger-problems.json",
+        "bytes": 2058,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-look-for-when-hiring-a-siding-contractor.json",
+        "bytes": 2016,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-s-actually-involved-in-replacing-home-siding.json",
+        "bytes": 2007,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-are-my-brand-new-windows-still-drafty.json",
+        "bytes": 2009,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-avoid-the-top-window-installation-mistakes.json",
+        "bytes": 2024,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/are-my-old-windows-costing-me-money.json",
+        "bytes": 2013,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-does-my-new-door-stick-or-rub.json",
+        "bytes": 2045,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/can-i-just-replace-the-door-or-do-i-need-a-whole-new-frame.json",
+        "bytes": 2134,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-prepare-for-a-professional-door-installation.json",
+        "bytes": 2025,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-is-my-sliding-glass-door-so-hard-to-open-and-close.json",
+        "bytes": 2040,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-replacing-a-sliding-glass-door-a-big-deal.json",
+        "bytes": 2051,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-should-i-look-for-in-a-new-sliding-glass-door.json",
+        "bytes": 2101,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-should-i-do-if-my-new-floors-are-buckling.json",
+        "bytes": 2060,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-do-i-prepare-my-house-for-a-new-flooring-installation.json",
+        "bytes": 2113,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-s-the-big-deal-with-subfloor-preparation.json",
+        "bytes": 2016,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-is-my-kitchen-remodel-going-over-budget.json",
+        "bytes": 2069,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/which-step-comes-first-in-a-kitchen-remodel.json",
+        "bytes": 2040,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-can-i-avoid-common-kitchen-remodeling-regrets.json",
+        "bytes": 2095,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-keep-a-bathroom-remodel-from-going-over-budget.json",
+        "bytes": 2092,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/do-i-really-need-a-permit-just-to-update-my-bathroom.json",
+        "bytes": 2176,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-it-cheaper-to-subcontract-a-remodel-myself.json",
+        "bytes": 2045,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-should-be-included-in-my-contractor-s-estimate.json",
+        "bytes": 2014,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-do-i-know-if-i-ve-hired-a-good-general-contractor.json",
+        "bytes": 2074,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/handyman-vs-general-contractor-which-do-i-need-for-my-project.json",
+        "bytes": 2163,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-should-i-ask-before-hiring-a-handyman.json",
+        "bytes": 1969,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-home-to-do-list-is-overwhelming-where-do-i-start.json",
+        "bytes": 1983,
+        "purpose": "schema"
+      },
+      {
+        "path": "help-articles.jsonld",
+        "bytes": 130949,
+        "purpose": "Help articles ItemList"
+      },
+      {
+        "path": "help-articles.md",
+        "bytes": 23511,
+        "purpose": "Help articles (markdown)"
+      }
+    ],
+    "organization": [
+      {
+        "path": "organization/city-dweller-llc-organization.json",
+        "bytes": 1884,
+        "purpose": "schema"
+      }
+    ],
+    "webpages": [
+      {
+        "path": "webpages/exterior-siding-installation-pacifica-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/exterior-siding-installation-daly-city-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/exterior-siding-installation-san-bruno-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/exterior-siding-installation-hillsborough-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/exterior-siding-installation-half-moon-bay-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/exterior-siding-installation-montara-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/exterior-siding-installation-el-granada-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/exterior-siding-installation-san-mateo-county-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/exterior-siding-installation-san-francisco-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/exterior-siding-installation-south-san-francisco-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/window-installation-pacifica-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/window-installation-daly-city-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/window-installation-san-bruno-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/window-installation-hillsborough-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/window-installation-half-moon-bay-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/window-installation-montara-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/window-installation-el-granada-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/window-installation-san-mateo-county-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/window-installation-san-francisco-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/window-installation-south-san-francisco-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/door-installation-pacifica-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/door-installation-daly-city-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/door-installation-san-bruno-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/door-installation-hillsborough-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/door-installation-half-moon-bay-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/door-installation-montara-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/door-installation-el-granada-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/door-installation-san-mateo-county-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/door-installation-san-francisco-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/door-installation-south-san-francisco-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/sliding-glass-door-installation-pacifica-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/sliding-glass-door-installation-daly-city-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/sliding-glass-door-installation-san-bruno-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/sliding-glass-door-installation-hillsborough-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/sliding-glass-door-installation-half-moon-bay-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/sliding-glass-door-installation-montara-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/sliding-glass-door-installation-el-granada-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/sliding-glass-door-installation-san-mateo-county-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/sliding-glass-door-installation-san-francisco-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/sliding-glass-door-installation-south-san-francisco-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/flooring-installation-pacifica-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/flooring-installation-daly-city-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/flooring-installation-san-bruno-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/flooring-installation-hillsborough-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/flooring-installation-half-moon-bay-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/flooring-installation-montara-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/flooring-installation-el-granada-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/flooring-installation-san-mateo-county-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/flooring-installation-san-francisco-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/flooring-installation-south-san-francisco-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-remodeling-pacifica-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-remodeling-daly-city-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-remodeling-san-bruno-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-remodeling-hillsborough-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-remodeling-half-moon-bay-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-remodeling-montara-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-remodeling-el-granada-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-remodeling-san-mateo-county-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-remodeling-san-francisco-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-remodeling-south-san-francisco-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-remodeling-pacifica-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-remodeling-daly-city-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-remodeling-san-bruno-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-remodeling-hillsborough-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-remodeling-half-moon-bay-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-remodeling-montara-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-remodeling-el-granada-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-remodeling-san-mateo-county-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-remodeling-san-francisco-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-remodeling-south-san-francisco-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/general-contractor-services-pacifica-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/general-contractor-services-daly-city-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/general-contractor-services-san-bruno-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/general-contractor-services-hillsborough-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/general-contractor-services-half-moon-bay-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/general-contractor-services-montara-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/general-contractor-services-el-granada-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/general-contractor-services-san-mateo-county-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/general-contractor-services-san-francisco-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/general-contractor-services-south-san-francisco-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/handyman-services-pacifica-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/handyman-services-daly-city-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/handyman-services-san-bruno-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/handyman-services-hillsborough-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/handyman-services-half-moon-bay-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/handyman-services-montara-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/handyman-services-el-granada-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/handyman-services-san-mateo-county-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/handyman-services-san-francisco-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/handyman-services-south-san-francisco-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      }
+    ],
+    "reviews": [
+      {
+        "path": "reviews/anonymous-1-review.json",
+        "bytes": 602,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/anonymous-2-review.json",
+        "bytes": 626,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/anonymous-3-review.json",
+        "bytes": 640,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/anonymous-4-review.json",
+        "bytes": 665,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/anonymous-5-review.json",
+        "bytes": 626,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/anonymous-6-review.json",
+        "bytes": 635,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/anonymous-7-review.json",
+        "bytes": 636,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/anonymous-8-review.json",
+        "bytes": 638,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/anonymous-9-review.json",
+        "bytes": 672,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/anonymous-10-review.json",
+        "bytes": 629,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/anonymous-11-review.json",
+        "bytes": 633,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/anonymous-12-review.json",
+        "bytes": 634,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/c-l-13-review.json",
+        "bytes": 679,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/m-s-14-review.json",
+        "bytes": 662,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/j-k-15-review.json",
+        "bytes": 663,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/a-p-16-review.json",
+        "bytes": 679,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/l-t-17-review.json",
+        "bytes": 694,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/s-n-18-review.json",
+        "bytes": 651,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/k-d-19-review.json",
+        "bytes": 677,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/j-h-20-review.json",
+        "bytes": 657,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/anonymous-buildzoom-client-21-review.json",
+        "bytes": 679,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/t-w-22-review.json",
+        "bytes": 631,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/n-c-23-review.json",
+        "bytes": 686,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/b-e-24-review.json",
+        "bytes": 644,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/k-f-25-review.json",
+        "bytes": 614,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/l-m-26-review.json",
+        "bytes": 652,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/facebook-recommendation-anonymous-27-review.json",
+        "bytes": 605,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/aggregate-rating.json",
+        "bytes": 216,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews.jsonld",
+        "bytes": 28128,
+        "purpose": "Reviews ItemList"
+      },
+      {
+        "path": "testimonials.jsonld",
+        "bytes": 28133,
+        "purpose": "Testimonials ItemList"
+      }
+    ],
+    "public": [
+      {
+        "path": "index.html",
+        "bytes": 2236,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "about.html",
+        "bytes": 73445,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "services.html",
+        "bytes": 138789,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "testimonials.html",
+        "bytes": 34238,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "contact.html",
+        "bytes": 2550,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "faqs.html",
+        "bytes": 168864,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help.html",
+        "bytes": 111577,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "qnas.html",
+        "bytes": 326457,
+        "purpose": "LLM-optimized public page"
+      }
+    ],
+    "entity": [
+      {
+        "path": "organization.jsonld",
+        "bytes": 2732,
+        "purpose": "Primary Organization JSON-LD"
+      },
+      {
+        "path": "home-and-construction-business.jsonld",
+        "bytes": 2747,
+        "purpose": "HomeAndConstructionBusiness JSON-LD"
+      },
+      {
+        "path": "local-business.jsonld",
+        "bytes": 2733,
+        "purpose": "LocalBusiness JSON-LD"
+      },
+      {
+        "path": "entity-profile.json",
+        "bytes": 3641,
+        "purpose": "Entity profile summary"
+      },
+      {
+        "path": "business-overview.json",
+        "bytes": 3641,
+        "purpose": "Business overview"
+      },
+      {
+        "path": "brand-profile.json",
+        "bytes": 323,
+        "purpose": "Brand profile"
+      },
+      {
+        "path": "identifiers.json",
+        "bytes": 304,
+        "purpose": "External identifiers & sameAs"
+      },
+      {
+        "path": "same-as.jsonld",
+        "bytes": 315,
+        "purpose": "sameAs graph for entity disambiguation"
+      },
+      {
+        "path": "about.jsonld",
+        "bytes": 3127,
+        "purpose": "AboutPage JSON-LD"
+      },
+      {
+        "path": "contact.jsonld",
+        "bytes": 314,
+        "purpose": "ContactPage JSON-LD"
+      },
+      {
+        "path": "knowledge-graph.json",
+        "bytes": 212416,
+        "purpose": "Combined Schema.org @graph"
+      },
+      {
+        "path": "full-context.json",
+        "bytes": 3641,
+        "purpose": "Full entity context (JSON)"
+      },
+      {
+        "path": "full-context.yaml",
+        "bytes": 2787,
+        "purpose": "Full entity context (YAML)"
+      }
+    ],
+    "team": [
+      {
+        "path": "team.jsonld",
+        "bytes": 77773,
+        "purpose": "Aggregate team ItemList"
+      },
+      {
+        "path": "professionals.jsonld",
+        "bytes": 77782,
+        "purpose": "Professionals ItemList"
+      },
+      {
+        "path": "team.json",
+        "bytes": 71638,
+        "purpose": "Team data bundle"
+      },
+      {
+        "path": "team-bios.md",
+        "bytes": 9882,
+        "purpose": "Team bios (markdown)"
+      },
+      {
+        "path": "team-bios.json",
+        "bytes": 20660,
+        "purpose": "Team bios (JSON)"
+      },
+      {
+        "path": "homeandconstructionbusiness-team.jsonld",
+        "bytes": 71741,
+        "purpose": "HomeAndConstructionBusiness team wrapper"
+      }
+    ],
+    "locations": [
+      {
+        "path": "locations.jsonld",
+        "bytes": 4301,
+        "purpose": "Locations ItemList"
+      },
+      {
+        "path": "service-areas.jsonld",
+        "bytes": 4305,
+        "purpose": "Service areas ItemList"
+      },
+      {
+        "path": "location-pages.json",
+        "bytes": 3330,
+        "purpose": "Location pages data"
+      },
+      {
+        "path": "city-service-areas.json",
+        "bytes": 261,
+        "purpose": "City service areas"
+      },
+      {
+        "path": "geo-coverage.json",
+        "bytes": 282,
+        "purpose": "Geographic coverage summary"
+      }
+    ],
+    "qna": [
+      {
+        "path": "qnas.jsonld",
+        "bytes": 143,
+        "purpose": "Q&A ItemList"
+      },
+      {
+        "path": "qna.md",
+        "bytes": 29,
+        "purpose": "Q&A (markdown)"
+      }
+    ],
+    "hubs": [
+      {
+        "path": "topical-hubs.jsonld",
+        "bytes": 152,
+        "purpose": "Topical hubs ItemList"
+      },
+      {
+        "path": "topical-hubs.md",
+        "bytes": 47,
+        "purpose": "Topical hubs (markdown)"
+      },
+      {
+        "path": "semantic-authority-pages.json",
+        "bytes": 122200,
+        "purpose": "Semantic authority pages"
+      }
+    ],
+    "awards": [
+      {
+        "path": "awards.jsonld",
+        "bytes": 146,
+        "purpose": "Awards ItemList"
+      },
+      {
+        "path": "licenses.jsonld",
+        "bytes": 148,
+        "purpose": "Licenses ItemList"
+      },
+      {
+        "path": "associations.jsonld",
+        "bytes": 152,
+        "purpose": "Associations ItemList"
+      },
+      {
+        "path": "credentials.json",
+        "bytes": 100,
+        "purpose": "Credentials summary"
+      }
+    ],
+    "case-results": [
+      {
+        "path": "case-results.jsonld",
+        "bytes": 152,
+        "purpose": "Case results ItemList"
+      }
+    ],
+    "press": [
+      {
+        "path": "media-mentions.jsonld",
+        "bytes": 154,
+        "purpose": "Media mentions ItemList"
+      }
+    ],
+    "pages": [
+      {
+        "path": "about.html",
+        "bytes": 4088,
+        "purpose": "About page"
+      },
+      {
+        "path": "services.html",
+        "bytes": 18165,
+        "purpose": "Services page"
+      },
+      {
+        "path": "locations.html",
+        "bytes": 2700,
+        "purpose": "Locations page"
+      },
+      {
+        "path": "team.html",
+        "bytes": 7626,
+        "purpose": "Team page"
+      },
+      {
+        "path": "faqs.html",
+        "bytes": 67117,
+        "purpose": "FAQs page"
+      },
+      {
+        "path": "qnas.html",
+        "bytes": 1823,
+        "purpose": "Q&A page"
+      },
+      {
+        "path": "help.html",
+        "bytes": 5798,
+        "purpose": "Help page"
+      },
+      {
+        "path": "topical-hubs.html",
+        "bytes": 1843,
+        "purpose": "Topical hubs page"
+      },
+      {
+        "path": "reviews.html",
+        "bytes": 2866,
+        "purpose": "Reviews page"
+      },
+      {
+        "path": "case-results.html",
+        "bytes": 1843,
+        "purpose": "Case results page"
+      },
+      {
+        "path": "contact.html",
+        "bytes": 1917,
+        "purpose": "Contact page"
+      }
+    ],
+    "data": [
+      {
+        "path": "data/entity.json",
+        "bytes": 3641,
+        "purpose": "Entity data (JSON)"
+      },
+      {
+        "path": "data/entity.yaml",
+        "bytes": 2787,
+        "purpose": "Entity data (YAML)"
+      },
+      {
+        "path": "data/entity.jsonl",
+        "bytes": 2434,
+        "purpose": "Entity data (JSONL)"
+      },
+      {
+        "path": "data/services.json",
+        "bytes": 134494,
+        "purpose": "Services data"
+      },
+      {
+        "path": "data/locations.json",
+        "bytes": 3330,
+        "purpose": "Locations data"
+      },
+      {
+        "path": "data/faqs.json",
+        "bytes": 298182,
+        "purpose": "FAQs data"
+      },
+      {
+        "path": "data/qnas.json",
+        "bytes": 94,
+        "purpose": "Q&A data"
+      },
+      {
+        "path": "data/help-articles.json",
+        "bytes": 122186,
+        "purpose": "Help articles data"
+      },
+      {
+        "path": "data/team.json",
+        "bytes": 71638,
+        "purpose": "Team data"
+      },
+      {
+        "path": "data/reviews.json",
+        "bytes": 24673,
+        "purpose": "Reviews data"
+      },
+      {
+        "path": "data/case-results.json",
+        "bytes": 102,
+        "purpose": "Case results data"
+      },
+      {
+        "path": "data/knowledge-graph.json",
+        "bytes": 212416,
+        "purpose": "Knowledge graph @graph"
+      },
+      {
+        "path": "data/internal-links.json",
+        "bytes": 58276,
+        "purpose": "Internal links index"
+      },
+      {
+        "path": "data/source-map.json",
+        "bytes": 102625,
+        "purpose": "Source-map of all entity files"
+      },
+      {
+        "path": "data/research-sources.json",
+        "bytes": 263,
+        "purpose": "Approved research items with source attribution"
+      },
+      {
+        "path": "data/source-provenance.json",
+        "bytes": 335,
+        "purpose": "External source provenance for approved research"
+      }
+    ],
+    "compliance": [
+      {
+        "path": "ai-disclaimer.md",
+        "bytes": 445,
+        "purpose": "AI disclaimer"
+      },
+      {
+        "path": "legal-disclaimer.md",
+        "bytes": 407,
+        "purpose": "Legal disclaimer"
+      },
+      {
+        "path": "data-sources.md",
+        "bytes": 711,
+        "purpose": "Data sources"
+      },
+      {
+        "path": "content-review-status.json",
+        "bytes": 104788,
+        "purpose": "Content review status"
+      },
+      {
+        "path": "approval-log.json",
+        "bytes": 141,
+        "purpose": "Content approval log"
+      }
+    ],
+    "security": [
+      {
+        "path": "security.txt",
+        "bytes": 159,
+        "purpose": "Security.txt (RFC 9116)"
+      },
+      {
+        "path": "humans.txt",
+        "bytes": 147,
+        "purpose": "humans.txt"
+      }
+    ],
+    "root": [
+      {
+        "path": "robots.txt",
+        "bytes": 375,
+        "purpose": "Robots policy"
+      },
+      {
+        "path": "llms.txt",
+        "bytes": 1105,
+        "purpose": "LLM hint"
+      },
+      {
+        "path": ".nojekyll",
+        "bytes": 0,
+        "purpose": "Disable Jekyll on GitHub Pages"
+      },
+      {
+        "path": "index.html",
+        "bytes": 385,
+        "purpose": "Landing page (redirects to ai-data.html)"
+      },
+      {
+        "path": "manifest.json",
+        "bytes": 205,
+        "purpose": "Web app manifest"
+      },
+      {
+        "path": "related-destinations.json",
+        "bytes": 980,
+        "purpose": "Cross-Destination Index (Related AI Data Sources)"
+      },
+      {
+        "path": "ai-data.html",
+        "bytes": 237162,
+        "purpose": "Master AI data index"
+      },
+      {
+        "path": "llms-full.txt",
+        "bytes": 75176,
+        "purpose": "Extended LLM context"
+      },
+      {
+        "path": "llms-full.md",
+        "bytes": 75176,
+        "purpose": "Extended LLM context (markdown)"
+      },
+      {
+        "path": "full-context.md",
+        "bytes": 999,
+        "purpose": "Full markdown context"
+      },
+      {
+        "path": "README.md",
+        "bytes": 72127,
+        "purpose": "Repository README"
+      },
+      {
+        "path": "ai-sitemap.xml",
+        "bytes": 90258,
+        "purpose": "AI sitemap"
+      },
+      {
+        "path": "sitemap.xml",
+        "bytes": 3059,
+        "purpose": "Standard sitemap"
+      }
+    ]
+  },
+  "destinations": {}
+}

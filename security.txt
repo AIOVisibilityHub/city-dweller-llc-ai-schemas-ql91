@@ -1,0 +1,4 @@
+Contact: http://bayareacitydweller.com/contact
+Expires: 2027-06-25T23:13:30.762Z
+Preferred-Languages: en
+Canonical: http://bayareacitydweller.com/security.txt

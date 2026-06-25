@@ -1,2 +1,598 @@
-# city-dweller-llc-ai-schemas-ql91
-City Dweller, LLC — Schema.org validated JSON-LD structured data
+# City Dweller, LLC — AI Data Package
+
+Canonical AI Data Package for City Dweller, LLC.
+
+- Canonical: http://bayareacitydweller.com
+- Master index: [ai-data.html](./ai-data.html)
+- Source-of-truth manifest: [data/publishing-manifest.json](./data/publishing-manifest.json)
+- Root manifest copy: [publishing-manifest.json](./publishing-manifest.json)
+- LLM hint: [llms.txt](./llms.txt)
+
+## Stats
+- 213 qna
+- 166 faqs
+- 27 reviews
+- 151 research
+- 49 services
+- 90 webpages
+- 51 personnel
+- 47 helpArticles
+- 1 organization
+- **796** total
+
+
+## Package Contents
+
+Every file below is listed in [`data/publishing-manifest.json`](./data/publishing-manifest.json) — the manifest is the source of truth.
+
+### Root AI Files (6)
+- [`.nojekyll`](./.nojekyll) — Disable Jekyll on GitHub Pages
+- [`index.html`](./index.html) — Landing page (redirects to ai-data.html)
+- [`llms.txt`](./llms.txt) — LLM hint
+- [`manifest.json`](./manifest.json) — Web app manifest
+- [`related-destinations.json`](./related-destinations.json) — Cross-Destination Index (Related AI Data Sources)
+- [`robots.txt`](./robots.txt) — Robots policy
+
+### Entity Profile (13)
+- [`about.jsonld`](./about.jsonld) — AboutPage JSON-LD
+- [`brand-profile.json`](./brand-profile.json) — Brand profile
+- [`business-overview.json`](./business-overview.json) — Business overview
+- [`contact.jsonld`](./contact.jsonld) — ContactPage JSON-LD
+- [`entity-profile.json`](./entity-profile.json) — Entity profile summary
+- [`full-context.json`](./full-context.json) — Full entity context (JSON)
+- [`full-context.yaml`](./full-context.yaml) — Full entity context (YAML)
+- [`home-and-construction-business.jsonld`](./home-and-construction-business.jsonld) — HomeAndConstructionBusiness JSON-LD
+- [`identifiers.json`](./identifiers.json) — External identifiers & sameAs
+- [`knowledge-graph.json`](./knowledge-graph.json) — Combined Schema.org @graph
+- [`local-business.jsonld`](./local-business.jsonld) — LocalBusiness JSON-LD
+- [`organization.jsonld`](./organization.jsonld) — Primary Organization JSON-LD
+- [`same-as.jsonld`](./same-as.jsonld) — sameAs graph for entity disambiguation
+
+### Organization & About (1)
+- [`organization/city-dweller-llc-organization.json`](./organization/city-dweller-llc-organization.json) — schema
+
+### Services (56)
+- [`case-types.json`](./case-types.json) — Case types
+- [`offer-catalog.jsonld`](./offer-catalog.jsonld) — OfferCatalog JSON-LD
+- [`practice-areas.jsonld`](./practice-areas.jsonld) — Practice areas ItemList
+- [`service-catalog.json`](./service-catalog.json) — Service catalog data
+- [`service-pages.json`](./service-pages.json) — Service pages data
+- [`services.jsonld`](./services.jsonld) — Services ItemList
+- [`services/bathroom-remodeling-daly-city-service.json`](./services/bathroom-remodeling-daly-city-service.json) — schema
+- [`services/bathroom-remodeling-el-granada-service.json`](./services/bathroom-remodeling-el-granada-service.json) — schema
+- [`services/bathroom-remodeling-half-moon-bay-service.json`](./services/bathroom-remodeling-half-moon-bay-service.json) — schema
+- [`services/bathroom-remodeling-hillsborough-service.json`](./services/bathroom-remodeling-hillsborough-service.json) — schema
+- [`services/bathroom-remodeling-montara-service.json`](./services/bathroom-remodeling-montara-service.json) — schema
+- [`services/bathroom-remodeling-pacifica-service.json`](./services/bathroom-remodeling-pacifica-service.json) — schema
+- [`services/bathroom-remodeling-san-bruno-service.json`](./services/bathroom-remodeling-san-bruno-service.json) — schema
+- [`services/door-installation-daly-city-service.json`](./services/door-installation-daly-city-service.json) — schema
+- [`services/door-installation-el-granada-service.json`](./services/door-installation-el-granada-service.json) — schema
+- [`services/door-installation-half-moon-bay-service.json`](./services/door-installation-half-moon-bay-service.json) — schema
+- [`services/door-installation-hillsborough-service.json`](./services/door-installation-hillsborough-service.json) — schema
+- [`services/door-installation-montara-service.json`](./services/door-installation-montara-service.json) — schema
+- [`services/door-installation-pacifica-service.json`](./services/door-installation-pacifica-service.json) — schema
+- [`services/door-installation-san-bruno-service.json`](./services/door-installation-san-bruno-service.json) — schema
+- [`services/exterior-siding-installation-daly-city-service.json`](./services/exterior-siding-installation-daly-city-service.json) — schema
+- [`services/exterior-siding-installation-el-granada-service.json`](./services/exterior-siding-installation-el-granada-service.json) — schema
+- [`services/exterior-siding-installation-half-moon-bay-service.json`](./services/exterior-siding-installation-half-moon-bay-service.json) — schema
+- [`services/exterior-siding-installation-hillsborough-service.json`](./services/exterior-siding-installation-hillsborough-service.json) — schema
+- [`services/exterior-siding-installation-montara-service.json`](./services/exterior-siding-installation-montara-service.json) — schema
+- [`services/exterior-siding-installation-pacifica-service.json`](./services/exterior-siding-installation-pacifica-service.json) — schema
+- [`services/exterior-siding-installation-san-bruno-service.json`](./services/exterior-siding-installation-san-bruno-service.json) — schema
+- [`services/flooring-installation-daly-city-service.json`](./services/flooring-installation-daly-city-service.json) — schema
+- [`services/flooring-installation-el-granada-service.json`](./services/flooring-installation-el-granada-service.json) — schema
+- [`services/flooring-installation-half-moon-bay-service.json`](./services/flooring-installation-half-moon-bay-service.json) — schema
+- [`services/flooring-installation-hillsborough-service.json`](./services/flooring-installation-hillsborough-service.json) — schema
+- [`services/flooring-installation-montara-service.json`](./services/flooring-installation-montara-service.json) — schema
+- [`services/flooring-installation-pacifica-service.json`](./services/flooring-installation-pacifica-service.json) — schema
+- [`services/flooring-installation-san-bruno-service.json`](./services/flooring-installation-san-bruno-service.json) — schema
+- [`services/kitchen-remodeling-daly-city-service.json`](./services/kitchen-remodeling-daly-city-service.json) — schema
+- [`services/kitchen-remodeling-el-granada-service.json`](./services/kitchen-remodeling-el-granada-service.json) — schema
+- [`services/kitchen-remodeling-half-moon-bay-service.json`](./services/kitchen-remodeling-half-moon-bay-service.json) — schema
+- [`services/kitchen-remodeling-hillsborough-service.json`](./services/kitchen-remodeling-hillsborough-service.json) — schema
+- [`services/kitchen-remodeling-montara-service.json`](./services/kitchen-remodeling-montara-service.json) — schema
+- [`services/kitchen-remodeling-pacifica-service.json`](./services/kitchen-remodeling-pacifica-service.json) — schema
+- [`services/kitchen-remodeling-san-bruno-service.json`](./services/kitchen-remodeling-san-bruno-service.json) — schema
+- [`services/sliding-glass-door-installation-daly-city-service.json`](./services/sliding-glass-door-installation-daly-city-service.json) — schema
+- [`services/sliding-glass-door-installation-el-granada-service.json`](./services/sliding-glass-door-installation-el-granada-service.json) — schema
+- [`services/sliding-glass-door-installation-half-moon-bay-service.json`](./services/sliding-glass-door-installation-half-moon-bay-service.json) — schema
+- [`services/sliding-glass-door-installation-hillsborough-service.json`](./services/sliding-glass-door-installation-hillsborough-service.json) — schema
+- [`services/sliding-glass-door-installation-montara-service.json`](./services/sliding-glass-door-installation-montara-service.json) — schema
+- [`services/sliding-glass-door-installation-pacifica-service.json`](./services/sliding-glass-door-installation-pacifica-service.json) — schema
+- [`services/sliding-glass-door-installation-san-bruno-service.json`](./services/sliding-glass-door-installation-san-bruno-service.json) — schema
+- [`services/window-installation-daly-city-service.json`](./services/window-installation-daly-city-service.json) — schema
+- [`services/window-installation-el-granada-service.json`](./services/window-installation-el-granada-service.json) — schema
+- [`services/window-installation-half-moon-bay-service.json`](./services/window-installation-half-moon-bay-service.json) — schema
+- [`services/window-installation-hillsborough-service.json`](./services/window-installation-hillsborough-service.json) — schema
+- [`services/window-installation-montara-service.json`](./services/window-installation-montara-service.json) — schema
+- [`services/window-installation-pacifica-service.json`](./services/window-installation-pacifica-service.json) — schema
+- [`services/window-installation-san-bruno-service.json`](./services/window-installation-san-bruno-service.json) — schema
+- [`specialties.jsonld`](./specialties.jsonld) — Specialties ItemList
+
+### Locations (5)
+- [`city-service-areas.json`](./city-service-areas.json) — City service areas
+- [`geo-coverage.json`](./geo-coverage.json) — Geographic coverage summary
+- [`location-pages.json`](./location-pages.json) — Location pages data
+- [`locations.jsonld`](./locations.jsonld) — Locations ItemList
+- [`service-areas.jsonld`](./service-areas.jsonld) — Service areas ItemList
+
+### Attorneys / Team (51)
+- [`lawyers/david-gohn-daly-city.json`](./lawyers/david-gohn-daly-city.json) — schema
+- [`lawyers/david-gohn-doors-daly-city-faq.json`](./lawyers/david-gohn-doors-daly-city-faq.json) — schema
+- [`lawyers/david-gohn-doors-half-moon-bay-faq.json`](./lawyers/david-gohn-doors-half-moon-bay-faq.json) — schema
+- [`lawyers/david-gohn-doors-hillsborough-faq.json`](./lawyers/david-gohn-doors-hillsborough-faq.json) — schema
+- [`lawyers/david-gohn-doors-pacifica-faq.json`](./lawyers/david-gohn-doors-pacifica-faq.json) — schema
+- [`lawyers/david-gohn-doors-san-bruno-faq.json`](./lawyers/david-gohn-doors-san-bruno-faq.json) — schema
+- [`lawyers/david-gohn-el-granada.json`](./lawyers/david-gohn-el-granada.json) — schema
+- [`lawyers/david-gohn-exterior-sidings-daly-city-faq.json`](./lawyers/david-gohn-exterior-sidings-daly-city-faq.json) — schema
+- [`lawyers/david-gohn-exterior-sidings-half-moon-bay-faq.json`](./lawyers/david-gohn-exterior-sidings-half-moon-bay-faq.json) — schema
+- [`lawyers/david-gohn-exterior-sidings-hillsborough-faq.json`](./lawyers/david-gohn-exterior-sidings-hillsborough-faq.json) — schema
+- [`lawyers/david-gohn-exterior-sidings-pacifica-faq.json`](./lawyers/david-gohn-exterior-sidings-pacifica-faq.json) — schema
+- [`lawyers/david-gohn-exterior-sidings-san-bruno-faq.json`](./lawyers/david-gohn-exterior-sidings-san-bruno-faq.json) — schema
+- [`lawyers/david-gohn-half-moon-bay.json`](./lawyers/david-gohn-half-moon-bay.json) — schema
+- [`lawyers/david-gohn-hillsborough.json`](./lawyers/david-gohn-hillsborough.json) — schema
+- [`lawyers/david-gohn-montara.json`](./lawyers/david-gohn-montara.json) — schema
+- [`lawyers/david-gohn-pacifica.json`](./lawyers/david-gohn-pacifica.json) — schema
+- [`lawyers/david-gohn-profile.json`](./lawyers/david-gohn-profile.json) — schema
+- [`lawyers/david-gohn-san-bruno.json`](./lawyers/david-gohn-san-bruno.json) — schema
+- [`lawyers/david-gohn-sliding-glass-doors-daly-city-faq.json`](./lawyers/david-gohn-sliding-glass-doors-daly-city-faq.json) — schema
+- [`lawyers/david-gohn-sliding-glass-doors-half-moon-bay-faq.json`](./lawyers/david-gohn-sliding-glass-doors-half-moon-bay-faq.json) — schema
+- [`lawyers/david-gohn-sliding-glass-doors-hillsborough-faq.json`](./lawyers/david-gohn-sliding-glass-doors-hillsborough-faq.json) — schema
+- [`lawyers/david-gohn-sliding-glass-doors-pacifica-faq.json`](./lawyers/david-gohn-sliding-glass-doors-pacifica-faq.json) — schema
+- [`lawyers/david-gohn-sliding-glass-doors-san-bruno-faq.json`](./lawyers/david-gohn-sliding-glass-doors-san-bruno-faq.json) — schema
+- [`lawyers/david-gohn-windows-daly-city-faq.json`](./lawyers/david-gohn-windows-daly-city-faq.json) — schema
+- [`lawyers/david-gohn-windows-half-moon-bay-faq.json`](./lawyers/david-gohn-windows-half-moon-bay-faq.json) — schema
+- [`lawyers/david-gohn-windows-hillsborough-faq.json`](./lawyers/david-gohn-windows-hillsborough-faq.json) — schema
+- [`lawyers/david-gohn-windows-pacifica-faq.json`](./lawyers/david-gohn-windows-pacifica-faq.json) — schema
+- [`lawyers/david-gohn-windows-san-bruno-faq.json`](./lawyers/david-gohn-windows-san-bruno-faq.json) — schema
+- [`lawyers/glen-hogerton-and-exterior-doors-daly-city-faq.json`](./lawyers/glen-hogerton-and-exterior-doors-daly-city-faq.json) — schema
+- [`lawyers/glen-hogerton-and-exterior-doors-half-moon-bay-faq.json`](./lawyers/glen-hogerton-and-exterior-doors-half-moon-bay-faq.json) — schema
+- [`lawyers/glen-hogerton-and-exterior-doors-hillsborough-faq.json`](./lawyers/glen-hogerton-and-exterior-doors-hillsborough-faq.json) — schema
+- [`lawyers/glen-hogerton-and-exterior-doors-pacifica-faq.json`](./lawyers/glen-hogerton-and-exterior-doors-pacifica-faq.json) — schema
+- [`lawyers/glen-hogerton-and-exterior-doors-san-bruno-faq.json`](./lawyers/glen-hogerton-and-exterior-doors-san-bruno-faq.json) — schema
+- [`lawyers/glen-hogerton-daly-city.json`](./lawyers/glen-hogerton-daly-city.json) — schema
+- [`lawyers/glen-hogerton-el-granada.json`](./lawyers/glen-hogerton-el-granada.json) — schema
+- [`lawyers/glen-hogerton-half-moon-bay.json`](./lawyers/glen-hogerton-half-moon-bay.json) — schema
+- [`lawyers/glen-hogerton-hillsborough.json`](./lawyers/glen-hogerton-hillsborough.json) — schema
+- [`lawyers/glen-hogerton-installing-windows-daly-city-faq.json`](./lawyers/glen-hogerton-installing-windows-daly-city-faq.json) — schema
+- [`lawyers/glen-hogerton-installing-windows-half-moon-bay-faq.json`](./lawyers/glen-hogerton-installing-windows-half-moon-bay-faq.json) — schema
+- [`lawyers/glen-hogerton-installing-windows-hillsborough-faq.json`](./lawyers/glen-hogerton-installing-windows-hillsborough-faq.json) — schema
+- [`lawyers/glen-hogerton-installing-windows-pacifica-faq.json`](./lawyers/glen-hogerton-installing-windows-pacifica-faq.json) — schema
+- [`lawyers/glen-hogerton-installing-windows-san-bruno-faq.json`](./lawyers/glen-hogerton-installing-windows-san-bruno-faq.json) — schema
+- [`lawyers/glen-hogerton-montara.json`](./lawyers/glen-hogerton-montara.json) — schema
+- [`lawyers/glen-hogerton-pacifica.json`](./lawyers/glen-hogerton-pacifica.json) — schema
+- [`lawyers/glen-hogerton-profile.json`](./lawyers/glen-hogerton-profile.json) — schema
+- [`lawyers/glen-hogerton-san-bruno.json`](./lawyers/glen-hogerton-san-bruno.json) — schema
+- [`lawyers/glen-hogerton-sliding-glass-doors-daly-city-faq.json`](./lawyers/glen-hogerton-sliding-glass-doors-daly-city-faq.json) — schema
+- [`lawyers/glen-hogerton-sliding-glass-doors-half-moon-bay-faq.json`](./lawyers/glen-hogerton-sliding-glass-doors-half-moon-bay-faq.json) — schema
+- [`lawyers/glen-hogerton-sliding-glass-doors-hillsborough-faq.json`](./lawyers/glen-hogerton-sliding-glass-doors-hillsborough-faq.json) — schema
+- [`lawyers/glen-hogerton-sliding-glass-doors-pacifica-faq.json`](./lawyers/glen-hogerton-sliding-glass-doors-pacifica-faq.json) — schema
+- [`lawyers/glen-hogerton-sliding-glass-doors-san-bruno-faq.json`](./lawyers/glen-hogerton-sliding-glass-doors-san-bruno-faq.json) — schema
+
+### Attorneys / Team (6)
+- [`homeandconstructionbusiness-team.jsonld`](./homeandconstructionbusiness-team.jsonld) — HomeAndConstructionBusiness team wrapper
+- [`professionals.jsonld`](./professionals.jsonld) — Professionals ItemList
+- [`team-bios.json`](./team-bios.json) — Team bios (JSON)
+- [`team-bios.md`](./team-bios.md) — Team bios (markdown)
+- [`team.json`](./team.json) — Team data bundle
+- [`team.jsonld`](./team.jsonld) — Aggregate team ItemList
+
+### FAQs (168)
+- [`faq.md`](./faq.md) — FAQs (markdown)
+- [`faqs.jsonld`](./faqs.jsonld) — FAQs ItemList
+- [`faqs/are-new-windows-really-going-to-make-my-older-bay-area-home-more-comfortable-or.json`](./faqs/are-new-windows-really-going-to-make-my-older-bay-area-home-more-comfortable-or.json) — schema
+- [`faqs/are-sliding-glass-doors-easy-to-break-into-and-what-can-i-do-during-installation.json`](./faqs/are-sliding-glass-doors-easy-to-break-into-and-what-can-i-do-during-installation.json) — schema
+- [`faqs/are-sliding-glass-doors-safe-in-earthquake-country-like-the-bay-area-or-am-i-ask.json`](./faqs/are-sliding-glass-doors-safe-in-earthquake-country-like-the-bay-area-or-am-i-ask.json) — schema
+- [`faqs/are-sliding-patio-doors-harder-to-install-than-regular-doors-and-what-can-go-wro.json`](./faqs/are-sliding-patio-doors-harder-to-install-than-regular-doors-and-what-can-go-wro.json) — schema
+- [`faqs/are-there-special-materials-i-should-use-for-a-kitchen-remodel-in-coastal-areas.json`](./faqs/are-there-special-materials-i-should-use-for-a-kitchen-remodel-in-coastal-areas.json) — schema
+- [`faqs/are-there-special-sound-or-noise-rules-i-need-to-think-about-when-installing-har.json`](./faqs/are-there-special-sound-or-noise-rules-i-need-to-think-about-when-installing-har.json) — schema
+- [`faqs/can-a-new-sliding-glass-door-actually-help-with-street-noise-or-is-that-just-mar.json`](./faqs/can-a-new-sliding-glass-door-actually-help-with-street-noise-or-is-that-just-mar.json) — schema
+- [`faqs/can-a-sliding-glass-door-be-replaced-without-tearing-up-my-interior-flooring-rig.json`](./faqs/can-a-sliding-glass-door-be-replaced-without-tearing-up-my-interior-flooring-rig.json) — schema
+- [`faqs/can-i-diy-a-bathroom-remodel-or-should-i-hire-a-contractor.json`](./faqs/can-i-diy-a-bathroom-remodel-or-should-i-hire-a-contractor.json) — schema
+- [`faqs/can-i-install-a-sliding-glass-door-myself-or-is-this-one-of-those-projects-that.json`](./faqs/can-i-install-a-sliding-glass-door-myself-or-is-this-one-of-those-projects-that.json) — schema
+- [`faqs/can-i-keep-my-existing-door-trim-or-casing-when-i-replace-the-door-or-does-every.json`](./faqs/can-i-keep-my-existing-door-trim-or-casing-when-i-replace-the-door-or-does-every.json) — schema
+- [`faqs/can-i-live-in-my-house-while-new-flooring-is-being-installed-or-is-that-a-bad-id.json`](./faqs/can-i-live-in-my-house-while-new-flooring-is-being-installed-or-is-that-a-bad-id.json) — schema
+- [`faqs/can-i-realistically-install-my-own-replacement-windows-or-is-diy-too-risky.json`](./faqs/can-i-realistically-install-my-own-replacement-windows-or-is-diy-too-risky.json) — schema
+- [`faqs/can-i-remodel-my-kitchen-in-phases-to-spread-out-the-cost-or-is-that-a-bad-idea.json`](./faqs/can-i-remodel-my-kitchen-in-phases-to-spread-out-the-cost-or-is-that-a-bad-idea.json) — schema
+- [`faqs/can-i-widen-my-existing-door-opening-to-fit-a-larger-sliding-glass-door-or-is-th.json`](./faqs/can-i-widen-my-existing-door-opening-to-fit-a-larger-sliding-glass-door-or-is-th.json) — schema
+- [`faqs/can-we-realistically-live-in-the-house-while-our-kitchen-is-being-remodeled-or-i.json`](./faqs/can-we-realistically-live-in-the-house-while-our-kitchen-is-being-remodeled-or-i.json) — schema
+- [`faqs/do-bathroom-remodel-rules-change-in-pacifica-daly-city-or-san-mateo-county.json`](./faqs/do-bathroom-remodel-rules-change-in-pacifica-daly-city-or-san-mateo-county.json) — schema
+- [`faqs/do-i-need-a-building-permit-to-install-or-replace-a-sliding-glass-door-at-my-hou.json`](./faqs/do-i-need-a-building-permit-to-install-or-replace-a-sliding-glass-door-at-my-hou.json) — schema
+- [`faqs/do-i-need-a-building-permit-to-replace-or-add-windows-in-my-bay-area-home.json`](./faqs/do-i-need-a-building-permit-to-replace-or-add-windows-in-my-bay-area-home.json) — schema
+- [`faqs/do-i-need-a-permit-for-a-bathroom-remodel-or-is-that-only-for-big-projects.json`](./faqs/do-i-need-a-permit-for-a-bathroom-remodel-or-is-that-only-for-big-projects.json) — schema
+- [`faqs/do-i-need-a-permit-for-siding-replacement.json`](./faqs/do-i-need-a-permit-for-siding-replacement.json) — schema
+- [`faqs/do-i-need-a-permit-or-any-approvals-to-replace-flooring-in-my-san-mateo-county-h.json`](./faqs/do-i-need-a-permit-or-any-approvals-to-replace-flooring-in-my-san-mateo-county-h.json) — schema
+- [`faqs/do-i-need-a-permit-to-replace-or-add-a-door-in-my-san-mateo-county-home-or-can-i.json`](./faqs/do-i-need-a-permit-to-replace-or-add-a-door-in-my-san-mateo-county-home-or-can-i.json) — schema
+- [`faqs/do-i-need-hoa-approval-to-replace-my-windows-in-a-condo-or-townhouse-in-san-mate.json`](./faqs/do-i-need-hoa-approval-to-replace-my-windows-in-a-condo-or-townhouse-in-san-mate.json) — schema
+- [`faqs/do-i-need-to-be-home-the-whole-time-during-door-installation-or-can-the-crew-wor.json`](./faqs/do-i-need-to-be-home-the-whole-time-during-door-installation-or-can-the-crew-wor.json) — schema
+- [`faqs/do-i-need-to-measure-my-existing-door-opening-before-i-call-someone-and-what-exa.json`](./faqs/do-i-need-to-measure-my-existing-door-opening-before-i-call-someone-and-what-exa.json) — schema
+- [`faqs/do-i-really-need-permits-for-a-kitchen-remodel-in-places-like-pacifica-or-daly-c.json`](./faqs/do-i-really-need-permits-for-a-kitchen-remodel-in-places-like-pacifica-or-daly-c.json) — schema
+- [`faqs/do-i-really-need-to-upgrade-my-electrical-and-plumbing-during-a-kitchen-remodel.json`](./faqs/do-i-really-need-to-upgrade-my-electrical-and-plumbing-during-a-kitchen-remodel.json) — schema
+- [`faqs/do-i-really-need-waterproof-flooring-in-bathrooms-and-laundry-rooms-or-will-norm.json`](./faqs/do-i-really-need-waterproof-flooring-in-bathrooms-and-laundry-rooms-or-will-norm.json) — schema
+- [`faqs/do-siding-contractors-usually-require-a-deposit.json`](./faqs/do-siding-contractors-usually-require-a-deposit.json) — schema
+- [`faqs/does-a-bathroom-remodel-fix-mold-and-moisture-problems-too.json`](./faqs/does-a-bathroom-remodel-fix-mold-and-moisture-problems-too.json) — schema
+- [`faqs/does-the-coastal-humidity-in-pacifica-or-half-moon-bay-affect-how-my-flooring-sh.json`](./faqs/does-the-coastal-humidity-in-pacifica-or-half-moon-bay-affect-how-my-flooring-sh.json) — schema
+- [`faqs/for-a-front-entry-door-how-do-i-decide-between-wood-fiberglass-and-steel-what-ar.json`](./faqs/for-a-front-entry-door-how-do-i-decide-between-wood-fiberglass-and-steel-what-ar.json) — schema
+- [`faqs/how-are-stairs-handled-during-flooring-installation-and-why-do-they-seem-so-expe.json`](./faqs/how-are-stairs-handled-during-flooring-installation-and-why-do-they-seem-so-expe.json) — schema
+- [`faqs/how-can-i-avoid-repeating-a-bad-window-installation-experience-i-had-with-a-prev.json`](./faqs/how-can-i-avoid-repeating-a-bad-window-installation-experience-i-had-with-a-prev.json) — schema
+- [`faqs/how-can-i-keep-my-kitchen-remodel-costs-under-control-without-ending-up-with-som.json`](./faqs/how-can-i-keep-my-kitchen-remodel-costs-under-control-without-ending-up-with-som.json) — schema
+- [`faqs/how-can-i-save-money-on-a-bathroom-remodel-without-making-it-look-cheap.json`](./faqs/how-can-i-save-money-on-a-bathroom-remodel-without-making-it-look-cheap.json) — schema
+- [`faqs/how-can-i-tell-if-a-siding-contractor-is-reputable.json`](./faqs/how-can-i-tell-if-a-siding-contractor-is-reputable.json) — schema
+- [`faqs/how-can-i-tell-if-my-flooring-installation-was-done-poorly-or-if-what-i-m-seeing.json`](./faqs/how-can-i-tell-if-my-flooring-installation-was-done-poorly-or-if-what-i-m-seeing.json) — schema
+- [`faqs/how-can-i-tell-if-my-new-windows-were-installed-correctly-and-not-just-slapped-i.json`](./faqs/how-can-i-tell-if-my-new-windows-were-installed-correctly-and-not-just-slapped-i.json) — schema
+- [`faqs/how-disruptive-is-window-installation-really-going-to-be-for-my-household.json`](./faqs/how-disruptive-is-window-installation-really-going-to-be-for-my-household.json) — schema
+- [`faqs/how-do-contractors-keep-the-rest-of-the-house-clean-during-a-bathroom-remodel.json`](./faqs/how-do-contractors-keep-the-rest-of-the-house-clean-during-a-bathroom-remodel.json) — schema
+- [`faqs/how-do-i-choose-a-trustworthy-door-installer-and-avoid-getting-burned-by-a-bad-c.json`](./faqs/how-do-i-choose-a-trustworthy-door-installer-and-avoid-getting-burned-by-a-bad-c.json) — schema
+- [`faqs/how-do-i-compare-bathroom-remodeling-bids-without-getting-confused.json`](./faqs/how-do-i-compare-bathroom-remodeling-bids-without-getting-confused.json) — schema
+- [`faqs/how-do-i-know-if-a-bathroom-remodeler-has-the-right-experience-for-my-project.json`](./faqs/how-do-i-know-if-a-bathroom-remodeler-has-the-right-experience-for-my-project.json) — schema
+- [`faqs/how-do-i-know-if-a-siding-quote-is-actually-a-good-deal.json`](./faqs/how-do-i-know-if-a-siding-quote-is-actually-a-good-deal.json) — schema
+- [`faqs/how-do-i-know-if-i-need-a-bathroom-remodel-instead-of-just-repairs.json`](./faqs/how-do-i-know-if-i-need-a-bathroom-remodel-instead-of-just-repairs.json) — schema
+- [`faqs/how-do-i-know-if-it-s-really-time-to-replace-my-windows-or-if-i-can-wait-a-few-m.json`](./faqs/how-do-i-know-if-it-s-really-time-to-replace-my-windows-or-if-i-can-wait-a-few-m.json) — schema
+- [`faqs/how-do-i-know-if-my-sliding-glass-door-was-installed-correctly-and-won-t-leak-or.json`](./faqs/how-do-i-know-if-my-sliding-glass-door-was-installed-correctly-and-won-t-leak-or.json) — schema
+- [`faqs/how-do-i-know-if-the-siding-installation-was-done-correctly.json`](./faqs/how-do-i-know-if-the-siding-installation-was-done-correctly.json) — schema
+- [`faqs/how-do-i-know-my-new-shower-will-not-leak-later.json`](./faqs/how-do-i-know-my-new-shower-will-not-leak-later.json) — schema
+- [`faqs/how-do-i-plan-a-kitchen-remodel-that-will-still-work-for-me-as-i-get-older-or-if.json`](./faqs/how-do-i-plan-a-kitchen-remodel-that-will-still-work-for-me-as-i-get-older-or-if.json) — schema
+- [`faqs/how-does-exterior-siding-installation-usually-work.json`](./faqs/how-does-exterior-siding-installation-usually-work.json) — schema
+- [`faqs/how-long-do-new-floors-need-to-acclimate-before-installation-and-is-it-really-ne.json`](./faqs/how-long-do-new-floors-need-to-acclimate-before-installation-and-is-it-really-ne.json) — schema
+- [`faqs/how-long-does-a-bathroom-remodel-usually-take-from-start-to-finish.json`](./faqs/how-long-does-a-bathroom-remodel-usually-take-from-start-to-finish.json) — schema
+- [`faqs/how-long-does-a-full-kitchen-remodel-realistically-take-from-start-to-finish.json`](./faqs/how-long-does-a-full-kitchen-remodel-realistically-take-from-start-to-finish.json) — schema
+- [`faqs/how-long-does-flooring-installation-actually-take-from-start-to-finish-in-a-norm.json`](./faqs/how-long-does-flooring-installation-actually-take-from-start-to-finish-in-a-norm.json) — schema
+- [`faqs/how-long-does-it-usually-take-to-install-a-new-sliding-glass-patio-door-from-sta.json`](./faqs/how-long-does-it-usually-take-to-install-a-new-sliding-glass-patio-door-from-sta.json) — schema
+- [`faqs/how-long-does-professional-door-installation-usually-take-from-start-to-finish-i.json`](./faqs/how-long-does-professional-door-installation-usually-take-from-start-to-finish-i.json) — schema
+- [`faqs/how-long-does-siding-installation-usually-take.json`](./faqs/how-long-does-siding-installation-usually-take.json) — schema
+- [`faqs/how-long-does-window-installation-usually-take-and-will-my-house-be-exposed-over.json`](./faqs/how-long-does-window-installation-usually-take-and-will-my-house-be-exposed-over.json) — schema
+- [`faqs/how-much-does-exterior-siding-installation-cost.json`](./faqs/how-much-does-exterior-siding-installation-cost.json) — schema
+- [`faqs/how-much-does-professional-flooring-installation-usually-cost-per-square-foot.json`](./faqs/how-much-does-professional-flooring-installation-usually-cost-per-square-foot.json) — schema
+- [`faqs/how-much-extra-money-should-i-set-aside-for-unexpected-issues-during-a-kitchen-r.json`](./faqs/how-much-extra-money-should-i-set-aside-for-unexpected-issues-during-a-kitchen-r.json) — schema
+- [`faqs/how-much-money-should-i-pay-upfront-for-a-bathroom-remodel.json`](./faqs/how-much-money-should-i-pay-upfront-for-a-bathroom-remodel.json) — schema
+- [`faqs/how-much-should-a-bathroom-remodel-cost-if-i-want-to-keep-it-within-budget.json`](./faqs/how-much-should-a-bathroom-remodel-cost-if-i-want-to-keep-it-within-budget.json) — schema
+- [`faqs/how-much-should-i-expect-to-pay-per-window-for-professional-installation-in-the.json`](./faqs/how-much-should-i-expect-to-pay-per-window-for-professional-installation-in-the.json) — schema
+- [`faqs/how-much-should-i-expect-to-spend-on-a-kitchen-remodel-and-what-drives-the-cost.json`](./faqs/how-much-should-i-expect-to-spend-on-a-kitchen-remodel-and-what-drives-the-cost.json) — schema
+- [`faqs/how-much-should-i-realistically-budget-to-install-or-replace-a-sliding-glass-doo.json`](./faqs/how-much-should-i-realistically-budget-to-install-or-replace-a-sliding-glass-doo.json) — schema
+- [`faqs/how-often-should-exterior-doors-be-checked-or-maintained-in-places-like-half-moo.json`](./faqs/how-often-should-exterior-doors-be-checked-or-maintained-in-places-like-half-moo.json) — schema
+- [`faqs/how-should-i-plan-a-kitchen-remodel-if-i-might-sell-in-a-few-years-in-places-lik.json`](./faqs/how-should-i-plan-a-kitchen-remodel-if-i-might-sell-in-a-few-years-in-places-lik.json) — schema
+- [`faqs/how-should-i-prioritize-window-replacement-if-i-can-t-afford-to-do-the-whole-hou.json`](./faqs/how-should-i-prioritize-window-replacement-if-i-can-t-afford-to-do-the-whole-hou.json) — schema
+- [`faqs/how-soon-can-i-put-my-furniture-and-appliances-back-after-flooring-installation.json`](./faqs/how-soon-can-i-put-my-furniture-and-appliances-back-after-flooring-installation.json) — schema
+- [`faqs/i-had-a-terrible-contractor-last-time-how-do-i-avoid-getting-burned-again-on-my.json`](./faqs/i-had-a-terrible-contractor-last-time-how-do-i-avoid-getting-burned-again-on-my.json) — schema
+- [`faqs/i-had-a-terrible-flooring-installation-experience-before-how-do-i-avoid-the-same.json`](./faqs/i-had-a-terrible-flooring-installation-experience-before-how-do-i-avoid-the-same.json) — schema
+- [`faqs/i-have-a-limited-budget-and-feel-awkward-talking-numbers-how-much-should-i-share.json`](./faqs/i-have-a-limited-budget-and-feel-awkward-talking-numbers-how-much-should-i-share.json) — schema
+- [`faqs/i-live-near-the-coast-pacifica-half-moon-bay-what-should-i-look-for-in-a-sliding.json`](./faqs/i-live-near-the-coast-pacifica-half-moon-bay-what-should-i-look-for-in-a-sliding.json) — schema
+- [`faqs/i-live-near-the-ocean-in-pacifica-what-kind-of-exterior-door-holds-up-best-to-sa.json`](./faqs/i-live-near-the-ocean-in-pacifica-what-kind-of-exterior-door-holds-up-best-to-sa.json) — schema
+- [`faqs/i-m-a-landlord-adding-sliding-glass-doors-to-a-rental-what-should-i-prioritize-s.json`](./faqs/i-m-a-landlord-adding-sliding-glass-doors-to-a-rental-what-should-i-prioritize-s.json) — schema
+- [`faqs/i-m-in-a-condo-hoa-building-in-south-san-francisco-can-i-just-swap-my-front-or-b.json`](./faqs/i-m-in-a-condo-hoa-building-in-south-san-francisco-can-i-just-swap-my-front-or-b.json) — schema
+- [`faqs/i-mainly-care-about-drafts-and-noise-what-should-i-look-for-in-a-new-door-and-it.json`](./faqs/i-mainly-care-about-drafts-and-noise-what-should-i-look-for-in-a-new-door-and-it.json) — schema
+- [`faqs/i-need-a-new-door-but-have-no-idea-where-to-start-what-should-i-do-first-before.json`](./faqs/i-need-a-new-door-but-have-no-idea-where-to-start-what-should-i-do-first-before.json) — schema
+- [`faqs/i-need-several-doors-replaced-but-can-t-afford-to-do-everything-how-do-i-decide.json`](./faqs/i-need-several-doors-replaced-but-can-t-afford-to-do-everything-how-do-i-decide.json) — schema
+- [`faqs/i-want-to-add-or-replace-a-sliding-glass-door-but-don-t-know-where-to-start-what.json`](./faqs/i-want-to-add-or-replace-a-sliding-glass-door-but-don-t-know-where-to-start-what.json) — schema
+- [`faqs/if-i-m-on-a-tight-budget-what-should-i-prioritize-in-a-kitchen-remodel-and-where.json`](./faqs/if-i-m-on-a-tight-budget-what-should-i-prioritize-in-a-kitchen-remodel-and-where.json) — schema
+- [`faqs/is-a-bathroom-fan-really-necessary-in-a-remodel.json`](./faqs/is-a-bathroom-fan-really-necessary-in-a-remodel.json) — schema
+- [`faqs/is-a-kitchen-remodel-really-worth-the-money-or-should-i-just-live-with-what-i-ha.json`](./faqs/is-a-kitchen-remodel-really-worth-the-money-or-should-i-just-live-with-what-i-ha.json) — schema
+- [`faqs/is-installing-a-door-a-realistic-diy-project-or-am-i-setting-myself-up-for-probl.json`](./faqs/is-installing-a-door-a-realistic-diy-project-or-am-i-setting-myself-up-for-probl.json) — schema
+- [`faqs/is-it-a-bad-idea-to-replace-my-windows-in-the-rainy-season-around-san-francisco.json`](./faqs/is-it-a-bad-idea-to-replace-my-windows-in-the-rainy-season-around-san-francisco.json) — schema
+- [`faqs/is-siding-replacement-different-for-older-bay-area-homes.json`](./faqs/is-siding-replacement-different-for-older-bay-area-homes.json) — schema
+- [`faqs/is-there-a-bad-time-of-year-to-remodel-a-bathroom.json`](./faqs/is-there-a-bad-time-of-year-to-remodel-a-bathroom.json) — schema
+- [`faqs/is-there-anything-special-i-should-know-about-doors-between-the-garage-and-the-h.json`](./faqs/is-there-anything-special-i-should-know-about-doors-between-the-garage-and-the-h.json) — schema
+- [`faqs/my-current-sliding-glass-door-is-drafty-should-i-repair-it-or-bite-the-bullet-an.json`](./faqs/my-current-sliding-glass-door-is-drafty-should-i-repair-it-or-bite-the-bullet-an.json) — schema
+- [`faqs/my-door-is-warped-and-keeps-sticking-should-i-try-to-repair-it-again-or-is-it-ti.json`](./faqs/my-door-is-warped-and-keeps-sticking-should-i-try-to-repair-it-again-or-is-it-ti.json) — schema
+- [`faqs/my-double-pane-windows-are-fogged-between-the-glass-does-that-mean-i-have-to-rep.json`](./faqs/my-double-pane-windows-are-fogged-between-the-glass-does-that-mean-i-have-to-rep.json) — schema
+- [`faqs/my-exterior-door-is-damaged-and-won-t-close-what-should-i-do-right-now-and-how-f.json`](./faqs/my-exterior-door-is-damaged-and-won-t-close-what-should-i-do-right-now-and-how-f.json) — schema
+- [`faqs/my-house-has-stucco-what-should-i-watch-out-for-when-installing-a-sliding-glass.json`](./faqs/my-house-has-stucco-what-should-i-watch-out-for-when-installing-a-sliding-glass.json) — schema
+- [`faqs/my-house-in-daly-city-is-old-and-quirky-can-a-new-door-even-be-installed-properl.json`](./faqs/my-house-in-daly-city-is-old-and-quirky-can-a-new-door-even-be-installed-properl.json) — schema
+- [`faqs/my-house-is-old-and-nothing-is-square-can-i-still-get-a-sliding-glass-door-insta.json`](./faqs/my-house-is-old-and-nothing-is-square-can-i-still-get-a-sliding-glass-door-insta.json) — schema
+- [`faqs/my-new-door-has-small-gaps-and-drafts-does-that-mean-it-was-installed-wrong-and.json`](./faqs/my-new-door-has-small-gaps-and-drafts-does-that-mean-it-was-installed-wrong-and.json) — schema
+- [`faqs/my-new-floors-squeak-when-i-walk-on-them-what-should-i-do-and-is-that-normal.json`](./faqs/my-new-floors-squeak-when-i-walk-on-them-what-should-i-do-and-is-that-normal.json) — schema
+- [`faqs/my-patio-is-small-what-kind-of-sliding-glass-door-setup-works-best-without-eatin.json`](./faqs/my-patio-is-small-what-kind-of-sliding-glass-door-setup-works-best-without-eatin.json) — schema
+- [`faqs/my-subfloor-isn-t-perfectly-level-can-i-still-install-new-flooring-over-it-witho.json`](./faqs/my-subfloor-isn-t-perfectly-level-can-i-still-install-new-flooring-over-it-witho.json) — schema
+- [`faqs/on-a-limited-budget-which-rooms-should-i-prioritize-for-new-flooring-and-where-c.json`](./faqs/on-a-limited-budget-which-rooms-should-i-prioritize-for-new-flooring-and-where-c.json) — schema
+- [`faqs/should-i-do-a-partial-bathroom-remodel-or-a-full-gut-renovation.json`](./faqs/should-i-do-a-partial-bathroom-remodel-or-a-full-gut-renovation.json) — schema
+- [`faqs/should-i-hire-a-contractor-who-has-done-bathroom-remodels-in-my-city-before.json`](./faqs/should-i-hire-a-contractor-who-has-done-bathroom-remodels-in-my-city-before.json) — schema
+- [`faqs/should-i-install-new-siding-over-the-old-siding-or-remove-it-first.json`](./faqs/should-i-install-new-siding-over-the-old-siding-or-remove-it-first.json) — schema
+- [`faqs/should-i-try-to-diy-my-kitchen-remodel-or-is-that-asking-for-a-disaster.json`](./faqs/should-i-try-to-diy-my-kitchen-remodel-or-is-that-asking-for-a-disaster.json) — schema
+- [`faqs/should-i-try-to-install-my-new-flooring-myself-or-is-it-really-better-to-hire-a.json`](./faqs/should-i-try-to-install-my-new-flooring-myself-or-is-it-really-better-to-hire-a.json) — schema
+- [`faqs/we-have-small-kids-and-pets-what-should-we-look-for-in-a-sliding-glass-door-inst.json`](./faqs/we-have-small-kids-and-pets-what-should-we-look-for-in-a-sliding-glass-door-inst.json) — schema
+- [`faqs/what-are-the-biggest-mistakes-people-regret-after-a-kitchen-remodel-that-i-shoul.json`](./faqs/what-are-the-biggest-mistakes-people-regret-after-a-kitchen-remodel-that-i-shoul.json) — schema
+- [`faqs/what-are-the-most-common-siding-installation-mistakes.json`](./faqs/what-are-the-most-common-siding-installation-mistakes.json) — schema
+- [`faqs/what-are-the-most-common-window-installation-mistakes-that-cause-problems-later.json`](./faqs/what-are-the-most-common-window-installation-mistakes-that-cause-problems-later.json) — schema
+- [`faqs/what-are-the-most-durable-low-maintenance-choices-for-cabinets-countertops-and-f.json`](./faqs/what-are-the-most-durable-low-maintenance-choices-for-cabinets-countertops-and-f.json) — schema
+- [`faqs/what-are-the-most-important-things-to-get-right-so-my-new-flooring-lasts-as-long.json`](./faqs/what-are-the-most-important-things-to-get-right-so-my-new-flooring-lasts-as-long.json) — schema
+- [`faqs/what-bathroom-materials-are-worth-paying-more-for.json`](./faqs/what-bathroom-materials-are-worth-paying-more-for.json) — schema
+- [`faqs/what-can-go-wrong-with-siding-installation.json`](./faqs/what-can-go-wrong-with-siding-installation.json) — schema
+- [`faqs/what-can-i-do-as-the-homeowner-to-prevent-my-kitchen-remodel-from-dragging-on-fo.json`](./faqs/what-can-i-do-as-the-homeowner-to-prevent-my-kitchen-remodel-from-dragging-on-fo.json) — schema
+- [`faqs/what-do-i-need-to-do-to-prepare-my-home-before-the-flooring-installers-show-up.json`](./faqs/what-do-i-need-to-do-to-prepare-my-home-before-the-flooring-installers-show-up.json) — schema
+- [`faqs/what-do-i-need-to-do-to-prepare-my-home-for-door-installation-day-so-it-doesn-t.json`](./faqs/what-do-i-need-to-do-to-prepare-my-home-for-door-installation-day-so-it-doesn-t.json) — schema
+- [`faqs/what-does-it-really-cost-to-have-a-door-professionally-installed-and-why-does-it.json`](./faqs/what-does-it-really-cost-to-have-a-door-professionally-installed-and-why-does-it.json) — schema
+- [`faqs/what-does-the-kitchen-remodeling-process-actually-look-like-from-first-meeting-t.json`](./faqs/what-does-the-kitchen-remodeling-process-actually-look-like-from-first-meeting-t.json) — schema
+- [`faqs/what-happens-during-a-siding-estimate-and-consultation.json`](./faqs/what-happens-during-a-siding-estimate-and-consultation.json) — schema
+- [`faqs/what-happens-if-my-sliding-glass-door-installation-gets-delayed-after-they-ve-al.json`](./faqs/what-happens-if-my-sliding-glass-door-installation-gets-delayed-after-they-ve-al.json) — schema
+- [`faqs/what-if-a-window-breaks-suddenly-can-installers-handle-emergency-replacements-or.json`](./faqs/what-if-a-window-breaks-suddenly-can-installers-handle-emergency-replacements-or.json) — schema
+- [`faqs/what-if-i-need-new-siding-but-i-m-on-a-tight-budget.json`](./faqs/what-if-i-need-new-siding-but-i-m-on-a-tight-budget.json) — schema
+- [`faqs/what-if-my-bathroom-remodel-uncovers-water-damage-or-old-plumbing.json`](./faqs/what-if-my-bathroom-remodel-uncovers-water-damage-or-old-plumbing.json) — schema
+- [`faqs/what-if-the-contractor-finds-damage-under-my-old-siding.json`](./faqs/what-if-the-contractor-finds-damage-under-my-old-siding.json) — schema
+- [`faqs/what-if-the-siding-company-is-pressuring-me-to-sign-right-away.json`](./faqs/what-if-the-siding-company-is-pressuring-me-to-sign-right-away.json) — schema
+- [`faqs/what-information-do-i-need-before-i-start-a-bathroom-remodel-estimate.json`](./faqs/what-information-do-i-need-before-i-start-a-bathroom-remodel-estimate.json) — schema
+- [`faqs/what-information-do-i-need-to-get-a-siding-installation-estimate.json`](./faqs/what-information-do-i-need-to-get-a-siding-installation-estimate.json) — schema
+- [`faqs/what-kind-of-flooring-stands-up-best-to-sand-and-moisture-in-coastal-areas-like.json`](./faqs/what-kind-of-flooring-stands-up-best-to-sand-and-moisture-in-coastal-areas-like.json) — schema
+- [`faqs/what-kind-of-results-can-i-realistically-expect-from-a-bathroom-remodel.json`](./faqs/what-kind-of-results-can-i-realistically-expect-from-a-bathroom-remodel.json) — schema
+- [`faqs/what-measurements-and-information-do-i-need-before-i-can-order-or-install-a-new.json`](./faqs/what-measurements-and-information-do-i-need-before-i-can-order-or-install-a-new.json) — schema
+- [`faqs/what-parts-of-a-kitchen-remodel-eat-up-the-most-budget-so-i-can-decide-where-to.json`](./faqs/what-parts-of-a-kitchen-remodel-eat-up-the-most-budget-so-i-can-decide-where-to.json) — schema
+- [`faqs/what-questions-should-i-ask-before-hiring-a-siding-installer.json`](./faqs/what-questions-should-i-ask-before-hiring-a-siding-installer.json) — schema
+- [`faqs/what-s-the-best-way-to-handle-a-small-or-galley-kitchen-remodel-in-towns-like-da.json`](./faqs/what-s-the-best-way-to-handle-a-small-or-galley-kitchen-remodel-in-towns-like-da.json) — schema
+- [`faqs/what-s-the-first-thing-i-should-do-if-i-m-thinking-about-new-flooring-installati.json`](./faqs/what-s-the-first-thing-i-should-do-if-i-m-thinking-about-new-flooring-installati.json) — schema
+- [`faqs/what-s-the-most-budget-friendly-flooring-option-that-still-holds-up-well-over-ti.json`](./faqs/what-s-the-most-budget-friendly-flooring-option-that-still-holds-up-well-over-ti.json) — schema
+- [`faqs/what-s-the-real-difference-between-full-frame-and-pocket-window-installation-and.json`](./faqs/what-s-the-real-difference-between-full-frame-and-pocket-window-installation-and.json) — schema
+- [`faqs/what-should-be-included-in-a-bathroom-remodeling-contract.json`](./faqs/what-should-be-included-in-a-bathroom-remodeling-contract.json) — schema
+- [`faqs/what-should-i-ask-a-bathroom-remodeler-before-signing-a-contract.json`](./faqs/what-should-i-ask-a-bathroom-remodeler-before-signing-a-contract.json) — schema
+- [`faqs/what-should-i-be-looking-for-when-comparing-flooring-installation-quotes-from-di.json`](./faqs/what-should-i-be-looking-for-when-comparing-flooring-installation-quotes-from-di.json) — schema
+- [`faqs/what-should-i-check-before-starting-exterior-siding-installation.json`](./faqs/what-should-i-check-before-starting-exterior-siding-installation.json) — schema
+- [`faqs/what-should-i-consider-for-siding-installation-in-the-san-francisco-bay-area.json`](./faqs/what-should-i-consider-for-siding-installation-in-the-san-francisco-bay-area.json) — schema
+- [`faqs/what-should-i-do-first-if-i-m-thinking-about-remodeling-my-kitchen-but-feel-tota.json`](./faqs/what-should-i-do-first-if-i-m-thinking-about-remodeling-my-kitchen-but-feel-tota.json) — schema
+- [`faqs/what-should-i-do-if-my-new-windows-are-still-drafty-or-leaking-after-installatio.json`](./faqs/what-should-i-do-if-my-new-windows-are-still-drafty-or-leaking-after-installatio.json) — schema
+- [`faqs/what-should-i-do-if-my-sliding-glass-door-leaks-when-it-rains-hard-can-it-be-fix.json`](./faqs/what-should-i-do-if-my-sliding-glass-door-leaks-when-it-rains-hard-can-it-be-fix.json) — schema
+- [`faqs/what-should-i-do-to-get-my-house-ready-before-the-window-installers-show-up.json`](./faqs/what-should-i-do-to-get-my-house-ready-before-the-window-installers-show-up.json) — schema
+- [`faqs/what-should-i-expect-after-new-siding-is-installed.json`](./faqs/what-should-i-expect-after-new-siding-is-installed.json) — schema
+- [`faqs/what-should-i-look-for-in-replacement-windows-if-my-main-goal-is-better-energy-e.json`](./faqs/what-should-i-look-for-in-replacement-windows-if-my-main-goal-is-better-energy-e.json) — schema
+- [`faqs/what-should-i-look-for-when-choosing-a-contractor-for-my-kitchen-remodel-so-i-do.json`](./faqs/what-should-i-look-for-when-choosing-a-contractor-for-my-kitchen-remodel-so-i-do.json) — schema
+- [`faqs/what-should-i-look-for-when-choosing-a-window-installation-contractor-beyond-jus.json`](./faqs/what-should-i-look-for-when-choosing-a-window-installation-contractor-beyond-jus.json) — schema
+- [`faqs/what-siding-material-is-best-for-my-house.json`](./faqs/what-siding-material-is-best-for-my-house.json) — schema
+- [`faqs/what-siding-works-best-near-the-coast.json`](./faqs/what-siding-works-best-near-the-coast.json) — schema
+- [`faqs/what-type-of-flooring-holds-up-best-for-a-busy-family-in-the-san-francisco-bay-a.json`](./faqs/what-type-of-flooring-holds-up-best-for-a-busy-family-in-the-san-francisco-bay-a.json) — schema
+- [`faqs/what-type-of-sliding-glass-door-is-best-for-the-bay-area-climate-and-my-energy-b.json`](./faqs/what-type-of-sliding-glass-door-is-best-for-the-bay-area-climate-and-my-energy-b.json) — schema
+- [`faqs/what-type-of-window-material-holds-up-best-in-coastal-areas-like-pacifica-and-ha.json`](./faqs/what-type-of-window-material-holds-up-best-in-coastal-areas-like-pacifica-and-ha.json) — schema
+- [`faqs/what-usually-goes-wrong-during-a-bathroom-remodel.json`](./faqs/what-usually-goes-wrong-during-a-bathroom-remodel.json) — schema
+- [`faqs/what-warranty-should-i-expect-with-new-siding.json`](./faqs/what-warranty-should-i-expect-with-new-siding.json) — schema
+- [`faqs/who-should-be-doing-the-plumbing-and-electrical-in-a-bathroom-remodel.json`](./faqs/who-should-be-doing-the-plumbing-and-electrical-in-a-bathroom-remodel.json) — schema
+- [`faqs/why-do-kitchen-remodels-seem-so-much-more-expensive-in-the-san-francisco-bay-are.json`](./faqs/why-do-kitchen-remodels-seem-so-much-more-expensive-in-the-san-francisco-bay-are.json) — schema
+- [`faqs/why-is-my-siding-project-taking-longer-than-expected.json`](./faqs/why-is-my-siding-project-taking-longer-than-expected.json) — schema
+- [`faqs/will-a-kitchen-remodel-actually-increase-my-home-s-value-or-am-i-just-dumping-mo.json`](./faqs/will-a-kitchen-remodel-actually-increase-my-home-s-value-or-am-i-just-dumping-mo.json) — schema
+- [`faqs/will-replacing-all-my-windows-trigger-a-big-property-tax-increase-or-is-it-treat.json`](./faqs/will-replacing-all-my-windows-trigger-a-big-property-tax-increase-or-is-it-treat.json) — schema
+- [`faqs/will-the-flooring-installers-move-my-furniture-and-appliances-or-is-that-my-resp.json`](./faqs/will-the-flooring-installers-move-my-furniture-and-appliances-or-is-that-my-resp.json) — schema
+
+### Q&A (2)
+- [`qna.md`](./qna.md) — Q&A (markdown)
+- [`qnas.jsonld`](./qnas.jsonld) — Q&A ItemList
+
+### Help Articles (49)
+- [`help-articles.jsonld`](./help-articles.jsonld) — Help articles ItemList
+- [`help-articles.md`](./help-articles.md) — Help articles (markdown)
+- [`help/are-my-old-windows-costing-me-money.json`](./help/are-my-old-windows-costing-me-money.json) — schema
+- [`help/can-i-just-replace-the-door-or-do-i-need-a-whole-new-frame.json`](./help/can-i-just-replace-the-door-or-do-i-need-a-whole-new-frame.json) — schema
+- [`help/can-i-replace-a-window-with-a-sliding-glass-door.json`](./help/can-i-replace-a-window-with-a-sliding-glass-door.json) — schema
+- [`help/do-i-really-need-a-permit-for-my-bathroom-remodel.json`](./help/do-i-really-need-a-permit-for-my-bathroom-remodel.json) — schema
+- [`help/do-i-really-need-a-permit-just-to-update-my-bathroom.json`](./help/do-i-really-need-a-permit-just-to-update-my-bathroom.json) — schema
+- [`help/do-i-really-need-a-permit-to-replace-my-windows.json`](./help/do-i-really-need-a-permit-to-replace-my-windows.json) — schema
+- [`help/does-replacing-a-door-require-a-permit.json`](./help/does-replacing-a-door-require-a-permit.json) — schema
+- [`help/handyman-vs-general-contractor-which-do-i-need-for-my-project.json`](./help/handyman-vs-general-contractor-which-do-i-need-for-my-project.json) — schema
+- [`help/how-can-i-avoid-common-kitchen-remodeling-regrets.json`](./help/how-can-i-avoid-common-kitchen-remodeling-regrets.json) — schema
+- [`help/how-do-i-choose-the-right-siding-for-my-bay-area-home.json`](./help/how-do-i-choose-the-right-siding-for-my-bay-area-home.json) — schema
+- [`help/how-do-i-know-if-i-ve-hired-a-good-general-contractor.json`](./help/how-do-i-know-if-i-ve-hired-a-good-general-contractor.json) — schema
+- [`help/how-do-i-prepare-my-house-for-a-new-flooring-installation.json`](./help/how-do-i-prepare-my-house-for-a-new-flooring-installation.json) — schema
+- [`help/how-much-will-my-bay-area-bathroom-remodel-actually-cost.json`](./help/how-much-will-my-bay-area-bathroom-remodel-actually-cost.json) — schema
+- [`help/how-to-avoid-leaky-windows-and-water-damage.json`](./help/how-to-avoid-leaky-windows-and-water-damage.json) — schema
+- [`help/how-to-avoid-the-top-window-installation-mistakes.json`](./help/how-to-avoid-the-top-window-installation-mistakes.json) — schema
+- [`help/how-to-keep-a-bathroom-remodel-from-going-over-budget.json`](./help/how-to-keep-a-bathroom-remodel-from-going-over-budget.json) — schema
+- [`help/how-to-keep-your-home-livable-during-a-kitchen-remodel.json`](./help/how-to-keep-your-home-livable-during-a-kitchen-remodel.json) — schema
+- [`help/how-to-prepare-for-a-professional-door-installation.json`](./help/how-to-prepare-for-a-professional-door-installation.json) — schema
+- [`help/how-to-prepare-for-your-new-flooring-installation.json`](./help/how-to-prepare-for-your-new-flooring-installation.json) — schema
+- [`help/is-it-cheaper-to-subcontract-a-remodel-myself.json`](./help/is-it-cheaper-to-subcontract-a-remodel-myself.json) — schema
+- [`help/is-it-worth-upgrading-to-an-energy-efficient-sliding-glass-door.json`](./help/is-it-worth-upgrading-to-an-energy-efficient-sliding-glass-door.json) — schema
+- [`help/is-my-warped-siding-a-sign-of-bigger-problems.json`](./help/is-my-warped-siding-a-sign-of-bigger-problems.json) — schema
+- [`help/is-replacing-a-sliding-glass-door-a-big-deal.json`](./help/is-replacing-a-sliding-glass-door-a-big-deal.json) — schema
+- [`help/my-front-door-is-sticking-and-drafty-should-i-repair-or-replace-it.json`](./help/my-front-door-is-sticking-and-drafty-should-i-repair-or-replace-it.json) — schema
+- [`help/my-home-to-do-list-is-overwhelming-where-do-i-start.json`](./help/my-home-to-do-list-is-overwhelming-where-do-i-start.json) — schema
+- [`help/my-sliding-door-is-leaking-water-at-the-bottom-what-should-i-do.json`](./help/my-sliding-door-is-leaking-water-at-the-bottom-what-should-i-do.json) — schema
+- [`help/what-are-the-biggest-mistakes-to-avoid-in-a-bathroom-remodel.json`](./help/what-are-the-biggest-mistakes-to-avoid-in-a-bathroom-remodel.json) — schema
+- [`help/what-are-the-biggest-mistakes-to-avoid-with-siding-replacement.json`](./help/what-are-the-biggest-mistakes-to-avoid-with-siding-replacement.json) — schema
+- [`help/what-s-actually-involved-in-replacing-home-siding.json`](./help/what-s-actually-involved-in-replacing-home-siding.json) — schema
+- [`help/what-s-involved-in-a-professional-door-installation.json`](./help/what-s-involved-in-a-professional-door-installation.json) — schema
+- [`help/what-s-the-big-deal-with-subfloor-preparation.json`](./help/what-s-the-big-deal-with-subfloor-preparation.json) — schema
+- [`help/what-s-the-process-for-replacing-siding-on-my-home.json`](./help/what-s-the-process-for-replacing-siding-on-my-home.json) — schema
+- [`help/what-should-be-included-in-my-contractor-s-estimate.json`](./help/what-should-be-included-in-my-contractor-s-estimate.json) — schema
+- [`help/what-should-i-ask-a-flooring-installer-before-hiring.json`](./help/what-should-i-ask-a-flooring-installer-before-hiring.json) — schema
+- [`help/what-should-i-ask-before-hiring-a-handyman.json`](./help/what-should-i-ask-before-hiring-a-handyman.json) — schema
+- [`help/what-should-i-do-if-my-new-floors-are-buckling.json`](./help/what-should-i-do-if-my-new-floors-are-buckling.json) — schema
+- [`help/what-should-i-look-for-in-a-new-sliding-glass-door.json`](./help/what-should-i-look-for-in-a-new-sliding-glass-door.json) — schema
+- [`help/what-should-my-kitchen-remodel-contract-actually-cover.json`](./help/what-should-my-kitchen-remodel-contract-actually-cover.json) — schema
+- [`help/what-to-look-for-when-hiring-a-siding-contractor.json`](./help/what-to-look-for-when-hiring-a-siding-contractor.json) — schema
+- [`help/which-step-comes-first-in-a-kitchen-remodel.json`](./help/which-step-comes-first-in-a-kitchen-remodel.json) — schema
+- [`help/why-are-my-brand-new-windows-still-drafty.json`](./help/why-are-my-brand-new-windows-still-drafty.json) — schema
+- [`help/why-does-my-new-door-stick-or-rub.json`](./help/why-does-my-new-door-stick-or-rub.json) — schema
+- [`help/why-is-my-kitchen-remodel-going-over-budget.json`](./help/why-is-my-kitchen-remodel-going-over-budget.json) — schema
+- [`help/why-is-my-kitchen-remodel-taking-longer-than-i-expected.json`](./help/why-is-my-kitchen-remodel-taking-longer-than-i-expected.json) — schema
+- [`help/why-is-my-sliding-glass-door-so-hard-to-open-and-close.json`](./help/why-is-my-sliding-glass-door-so-hard-to-open-and-close.json) — schema
+- [`help/why-your-new-floors-might-be-buckling-or-gapping.json`](./help/why-your-new-floors-might-be-buckling-or-gapping.json) — schema
+- [`help/will-new-windows-actually-make-my-home-quieter.json`](./help/will-new-windows-actually-make-my-home-quieter.json) — schema
+
+### Topical Hubs (3)
+- [`semantic-authority-pages.json`](./semantic-authority-pages.json) — Semantic authority pages
+- [`topical-hubs.jsonld`](./topical-hubs.jsonld) — Topical hubs ItemList
+- [`topical-hubs.md`](./topical-hubs.md) — Topical hubs (markdown)
+
+### Web Pages (90)
+- [`webpages/bathroom-remodeling-daly-city-hub.json`](./webpages/bathroom-remodeling-daly-city-hub.json) — webpage
+- [`webpages/bathroom-remodeling-el-granada-hub.json`](./webpages/bathroom-remodeling-el-granada-hub.json) — webpage
+- [`webpages/bathroom-remodeling-half-moon-bay-hub.json`](./webpages/bathroom-remodeling-half-moon-bay-hub.json) — webpage
+- [`webpages/bathroom-remodeling-hillsborough-hub.json`](./webpages/bathroom-remodeling-hillsborough-hub.json) — webpage
+- [`webpages/bathroom-remodeling-montara-hub.json`](./webpages/bathroom-remodeling-montara-hub.json) — webpage
+- [`webpages/bathroom-remodeling-pacifica-hub.json`](./webpages/bathroom-remodeling-pacifica-hub.json) — webpage
+- [`webpages/bathroom-remodeling-san-bruno-hub.json`](./webpages/bathroom-remodeling-san-bruno-hub.json) — webpage
+- [`webpages/bathroom-remodeling-san-francisco-hub.json`](./webpages/bathroom-remodeling-san-francisco-hub.json) — webpage
+- [`webpages/bathroom-remodeling-san-mateo-county-hub.json`](./webpages/bathroom-remodeling-san-mateo-county-hub.json) — webpage
+- [`webpages/bathroom-remodeling-south-san-francisco-hub.json`](./webpages/bathroom-remodeling-south-san-francisco-hub.json) — webpage
+- [`webpages/door-installation-daly-city-hub.json`](./webpages/door-installation-daly-city-hub.json) — webpage
+- [`webpages/door-installation-el-granada-hub.json`](./webpages/door-installation-el-granada-hub.json) — webpage
+- [`webpages/door-installation-half-moon-bay-hub.json`](./webpages/door-installation-half-moon-bay-hub.json) — webpage
+- [`webpages/door-installation-hillsborough-hub.json`](./webpages/door-installation-hillsborough-hub.json) — webpage
+- [`webpages/door-installation-montara-hub.json`](./webpages/door-installation-montara-hub.json) — webpage
+- [`webpages/door-installation-pacifica-hub.json`](./webpages/door-installation-pacifica-hub.json) — webpage
+- [`webpages/door-installation-san-bruno-hub.json`](./webpages/door-installation-san-bruno-hub.json) — webpage
+- [`webpages/door-installation-san-francisco-hub.json`](./webpages/door-installation-san-francisco-hub.json) — webpage
+- [`webpages/door-installation-san-mateo-county-hub.json`](./webpages/door-installation-san-mateo-county-hub.json) — webpage
+- [`webpages/door-installation-south-san-francisco-hub.json`](./webpages/door-installation-south-san-francisco-hub.json) — webpage
+- [`webpages/exterior-siding-installation-daly-city-hub.json`](./webpages/exterior-siding-installation-daly-city-hub.json) — webpage
+- [`webpages/exterior-siding-installation-el-granada-hub.json`](./webpages/exterior-siding-installation-el-granada-hub.json) — webpage
+- [`webpages/exterior-siding-installation-half-moon-bay-hub.json`](./webpages/exterior-siding-installation-half-moon-bay-hub.json) — webpage
+- [`webpages/exterior-siding-installation-hillsborough-hub.json`](./webpages/exterior-siding-installation-hillsborough-hub.json) — webpage
+- [`webpages/exterior-siding-installation-montara-hub.json`](./webpages/exterior-siding-installation-montara-hub.json) — webpage
+- [`webpages/exterior-siding-installation-pacifica-hub.json`](./webpages/exterior-siding-installation-pacifica-hub.json) — webpage
+- [`webpages/exterior-siding-installation-san-bruno-hub.json`](./webpages/exterior-siding-installation-san-bruno-hub.json) — webpage
+- [`webpages/exterior-siding-installation-san-francisco-hub.json`](./webpages/exterior-siding-installation-san-francisco-hub.json) — webpage
+- [`webpages/exterior-siding-installation-san-mateo-county-hub.json`](./webpages/exterior-siding-installation-san-mateo-county-hub.json) — webpage
+- [`webpages/exterior-siding-installation-south-san-francisco-hub.json`](./webpages/exterior-siding-installation-south-san-francisco-hub.json) — webpage
+- [`webpages/flooring-installation-daly-city-hub.json`](./webpages/flooring-installation-daly-city-hub.json) — webpage
+- [`webpages/flooring-installation-el-granada-hub.json`](./webpages/flooring-installation-el-granada-hub.json) — webpage
+- [`webpages/flooring-installation-half-moon-bay-hub.json`](./webpages/flooring-installation-half-moon-bay-hub.json) — webpage
+- [`webpages/flooring-installation-hillsborough-hub.json`](./webpages/flooring-installation-hillsborough-hub.json) — webpage
+- [`webpages/flooring-installation-montara-hub.json`](./webpages/flooring-installation-montara-hub.json) — webpage
+- [`webpages/flooring-installation-pacifica-hub.json`](./webpages/flooring-installation-pacifica-hub.json) — webpage
+- [`webpages/flooring-installation-san-bruno-hub.json`](./webpages/flooring-installation-san-bruno-hub.json) — webpage
+- [`webpages/flooring-installation-san-francisco-hub.json`](./webpages/flooring-installation-san-francisco-hub.json) — webpage
+- [`webpages/flooring-installation-san-mateo-county-hub.json`](./webpages/flooring-installation-san-mateo-county-hub.json) — webpage
+- [`webpages/flooring-installation-south-san-francisco-hub.json`](./webpages/flooring-installation-south-san-francisco-hub.json) — webpage
+- [`webpages/general-contractor-services-daly-city-hub.json`](./webpages/general-contractor-services-daly-city-hub.json) — webpage
+- [`webpages/general-contractor-services-el-granada-hub.json`](./webpages/general-contractor-services-el-granada-hub.json) — webpage
+- [`webpages/general-contractor-services-half-moon-bay-hub.json`](./webpages/general-contractor-services-half-moon-bay-hub.json) — webpage
+- [`webpages/general-contractor-services-hillsborough-hub.json`](./webpages/general-contractor-services-hillsborough-hub.json) — webpage
+- [`webpages/general-contractor-services-montara-hub.json`](./webpages/general-contractor-services-montara-hub.json) — webpage
+- [`webpages/general-contractor-services-pacifica-hub.json`](./webpages/general-contractor-services-pacifica-hub.json) — webpage
+- [`webpages/general-contractor-services-san-bruno-hub.json`](./webpages/general-contractor-services-san-bruno-hub.json) — webpage
+- [`webpages/general-contractor-services-san-francisco-hub.json`](./webpages/general-contractor-services-san-francisco-hub.json) — webpage
+- [`webpages/general-contractor-services-san-mateo-county-hub.json`](./webpages/general-contractor-services-san-mateo-county-hub.json) — webpage
+- [`webpages/general-contractor-services-south-san-francisco-hub.json`](./webpages/general-contractor-services-south-san-francisco-hub.json) — webpage
+- [`webpages/handyman-services-daly-city-hub.json`](./webpages/handyman-services-daly-city-hub.json) — webpage
+- [`webpages/handyman-services-el-granada-hub.json`](./webpages/handyman-services-el-granada-hub.json) — webpage
+- [`webpages/handyman-services-half-moon-bay-hub.json`](./webpages/handyman-services-half-moon-bay-hub.json) — webpage
+- [`webpages/handyman-services-hillsborough-hub.json`](./webpages/handyman-services-hillsborough-hub.json) — webpage
+- [`webpages/handyman-services-montara-hub.json`](./webpages/handyman-services-montara-hub.json) — webpage
+- [`webpages/handyman-services-pacifica-hub.json`](./webpages/handyman-services-pacifica-hub.json) — webpage
+- [`webpages/handyman-services-san-bruno-hub.json`](./webpages/handyman-services-san-bruno-hub.json) — webpage
+- [`webpages/handyman-services-san-francisco-hub.json`](./webpages/handyman-services-san-francisco-hub.json) — webpage
+- [`webpages/handyman-services-san-mateo-county-hub.json`](./webpages/handyman-services-san-mateo-county-hub.json) — webpage
+- [`webpages/handyman-services-south-san-francisco-hub.json`](./webpages/handyman-services-south-san-francisco-hub.json) — webpage
+- [`webpages/kitchen-remodeling-daly-city-hub.json`](./webpages/kitchen-remodeling-daly-city-hub.json) — webpage
+- [`webpages/kitchen-remodeling-el-granada-hub.json`](./webpages/kitchen-remodeling-el-granada-hub.json) — webpage
+- [`webpages/kitchen-remodeling-half-moon-bay-hub.json`](./webpages/kitchen-remodeling-half-moon-bay-hub.json) — webpage
+- [`webpages/kitchen-remodeling-hillsborough-hub.json`](./webpages/kitchen-remodeling-hillsborough-hub.json) — webpage
+- [`webpages/kitchen-remodeling-montara-hub.json`](./webpages/kitchen-remodeling-montara-hub.json) — webpage
+- [`webpages/kitchen-remodeling-pacifica-hub.json`](./webpages/kitchen-remodeling-pacifica-hub.json) — webpage
+- [`webpages/kitchen-remodeling-san-bruno-hub.json`](./webpages/kitchen-remodeling-san-bruno-hub.json) — webpage
+- [`webpages/kitchen-remodeling-san-francisco-hub.json`](./webpages/kitchen-remodeling-san-francisco-hub.json) — webpage
+- [`webpages/kitchen-remodeling-san-mateo-county-hub.json`](./webpages/kitchen-remodeling-san-mateo-county-hub.json) — webpage
+- [`webpages/kitchen-remodeling-south-san-francisco-hub.json`](./webpages/kitchen-remodeling-south-san-francisco-hub.json) — webpage
+- [`webpages/sliding-glass-door-installation-daly-city-hub.json`](./webpages/sliding-glass-door-installation-daly-city-hub.json) — webpage
+- [`webpages/sliding-glass-door-installation-el-granada-hub.json`](./webpages/sliding-glass-door-installation-el-granada-hub.json) — webpage
+- [`webpages/sliding-glass-door-installation-half-moon-bay-hub.json`](./webpages/sliding-glass-door-installation-half-moon-bay-hub.json) — webpage
+- [`webpages/sliding-glass-door-installation-hillsborough-hub.json`](./webpages/sliding-glass-door-installation-hillsborough-hub.json) — webpage
+- [`webpages/sliding-glass-door-installation-montara-hub.json`](./webpages/sliding-glass-door-installation-montara-hub.json) — webpage
+- [`webpages/sliding-glass-door-installation-pacifica-hub.json`](./webpages/sliding-glass-door-installation-pacifica-hub.json) — webpage
+- [`webpages/sliding-glass-door-installation-san-bruno-hub.json`](./webpages/sliding-glass-door-installation-san-bruno-hub.json) — webpage
+- [`webpages/sliding-glass-door-installation-san-francisco-hub.json`](./webpages/sliding-glass-door-installation-san-francisco-hub.json) — webpage
+- [`webpages/sliding-glass-door-installation-san-mateo-county-hub.json`](./webpages/sliding-glass-door-installation-san-mateo-county-hub.json) — webpage
+- [`webpages/sliding-glass-door-installation-south-san-francisco-hub.json`](./webpages/sliding-glass-door-installation-south-san-francisco-hub.json) — webpage
+- [`webpages/window-installation-daly-city-hub.json`](./webpages/window-installation-daly-city-hub.json) — webpage
+- [`webpages/window-installation-el-granada-hub.json`](./webpages/window-installation-el-granada-hub.json) — webpage
+- [`webpages/window-installation-half-moon-bay-hub.json`](./webpages/window-installation-half-moon-bay-hub.json) — webpage
+- [`webpages/window-installation-hillsborough-hub.json`](./webpages/window-installation-hillsborough-hub.json) — webpage
+- [`webpages/window-installation-montara-hub.json`](./webpages/window-installation-montara-hub.json) — webpage
+- [`webpages/window-installation-pacifica-hub.json`](./webpages/window-installation-pacifica-hub.json) — webpage
+- [`webpages/window-installation-san-bruno-hub.json`](./webpages/window-installation-san-bruno-hub.json) — webpage
+- [`webpages/window-installation-san-francisco-hub.json`](./webpages/window-installation-san-francisco-hub.json) — webpage
+- [`webpages/window-installation-san-mateo-county-hub.json`](./webpages/window-installation-san-mateo-county-hub.json) — webpage
+- [`webpages/window-installation-south-san-francisco-hub.json`](./webpages/window-installation-south-san-francisco-hub.json) — webpage
+
+### Public Pages (8)
+- [`about.html`](./about.html) — LLM-optimized public page
+- [`contact.html`](./contact.html) — LLM-optimized public page
+- [`faqs.html`](./faqs.html) — LLM-optimized public page
+- [`help.html`](./help.html) — LLM-optimized public page
+- [`index.html`](./index.html) — LLM-optimized public page
+- [`qnas.html`](./qnas.html) — LLM-optimized public page
+- [`services.html`](./services.html) — LLM-optimized public page
+- [`testimonials.html`](./testimonials.html) — LLM-optimized public page
+
+### Reviews (30)
+- [`reviews.jsonld`](./reviews.jsonld) — Reviews ItemList
+- [`reviews/a-p-16-review.json`](./reviews/a-p-16-review.json) — schema
+- [`reviews/aggregate-rating.json`](./reviews/aggregate-rating.json) — schema
+- [`reviews/anonymous-1-review.json`](./reviews/anonymous-1-review.json) — schema
+- [`reviews/anonymous-10-review.json`](./reviews/anonymous-10-review.json) — schema
+- [`reviews/anonymous-11-review.json`](./reviews/anonymous-11-review.json) — schema
+- [`reviews/anonymous-12-review.json`](./reviews/anonymous-12-review.json) — schema
+- [`reviews/anonymous-2-review.json`](./reviews/anonymous-2-review.json) — schema
+- [`reviews/anonymous-3-review.json`](./reviews/anonymous-3-review.json) — schema
+- [`reviews/anonymous-4-review.json`](./reviews/anonymous-4-review.json) — schema
+- [`reviews/anonymous-5-review.json`](./reviews/anonymous-5-review.json) — schema
+- [`reviews/anonymous-6-review.json`](./reviews/anonymous-6-review.json) — schema
+- [`reviews/anonymous-7-review.json`](./reviews/anonymous-7-review.json) — schema
+- [`reviews/anonymous-8-review.json`](./reviews/anonymous-8-review.json) — schema
+- [`reviews/anonymous-9-review.json`](./reviews/anonymous-9-review.json) — schema
+- [`reviews/anonymous-buildzoom-client-21-review.json`](./reviews/anonymous-buildzoom-client-21-review.json) — schema
+- [`reviews/b-e-24-review.json`](./reviews/b-e-24-review.json) — schema
+- [`reviews/c-l-13-review.json`](./reviews/c-l-13-review.json) — schema
+- [`reviews/facebook-recommendation-anonymous-27-review.json`](./reviews/facebook-recommendation-anonymous-27-review.json) — schema
+- [`reviews/j-h-20-review.json`](./reviews/j-h-20-review.json) — schema
+- [`reviews/j-k-15-review.json`](./reviews/j-k-15-review.json) — schema
+- [`reviews/k-d-19-review.json`](./reviews/k-d-19-review.json) — schema
+- [`reviews/k-f-25-review.json`](./reviews/k-f-25-review.json) — schema
+- [`reviews/l-m-26-review.json`](./reviews/l-m-26-review.json) — schema
+- [`reviews/l-t-17-review.json`](./reviews/l-t-17-review.json) — schema
+- [`reviews/m-s-14-review.json`](./reviews/m-s-14-review.json) — schema
+- [`reviews/n-c-23-review.json`](./reviews/n-c-23-review.json) — schema
+- [`reviews/s-n-18-review.json`](./reviews/s-n-18-review.json) — schema
+- [`reviews/t-w-22-review.json`](./reviews/t-w-22-review.json) — schema
+- [`testimonials.jsonld`](./testimonials.jsonld) — Testimonials ItemList
+
+### Press (1)
+- [`media-mentions.jsonld`](./media-mentions.jsonld) — Media mentions ItemList
+
+### Awards (4)
+- [`associations.jsonld`](./associations.jsonld) — Associations ItemList
+- [`awards.jsonld`](./awards.jsonld) — Awards ItemList
+- [`credentials.json`](./credentials.json) — Credentials summary
+- [`licenses.jsonld`](./licenses.jsonld) — Licenses ItemList
+
+### Case Results (1)
+- [`case-results.jsonld`](./case-results.jsonld) — Case results ItemList
+
+### Site Pages (11)
+- [`about.html`](./about.html) — About page
+- [`case-results.html`](./case-results.html) — Case results page
+- [`contact.html`](./contact.html) — Contact page
+- [`faqs.html`](./faqs.html) — FAQs page
+- [`help.html`](./help.html) — Help page
+- [`locations.html`](./locations.html) — Locations page
+- [`qnas.html`](./qnas.html) — Q&A page
+- [`reviews.html`](./reviews.html) — Reviews page
+- [`services.html`](./services.html) — Services page
+- [`team.html`](./team.html) — Team page
+- [`topical-hubs.html`](./topical-hubs.html) — Topical hubs page
+
+### Data Files (16)
+- [`data/case-results.json`](./data/case-results.json) — Case results data
+- [`data/entity.json`](./data/entity.json) — Entity data (JSON)
+- [`data/entity.jsonl`](./data/entity.jsonl) — Entity data (JSONL)
+- [`data/entity.yaml`](./data/entity.yaml) — Entity data (YAML)
+- [`data/faqs.json`](./data/faqs.json) — FAQs data
+- [`data/help-articles.json`](./data/help-articles.json) — Help articles data
+- [`data/internal-links.json`](./data/internal-links.json) — Internal links index
+- [`data/knowledge-graph.json`](./data/knowledge-graph.json) — Knowledge graph @graph
+- [`data/locations.json`](./data/locations.json) — Locations data
+- [`data/qnas.json`](./data/qnas.json) — Q&A data
+- [`data/research-sources.json`](./data/research-sources.json) — Approved research items with source attribution
+- [`data/reviews.json`](./data/reviews.json) — Reviews data
+- [`data/services.json`](./data/services.json) — Services data
+- [`data/source-map.json`](./data/source-map.json) — Source-map of all entity files
+- [`data/source-provenance.json`](./data/source-provenance.json) — External source provenance for approved research
+- [`data/team.json`](./data/team.json) — Team data
+
+### Compliance & Review (5)
+- [`ai-disclaimer.md`](./ai-disclaimer.md) — AI disclaimer
+- [`approval-log.json`](./approval-log.json) — Content approval log
+- [`content-review-status.json`](./content-review-status.json) — Content review status
+- [`data-sources.md`](./data-sources.md) — Data sources
+- [`legal-disclaimer.md`](./legal-disclaimer.md) — Legal disclaimer
+
+### Security & Humans (2)
+- [`humans.txt`](./humans.txt) — humans.txt
+- [`security.txt`](./security.txt) — Security.txt (RFC 9116)
+
+

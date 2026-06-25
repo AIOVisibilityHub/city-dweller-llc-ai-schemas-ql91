@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ContactPage",
+  "name": "Contact City Dweller, LLC",
+  "url": "http://bayareacitydweller.com/contact",
+  "mainEntity": {
+    "@type": "Organization",
+    "name": "City Dweller, LLC",
+    "telephone": "650-532-5858",
+    "url": "http://bayareacitydweller.com"
+  }
+}

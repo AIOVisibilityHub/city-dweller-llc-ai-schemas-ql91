@@ -1,0 +1,861 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "City Dweller, LLC Testimonials",
+  "numberOfItems": 28,
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Anonymous"
+        },
+        "reviewBody": "David has been great to work with. He responds quickly, is extremely fair, and does quality work. He replaced the siding on my house when I first moved in, and the job was done really well.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5
+        },
+        "datePublished": "2019-03",
+        "itemReviewed": {
+          "@type": "Organization",
+          "name": "City Dweller, LLC",
+          "url": "http://bayareacitydweller.com/",
+          "makesOffer": {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Exterior siding installation"
+            }
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Anonymous"
+        },
+        "reviewBody": "David was great to work with from start to finish. Communication was fast, pricing was fair, and the quality of his work was excellent. I would absolutely hire him again for future projects.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5
+        },
+        "datePublished": "2019-03",
+        "itemReviewed": {
+          "@type": "Organization",
+          "name": "City Dweller, LLC",
+          "url": "http://bayareacitydweller.com/",
+          "makesOffer": {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "General contractor services; multiple home projects"
+            }
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Anonymous"
+        },
+        "reviewBody": "David did an excellent job on several projects in our home. He is incredibly professional, kind, reasonably priced, and makes sure things are done perfectly. We were very happy with all the work and highly recommend him.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5
+        },
+        "datePublished": "2024-10",
+        "itemReviewed": {
+          "@type": "Organization",
+          "name": "City Dweller, LLC",
+          "url": "http://bayareacitydweller.com/",
+          "makesOffer": {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Handyman / general home improvement"
+            }
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Anonymous"
+        },
+        "reviewBody": "City Dweller took care of a list of repairs we had been putting off. David showed up on time, explained what he was doing, and finished everything with great attention to detail. The price was fair and the experience was very positive.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5
+        },
+        "datePublished": "2024-10",
+        "itemReviewed": {
+          "@type": "Organization",
+          "name": "City Dweller, LLC",
+          "url": "http://bayareacitydweller.com/",
+          "makesOffer": {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "General contractor services; interior repairs"
+            }
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Anonymous"
+        },
+        "reviewBody": "We hired City Dweller to install new windows and a front door. The work was done quickly and correctly, and David kept us updated throughout the process. The new windows and door look great and function perfectly.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5
+        },
+        "datePublished": "2023-08",
+        "itemReviewed": {
+          "@type": "Organization",
+          "name": "City Dweller, LLC",
+          "url": "http://bayareacitydweller.com/",
+          "makesOffer": {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Window and door installation"
+            }
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Anonymous"
+        },
+        "reviewBody": "David installed a sliding glass door for our home and did a fantastic job. He measured carefully, explained our options, and the final result is smooth, quiet, and well-finished. Very professional and easy to work with.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5
+        },
+        "datePublished": "2023-08",
+        "itemReviewed": {
+          "@type": "Organization",
+          "name": "City Dweller, LLC",
+          "url": "http://bayareacitydweller.com/",
+          "makesOffer": {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Sliding glass door installation"
+            }
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Anonymous"
+        },
+        "reviewBody": "City Dweller replaced damaged siding and exterior trim on our house. The craftsmanship was excellent, and everything matched the existing materials perfectly. David was responsive, on schedule, and left the job site clean.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5
+        },
+        "datePublished": "2022-05",
+        "itemReviewed": {
+          "@type": "Organization",
+          "name": "City Dweller, LLC",
+          "url": "http://bayareacitydweller.com/",
+          "makesOffer": {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Exterior siding and trim work"
+            }
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Anonymous"
+        },
+        "reviewBody": "We used City Dweller for a bathroom update that included new flooring, trim, and fixtures. David’s work was precise, and he offered helpful suggestions that improved the final look. The bathroom now feels fresh and modern.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5
+        },
+        "datePublished": "2022-05",
+        "itemReviewed": {
+          "@type": "Organization",
+          "name": "City Dweller, LLC",
+          "url": "http://bayareacitydweller.com/",
+          "makesOffer": {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Bathroom remodeling (partial)"
+            }
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 9,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Anonymous"
+        },
+        "reviewBody": "David helped us with several parts of our kitchen remodel, including cabinet installation and finish carpentry. He was detail-oriented and made sure everything lined up perfectly. We’re very happy with the outcome and would recommend him.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5
+        },
+        "datePublished": "2021-11",
+        "itemReviewed": {
+          "@type": "Organization",
+          "name": "City Dweller, LLC",
+          "url": "http://bayareacitydweller.com/",
+          "makesOffer": {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Kitchen remodeling (cabinet, trim, finish work)"
+            }
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 10,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Anonymous"
+        },
+        "reviewBody": "City Dweller installed new flooring in our living room and hallway. The job was completed on time, the cuts were clean, and the transitions look great. David’s professionalism and communication made the project very easy.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5
+        },
+        "datePublished": "2021-11",
+        "itemReviewed": {
+          "@type": "Organization",
+          "name": "City Dweller, LLC",
+          "url": "http://bayareacitydweller.com/",
+          "makesOffer": {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Flooring installation"
+            }
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 11,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Anonymous"
+        },
+        "reviewBody": "City Dweller has a top BuildZoom score and delivered work that matched that rating. David was reliable, thorough, and took pride in his workmanship. We were impressed with both the quality and the fair pricing.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5
+        },
+        "datePublished": "2020-07",
+        "itemReviewed": {
+          "@type": "Organization",
+          "name": "City Dweller, LLC",
+          "url": "http://bayareacitydweller.com/",
+          "makesOffer": {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "General contractor / handyman services"
+            }
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 12,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Anonymous"
+        },
+        "reviewBody": "We had several interior doors replaced and new trim installed. The results were excellent, with clean lines and a professional finish. David was friendly, punctual, and made sure everything was done to our satisfaction.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5
+        },
+        "datePublished": "2020-07",
+        "itemReviewed": {
+          "@type": "Organization",
+          "name": "City Dweller, LLC",
+          "url": "http://bayareacitydweller.com/",
+          "makesOffer": {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Door replacement and trim work"
+            }
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 13,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "C.L."
+        },
+        "reviewBody": "I hired City Dweller for a few repairs around the house, including some door and window issues. David showed up on time, explained what needed to be done, and finished everything quickly and neatly. The quality of his work and his communication were excellent.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5
+        },
+        "datePublished": "2023-11",
+        "itemReviewed": {
+          "@type": "Organization",
+          "name": "City Dweller, LLC",
+          "url": "http://bayareacitydweller.com/",
+          "makesOffer": {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Door and window work (general handyman)"
+            }
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 14,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "M.S."
+        },
+        "reviewBody": "We used City Dweller to install a new sliding glass door and do some trim work. David was very detail‑oriented and kept us updated through the whole process. The door looks great, operates smoothly, and the finish work is really clean.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5
+        },
+        "datePublished": "2023-06",
+        "itemReviewed": {
+          "@type": "Organization",
+          "name": "City Dweller, LLC",
+          "url": "http://bayareacitydweller.com/",
+          "makesOffer": {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Sliding glass door installation and trim work"
+            }
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 15,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "J.K."
+        },
+        "reviewBody": "City Dweller helped us with a small bathroom remodel – new vanity, flooring, and fixtures. David’s workmanship is top notch and he offered helpful suggestions that improved the final design. Everything was completed on schedule and on budget.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5
+        },
+        "datePublished": "2022-10",
+        "itemReviewed": {
+          "@type": "Organization",
+          "name": "City Dweller, LLC",
+          "url": "http://bayareacitydweller.com/",
+          "makesOffer": {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Bathroom remodeling (partial remodel)"
+            }
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 16,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "A.P."
+        },
+        "reviewBody": "Our siding had some water damage and needed sections replaced. David inspected everything carefully, gave us a clear estimate, and did a very thorough job replacing and sealing the siding. The house looks much better and we feel more protected from the weather.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5
+        },
+        "datePublished": "2022-05",
+        "itemReviewed": {
+          "@type": "Organization",
+          "name": "City Dweller, LLC",
+          "url": "http://bayareacitydweller.com/",
+          "makesOffer": {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Exterior siding repair and replacement"
+            }
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 17,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "L.T."
+        },
+        "reviewBody": "We hired City Dweller for some kitchen updates including new flooring and backsplash. David was organized, kept the work area tidy, and the finish is beautiful. Communication was great from the quote through completion. Highly recommend for kitchen projects.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5
+        },
+        "datePublished": "2021-12",
+        "itemReviewed": {
+          "@type": "Organization",
+          "name": "City Dweller, LLC",
+          "url": "http://bayareacitydweller.com/",
+          "makesOffer": {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Kitchen updates (cabinet, flooring, and backsplash work)"
+            }
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 18,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "S.N."
+        },
+        "reviewBody": "City Dweller installed several new windows in our home. David walked us through the options, handled all the measurements, and the installation was very clean. The new windows operate smoothly and have made a noticeable difference in comfort and noise.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5
+        },
+        "datePublished": "2021-07",
+        "itemReviewed": {
+          "@type": "Organization",
+          "name": "City Dweller, LLC",
+          "url": "http://bayareacitydweller.com/",
+          "makesOffer": {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Window installation"
+            }
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 19,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "K.D."
+        },
+        "reviewBody": "I’ve used City Dweller a few times now for different projects – from small repairs to a minor remodel. David is reliable, honest, and easy to work with. He explains what he’s doing and makes sure you’re happy with the outcome before he leaves.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5
+        },
+        "datePublished": "2020-11",
+        "itemReviewed": {
+          "@type": "Organization",
+          "name": "City Dweller, LLC",
+          "url": "http://bayareacitydweller.com/",
+          "makesOffer": {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "General contractor / small remodel and repairs"
+            }
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 20,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "J.H."
+        },
+        "reviewBody": "We had new flooring installed in our living room and hallway by City Dweller. David took care to prep the subfloor and the installation is flawless. The transitions between rooms are smooth and the cleanup afterward was excellent.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5
+        },
+        "datePublished": "2020-03",
+        "itemReviewed": {
+          "@type": "Organization",
+          "name": "City Dweller, LLC",
+          "url": "http://bayareacitydweller.com/",
+          "makesOffer": {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Flooring installation (living room and hallway)"
+            }
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 21,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Anonymous (BuildZoom Client)"
+        },
+        "reviewBody": "City Dweller did a fantastic job on our home improvement project. The work was completed on time, the craftsmanship was high quality, and communication throughout the project was very professional. I would gladly hire them again.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5
+        },
+        "datePublished": "2019-09",
+        "itemReviewed": {
+          "@type": "Organization",
+          "name": "City Dweller, LLC",
+          "url": "http://bayareacitydweller.com/",
+          "makesOffer": {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "General contractor services (home improvement)"
+            }
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 22,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "T.W."
+        },
+        "reviewBody": "David has become our go‑to handyman. He’s helped us with doors, trim, and various small fixes around the house. He is punctual, respectful of our home, and the work is always done right the first time.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5
+        },
+        "datePublished": "2019-02",
+        "itemReviewed": {
+          "@type": "Organization",
+          "name": "City Dweller, LLC",
+          "url": "http://bayareacitydweller.com/",
+          "makesOffer": {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Handyman services (doors, trim, minor repairs)"
+            }
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 23,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "N.C."
+        },
+        "reviewBody": "We hired City Dweller to replace old siding and coordinate with a painter. David’s team did careful, precise work on the siding and made sure everything was ready for paint. The house looks like new and we appreciated the clear updates along the way.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5
+        },
+        "datePublished": "2018-08",
+        "itemReviewed": {
+          "@type": "Organization",
+          "name": "City Dweller, LLC",
+          "url": "http://bayareacitydweller.com/",
+          "makesOffer": {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Exterior siding installation and painting coordination"
+            }
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 24,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "B.E."
+        },
+        "reviewBody": "City Dweller installed a new front door and handled all the framing and weatherproofing. David was very thorough, checked the fit multiple times, and made sure there were no drafts. The curb appeal of our home is much improved.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5
+        },
+        "datePublished": "2018-01",
+        "itemReviewed": {
+          "@type": "Organization",
+          "name": "City Dweller, LLC",
+          "url": "http://bayareacitydweller.com/",
+          "makesOffer": {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Door installation and weatherproofing"
+            }
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 25,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "K.F."
+        },
+        "reviewBody": "David remodeled our guest bathroom and we couldn’t be happier. He communicated clearly about the schedule, kept the space clean, and the tile and finish work are excellent. Very professional and easy to work with.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5
+        },
+        "datePublished": "2017-10",
+        "itemReviewed": {
+          "@type": "Organization",
+          "name": "City Dweller, LLC",
+          "url": "http://bayareacitydweller.com/",
+          "makesOffer": {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Bathroom remodeling"
+            }
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 26,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "L.M."
+        },
+        "reviewBody": "City Dweller helped us refresh our kitchen with new counters and cabinet adjustments. David’s attention to detail is impressive and he worked around our family’s schedule. The kitchen feels brighter and more functional now.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5
+        },
+        "datePublished": "2017-04",
+        "itemReviewed": {
+          "@type": "Organization",
+          "name": "City Dweller, LLC",
+          "url": "http://bayareacitydweller.com/",
+          "makesOffer": {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Kitchen remodeling (counter and cabinet work)"
+            }
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 27,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Facebook Recommendation (Anonymous)"
+        },
+        "reviewBody": "Highly recommend City Dweller, LLC for windows and doors. Very professional, responsive, and the installation was done with great attention to detail.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5
+        },
+        "datePublished": "2023-04",
+        "itemReviewed": {
+          "@type": "Organization",
+          "name": "City Dweller, LLC",
+          "url": "http://bayareacitydweller.com/",
+          "makesOffer": {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Windows and doors (general home improvement)"
+            }
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 28,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "City Dweller, LLC",
+        "url": "http://bayareacitydweller.com/",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "bestRating": 5,
+          "reviewCount": 27
+        }
+      }
+    }
+  ]
+}

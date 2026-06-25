@@ -1,0 +1,168 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "City Dweller, LLC Service Areas",
+  "numberOfItems": 10,
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Place",
+        "name": "Pacifica",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Pacifica",
+          "addressCountry": "US"
+        },
+        "areaServed": "Pacifica",
+        "url": "http://bayareacitydweller.com"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Place",
+        "name": "Daly City",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Daly City",
+          "addressCountry": "US"
+        },
+        "areaServed": "Daly City",
+        "url": "http://bayareacitydweller.com"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Place",
+        "name": "San Bruno",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "San Bruno",
+          "addressCountry": "US"
+        },
+        "areaServed": "San Bruno",
+        "url": "http://bayareacitydweller.com"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Place",
+        "name": "Hillsborough",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Hillsborough",
+          "addressCountry": "US"
+        },
+        "areaServed": "Hillsborough",
+        "url": "http://bayareacitydweller.com"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Place",
+        "name": "Half Moon Bay",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Half Moon Bay",
+          "addressCountry": "US"
+        },
+        "areaServed": "Half Moon Bay",
+        "url": "http://bayareacitydweller.com"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Place",
+        "name": "Montara",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Montara",
+          "addressCountry": "US"
+        },
+        "areaServed": "Montara",
+        "url": "http://bayareacitydweller.com"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Place",
+        "name": "El Granada",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "El Granada",
+          "addressCountry": "US"
+        },
+        "areaServed": "El Granada",
+        "url": "http://bayareacitydweller.com"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Place",
+        "name": "San Mateo County",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "San Mateo County",
+          "addressCountry": "US"
+        },
+        "areaServed": "San Mateo County",
+        "url": "http://bayareacitydweller.com"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 9,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Place",
+        "name": "San Francisco",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "San Francisco",
+          "addressCountry": "US"
+        },
+        "areaServed": "San Francisco",
+        "url": "http://bayareacitydweller.com"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 10,
+      "item": {
+        "@context": "https://schema.org",
+        "@type": "Place",
+        "name": "South San Francisco",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "South San Francisco",
+          "addressCountry": "US"
+        },
+        "areaServed": "South San Francisco",
+        "url": "http://bayareacitydweller.com"
+      }
+    }
+  ]
+}

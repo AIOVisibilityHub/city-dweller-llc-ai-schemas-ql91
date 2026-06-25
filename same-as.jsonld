@@ -1,0 +1,11 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "City Dweller, LLC",
+  "url": "http://bayareacitydweller.com",
+  "sameAs": [
+    "https://www.facebook.com/CityDwellerLLC/",
+    "https://www.linkedin.com/in/david-gohn-1791a413",
+    "https://www.yelp.com/biz/city-dweller-pacifica-4"
+  ]
+}

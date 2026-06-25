@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-soon-can-i-put-my-furniture-and-appliances-back-after-flooring-installation",
+  "name": "How soon can I put my furniture and appliances back after flooring installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How soon can I put my furniture and appliances back after flooring installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most new floors are walkable within hours to a day after installation, but heavy furniture, appliances, and rugs often need to wait 24–72 hours, especially over freshly glued or finished surfaces. Hardwood finishes and some adhesives need cure time to reach full strength.\n\nMoving things back too soon can cause dents, stuck finishes, or misaligned planks.\n\nKey factors:\n- Flooring type and installation method (floating vs glued vs nailed)\n- Use of wet finishes, stains, or sealers\n- Manufacturer’s cure-time recommendations\n- Size and weight of furniture and appliances\n\nBefore work starts, ask your installer for specific timelines for walking, replacing furniture, and using rolling chairs or rugs. Use felt pads and lift rather than drag items back in.\n\nA little patience at the end protects your investment for years.",
+        "@type": "Answer",
+        "description": "You can usually walk on new floors within hours to a day, but heavy furniture, appliances, and rugs should often wait 24–72 hours, especially with glued or freshly finished surfaces. Ask your installer for exact timing and use felt pads when moving items back."
+      }
+    }
+  ],
+  "description": "You can usually walk on new floors within hours to a day, but heavy furniture, appliances, and rugs should often wait 24–72 hours, especially with glued or fres"
+}

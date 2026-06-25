@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-warranty-should-i-expect-with-new-siding",
+  "name": "What warranty should I expect with new siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What warranty should I expect with new siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A manufacturer warranty covers the product, while a labor or craftsmanship warranty covers installation mistakes. You want both, because a good siding product can still fail early if it is installed incorrectly.",
+        "@type": "Answer",
+        "description": "Look for both product and labor warranties. The product warranty covers materials, and the labor warranty covers installation errors."
+      }
+    }
+  ],
+  "description": "Look for both product and labor warranties. The product warranty covers materials, and the labor warranty covers installation errors."
+}

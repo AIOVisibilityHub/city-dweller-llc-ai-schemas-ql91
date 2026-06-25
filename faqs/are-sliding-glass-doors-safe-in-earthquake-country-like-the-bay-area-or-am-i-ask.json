@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-sliding-glass-doors-safe-in-earthquake-country-like-the-bay-area-or-am-i-ask",
+  "name": "Are sliding glass doors safe in earthquake country like the Bay Area, or am I asking for broken glass everywhere?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Are sliding glass doors safe in earthquake country like the Bay Area, or am I asking for broken glass everywhere?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In earthquake-prone regions, sliding glass doors are designed using tempered safety glass, flexible frames, and secure anchoring to handle reasonable movement. Installation quality—especially how the frame is fastened and shimmed—plays a big role in performance.\n\nNo door can be fully “earthquake-proof,” but proper detailing reduces the chance of glass breakage or frame distortion from minor shifts.\n\nKey factors:\n- Tempered safety glass and optional laminated glass\n- Flexible, well‑anchored frame and correct shimming\n- Integration with wall framing to resist racking\n- Clear opening paths for emergency egress\n\nPractically, confirm that your door uses safety glass and ask the installer about anchoring and how they account for potential movement. Keep the track area free of debris so the panel can move freely after a minor quake.\n\nThis is especially relevant in the San Francisco Bay Area and San Mateo County, where seismic considerations are part of broader building practices.",
+        "@type": "Answer",
+        "description": "Modern sliding doors use tempered safety glass and well‑anchored frames that can handle typical seismic movement. While no system is quake‑proof, good installation and materials reduce the risk of dangerous glass breakage during minor earthquakes."
+      }
+    }
+  ],
+  "description": "Modern sliding doors use tempered safety glass and well‑anchored frames that can handle typical seismic movement. While no system is quake‑proof, good installat"
+}

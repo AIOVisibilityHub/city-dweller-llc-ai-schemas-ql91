@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-bathroom-materials-are-worth-paying-more-for",
+  "name": "What bathroom materials are worth paying more for?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What bathroom materials are worth paying more for?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choose materials based on durability, maintenance, and moisture resistance, not appearance alone. In bathrooms, good flooring, waterproof wall systems, sealed grout, and quality fixtures usually matter more than trendy finishes. Spending a bit more on the parts that see water every day often saves money later.",
+        "@type": "Answer",
+        "description": "Pay more for waterproofing, flooring, fixtures, and other high-wear materials. Those choices usually save repair costs later."
+      }
+    }
+  ],
+  "description": "Pay more for waterproofing, flooring, fixtures, and other high-wear materials. Those choices usually save repair costs later."
+}

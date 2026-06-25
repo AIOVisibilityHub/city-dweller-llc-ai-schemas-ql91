@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-sliding-glass-doors-easy-to-break-into-and-what-can-i-do-during-installation",
+  "name": "Are sliding glass doors easy to break into, and what can I do during installation to make mine more secure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Are sliding glass doors easy to break into, and what can I do during installation to make mine more secure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many sliding doors can be upgraded with better locks, auxiliary foot locks, and even security film on the glass to improve break‑in resistance. The frame and glass type also affect overall security.\n\nStandard latch locks are often the weakest point. Adding secondary locks and reinforcing glass can deter casual intruders and slow more determined ones.\n\nKey factors:\n- Quality of the primary latch and multi‑point lock options\n- Use of auxiliary locks (foot bolts, security bars)\n- Glass type: tempered vs. laminated security glass\n- Frame strength and anchoring into the structure\n\nPractically, ask about multi‑point locking systems when selecting the door, and consider installing a floor-level bolt or bar as a backup. Security film on the glass adds time and noise to any attempted break‑in.\n\nIn urban areas of the San Francisco Bay Area, these upgrades can add meaningful peace of mind for slider-access patios and decks.",
+        "@type": "Answer",
+        "description": "Sliding doors can be vulnerable with only a basic latch, but you can improve security with multi‑point locks, auxiliary foot locks or bars, and laminated or film‑protected glass. Choosing a sturdy frame and proper anchoring also helps deter break‑ins."
+      }
+    }
+  ],
+  "description": "Sliding doors can be vulnerable with only a basic latch, but you can improve security with multi‑point locks, auxiliary foot locks or bars, and laminated or fil"
+}

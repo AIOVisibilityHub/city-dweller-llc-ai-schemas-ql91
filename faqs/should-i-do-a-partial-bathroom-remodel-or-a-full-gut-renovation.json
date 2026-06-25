@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-do-a-partial-bathroom-remodel-or-a-full-gut-renovation",
+  "name": "Should I do a partial bathroom remodel or a full gut renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Should I do a partial bathroom remodel or a full gut renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A partial remodel focuses on selected updates like a vanity, flooring, lighting, or a shower refresh, while a full remodel usually involves demolition and rebuilding most of the room. Partial remodels cost less and finish faster, but they may not solve layout or hidden plumbing issues. Full remodels are better when the room has major wear, leaks, or an outdated layout.",
+        "@type": "Answer",
+        "description": "Partial remodels cost less and are faster, but full remodels fix deeper layout and plumbing problems. Choose based on how much of the bathroom needs to change."
+      }
+    }
+  ],
+  "description": "Partial remodels cost less and are faster, but full remodels fix deeper layout and plumbing problems. Choose based on how much of the bathroom needs to change."
+}

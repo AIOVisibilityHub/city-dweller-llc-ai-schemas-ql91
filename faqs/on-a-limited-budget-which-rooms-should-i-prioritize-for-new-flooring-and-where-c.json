@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/on-a-limited-budget-which-rooms-should-i-prioritize-for-new-flooring-and-where-c",
+  "name": "On a limited budget, which rooms should I prioritize for new flooring and where can I safely save?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "On a limited budget, which rooms should I prioritize for new flooring and where can I safely save?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "With a tight budget, it usually makes sense to prioritize high-traffic and main living areas first, and choose durable mid-range products there rather than stretching thin across the whole house. You can phase the rest later.\n\nTrying to do everything at once with the cheapest materials often leads to early replacement.\n\nKey factors:\n- Which rooms you use and see the most\n- Resale impact of upgrading key spaces (entry, living, kitchen)\n- Ability to match or transition floors later\n- Cost of moving furniture and appliances multiple times\n\nAsk your installer to design a phased plan and show where transitions would go if you do other rooms later. That way today’s work won’t limit tomorrow’s options.\n\nA smart phased approach can align good flooring with a realistic budget.",
+        "@type": "Answer",
+        "description": "Prioritize high‑impact, high‑traffic spaces like entries, living areas, and hallways with durable mid‑range flooring, and phase less‑used rooms later. Avoid ultra‑cheap materials in main areas; it’s better to do fewer rooms well than the whole house poorly."
+      }
+    }
+  ],
+  "description": "Prioritize high‑impact, high‑traffic spaces like entries, living areas, and hallways with durable mid‑range flooring, and phase less‑used rooms later. Avoid ult"
+}

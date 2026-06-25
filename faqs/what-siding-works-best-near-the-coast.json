@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-siding-works-best-near-the-coast",
+  "name": "What siding works best near the coast?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What siding works best near the coast?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For coastal areas near Half Moon Bay and Pacifica, salt air, rain, and wind can make moisture management more important than price alone. A product that performs well in wet conditions may be a better long-term choice than a cheaper option that needs frequent upkeep.",
+        "@type": "Answer",
+        "description": "Choose siding that handles moisture, wind, and salt air well. In coastal areas, long-term durability often matters more than the lowest upfront price."
+      }
+    }
+  ],
+  "description": "Choose siding that handles moisture, wind, and salt air well. In coastal areas, long-term durability often matters more than the lowest upfront price."
+}

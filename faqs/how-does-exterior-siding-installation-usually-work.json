@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-does-exterior-siding-installation-usually-work",
+  "name": "How does exterior siding installation usually work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How does exterior siding installation usually work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Siding installation follows a sequence: remove old material if needed, inspect the structure, repair any damage, install flashing and weather barrier, then hang the siding with proper fastening and spacing. Good flashing and moisture control are critical to long-term performance.",
+        "@type": "Answer",
+        "description": "Old siding may come off first, then repairs, flashing, weather barrier, and new siding installation. Moisture protection and correct fastening are key steps."
+      }
+    }
+  ],
+  "description": "Old siding may come off first, then repairs, flashing, weather barrier, and new siding installation. Moisture protection and correct fastening are key steps."
+}

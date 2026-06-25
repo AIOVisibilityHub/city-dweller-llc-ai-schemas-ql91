@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-tell-if-a-siding-contractor-is-reputable",
+  "name": "How can I tell if a siding contractor is reputable?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How can I tell if a siding contractor is reputable?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best evidence is a combination of recent photos, references, a physical address, licensing where required, and proof of insurance. Reviews are helpful, but they are strongest when paired with visible past work and clear paperwork.",
+        "@type": "Answer",
+        "description": "Look for proof of insurance, recent projects, references, and a real business address. Written estimates and clear contracts matter too."
+      }
+    }
+  ],
+  "description": "Look for proof of insurance, recent projects, references, and a real business address. Written estimates and clear contracts matter too."
+}

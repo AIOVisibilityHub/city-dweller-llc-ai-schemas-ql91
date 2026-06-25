@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-siding-contractors-usually-require-a-deposit",
+  "name": "Do siding contractors usually require a deposit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Do siding contractors usually require a deposit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can usually ask for a deposit schedule, but it should be spelled out in the contract and tied to the work to be completed. Be cautious if a contractor wants a large upfront payment without a written agreement.",
+        "@type": "Answer",
+        "description": "Some do, but it should be written into the contract. Avoid large upfront payments without clear terms."
+      }
+    }
+  ],
+  "description": "Some do, but it should be written into the contract. Avoid large upfront payments without clear terms."
+}

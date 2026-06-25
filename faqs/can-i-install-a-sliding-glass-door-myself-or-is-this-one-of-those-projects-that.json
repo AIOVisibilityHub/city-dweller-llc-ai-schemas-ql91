@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-a-sliding-glass-door-myself-or-is-this-one-of-those-projects-that",
+  "name": "Can I install a sliding glass door myself, or is this one of those projects that really needs a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Can I install a sliding glass door myself, or is this one of those projects that really needs a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DIY installation is possible for skilled homeowners on simple replacements, but most people are better off hiring a professional, especially for new openings or stucco/structural work. Mistakes can lead to leaks, security issues, and expensive repairs.\n\nSliding doors are heavy, and setting them level, square, and properly flashed is not trivial. Even experienced DIYers often need at least one helper and specialized tools.\n\nKey factors:\n- Whether it’s a direct replacement or a new opening with framing changes\n- Your experience with carpentry, flashing, and door installation\n- Ability to safely handle large glass panels\n- Comfort with potential warranty or insurance implications\n\nPractically, be honest about your skill level and the complexity of your home’s exterior. If you decide to DIY, follow the manufacturer’s install guide closely and consider having a pro inspect your work.\n\nIn places like San Francisco and San Mateo County, where homes often have stucco and complex framing, professional installation is usually the safer choice.",
+        "@type": "Answer",
+        "description": "A handy homeowner can sometimes replace a sliding door themselves, but the weight, waterproofing, and structural details make professional installation the safer option—especially for new openings or stucco exteriors common in Bay Area homes."
+      }
+    }
+  ],
+  "description": "A handy homeowner can sometimes replace a sliding door themselves, but the weight, waterproofing, and structural details make professional installation the safe"
+}

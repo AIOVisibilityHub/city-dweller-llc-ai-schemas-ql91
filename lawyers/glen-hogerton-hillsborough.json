@@ -1,0 +1,27 @@
+{
+  "name": "Glen Hogerton",
+  "@type": "Attorney",
+  "@context": "https://schema.org",
+  "jobTitle": "Attorney",
+  "worksFor": {
+    "url": "http://bayareacitydweller.com",
+    "name": "City Dweller, LLC",
+    "@type": "Organization"
+  },
+  "telephone": "650-532-5858",
+  "areaServed": {
+    "name": "Hillsborough",
+    "@type": "City"
+  },
+  "knowsAbout": [
+    "installing windows",
+    "sliding glass doors",
+    "and exterior doors",
+    "Home Improvement",
+    "Renovation",
+    "Remodeling",
+    "General Contractor",
+    "Handyman Services"
+  ],
+  "description": "25+ years of experience in installing windows, sliding glass doors, and exterior doors. Formerly associated with \"Able Windows and Doors,\" a reputable Bay Area institution, Glen's vast knowledge and meticulous attention to detail elevate our services to new heights."
+}

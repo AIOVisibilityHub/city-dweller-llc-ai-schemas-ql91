@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-save-money-on-a-bathroom-remodel-without-making-it-look-cheap",
+  "name": "How can I save money on a bathroom remodel without making it look cheap?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How can I save money on a bathroom remodel without making it look cheap?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can often cut costs by keeping the existing layout, choosing standard-size fixtures, and limiting custom tile work. Reusing a good vanity or mirror may also save money, as long as it fits the new design. The biggest savings usually come from reducing plumbing moves and avoiding last-minute design changes.",
+        "@type": "Answer",
+        "description": "Keep the layout, use standard fixtures, and limit custom work. The biggest savings usually come from avoiding plumbing changes and design changes mid-project."
+      }
+    }
+  ],
+  "description": "Keep the layout, use standard fixtures, and limit custom work. The biggest savings usually come from avoiding plumbing changes and design changes mid-project."
+}

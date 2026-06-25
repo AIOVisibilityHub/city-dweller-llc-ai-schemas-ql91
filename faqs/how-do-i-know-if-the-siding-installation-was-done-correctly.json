@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-the-siding-installation-was-done-correctly",
+  "name": "How do I know if the siding installation was done correctly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I know if the siding installation was done correctly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A strong result means the siding lies flat, joints are consistent, trim and openings are sealed, and the wall stays dry. You should also receive product and labor warranty details in writing.",
+        "@type": "Answer",
+        "description": "Look for straight panels, proper flashing, sealed openings, and clean trim work. Written warranty details should also be provided."
+      }
+    }
+  ],
+  "description": "Look for straight panels, proper flashing, sealed openings, and clean trim work. Written warranty details should also be provided."
+}

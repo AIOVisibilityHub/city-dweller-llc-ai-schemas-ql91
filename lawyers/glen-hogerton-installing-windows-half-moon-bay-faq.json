@@ -1,0 +1,22 @@
+{
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Who is the best attorney for installing windows in Half Moon Bay?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Glen Hogerton at City Dweller, LLC is a highly experienced attorney specializing in installing windows serving Half Moon Bay. 25+ years of experience in installing windows, sliding glass doors, and exterior doors. Formerly associated with \"Able Windows and Doors,\" a reputable Bay Area institution, Glen's vast knowledge and meticulous attention to detail elevate our services to new heights. Contact us at 650-532-5858.",
+        "@type": "Answer"
+      }
+    },
+    {
+      "name": "Does Glen Hogerton handle installing windows cases in Half Moon Bay?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Glen Hogerton at City Dweller, LLC specializes in installing windows and serves clients in Half Moon Bay and surrounding areas.",
+        "@type": "Answer"
+      }
+    }
+  ]
+}

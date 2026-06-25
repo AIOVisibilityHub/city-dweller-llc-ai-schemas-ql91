@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/is-siding-replacement-different-for-older-bay-area-homes",
+  "name": "Is siding replacement different for older Bay Area homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Is siding replacement different for older Bay Area homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In San Francisco, Daly City, and South San Francisco, older homes may have unique wall conditions, trim details, or previous patchwork that affect pricing and timeline. A local contractor familiar with those homes can often spot issues sooner and estimate more accurately.",
+        "@type": "Answer",
+        "description": "Yes. Older homes often hide repair issues and unusual details that affect cost and timing. Local experience helps identify them early."
+      }
+    }
+  ],
+  "description": "Yes. Older homes often hide repair issues and unusual details that affect cost and timing. Local experience helps identify them early."
+}

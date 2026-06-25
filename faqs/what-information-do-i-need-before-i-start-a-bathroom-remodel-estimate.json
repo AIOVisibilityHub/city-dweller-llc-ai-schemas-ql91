@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-information-do-i-need-before-i-start-a-bathroom-remodel-estimate",
+  "name": "What information do I need before I start a bathroom remodel estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What information do I need before I start a bathroom remodel estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A remodel is most efficient when you already know your must-haves, budget range, and whether you want to keep the current layout. It also helps to have rough measurements, inspiration photos, and a sense of which fixtures or finishes matter most. The more decisions you make early, the smoother the project usually goes.",
+        "@type": "Answer",
+        "description": "Know your budget, must-haves, layout goals, and rough measurements before getting quotes. Early decisions reduce delays and change orders."
+      }
+    }
+  ],
+  "description": "Know your budget, must-haves, layout goals, and rough measurements before getting quotes. Early decisions reduce delays and change orders."
+}

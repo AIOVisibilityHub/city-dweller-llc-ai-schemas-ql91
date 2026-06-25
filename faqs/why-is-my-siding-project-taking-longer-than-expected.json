@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/why-is-my-siding-project-taking-longer-than-expected",
+  "name": "Why is my siding project taking longer than expected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Why is my siding project taking longer than expected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A small siding project can sometimes be finished quickly, but larger homes or repair-heavy jobs take longer because damaged sheathing, trim, or flashing may need replacement. Weather delays can also slow coastal projects.",
+        "@type": "Answer",
+        "description": "Hidden damage and weather are common reasons for delays. Bigger homes and repair-heavy jobs naturally take longer."
+      }
+    }
+  ],
+  "description": "Hidden damage and weather are common reasons for delays. Bigger homes and repair-heavy jobs naturally take longer."
+}

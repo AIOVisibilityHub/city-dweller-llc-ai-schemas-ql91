@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-should-i-prioritize-window-replacement-if-i-can-t-afford-to-do-the-whole-hou",
+  "name": "How should I prioritize window replacement if I can’t afford to do the whole house right now?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How should I prioritize window replacement if I can’t afford to do the whole house right now?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you’re on a tight budget, prioritize the worst-performing windows—typically those that are rotted, leaking, or in rooms you use most—and consider mid-range, energy-efficient vinyl options. You can often phase the project over a couple of years instead of doing the entire house at once.\n\nTrying to “go cheap” on both product and installation is risky; it’s better to buy decent windows and pair them with solid installation, even if you do fewer at a time. Coastal moisture and wind will quickly expose weak spots.\n\nKey factors:\n- Safety and moisture issues (leaks, rot, stuck egress windows)\n- Rooms most critical for comfort (bedrooms, living areas)\n- Phasing the project by facade or floor\n- Choosing durable mid-range products over rock-bottom options\n\nAsk your contractor to rank windows by urgency and give you pricing for doing them in groups—front elevation first, then sides/back, for example. Avoid cutting corners on waterproofing or flashing just to save money.\n\nA good installer will help you stretch your budget by focusing on the highest-impact windows and maintaining quality where it counts.",
+        "@type": "Answer",
+        "description": "On a limited budget, start with the worst windows—those that are leaking, rotted, or in key living and sleeping areas—and consider phasing the project over time. Choose solid mid-range windows with proper installation instead of cheap units everywhere, which can lead to leaks and short lifespans."
+      }
+    }
+  ],
+  "description": "On a limited budget, start with the worst windows—those that are leaking, rotted, or in key living and sleeping areas—and consider phasing the project over time"
+}

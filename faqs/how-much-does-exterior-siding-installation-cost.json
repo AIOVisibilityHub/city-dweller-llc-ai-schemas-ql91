@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-exterior-siding-installation-cost",
+  "name": "How much does exterior siding installation cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How much does exterior siding installation cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost depends on the siding material, home size, labor, removal of old siding, repairs, and local market conditions. The most reliable price comes from a local written estimate that spells out exactly what is included.",
+        "@type": "Answer",
+        "description": "Costs vary by material, house size, labor, and repairs. A detailed local estimate is the best way to get a realistic price."
+      }
+    }
+  ],
+  "description": "Costs vary by material, house size, labor, and repairs. A detailed local estimate is the best way to get a realistic price."
+}

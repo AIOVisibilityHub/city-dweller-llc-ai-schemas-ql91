@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/i-need-several-doors-replaced-but-can-t-afford-to-do-everything-how-do-i-decide",
+  "name": "I need several doors replaced but can’t afford to do everything—how do I decide which doors to tackle first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "I need several doors replaced but can’t afford to do everything—how do I decide which doors to tackle first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When replacing multiple doors, it’s usually best to prioritize exterior entry and any doors with safety or security issues, then move to interior doors and cosmetic upgrades.\n\nDoing doors in logical groups can save time and money.\n\n**Key factors:**\n- Doors affecting security (front, back, garage entry)\n- Doors with severe damage, rot, or poor sealing\n- Efficiency and pricing benefits of doing several doors in one visit\n- How much disruption your household can handle at once\n\nPractical guidance: Walk your home and list every door, ranking them by urgency. Share this list with your installer and ask for a phased plan: critical doors first, then remaining ones as budget allows.\n\nSoft positioning: A thoughtful installer will help you tackle the highest‑impact doors now while mapping a clear path for the rest later.",
+        "@type": "Answer",
+        "description": "Prioritize doors that affect security and weather protection—front, back, and garage entry—plus any that are badly damaged or leaking. Then address interior and cosmetic doors as budget allows. Ask your installer for a phased plan that groups work efficiently."
+      }
+    }
+  ],
+  "description": "Prioritize doors that affect security and weather protection—front, back, and garage entry—plus any that are badly damaged or leaking. Then address interior and"
+}

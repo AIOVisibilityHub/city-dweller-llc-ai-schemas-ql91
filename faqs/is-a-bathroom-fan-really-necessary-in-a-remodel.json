@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/is-a-bathroom-fan-really-necessary-in-a-remodel",
+  "name": "Is a bathroom fan really necessary in a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Is a bathroom fan really necessary in a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, poor ventilation and moisture control can ruin even a beautiful remodel over time. If your current bathroom has no fan, a weak fan, or ducting that does not vent properly, fixing that should be part of the project. Good moisture management protects paint, drywall, cabinets, and tile installation.",
+        "@type": "Answer",
+        "description": "Yes. A properly vented fan helps prevent mold, peeling paint, and moisture damage, and it should be part of the remodel plan."
+      }
+    }
+  ],
+  "description": "Yes. A properly vented fan helps prevent mold, peeling paint, and moisture damage, and it should be part of the remodel plan."
+}

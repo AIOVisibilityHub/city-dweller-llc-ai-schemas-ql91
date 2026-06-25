@@ -1,0 +1,56 @@
+{
+  "name": "How to Prepare for Your New Flooring Installation",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Getting new floors is exciting! Once you've picked them out, a little bit of prep work can make the actual installation day go much more smoothly for you and your contractor. The first step is to completely clear the room—that means all furniture, rugs, and any other items on the floor need to be moved out of the way before the team arrives.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "Next, have a conversation with your installer about acclimation. Many flooring materials, particularly faux woods, need to sit in your home for a few days to adjust to your home's specific temperature and humidity. It might seem like a delay, but this is a critical step to prevent the floor from warping later. Your contractor should also inspect the subfloor to make sure it's clean, dry, and level. A good foundation is key to a lasting installation. While our team at City Dweller works hard to contain the mess, you may want to cover furniture in adjacent rooms to protect it from dust.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "A little planning goes a long way. If you're looking for a team that manages every detail, from prep to cleanup, let's talk about your flooring project.",
+      "@type": "HowToStep",
+      "position": 3
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "areaServed": [
+    {
+      "name": "Pacifica",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "San Bruno",
+      "@type": "City"
+    },
+    {
+      "name": "Hillsborough",
+      "@type": "City"
+    },
+    {
+      "name": "Half Moon Bay",
+      "@type": "City"
+    },
+    {
+      "name": "Montara",
+      "@type": "City"
+    },
+    {
+      "name": "El Granada",
+      "@type": "City"
+    }
+  ],
+  "description": "How to Prepare for Your New Flooring Installation"
+}

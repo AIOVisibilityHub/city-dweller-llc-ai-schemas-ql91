@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-measurements-and-information-do-i-need-before-i-can-order-or-install-a-new",
+  "name": "What measurements and information do I need before I can order or install a new sliding glass door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What measurements and information do I need before I can order or install a new sliding glass door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You’ll need accurate measurements of the rough opening, notes on your wall type, and a clear idea of how you use the space. For a replacement, measure the existing frame; for a new opening, measure the wall area and note any nearby electrical or structural elements.\n\nMany people only measure the visible glass, which can lead to ordering the wrong size. Including photos of the interior and exterior makes it far easier for a contractor or supplier to recommend the right door.\n\nKey factors:\n- Rough opening width/height and wall thickness\n- Interior floor level relative to exterior patio/grade\n- Type of exterior cladding (stucco, siding, masonry)\n- Any obstructions: outlets, radiators, structural beams\n\nPractically, use a tape measure and write down your dimensions to the nearest 1/8 inch, then take wide-angle photos. Share these with contractors when requesting quotes so they can spot issues early.\n\nIn older Bay Area homes, especially in San Francisco or Pacifica, note any uneven floors or settling cracks around the existing door—they may affect installation strategy.",
+        "@type": "Answer",
+        "description": "Measure the rough opening’s width, height, and wall thickness, note your exterior finish (stucco, siding, brick), and document nearby electrical or structural elements. Take clear photos inside and out; these details help ensure you order the right door size and avoid costly surprises."
+      }
+    }
+  ],
+  "description": "Measure the rough opening’s width, height, and wall thickness, note your exterior finish (stucco, siding, brick), and document nearby electrical or structural e"
+}

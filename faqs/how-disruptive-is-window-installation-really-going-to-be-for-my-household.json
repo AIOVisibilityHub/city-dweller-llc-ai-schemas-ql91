@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-disruptive-is-window-installation-really-going-to-be-for-my-household",
+  "name": "How disruptive is window installation really going to be for my household?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How disruptive is window installation really going to be for my household?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window installation can be noisy and dusty, but a well-managed job keeps disruption reasonable. Expect drilling, hammering, and some drywall or stucco work, plus dust from cutting and removing old materials.\n\nInstallers should use drop cloths, plastic sheeting, and routine cleanup to protect your home. Coastal fog and wind mean they’ll also be moving tarps and protective coverings around outside.\n\nKey factors:\n- Noise from removal and fastening tools\n- Dust from cutting, drilling, and old paint or plaster\n- Temporary loss of privacy and access in work areas\n- Cleanup practices and whether daily vacuuming is included\n\nAsk in advance how the crew handles dust control and what daily cleanup you can expect. Plan to move sensitive items and consider being away during the noisiest periods if you work from home.\n\nA considerate installer will treat cleanliness and noise control as part of the job, not an afterthought.",
+        "@type": "Answer",
+        "description": "Window installation is noisy and creates some dust, but a good crew limits disruption by using drop cloths, plastic sheeting, and daily cleanup. You’ll temporarily lose access and privacy in work areas, so plan around the schedule and move sensitive items before the job starts."
+      }
+    }
+  ],
+  "description": "Window installation is noisy and creates some dust, but a good crew limits disruption by using drop cloths, plastic sheeting, and daily cleanup. You’ll temporar"
+}

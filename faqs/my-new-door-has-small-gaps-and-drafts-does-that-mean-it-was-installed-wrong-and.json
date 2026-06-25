@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/my-new-door-has-small-gaps-and-drafts-does-that-mean-it-was-installed-wrong-and",
+  "name": "My new door has small gaps and drafts—does that mean it was installed wrong, and what should I do about it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "My new door has small gaps and drafts—does that mean it was installed wrong, and what should I do about it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gaps, drafts, and uneven reveals around a new door usually point to issues with shimming, squaring, or sealing—not necessarily a bad door, but possibly poor installation.\n\nThese problems can often be corrected if caught early.\n\n**Key factors:**\n- Uneven gap around the door when closed\n- Light visible around the edges or air movement you can feel\n- Latch or deadbolt needing force to engage\n- Threshold or sweep not contacting the floor properly\n\nPractical guidance: Document issues with photos and a simple list, then ask the installer back for a walkthrough. Be specific about what you’re experiencing and request adjustments under any workmanship warranty.\n\nSoft positioning: A responsible installer will stand behind their work and make reasonable adjustments so your door performs as it should.",
+        "@type": "Answer",
+        "description": "Gaps, drafts, or a door that latches only with force usually mean the installation needs adjustment—shimming, squaring, or better sealing. Take photos, list the issues, and ask the installer to return and correct them under their workmanship warranty."
+      }
+    }
+  ],
+  "description": "Gaps, drafts, or a door that latches only with force usually mean the installation needs adjustment—shimming, squaring, or better sealing. Take photos, list the"
+}

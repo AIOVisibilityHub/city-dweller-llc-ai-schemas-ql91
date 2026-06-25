@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-expect-after-new-siding-is-installed",
+  "name": "What should I expect after new siding is installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should I expect after new siding is installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Good siding should improve curb appeal, protect the structure from weather, and reduce maintenance. In coastal areas, choosing the right material and installation method matters because moisture and temperature swings can affect durability.",
+        "@type": "Answer",
+        "description": "You should get better protection, a fresher exterior, and less upkeep. The right product and installation should also improve durability."
+      }
+    }
+  ],
+  "description": "You should get better protection, a fresher exterior, and less upkeep. The right product and installation should also improve durability."
+}

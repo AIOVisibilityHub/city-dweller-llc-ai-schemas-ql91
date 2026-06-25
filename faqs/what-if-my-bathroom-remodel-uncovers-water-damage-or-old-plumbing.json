@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-if-my-bathroom-remodel-uncovers-water-damage-or-old-plumbing",
+  "name": "What if my bathroom remodel uncovers water damage or old plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What if my bathroom remodel uncovers water damage or old plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should expect some surprises once walls or floors are opened, especially in older homes around San Mateo County and the Bay Area. Common issues include outdated plumbing, water damage, bad previous repairs, and undersized electrical. A good contractor will explain how change orders are handled before work begins.",
+        "@type": "Answer",
+        "description": "Hidden damage is common in remodels, especially in older homes. Ask in advance how change orders and extra repairs will be priced and approved."
+      }
+    }
+  ],
+  "description": "Hidden damage is common in remodels, especially in older homes. Ask in advance how change orders and extra repairs will be priced and approved."
+}

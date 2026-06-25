@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-be-included-in-a-bathroom-remodeling-contract",
+  "name": "What should be included in a bathroom remodeling contract?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should be included in a bathroom remodeling contract?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A written proposal should spell out labor, materials, fixtures, demolition, permits, cleanup, payment schedule, and what is excluded. If something is not in writing, assume it is not included. This is the easiest way to avoid misunderstandings once the project starts.",
+        "@type": "Answer",
+        "description": "The contract should list scope, materials, permits, cleanup, payment terms, and exclusions. If it is not written down, do not assume it is included."
+      }
+    }
+  ],
+  "description": "The contract should list scope, materials, permits, cleanup, payment terms, and exclusions. If it is not written down, do not assume it is included."
+}

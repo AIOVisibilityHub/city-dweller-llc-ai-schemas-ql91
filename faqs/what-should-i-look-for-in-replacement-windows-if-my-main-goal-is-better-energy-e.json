@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-look-for-in-replacement-windows-if-my-main-goal-is-better-energy-e",
+  "name": "What should I look for in replacement windows if my main goal is better energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should I look for in replacement windows if my main goal is better energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For energy efficiency, look for double or triple-pane windows with low-E coatings, insulated frames, and good airtightness, not just a “high R-value” claim. In the Bay Area’s mild but damp climate, well-sealed double-pane units with low-E glass usually give the best value.\n\nEnergy performance depends on both the glass and frame, plus installation quality. A moderately efficient window installed perfectly often beats a high-spec unit installed poorly.\n\nKey factors:\n- U-factor (insulation) and SHGC (solar heat gain) ratings\n- Low-E coatings adapted to your orientation and climate\n- Quality weatherstripping and multi-point locks\n- Proper air sealing during installation\n\nAsk your installer to explain ratings in simple terms and match options to your goals—comfort, condensation control, or lower bills—rather than chasing the absolute highest numbers. Focus on a reliable manufacturer with consistent performance and a strong track record.\n\nA good contractor will help you balance energy features with cost and make sure the installation doesn’t undermine the window’s rated performance.",
+        "@type": "Answer",
+        "description": "Prioritize double or triple-pane windows with low-E glass, low U-factor and appropriate SHGC ratings, and well-insulated, airtight frames. Combine those features with high-quality installation and air sealing, since even the best-rated window won’t perform well if it’s installed poorly."
+      }
+    }
+  ],
+  "description": "Prioritize double or triple-pane windows with low-E glass, low U-factor and appropriate SHGC ratings, and well-insulated, airtight frames. Combine those feature"
+}

@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/is-there-a-bad-time-of-year-to-remodel-a-bathroom",
+  "name": "Is there a bad time of year to remodel a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Is there a bad time of year to remodel a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, remodeling during a busy season can make scheduling harder because permits, inspections, and material deliveries may take longer. If you need the bathroom finished by a specific date, build in extra time for delays. Booking early gives you a better chance of getting the contractor and materials you want.",
+        "@type": "Answer",
+        "description": "There is no perfect season, but busy periods can mean longer lead times. If you have a deadline, plan extra time for permits and deliveries."
+      }
+    }
+  ],
+  "description": "There is no perfect season, but busy periods can mean longer lead times. If you have a deadline, plan extra time for permits and deliveries."
+}

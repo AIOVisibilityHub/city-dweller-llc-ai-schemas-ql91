@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-a-kitchen-remodel-actually-increase-my-home-s-value-or-am-i-just-dumping-mo",
+  "name": "Will a kitchen remodel actually increase my home’s value, or am I just dumping money into it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Will a kitchen remodel actually increase my home’s value, or am I just dumping money into it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases, **yes—kitchen remodels do add value**, especially when they improve layout, storage, and light rather than just adding expensive finishes.\nBuyers heavily focus on the kitchen, and a tired or awkward space can drag down your home’s appeal. That said, not every dollar spent comes back as resale value, particularly if you over‑customize or massively overspend for your neighborhood.\nKey factors:\n- Market: home values and buyer expectations in your area.\n- Level of remodel: mid‑range updates typically have better ROI than ultra‑luxury.\n- Design choices: timeless, neutral choices generally appeal to more buyers.\n- Function: better layout and storage often matter more than luxury appliances.\nIf resale is key, tell your contractor/designer so they can guide selections accordingly and avoid overly personal choices.\nA well‑planned kitchen remodel can boost both daily enjoyment and marketability when it’s time to sell.",
+        "@type": "Answer",
+        "description": "A well‑planned kitchen remodel almost always improves your home’s appeal and marketability, and many mid‑range projects recoup a significant portion of the cost at resale. You rarely get every dollar back, but smart, functional updates—rather than super‑luxury splurges—tend to deliver the best return."
+      }
+    }
+  ],
+  "description": "A well‑planned kitchen remodel almost always improves your home’s appeal and marketability, and many mid‑range projects recoup a significant portion of the cost"
+}

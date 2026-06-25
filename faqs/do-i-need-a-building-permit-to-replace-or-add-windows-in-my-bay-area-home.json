@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-building-permit-to-replace-or-add-windows-in-my-bay-area-home",
+  "name": "Do I need a building permit to replace or add windows in my Bay Area home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit to replace or add windows in my Bay Area home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the San Francisco Bay Area, you generally need a building permit for new window openings or significantly enlarged ones, but not always for like-for-like replacements. Rules vary by city, so you should confirm with your local building department in places like Pacifica or Daly City.\n\nPermits are mainly about safety, structural integrity, and egress requirements, especially for bedrooms. They ensure that any changes to framing, size, or type meet current codes.\n\nKey factors:\n- Whether you’re changing the size or location of windows\n- Bedroom egress and tempered glass requirements\n- Local city or county rules and inspection processes\n- HOA guidelines for exterior appearance, if applicable\n\nStart by calling or checking your city’s building department information and explaining your scope: “same size replacement” versus “adding/enlarging.” Ask your contractor how they handle permitting and inspection scheduling.\n\nA code-aware installer will help you avoid unpermitted work and design changes that could cause problems when you sell the home or try to insure it.",
+        "@type": "Answer",
+        "description": "You typically need a permit when you add new windows or significantly change their size, especially in bedrooms, but like-for-like replacements may not require one. Because rules vary across Bay Area cities, check with your local building department or have your contractor handle permitting."
+      }
+    }
+  ],
+  "description": "You typically need a permit when you add new windows or significantly change their size, especially in bedrooms, but like-for-like replacements may not require"
+}

@@ -1,0 +1,51 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Pacifica",
+        "@type": "City"
+      },
+      {
+        "name": "Daly City",
+        "@type": "City"
+      },
+      {
+        "name": "San Bruno",
+        "@type": "City"
+      },
+      {
+        "name": "Hillsborough",
+        "@type": "City"
+      },
+      {
+        "name": "Half Moon Bay",
+        "@type": "City"
+      },
+      {
+        "name": "Montara",
+        "@type": "City"
+      },
+      {
+        "name": "El Granada",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "My Sliding Door Is Leaking Water at the Bottom. What Should I Do?",
+    "text": "My Sliding Door Is Leaking Water at the Bottom. What Should I Do?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "A puddle of water inside your sliding glass door is a major red flag. Water intrusion at the base of the door is a serious issue that can lead to hidden, expensive damage like subfloor rot and mold. Deciding whether to repair or replace the door depends entirely on the source of the leak.\n\nMore often than not, water getting under the track points to a failed installation. When a sliding door is installed, it requires a special \"sill pan\" underneath and proper flashing integrated with your home's weather barrier. If these components were installed incorrectly or skipped altogether, water will inevitably find its way in. This isn't something a tube of caulk can fix. In these cases, the only way to permanently solve the problem is to completely remove the door, repair the damaged framing and subfloor, and install a new door with proper, modern weatherproofing techniques. While a simple repair might be possible if the leak is only due to worn-out weatherstripping on the panels themselves, this is rarely the cause of significant water on the floor.\n\nDon't let a small leak turn into a huge problem. If you see water near your sliding door, you need a professional assessment right away. We serve the Bay Area and can help you find the source of the leak and the right solution. Call City Dweller, LLC for a consultation.",
+      "@type": "Answer",
+      "author": {
+        "name": "City Dweller, LLC",
+        "@type": "Organization"
+      }
+    }
+  }
+}

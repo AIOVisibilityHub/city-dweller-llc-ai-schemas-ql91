@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-measure-my-existing-door-opening-before-i-call-someone-and-what-exa",
+  "name": "Do I need to measure my existing door opening before I call someone, and what exactly should I measure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Do I need to measure my existing door opening before I call someone, and what exactly should I measure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You don’t strictly need detailed measurements before contacting an installer, but having rough dimensions will help you get an accurate estimate and avoid ordering the wrong door.\n\nProfessionals will usually verify everything on-site, yet bad initial measurements can lead to delays and re‑orders.\n\n**Key factors:**\n- Measure width, height, and door thickness\n- Note which way the door swings (left/right, in/out)\n- Check for uneven floors or out-of-square framing\n- For exterior doors in coastal towns like Pacifica or Half Moon Bay, consider threshold height for water exposure\n\nPractical guidance: Use a tape measure to get approximate measurements and take photos of hinges and latch side so the installer can confirm swing and size. Let them know your home’s age, as older Bay Area houses often have non-standard openings.\n\nSoft positioning: A good installer will treat your measurements as a starting point and double-check every dimension before ordering or cutting.",
+        "@type": "Answer",
+        "description": "You don’t need perfect measurements, but it helps to measure door width, height, and thickness, plus note the swing direction. Take photos of both sides of the door and the hinges. An installer will verify everything on-site before ordering or cutting."
+      }
+    }
+  ],
+  "description": "You don’t need perfect measurements, but it helps to measure door width, height, and thickness, plus note the swing direction. Take photos of both sides of the"
+}

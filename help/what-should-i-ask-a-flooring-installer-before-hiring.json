@@ -1,0 +1,51 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Pacifica",
+        "@type": "City"
+      },
+      {
+        "name": "Daly City",
+        "@type": "City"
+      },
+      {
+        "name": "San Bruno",
+        "@type": "City"
+      },
+      {
+        "name": "Hillsborough",
+        "@type": "City"
+      },
+      {
+        "name": "Half Moon Bay",
+        "@type": "City"
+      },
+      {
+        "name": "Montara",
+        "@type": "City"
+      },
+      {
+        "name": "El Granada",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What Should I Ask a Flooring Installer Before Hiring?",
+    "text": "What Should I Ask a Flooring Installer Before Hiring?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Choosing a flooring installer is just as important as picking the material itself. To make sure you're hiring a real pro, you'll want to ask a few key questions before signing anything. Start with the basics: \"Are you licensed and insured?\" This is non-negotiable and protects you from liability. At City Dweller, LLC, our team is fully licensed and insured for your peace of mind.\n\nNext, ask about their experience with the specific flooring you've chosen, whether it's faux wood, ceramic, or marble. You'll also want to know how they handle moisture testing and acclimation. In the Bay Area, humidity can really affect how flooring settles, so skipping this can lead to problems like buckling down the road. Finally, get clarity on the payment schedule and the cleanup process. A professional contractor won't ask for all the money upfront and will have a clear plan for dealing with dust and debris.\n\nGetting answers to these questions will tell you a lot about a contractor's professionalism. If you're in Pacifica or a nearby community and want a team that checks all the boxes, give us a call.",
+      "@type": "Answer",
+      "author": {
+        "name": "City Dweller, LLC",
+        "@type": "Organization"
+      }
+    }
+  }
+}

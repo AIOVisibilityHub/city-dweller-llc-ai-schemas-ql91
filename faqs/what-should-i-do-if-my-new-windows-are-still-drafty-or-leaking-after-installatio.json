@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-do-if-my-new-windows-are-still-drafty-or-leaking-after-installatio",
+  "name": "What should I do if my new windows are still drafty or leaking after installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should I do if my new windows are still drafty or leaking after installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your new windows are drafty or leaking after installation, contact the installer immediately and document what you’re seeing. Many issues are due to installation errors, not the window itself, and are typically covered by the installer’s workmanship warranty.\n\nCommon post-install problems include gaps in caulking, misaligned sashes, poorly sealed nailing fins, or missing insulation around the frame. Left unaddressed, these can cause water damage, mold, and higher energy bills.\n\nKey factors:\n- Workmanship warranty length and coverage\n- Whether leaks occur only in storms or constantly\n- Physical signs: visible gaps, water stains, or fogging\n- Responsiveness of the installer to service calls\n\nTake photos or video during a rain event and note which windows are affected. Ask the installer to inspect and, if needed, reflash, recaulk, or adjust the units; escalate to the manufacturer only if product defects are suspected.\n\nA reputable contractor will stand behind their work, fix issues promptly, and explain what went wrong and how it was corrected.",
+        "@type": "Answer",
+        "description": "If new windows are drafty or leaking, call your installer right away, document the problem, and request a warranty service visit. Most such issues are installation-related—gaps, poor flashing, or misalignment—and can be corrected before they cause significant water damage or energy loss."
+      }
+    }
+  ],
+  "description": "If new windows are drafty or leaking, call your installer right away, document the problem, and request a warranty service visit. Most such issues are installat"
+}

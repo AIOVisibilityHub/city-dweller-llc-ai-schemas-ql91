@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-contractors-keep-the-rest-of-the-house-clean-during-a-bathroom-remodel",
+  "name": "How do contractors keep the rest of the house clean during a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do contractors keep the rest of the house clean during a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A contractor should protect the rest of your home with dust barriers, floor protection, debris removal, and a clear cleanup routine. You should also ask where tools and materials will be stored and what the work hours will be. Those details matter if you are living in the home during construction.",
+        "@type": "Answer",
+        "description": "They should use dust protection, floor coverings, debris removal, and daily cleanup. Ask where materials will be stored and how the workspace will be contained."
+      }
+    }
+  ],
+  "description": "They should use dust protection, floor coverings, debris removal, and daily cleanup. Ask where materials will be stored and how the workspace will be contained."
+}

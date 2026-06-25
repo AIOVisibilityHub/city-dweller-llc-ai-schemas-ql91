@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-results-can-i-realistically-expect-from-a-bathroom-remodel",
+  "name": "What kind of results can I realistically expect from a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What kind of results can I realistically expect from a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A full gut remodel usually creates the biggest transformation: better layout, newer waterproofing, upgraded fixtures, and improved lighting and ventilation. If you are keeping the same footprint, the outcome can still be dramatic if the design is well planned. The best result is usually a bathroom that is easier to clean, more durable, and more comfortable to use.",
+        "@type": "Answer",
+        "description": "A remodel can improve layout, durability, lighting, and comfort, not just appearance. The biggest gains usually come from better planning and upgraded infrastructure."
+      }
+    }
+  ],
+  "description": "A remodel can improve layout, durability, lighting, and comfort, not just appearance. The biggest gains usually come from better planning and upgraded infrastru"
+}

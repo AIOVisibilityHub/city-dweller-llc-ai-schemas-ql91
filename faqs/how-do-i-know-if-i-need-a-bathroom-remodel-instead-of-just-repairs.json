@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-i-need-a-bathroom-remodel-instead-of-just-repairs",
+  "name": "How do I know if I need a bathroom remodel instead of just repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I know if I need a bathroom remodel instead of just repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most common signs are recurring leaks, cracked tile, soft flooring, mold smell, weak ventilation, poor lighting, and a layout that feels cramped or awkward. You may also need a remodel if fixtures are failing or parts are no longer up to code. If repair costs keep stacking up, a remodel can be the better long-term move.",
+        "@type": "Answer",
+        "description": "If leaks, mold, poor layout, bad ventilation, or repeated repairs keep coming back, a remodel may make more sense than patching things again."
+      }
+    }
+  ],
+  "description": "If leaks, mold, poor layout, bad ventilation, or repeated repairs keep coming back, a remodel may make more sense than patching things again."
+}

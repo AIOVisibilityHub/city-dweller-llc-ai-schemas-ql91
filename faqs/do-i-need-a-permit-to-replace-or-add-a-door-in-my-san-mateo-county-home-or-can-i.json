@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-to-replace-or-add-a-door-in-my-san-mateo-county-home-or-can-i",
+  "name": "Do I need a permit to replace or add a door in my San Mateo County home, or can I just have someone install it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to replace or add a door in my San Mateo County home, or can I just have someone install it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most installers can handle a straightforward door replacement without a permit, but if you’re changing the size of the opening, removing structural elements, or adding new exterior doors, permits may be required.\n\nRules vary by city within San Mateo County and the broader Bay Area.\n\n**Key factors:**\n- Simple “like for like” door swaps vs. new or enlarged openings\n- Whether structural framing, headers, or shear walls are altered\n- Local building department requirements in cities like San Bruno or South San Francisco\n- HOA or condo restrictions on appearance and exterior changes\n\nPractical guidance: Ask your contractor directly whether your specific job needs a permit and who will handle it. Do not ignore this—unpermitted structural work can cause issues during resale or insurance claims.\n\nSoft positioning: A conscientious installer will be familiar with local rules and help you stay compliant without you having to chase down every regulation yourself.",
+        "@type": "Answer",
+        "description": "Simple door replacements often don’t require a permit, but new openings, size changes, or structural framing changes usually do. Requirements vary by city, so ask your installer to check local rules and, if needed, handle the permit process for you."
+      }
+    }
+  ],
+  "description": "Simple door replacements often don’t require a permit, but new openings, size changes, or structural framing changes usually do. Requirements vary by city, so a"
+}

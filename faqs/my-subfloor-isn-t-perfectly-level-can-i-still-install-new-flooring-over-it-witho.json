@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/my-subfloor-isn-t-perfectly-level-can-i-still-install-new-flooring-over-it-witho",
+  "name": "My subfloor isn’t perfectly level—can I still install new flooring over it without problems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "My subfloor isn’t perfectly level—can I still install new flooring over it without problems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases you cannot install new flooring directly over an uneven subfloor without creating future squeaks, gaps, or cracked tiles. The subfloor should be clean, dry, and within the flatness tolerance specified for your flooring type.\n\nLeveling and repairs may feel like “extra” cost, but they’re essential to avoid early failure.\n\nKey factors:\n- Type of flooring: tile and rigid plank vinyl are most sensitive\n- Severity and pattern of dips, humps, or soft spots\n- Subfloor material (concrete vs wood)\n- Moisture and structural issues hiding under uneven areas\n\nHave the installer measure flatness and explain how they’ll fix it (grinding, patching, new underlayment, or replacing damaged subfloor). Get these repairs in writing with pricing.\n\nA solid, flat base is the best investment you can make in any new floor.",
+        "@type": "Answer",
+        "description": "Not safely. Significant unevenness must be corrected before installing new flooring, or you risk squeaks, gaps, movement, or cracked tiles. Have your installer measure flatness, then repair with leveling compounds, grinding, or subfloor replacement as needed."
+      }
+    }
+  ],
+  "description": "Not safely. Significant unevenness must be corrected before installing new flooring, or you risk squeaks, gaps, movement, or cracked tiles. Have your installer"
+}

@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-be-home-the-whole-time-during-door-installation-or-can-the-crew-wor",
+  "name": "Do I need to be home the whole time during door installation, or can the crew work while I’m out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Do I need to be home the whole time during door installation, or can the crew work while I’m out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You don’t need to be home every minute, but it’s wise to be present at the start and end of door installation so you can approve locations, swing directions, and final results.\n\nInstallers often need quick decisions that are hard to make remotely.\n\n**Key factors:**\n- Initial walkthrough to confirm scope and door swings\n- Access needs, alarm systems, and interior locking routines\n- Final inspection, operation check, and punch‑list items\n- Comfort level with contractors working alone in your space\n\nPractical guidance: Plan to be home for at least the first 30–60 minutes and the last 30 minutes of the job. In between, you can run errands as long as the crew has a reliable way to reach you for decisions.\n\nSoft positioning: A communicative installer will coordinate timing with you so your presence is used efficiently, not wasted.",
+        "@type": "Answer",
+        "description": "It’s best to be home at the start to confirm details and at the end to inspect and test the doors. In between, crews can usually work while you’re out if they have clear instructions and a way to reach you for decisions."
+      }
+    }
+  ],
+  "description": "It’s best to be home at the start to confirm details and at the end to inspect and test the doors. In between, crews can usually work while you’re out if they h"
+}

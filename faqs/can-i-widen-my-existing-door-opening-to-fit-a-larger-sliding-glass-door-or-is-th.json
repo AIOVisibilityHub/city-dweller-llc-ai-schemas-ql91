@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-widen-my-existing-door-opening-to-fit-a-larger-sliding-glass-door-or-is-th",
+  "name": "Can I widen my existing door opening to fit a larger sliding glass door, or is that structurally risky?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Can I widen my existing door opening to fit a larger sliding glass door, or is that structurally risky?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your current opening is narrow, you can often widen it, but that may require structural changes to the wall and a new header. This work needs careful design and, in most cases, permits and inspections.\n\nWidening an opening increases light and access but also affects load paths in the wall. Doing it without proper support can create serious structural problems.\n\nKey factors:\n- Whether the wall is load‑bearing\n- Existing header size and framing layout\n- Desired new width and door type\n- Local permit requirements and inspection process\n\nPractically, start by having a contractor or engineer evaluate whether the wall is load‑bearing and propose a header design. Plan for drywall, stucco, or siding repairs around the enlarged opening.\n\nIn hillside and older homes in San Mateo County and the broader Bay Area, walls are frequently load‑bearing, so widening for a bigger slider is not a trivial project.",
+        "@type": "Answer",
+        "description": "You can usually widen an opening, but it often involves modifying a load‑bearing wall, installing a new header, and getting permits. Have a qualified pro evaluate the structure before you decide—it’s not just a simple cut‑and‑install job."
+      }
+    }
+  ],
+  "description": "You can usually widen an opening, but it often involves modifying a load‑bearing wall, installing a new header, and getting permits. Have a qualified pro evalua"
+}

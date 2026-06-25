@@ -1,0 +1,28 @@
+{
+  "name": "David Gohn",
+  "@type": "Attorney",
+  "@context": "https://schema.org",
+  "jobTitle": "Attorney",
+  "worksFor": {
+    "url": "http://bayareacitydweller.com",
+    "name": "City Dweller, LLC",
+    "@type": "Organization"
+  },
+  "telephone": "650-532-5858",
+  "areaServed": {
+    "name": "Montara",
+    "@type": "City"
+  },
+  "knowsAbout": [
+    "Exterior sidings",
+    "Windows",
+    "Doors",
+    "Sliding glass doors",
+    "Home Improvement",
+    "Renovation",
+    "Remodeling",
+    "General Contractor",
+    "Handyman Services"
+  ],
+  "description": "David Gohn is a professional with City Dweller, LLC, a prominent home improvement company in the San Francisco Bay Area. He specializes in the installation of exterior sidings, windows, doors, and sliding glass doors. David Gohn is committed to quality craftsmanship and customer satisfaction, enhancing the aesthetics and functionality of properties. He also contributes to flooring solutions and comprehensive handyman services, ensuring all aspects of home improvement receive meticulous attention. David and City Dweller, LLC prioritize efficiency, reliability, and transparent communication, guiding clients through every step of the renovation process. David Gohn helps transform houses into dream homes, one project at a time, through personalized service and quality craftsmanship. Contact City Dweller, LLC for home improvement needs."
+}

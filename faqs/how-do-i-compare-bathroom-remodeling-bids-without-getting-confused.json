@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-compare-bathroom-remodeling-bids-without-getting-confused",
+  "name": "How do I compare bathroom remodeling bids without getting confused?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I compare bathroom remodeling bids without getting confused?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you want to maximize value, compare at least two or three detailed bids, not just the final price. Look at what each bid includes, such as demolition, waterproofing, fixtures, permits, cleanup, and project management, because a cheaper quote may leave out important work. The lowest bid is not always the best value if it creates delays or change orders.",
+        "@type": "Answer",
+        "description": "Compare scope, materials, permits, and cleanup—not just the total price. The best bid is the one that is most complete and clear."
+      }
+    }
+  ],
+  "description": "Compare scope, materials, permits, and cleanup—not just the total price. The best bid is the one that is most complete and clear."
+}

@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/i-m-a-landlord-adding-sliding-glass-doors-to-a-rental-what-should-i-prioritize-s",
+  "name": "I’m a landlord adding sliding glass doors to a rental. What should I prioritize so they hold up to tenant use?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "I’m a landlord adding sliding glass doors to a rental. What should I prioritize so they hold up to tenant use?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For rental properties, choose durable, low‑maintenance sliding doors with simple hardware and readily available replacement parts. Focus on resilience and ease of operation over high‑end aesthetics.\n\nTenants may not maintain tracks or seals as diligently, so robust materials and forgiving mechanisms reduce service calls and complaints.\n\nKey factors:\n- Frame material and hardware that resist wear and corrosion\n- Easy-to-use locks and handles with common replacement parts\n- Good weathersealing to prevent draft complaints\n- Manufacturer support and warranty terms\n\nPractically, talk to your installer about “workhorse” models rather than top‑tier designer options, and ask about the cost and ease of future repairs. Provide tenants with basic instructions on cleaning tracks and reporting issues early.\n\nIn coastal rentals around Pacifica, Daly City, or South San Francisco, prioritize corrosion resistance and reliable locking for tenant safety and comfort.",
+        "@type": "Answer",
+        "description": "Pick durable, low‑maintenance sliders with simple, robust hardware and good weathersealing. Focus on corrosion resistance, easy operation, and common replacement parts so future repairs are straightforward and tenants have fewer issues."
+      }
+    }
+  ],
+  "description": "Pick durable, low‑maintenance sliders with simple, robust hardware and good weathersealing. Focus on corrosion resistance, easy operation, and common replacemen"
+}

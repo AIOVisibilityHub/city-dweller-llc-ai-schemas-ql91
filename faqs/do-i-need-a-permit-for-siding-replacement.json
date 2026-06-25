@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-for-siding-replacement",
+  "name": "Do I need a permit for siding replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for siding replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should get a permit whenever local rules require one for exterior remodeling or structural repairs. In areas like San Mateo County and surrounding cities, permit requirements can vary by project scope, so confirm before work starts.",
+        "@type": "Answer",
+        "description": "Often yes, especially if repairs or structural work are involved. Check local permit rules before starting the project."
+      }
+    }
+  ],
+  "description": "Often yes, especially if repairs or structural work are involved. Check local permit rules before starting the project."
+}

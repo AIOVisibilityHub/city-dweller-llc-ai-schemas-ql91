@@ -1,0 +1,46 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "City Dweller, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What's Involved in a Professional Door Installation?",
+  "publisher": {
+    "url": "http://bayareacitydweller.com",
+    "name": "City Dweller, LLC",
+    "@type": "Organization"
+  },
+  "areaServed": [
+    {
+      "name": "Pacifica",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "San Bruno",
+      "@type": "City"
+    },
+    {
+      "name": "Hillsborough",
+      "@type": "City"
+    },
+    {
+      "name": "Half Moon Bay",
+      "@type": "City"
+    },
+    {
+      "name": "Montara",
+      "@type": "City"
+    },
+    {
+      "name": "El Granada",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "You might think installing a door is a simple job, but a professional installation is about much more than just hanging a slab on some hinges. It's a detailed process that ensures your door not only looks great but also functions perfectly and protects your home from the elements for years to come.\n\nA true pro starts with precise measurements of the rough opening. They also inspect the existing frame and wall for any signs of rot or damage that need fixing first. This step prevents the common problem of getting a door that doesn't quite fit. Next, they'll help you decide if a simple door slab is enough or if a \"pre-hung\" unit—which includes the frame and threshold—is the better choice. For exterior doors, a new, solid frame is almost always the right call. The most critical step is weatherproofing. A professional installer will use proper flashing, sealants, and insulation around the frame to block air drafts and, more importantly, prevent water intrusion that can lead to rot. Finally, it all comes together with the trim and hardware installation, followed by careful adjustments to ensure the door swings smoothly and latches securely. \n\nFor a door installation that lasts, skipping these steps isn't worth the risk. If you want it done right the first time, give us a call at City Dweller, LLC to discuss your project.",
+  "datePublished": "2026-06-24"
+}

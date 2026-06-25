@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-tell-if-my-new-windows-were-installed-correctly-and-not-just-slapped-i",
+  "name": "How can I tell if my new windows were installed correctly and not just slapped in?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How can I tell if my new windows were installed correctly and not just slapped in?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To know if your installer did a good job, check that windows open and close smoothly, seals are even, and there are no visible gaps, drafts, or water intrusion after the first rain. Look closely at exterior caulking, flashing integration, and interior trim quality.\n\nGood installation is as much about what you can’t see—proper flashing and insulation—as what you can. Still, there are practical checks you can perform.\n\nKey factors:\n- Smooth operation and proper locking\n- Even reveals and consistent caulk lines\n- No air movement or rattling on windy days\n- Dry sills and walls after rain, with no staining or bubbling paint\n\nAfter installation, do a room-by-room inspection and note any concerns, then schedule a punchlist visit before final payment if possible. Pay attention after the first big storm and report any issues immediately.\n\nA reliable installer will welcome questions, make adjustments, and stand behind the work if problems appear later.",
+        "@type": "Answer",
+        "description": "Check that your new windows operate smoothly, lock properly, and have even gaps and caulk lines, with no drafts or rattling on windy days. After the first heavy rain, verify there are no leaks, stains, or paint bubbles around the openings, and have the installer address any issues promptly."
+      }
+    }
+  ],
+  "description": "Check that your new windows operate smoothly, lock properly, and have even gaps and caulk lines, with no drafts or rattling on windy days. After the first heavy"
+}

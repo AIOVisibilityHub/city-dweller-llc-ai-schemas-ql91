@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-live-in-my-house-while-new-flooring-is-being-installed-or-is-that-a-bad-id",
+  "name": "Can I live in my house while new flooring is being installed, or is that a bad idea?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Can I live in my house while new flooring is being installed, or is that a bad idea?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can stay in your home during flooring installation, but expect noise, dust, and limited access to certain rooms. Many people temporarily shift to other areas of the house or plan short stays elsewhere during the messiest days.\n\nThe more flooring areas that connect (hallways, stairs, kitchens), the more your daily routine is disrupted. Planning traffic routes is key.\n\nKey factors:\n- Which rooms are being done (kitchen, entry, stairs affect daily life most)\n- Whether you have kids, pets, or work from home\n- Noise levels and chemical odors (adhesives, finishes)\n- Availability of alternate entrances and living areas\n\nAsk your installer to sequence rooms so you always have a way to get to bathrooms, bedrooms, and the kitchen when possible. Consider scheduling the worst days when you can be out of the house.\n\nGood planning makes staying home realistic for most projects.",
+        "@type": "Answer",
+        "description": "You can usually stay in your home during flooring installation, but expect noise, dust, and blocked rooms. Plan alternate routes, protect pets and kids, and consider being away on the loudest or smelliest days, especially for large projects or strong-fume finishes."
+      }
+    }
+  ],
+  "description": "You can usually stay in your home during flooring installation, but expect noise, dust, and blocked rooms. Plan alternate routes, protect pets and kids, and con"
+}

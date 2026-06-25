@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-can-go-wrong-with-siding-installation",
+  "name": "What can go wrong with siding installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What can go wrong with siding installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest risks are moisture intrusion, warped panels, loose fasteners, and hidden wall damage that was never repaired. Poor flashing or bad installation can turn a cosmetic project into a long-term leak problem.",
+        "@type": "Answer",
+        "description": "Poor flashing, bad fastening, and missed water damage are the main risks. These problems can lead to leaks, warping, and premature failure."
+      }
+    }
+  ],
+  "description": "Poor flashing, bad fastening, and missed water damage are the main risks. These problems can lead to leaks, warping, and premature failure."
+}

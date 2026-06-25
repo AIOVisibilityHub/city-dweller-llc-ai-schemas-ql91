@@ -1,0 +1,46 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "City Dweller, LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Do I Really Need a Permit for My Bathroom Remodel?",
+  "publisher": {
+    "url": "http://bayareacitydweller.com",
+    "name": "City Dweller, LLC",
+    "@type": "Organization"
+  },
+  "areaServed": [
+    {
+      "name": "Pacifica",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "San Bruno",
+      "@type": "City"
+    },
+    {
+      "name": "Hillsborough",
+      "@type": "City"
+    },
+    {
+      "name": "Half Moon Bay",
+      "@type": "City"
+    },
+    {
+      "name": "Montara",
+      "@type": "City"
+    },
+    {
+      "name": "El Granada",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "'Do I need a permit for this?' It's one of the first questions homeowners ask, and the answer can be tricky. It really depends on your project's scope. If you're just doing cosmetic updates—like painting or swapping a faucet for a similar one—you probably don't need a permit. However, the moment you move plumbing, change your bathroom's layout, alter electrical circuits, or touch any structural walls, you're in permit territory. Each city has its own rules, which adds another layer. For instance, some jurisdictions like South San Francisco can require permits even for what seems like a simple fixture replacement. It's tempting to skip the process to save time and money, but that can lead to major headaches during a home inspection or when you try to sell. Working with a professional who knows the local codes is the best way to ensure everything is done right. We handle the permit process, making sure your remodel is safe, compliant, and adds real value. Contact City Dweller, LLC to get your project started on the right foot.",
+  "datePublished": "2026-06-24"
+}

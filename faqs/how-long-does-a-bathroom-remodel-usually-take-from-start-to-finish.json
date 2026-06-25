@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-bathroom-remodel-usually-take-from-start-to-finish",
+  "name": "How long does a bathroom remodel usually take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How long does a bathroom remodel usually take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most bathroom remodels take several weeks, but the timeline depends on permits, material lead times, inspections, and whether plumbing or structural work is involved. A simple refresh can move faster, while a full remodel with custom tile or fixture delays can take much longer. Ask for a schedule that includes design, demo, rough-in, inspections, and finish work.",
+        "@type": "Answer",
+        "description": "A small refresh may take only a few weeks, while a full remodel can take much longer. Permits, inspections, and material delays are the biggest schedule drivers."
+      }
+    }
+  ],
+  "description": "A small refresh may take only a few weeks, while a full remodel can take much longer. Permits, inspections, and material delays are the biggest schedule drivers"
+}

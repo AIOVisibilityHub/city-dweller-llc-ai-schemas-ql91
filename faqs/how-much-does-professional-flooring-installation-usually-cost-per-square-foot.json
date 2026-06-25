@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-professional-flooring-installation-usually-cost-per-square-foot",
+  "name": "How much does professional flooring installation usually cost per square foot?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How much does professional flooring installation usually cost per square foot?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Across most materials, professional flooring installation typically ranges from about $3 to $10+ per square foot for labor, plus the cost of the flooring itself. Total projects (including demo, disposal, and trim) often land between $8 and $20+ per square foot depending on material and complexity.\n\nHardwood and tile usually sit at the higher end; laminate, carpet, and many vinyl products are mid-range. Stairs, odd layouts, and damaged subfloors can add significantly.\n\nKey factors:\n- Type of flooring (carpet < laminate/LVP < hardwood/tile/stone)\n- Subfloor condition and leveling needs\n- Removal and disposal of existing floors\n- Stairs, patterns, borders, and tight spaces\n\nAsk each installer for a line-item quote so you can see where money is going and compare apples to apples. Build in a 10–15% contingency for surprises, especially in older homes.\n\nA clear, written scope tied to your budget is your best protection against cost creep.",
+        "@type": "Answer",
+        "description": "Professional flooring installation commonly runs about $3–$10+ per square foot for labor alone, with full project costs (including demo, disposal, and trim) often totaling $8–$20+ per square foot depending on material, subfloor condition, and job complexity."
+      }
+    }
+  ],
+  "description": "Professional flooring installation commonly runs about $3–$10+ per square foot for labor alone, with full project costs (including demo, disposal, and trim) oft"
+}

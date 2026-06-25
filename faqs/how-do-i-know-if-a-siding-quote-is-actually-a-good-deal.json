@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-a-siding-quote-is-actually-a-good-deal",
+  "name": "How do I know if a siding quote is actually a good deal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I know if a siding quote is actually a good deal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best value usually comes from a contractor who explains materials, shows past work, gives a detailed scope, and stands behind the installation. That combination is often worth more than the lowest bid if you want the siding to last.",
+        "@type": "Answer",
+        "description": "A good quote is detailed, transparent, and backed by real experience. The lowest price is not always the best value if it leaves out repairs or warranty coverage."
+      }
+    }
+  ],
+  "description": "A good quote is detailed, transparent, and backed by real experience. The lowest price is not always the best value if it leaves out repairs or warranty coverag"
+}

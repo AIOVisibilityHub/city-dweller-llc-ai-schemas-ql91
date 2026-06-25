@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-should-a-bathroom-remodel-cost-if-i-want-to-keep-it-within-budget",
+  "name": "How much should a bathroom remodel cost if I want to keep it within budget?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How much should a bathroom remodel cost if I want to keep it within budget?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A realistic budget starts with the scope: cosmetic refreshes cost far less than full gut remodels with new plumbing, tile, and electrical. It is also wise to set aside a contingency, because hidden water damage, rot, or outdated wiring often show up once walls or floors are opened. Get line-item pricing so you can see where the money is going.",
+        "@type": "Answer",
+        "description": "Cost depends on scope, finishes, and hidden repairs. Set a contingency fund and ask for itemized pricing so you can control spending."
+      }
+    }
+  ],
+  "description": "Cost depends on scope, finishes, and hidden repairs. Set a contingency fund and ask for itemized pricing so you can control spending."
+}

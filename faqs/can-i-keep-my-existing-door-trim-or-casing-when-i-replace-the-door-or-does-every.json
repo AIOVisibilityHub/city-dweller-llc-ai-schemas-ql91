@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-keep-my-existing-door-trim-or-casing-when-i-replace-the-door-or-does-every",
+  "name": "Can I keep my existing door trim or casing when I replace the door, or does everything have to be ripped out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Can I keep my existing door trim or casing when I replace the door, or does everything have to be ripped out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can often reuse your existing trim or casing, but only if it’s in good condition and compatible with the new door and frame.\n\nSometimes reusing trim saves money; other times it creates gaps or a mismatched look.\n\n**Key factors:**\n- Condition of existing trim (cracks, rot, paint buildup)\n- Whether the new frame dimensions match the old\n- Style compatibility between old trim and new door\n- Labor cost of careful removal vs. installing new trim\n\nPractical guidance: Ask your installer to price both options: reuse vs. new trim. If you love your existing casing, request careful removal and reinstallation; if it’s beat‑up or dated, new trim may be more cost‑effective and attractive.\n\nSoft positioning: A good installer will respect the details you care about and help you weigh sentimental value against practicality and cost.",
+        "@type": "Answer",
+        "description": "You can often reuse existing trim if it’s in good shape and the new frame matches the old dimensions. However, damaged, warped, or heavily painted trim may be better replaced. Ask for separate pricing for reusing vs. installing new casing."
+      }
+    }
+  ],
+  "description": "You can often reuse existing trim if it’s in good shape and the new frame matches the old dimensions. However, damaged, warped, or heavily painted trim may be b"
+}

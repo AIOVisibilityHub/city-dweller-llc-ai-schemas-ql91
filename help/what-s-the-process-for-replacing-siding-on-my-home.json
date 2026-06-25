@@ -1,0 +1,62 @@
+{
+  "name": "What's the Process for Replacing Siding on My Home?",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "A full siding replacement can feel like a huge undertaking, but it's a lot more manageable when you know what to expect. It's a step-by-step process that ensures your home is protected and looks fantastic.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "The process starts with a thorough inspection. A professional will visit your home to measure the exterior, assess the condition of your current siding, and check for any underlying issues like moisture or structural damage. This is when you'll discuss materials and project details. You will then receive a detailed written estimate. Make sure it covers the full scope: materials, labor, permit handling, and waste removal. Don't start work until you have a clear, signed contract.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "Next up is the prep and removal. For most full replacements in the Bay Area, a building permit is required. Your contractor should handle this. Once the permit is secured, the crew will remove the old siding and inspect the sheathing underneath, repairing any damage before moving on. This is a critical step to ensure your new siding is installed on a solid, sound surface.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4",
+      "text": "Finally, the installation begins. A weather-resistive barrier is applied, followed by the new siding, flashing, and trim. This should all be done according to manufacturer specifications and local building codes for a watertight, lasting finish. When the job is done, you'll do a final walkthrough to address any last-minute fixes. Understanding the process makes it much less intimidating. If you’re ready to get started, call City Dweller, LLC at 650-532-5858 to chat with our team.",
+      "@type": "HowToStep",
+      "position": 4
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "areaServed": [
+    {
+      "name": "Pacifica",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "San Bruno",
+      "@type": "City"
+    },
+    {
+      "name": "Hillsborough",
+      "@type": "City"
+    },
+    {
+      "name": "Half Moon Bay",
+      "@type": "City"
+    },
+    {
+      "name": "Montara",
+      "@type": "City"
+    },
+    {
+      "name": "El Granada",
+      "@type": "City"
+    }
+  ],
+  "description": "What's the Process for Replacing Siding on My Home?"
+}

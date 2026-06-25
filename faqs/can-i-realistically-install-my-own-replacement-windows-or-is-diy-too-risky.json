@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-realistically-install-my-own-replacement-windows-or-is-diy-too-risky",
+  "name": "Can I realistically install my own replacement windows, or is DIY too risky?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Can I realistically install my own replacement windows, or is DIY too risky?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional window installation is usually worth it because poor installation can cause leaks, drafts, and void warranties, costing far more than the labor you saved. DIY is only advisable if you’re experienced with measuring, flashing, waterproofing, and finish work.\n\nWindows are part of your home’s weather barrier, especially in rainy, windy areas like San Mateo County’s coast. Even a good window will perform badly if the opening is mismeasured, not flashed correctly, or sealed in the wrong places, leading to hidden water damage.\n\nKey factors:\n- Your skill with framing, flashing, and moisture control\n- Safety working at height or with large, heavy units\n- Warranty requirements (many manufacturers require qualified installers)\n- Complexity: stucco, multi-story, or custom openings are higher risk\n\nIf you want to DIY, start with a small, ground-floor window in a dry, protected wall and follow manufacturer instructions to the letter. For multiple windows or any signs of structural damage, hire a pro and focus your sweat equity on prep and painting instead.\n\nA good contractor can blend professional installation with homeowner prep to keep costs reasonable without compromising long-term performance.",
+        "@type": "Answer",
+        "description": "DIY window installation is possible if you’re skilled with measuring, flashing, and finish carpentry, but mistakes can cause leaks, rot, and warranty problems. For multiple windows, upper floors, or any signs of damage, professional installation is usually safer and more cost-effective long term."
+      }
+    }
+  ],
+  "description": "DIY window installation is possible if you’re skilled with measuring, flashing, and finish carpentry, but mistakes can cause leaks, rot, and warranty problems."
+}

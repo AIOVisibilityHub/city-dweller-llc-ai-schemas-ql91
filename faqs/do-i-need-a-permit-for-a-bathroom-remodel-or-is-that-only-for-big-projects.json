@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-for-a-bathroom-remodel-or-is-that-only-for-big-projects",
+  "name": "Do I need a permit for a bathroom remodel, or is that only for big projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for a bathroom remodel, or is that only for big projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A permit is usually required if your remodel changes plumbing, electrical, ventilation, or structural elements, or if you enlarge the bathroom. Simple cosmetic updates like painting, swapping hardware, or replacing a mirror often do not require permits. In the San Francisco Bay Area, permit rules are enforced closely, so it is smart to confirm before work starts.",
+        "@type": "Answer",
+        "description": "You usually need a permit for plumbing, electrical, structural, or layout changes. Simple cosmetic updates often do not need one, but Bay Area cities tend to enforce permit rules closely."
+      }
+    }
+  ],
+  "description": "You usually need a permit for plumbing, electrical, structural, or layout changes. Simple cosmetic updates often do not need one, but Bay Area cities tend to en"
+}

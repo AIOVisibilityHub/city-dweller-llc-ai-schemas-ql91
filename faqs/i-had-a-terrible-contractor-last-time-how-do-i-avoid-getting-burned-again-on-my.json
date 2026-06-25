@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/i-had-a-terrible-contractor-last-time-how-do-i-avoid-getting-burned-again-on-my",
+  "name": "I had a terrible contractor last time—how do I avoid getting burned again on my kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "I had a terrible contractor last time—how do I avoid getting burned again on my kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you had a bad contractor experience before, protect yourself this time with **clear contracts, references, and firm communication practices**.\nYou can’t eliminate all risk, but you can greatly reduce it by tightening your process and being selective.\nKey factors:\n- References: talk to recent clients about communication, cleanliness, and problem handling.\n- Contract clarity: detailed scope, payment schedule, change‑order policy.\n- Documentation: everything important in writing, including timeline expectations.\n- Red flags: vague estimates, pressure to pay large sums up front, or reluctance to provide proof of insurance.\nTake your time choosing and don’t ignore your gut if something feels off.\nA reputable contractor will be comfortable with your due‑diligence process and help rebuild your trust step by step.",
+        "@type": "Answer",
+        "description": "Protect yourself by checking recent references, insisting on a detailed written scope and payment schedule, verifying license and insurance, and clarifying how communication and change orders will work. Avoid contractors who are vague, reluctant to provide documentation, or push for large upfront payments."
+      }
+    }
+  ],
+  "description": "Protect yourself by checking recent references, insisting on a detailed written scope and payment schedule, verifying license and insurance, and clarifying how"
+}

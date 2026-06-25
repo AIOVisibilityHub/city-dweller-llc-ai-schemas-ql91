@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-if-the-contractor-finds-damage-under-my-old-siding",
+  "name": "What if the contractor finds damage under my old siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What if the contractor finds damage under my old siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If the installer finds rot, mold, or damaged sheathing after removing the old siding, the project should pause until you approve the repair scope. Those problems need to be fixed before new siding goes on, or the failure can come back quickly.",
+        "@type": "Answer",
+        "description": "Stop and review the repair scope before continuing. Hidden rot or mold should be fixed before new siding is installed."
+      }
+    }
+  ],
+  "description": "Stop and review the repair scope before continuing. Hidden rot or mold should be fixed before new siding is installed."
+}

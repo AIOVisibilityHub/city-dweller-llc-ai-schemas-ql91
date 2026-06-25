@@ -1,0 +1,92 @@
+{
+  "url": "http://bayareacitydweller.com",
+  "name": "Home Improvement: Door Installation in Montara",
+  "@type": "GeneralContractor",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Montara"
+  },
+  "@context": "https://schema.org",
+  "provider": {
+    "url": "http://bayareacitydweller.com",
+    "name": "City Dweller, LLC",
+    "@type": "GeneralContractor",
+    "telephone": "650-532-5858"
+  },
+  "telephone": "650-532-5858",
+  "areaServed": [
+    {
+      "name": "Montara",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "San Mateo County",
+      "@type": "AdministrativeArea"
+    }
+  ],
+  "description": "City Dweller, LLC provides Door Installation in Pacifica, Daly City, San Bruno. City Dweller, LLC provides comprehensive home improvement services in the San Francisco Bay Area. They specialize in installations of exterior sidings, windows, doors, and flooring, alongside offering handyman services. The business focuses on quality craftsmanship and customer satisfaction, transforming homes with efficiency and reliable service. Serving Montara.",
+  "serviceType": "Home Improvement — Door Installation",
+  "hasOfferCatalog": {
+    "name": "Home Improvement Services",
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Exterior Siding Installation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Window Installation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Door Installation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Sliding Glass Door Installation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Flooring Installation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Kitchen Remodeling",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Bathroom Remodeling",
+          "@type": "Service"
+        }
+      }
+    ]
+  }
+}

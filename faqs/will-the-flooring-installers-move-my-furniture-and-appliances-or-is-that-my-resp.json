@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-the-flooring-installers-move-my-furniture-and-appliances-or-is-that-my-resp",
+  "name": "Will the flooring installers move my furniture and appliances, or is that my responsibility?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Will the flooring installers move my furniture and appliances, or is that my responsibility?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Furniture and appliances are usually moved either by you or by the installation crew for an extra charge—this should be clearly spelled out in your estimate. Installers typically don’t disconnect gas lines or complex plumbing.\n\nAssuming furniture moving is included is a common source of last-minute tension.\n\nKey factors:\n- Written agreement on who moves what and when\n- Handling of heavy or delicate items (pianos, aquariums, built-ins)\n- Appliance disconnection, reconnection, and leveling\n- Access routes and temporary storage space\n\nAsk specifically: which items will the crew move, what’s excluded, and how they protect furniture and walls. Clear a path and empty drawers and fragile cabinets beforehand.\n\nClarifying this early prevents stress on installation day.",
+        "@type": "Answer",
+        "description": "It depends on your agreement. Some flooring crews move furniture and basic appliances for a fee, but most do not handle gas disconnections or complex hookups. Make sure your quote clearly states what they move so there are no surprises on installation day."
+      }
+    }
+  ],
+  "description": "It depends on your agreement. Some flooring crews move furniture and basic appliances for a fee, but most do not handle gas disconnections or complex hookups. M"
+}

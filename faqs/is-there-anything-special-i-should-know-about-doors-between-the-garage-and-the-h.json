@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/is-there-anything-special-i-should-know-about-doors-between-the-garage-and-the-h",
+  "name": "Is there anything special I should know about doors between the garage and the house—can I use a normal interior door there?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Is there anything special I should know about doors between the garage and the house—can I use a normal interior door there?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For garage-to-house doors, you typically need a solid, self‑closing, and sometimes fire‑rated door to maintain safety and meet common building standards.\n\nNot every interior door is suitable for this location.\n\n**Key factors:**\n- Solid core vs. hollow core construction\n- Self‑closing hinges or closers to keep the door shut\n- Appropriate fire rating if required by your local code or building\n- Proper sealing to block fumes and drafts from the garage\n\nPractical guidance: Don’t just buy a random interior door for this opening—ask your installer what’s appropriate for garage entries in homes like yours. They can help you choose a door that supports safety and performance without over‑specifying unnecessarily.\n\nSoft positioning: A safety‑conscious installer will treat the garage entry as a key barrier, not just another interior door.",
+        "@type": "Answer",
+        "description": "Garage-to-house doors often need to be solid, self‑closing, and may require a fire rating and good seals. A basic hollow‑core interior door is usually not appropriate. Ask your installer to specify a door type that meets common safety and performance needs."
+      }
+    }
+  ],
+  "description": "Garage-to-house doors often need to be solid, self‑closing, and may require a fire rating and good seals. A basic hollow‑core interior door is usually not appro"
+}

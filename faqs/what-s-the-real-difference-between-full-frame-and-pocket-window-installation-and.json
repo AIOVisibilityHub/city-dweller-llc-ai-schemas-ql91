@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-real-difference-between-full-frame-and-pocket-window-installation-and",
+  "name": "What’s the real difference between full-frame and pocket window installation, and how do I know which I need?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What’s the real difference between full-frame and pocket window installation, and how do I know which I need?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Full-frame window replacement removes the entire existing window, frame, and trim, while pocket (insert) replacement keeps the frame and installs a new unit inside it. Full-frame is more invasive but better for damaged or leaky openings; pocket is faster and less disruptive.\n\nWith pocket installation, you preserve interior finishes and can often avoid major siding work, which matters in stucco-heavy Bay Area homes. Full-frame replacement lets the installer address rot, flashing errors, and insulation around the opening—critical in older Pacifica or San Francisco houses with past moisture issues.\n\nKey factors:\n- Condition of existing frame (sound vs. rotted/warped)\n- Need to correct water intrusion or structural problems\n- Desire to change window size or style\n- Budget, timeline, and tolerance for disruption\n\nHave your contractor inspect a few representative openings before you commit to a method. If frames are solid and you like the current size, pocket replacements can save time and money; if there’s any sign of hidden damage, full-frame is usually safer.\n\nA thoughtful installer will recommend the least invasive option that still solves your underlying performance and moisture concerns.",
+        "@type": "Answer",
+        "description": "Full-frame replacement removes the entire window and frame, allowing repairs and size changes, while pocket replacement keeps the existing frame and inserts a new unit. Choose pocket if your frames are sound and you like the size; choose full-frame if there’s rot, leaks, or you want major changes."
+      }
+    }
+  ],
+  "description": "Full-frame replacement removes the entire window and frame, allowing repairs and size changes, while pocket replacement keeps the existing frame and inserts a n"
+}

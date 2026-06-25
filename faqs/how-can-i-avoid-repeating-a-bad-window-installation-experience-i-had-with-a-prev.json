@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-avoid-repeating-a-bad-window-installation-experience-i-had-with-a-prev",
+  "name": "How can I avoid repeating a bad window installation experience I had with a previous contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How can I avoid repeating a bad window installation experience I had with a previous contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you’ve had a bad window installation experience before, insist on transparency and documentation this time: detailed scope, brand and model specs, flashing methods, and warranty terms in writing. Also, schedule a pre-job walkthrough and be clear about your expectations.\n\nPast problems often stem from vague contracts and rushed work. You can reduce risk by slowing the front-end process and choosing a contractor willing to explain details.\n\nKey factors:\n- Written description of removal, flashing, and sealing steps\n- Product selection with documented performance and warranties\n- Milestones for inspection (framing, waterproofing, final)\n- Clear method for handling unforeseen issues and change orders\n\nDuring estimates, tell potential installers what went wrong previously and ask what they do differently. Avoid anyone who brushes off your concerns or won’t put key details in writing.\n\nA quality-focused contractor will respect your prior experience and build extra communication and checkpoints into the project.",
+        "@type": "Answer",
+        "description": "To avoid another bad window installation, demand a detailed written scope, product specs, and clear warranty terms, and schedule a thorough pre-job walkthrough. Choose a contractor who explains their flashing and sealing methods, addresses your past concerns directly, and agrees to defined checkpoints."
+      }
+    }
+  ],
+  "description": "To avoid another bad window installation, demand a detailed written scope, product specs, and clear warranty terms, and schedule a thorough pre-job walkthrough."
+}

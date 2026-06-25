@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-my-new-shower-will-not-leak-later",
+  "name": "How do I know my new shower will not leak later?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I know my new shower will not leak later?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Waterproofing should be done with an approved system, not just tile and grout alone, because showers are exposed to constant moisture. If the shower is built incorrectly, leaks can lead to mold, rot, and expensive repairs behind the walls. Ask whether the installer flood tests the pan and what waterproofing products they use.",
+        "@type": "Answer",
+        "description": "A shower needs proper waterproofing, not just tile. Ask about the waterproofing system and whether the shower pan is flood tested."
+      }
+    }
+  ],
+  "description": "A shower needs proper waterproofing, not just tile. Ask about the waterproofing system and whether the shower pan is flood tested."
+}

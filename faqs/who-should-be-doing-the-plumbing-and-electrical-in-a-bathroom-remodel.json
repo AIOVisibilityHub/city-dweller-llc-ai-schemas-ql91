@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/who-should-be-doing-the-plumbing-and-electrical-in-a-bathroom-remodel",
+  "name": "Who should be doing the plumbing and electrical in a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Who should be doing the plumbing and electrical in a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The contractor should tell you whether plumbing, electrical, tile, and waterproofing work will be done by licensed tradespeople or subcontractors. You want one person responsible for the whole job, but specific work should still be handled by qualified specialists. This matters for safety, code compliance, and the final quality of the bathroom.",
+        "@type": "Answer",
+        "description": "Plumbing and electrical should be done by qualified licensed professionals. Ask who is actually performing each part of the work."
+      }
+    }
+  ],
+  "description": "Plumbing and electrical should be done by qualified licensed professionals. Ask who is actually performing each part of the work."
+}

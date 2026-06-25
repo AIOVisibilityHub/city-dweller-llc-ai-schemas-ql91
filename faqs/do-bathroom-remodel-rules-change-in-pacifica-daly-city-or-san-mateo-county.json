@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-bathroom-remodel-rules-change-in-pacifica-daly-city-or-san-mateo-county",
+  "name": "Do bathroom remodel rules change in Pacifica, Daly City, or San Mateo County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Do bathroom remodel rules change in Pacifica, Daly City, or San Mateo County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Local rules matter because permits, inspections, and contractor expectations can vary by city. If you are remodeling in Pacifica, Daly City, San Bruno, Hillsborough, Half Moon Bay, South San Francisco, or nearby San Mateo County areas, confirm the contractor understands local permit and inspection processes. That is especially important when plumbing or electrical work is involved.",
+        "@type": "Answer",
+        "description": "Yes. Permit and inspection requirements can vary by city, so local experience matters. Confirm your contractor knows the process in your area."
+      }
+    }
+  ],
+  "description": "Yes. Permit and inspection requirements can vary by city, so local experience matters. Confirm your contractor knows the process in your area."
+}

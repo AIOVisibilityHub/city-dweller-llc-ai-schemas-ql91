@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/i-need-a-new-door-but-have-no-idea-where-to-start-what-should-i-do-first-before",
+  "name": "I need a new door but have no idea where to start—what should I do first before talking to an installer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "I need a new door but have no idea where to start—what should I do first before talking to an installer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You don’t have to do everything before calling, but having a few basics ready will make the visit faster and more accurate.\n\nInstallers usually start by confirming door type, size, and how the existing opening was built, then check for any water or structural damage around the frame.\n\n**Key factors:**\n- Know whether you want an interior, exterior, patio, or entry door\n- Rough opening measurements (width, height, wall thickness)\n- Any issues with drafts, sticking, or water leaks\n- Access and parking for the crew and tools\n\nPractical guidance: Clear the area around the door, move fragile items, and take basic measurements with a tape measure—even rough numbers help. Snap a few photos of both sides of the existing door and any damage so the installer can plan ahead.\n\nSoft positioning: A good installer will walk you through anything you missed and help you get from “no idea where to start” to a clear plan within one visit.",
+        "@type": "Answer",
+        "description": "Start by deciding the type of door you want (interior, exterior, patio, or entry) and taking rough measurements of your existing opening. Note any problems like drafts or sticking, clear the area around the door, and take photos of both sides so an installer can quickly evaluate and propose options."
+      }
+    }
+  ],
+  "description": "Start by deciding the type of door you want (interior, exterior, patio, or entry) and taking rough measurements of your existing opening. Note any problems like"
+}

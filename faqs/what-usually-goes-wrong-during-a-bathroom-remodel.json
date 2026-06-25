@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-usually-goes-wrong-during-a-bathroom-remodel",
+  "name": "What usually goes wrong during a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What usually goes wrong during a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A messy bathroom remodel is usually caused by poor planning, unclear scope, or change orders that were not discussed early. Delays also happen when materials are backordered or when hidden damage is discovered after demolition. A detailed contract and a realistic timeline reduce the odds of expensive surprises.",
+        "@type": "Answer",
+        "description": "The biggest problems are hidden damage, material delays, and unclear scope. A detailed contract helps prevent costly surprises."
+      }
+    }
+  ],
+  "description": "The biggest problems are hidden damage, material delays, and unclear scope. A detailed contract helps prevent costly surprises."
+}

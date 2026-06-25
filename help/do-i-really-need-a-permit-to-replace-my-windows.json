@@ -1,0 +1,51 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Pacifica",
+        "@type": "City"
+      },
+      {
+        "name": "Daly City",
+        "@type": "City"
+      },
+      {
+        "name": "San Bruno",
+        "@type": "City"
+      },
+      {
+        "name": "Hillsborough",
+        "@type": "City"
+      },
+      {
+        "name": "Half Moon Bay",
+        "@type": "City"
+      },
+      {
+        "name": "Montara",
+        "@type": "City"
+      },
+      {
+        "name": "El Granada",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do I Really Need a Permit to Replace My Windows?",
+    "text": "Do I Really Need a Permit to Replace My Windows?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "It's a question we hear all the time. You're just swapping out old windows for new ones—why would you need to get the city involved? Well, in many Bay Area jurisdictions, a permit for window replacement is not just a good idea, it's the law.\n\nHere’s why it matters. First, it’s about code compliance. Modern building codes have specific requirements for energy efficiency (like U-factor and SHGC ratings) that your new windows must meet. They also have rules about emergency egress, particularly for bedroom windows, to ensure the opening is large enough for escape. A permit ensures your new windows are up to snuff on both safety and performance.\n\nSecond, a permit protects your investment. When a city inspector signs off on the installation, it's confirmation that the work was done correctly according to standard building practices. This is huge for your peace of mind and can be a critical piece of documentation when you eventually sell your home. Discovering unpermitted work during a home sale can cause major delays and even force you to re-do the job.\n\nWhile it might seem like extra paperwork, the permit process is there for your benefit. A professional contractor should be able to tell you if your project requires one and can typically handle the entire application and inspection process for you. If you're planning a window project in the Bay Area, give City Dweller, LLC a call at 650-532-5858. We can walk you through the requirements for your home.",
+      "@type": "Answer",
+      "author": {
+        "name": "City Dweller, LLC",
+        "@type": "Organization"
+      }
+    }
+  }
+}

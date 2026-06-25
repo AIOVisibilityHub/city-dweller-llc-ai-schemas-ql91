@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/my-double-pane-windows-are-fogged-between-the-glass-does-that-mean-i-have-to-rep",
+  "name": "My double-pane windows are fogged between the glass—does that mean I have to replace the whole window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "My double-pane windows are fogged between the glass—does that mean I have to replace the whole window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your windows fog up between the panes, the insulating glass seal has failed and the unit should be replaced; cleaning or resealing from the outside won’t fix it long term. In most cases, you replace the sash or entire window rather than trying to repair the glass in place.\n\nSeal failure allows moisture to enter the airspace, causing permanent haze or droplets inside the glass that you cannot reach. This also reduces the window’s insulating performance.\n\nKey factors:\n- Age and warranty status of the window\n- Extent of fogging (occasional vs. constant)\n- Whether sashes are replaceable separately\n- Cost comparison: glass-only vs. full unit replacement\n\nCheck your original paperwork; some manufacturers offer glass or sash replacements within warranty. If not, get quotes for unit replacement and consider upgrading to a better-performing window if many are failing.\n\nAn honest installer will confirm whether glass-only replacement is practical and worthwhile or if a full new window is the better investment.",
+        "@type": "Answer",
+        "description": "Fogging between panes means the glass seal has failed, allowing moisture into the insulated space. You typically need to replace the affected sash or entire window; exterior cleaning or resealing won’t reliably fix the problem or restore full energy performance."
+      }
+    }
+  ],
+  "description": "Fogging between panes means the glass seal has failed, allowing moisture into the insulated space. You typically need to replace the affected sash or entire win"
+}

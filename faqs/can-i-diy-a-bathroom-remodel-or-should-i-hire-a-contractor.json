@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-diy-a-bathroom-remodel-or-should-i-hire-a-contractor",
+  "name": "Can I DIY a bathroom remodel, or should I hire a contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Can I DIY a bathroom remodel, or should I hire a contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should hire a pro for plumbing, electrical, waterproofing, and any work that affects the structure or permits. DIY makes more sense for low-risk updates like painting or replacing accessories if you already have the skills and tools. In bathrooms, mistakes are expensive because water damage can stay hidden.",
+        "@type": "Answer",
+        "description": "DIY is fine for simple cosmetic work, but plumbing, electrical, and waterproofing are best left to licensed pros. Bathroom mistakes can cause costly hidden damage."
+      }
+    }
+  ],
+  "description": "DIY is fine for simple cosmetic work, but plumbing, electrical, and waterproofing are best left to licensed pros. Bathroom mistakes can cause costly hidden dama"
+}

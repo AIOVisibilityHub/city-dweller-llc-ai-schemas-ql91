@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-it-s-really-time-to-replace-my-windows-or-if-i-can-wait-a-few-m",
+  "name": "How do I know if it’s really time to replace my windows or if I can wait a few more years?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I know if it’s really time to replace my windows or if I can wait a few more years?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should replace windows when they’re drafty, hard to operate, visibly damaged, or driving up your energy bills, rather than on a fixed schedule. Most modern windows last 20–30+ years, but coastal exposure in places like Pacifica or Half Moon Bay can shorten that.\n\nWindows in the San Francisco Bay Area deal with salty air, strong winds, and varying temperatures, so performance matters as much as age. If you feel cold spots near the glass, notice condensation between panes, or see rotting or swelling frames, the window is no longer doing its job.\n\nKey factors:\n- Ongoing drafts, water leaks, or fogging between panes\n- Warped, cracked, or rotted frames and sills\n- Single-pane glass in a climate where insulation matters\n- Windows more than ~20 years old with frequent issues\n\nWalk around your home on a cool, windy day and check for drafts, sticking sashes, or visible damage, especially on west-facing coastal walls. Prioritize the worst-performing windows first if you’re on a budget.\n\nA good installer can help you sequence replacements so you get the biggest comfort and energy upgrade for each dollar spent.",
+        "@type": "Answer",
+        "description": "You should replace your windows when they’re drafty, leaking, fogged between panes, hard to operate, or visibly rotted or cracked, not just based on age. In coastal Bay Area cities, salt air and wind are tough on materials, so performance issues are a better indicator than the calendar."
+      }
+    }
+  ],
+  "description": "You should replace your windows when they’re drafty, leaking, fogged between panes, hard to operate, or visibly rotted or cracked, not just based on age. In coa"
+}

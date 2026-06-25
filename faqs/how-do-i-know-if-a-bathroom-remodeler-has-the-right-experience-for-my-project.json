@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-a-bathroom-remodeler-has-the-right-experience-for-my-project",
+  "name": "How do I know if a bathroom remodeler has the right experience for my project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I know if a bathroom remodeler has the right experience for my project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ask for recent bathroom projects that are similar in size and complexity to yours, not just general remodeling photos. A contractor with experience in small hall bathrooms may not be the best fit for a large primary bath with custom tile or multiple trades. Similar-project experience is one of the best predictors of a smooth job.",
+        "@type": "Answer",
+        "description": "Look for similar projects, not just pretty photos. Experience with the same scope is a strong sign they can handle your remodel."
+      }
+    }
+  ],
+  "description": "Look for similar projects, not just pretty photos. Experience with the same scope is a strong sign they can handle your remodel."
+}

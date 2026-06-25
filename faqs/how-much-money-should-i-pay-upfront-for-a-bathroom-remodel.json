@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-money-should-i-pay-upfront-for-a-bathroom-remodel",
+  "name": "How much money should I pay upfront for a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How much money should I pay upfront for a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A deposit is common, but a large upfront payment is a warning sign. Many homeowners prefer milestone-based payments tied to progress, such as demolition, rough-in, inspection, and final completion. Always get the payment schedule in writing before work begins.",
+        "@type": "Answer",
+        "description": "A small deposit is normal, but a large upfront payment is a red flag. Ask for milestone-based payments in writing."
+      }
+    }
+  ],
+  "description": "A small deposit is normal, but a large upfront payment is a red flag. Ask for milestone-based payments in writing."
+}

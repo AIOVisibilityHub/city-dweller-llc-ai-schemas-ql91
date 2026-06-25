@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-information-do-i-need-to-get-a-siding-installation-estimate",
+  "name": "What information do I need to get a siding installation estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What information do I need to get a siding installation estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You usually need a siding contractor who can evaluate the home, explain the product options, and provide a written estimate. It also helps to know whether permits, insurance, and warranty paperwork are included.",
+        "@type": "Answer",
+        "description": "Have the home’s basic details, siding goals, and project scope ready. Ask for a written estimate that includes materials, labor, permits, and warranty terms."
+      }
+    }
+  ],
+  "description": "Have the home’s basic details, siding goals, and project scope ready. Ask for a written estimate that includes materials, labor, permits, and warranty terms."
+}

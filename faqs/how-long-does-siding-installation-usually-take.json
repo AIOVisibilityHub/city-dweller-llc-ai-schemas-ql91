@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-siding-installation-usually-take",
+  "name": "How long does siding installation usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How long does siding installation usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a typical home, siding installation can take anywhere from a few days to two weeks, depending on the size of the house, the material, weather, and how much repair work is needed underneath. Delays are common when hidden damage is found after demolition.",
+        "@type": "Answer",
+        "description": "Most projects take a few days to about two weeks. Weather, home size, and hidden repairs can extend the schedule."
+      }
+    }
+  ],
+  "description": "Most projects take a few days to about two weeks. Weather, home size, and hidden repairs can extend the schedule."
+}

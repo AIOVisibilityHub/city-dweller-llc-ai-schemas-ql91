@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-questions-should-i-ask-before-hiring-a-siding-installer",
+  "name": "What questions should I ask before hiring a siding installer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What questions should I ask before hiring a siding installer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ask whether the contractor carries liability insurance and workers’ compensation, uses trained crews, and provides a labor warranty. You should also confirm who will handle any needed repairs behind the siding, not just the visible exterior work.",
+        "@type": "Answer",
+        "description": "Ask about insurance, crews, labor warranty, repair experience, and what is included in the quote. Written answers help prevent surprises."
+      }
+    }
+  ],
+  "description": "Ask about insurance, crews, labor warranty, repair experience, and what is included in the quote. Written answers help prevent surprises."
+}

@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-building-permit-to-install-or-replace-a-sliding-glass-door-at-my-hou",
+  "name": "Do I need a building permit to install or replace a sliding glass door at my house, or can I just have someone put it in?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit to install or replace a sliding glass door at my house, or can I just have someone put it in?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most sliding glass door installations do require permits when you’re altering the structure, changing the size of the opening, or cutting a new opening in a wall. Simple like‑for‑like replacements in the same opening may not, depending on local rules.\n\nPermits matter because they trigger inspections that check structural integrity, safety glass, and waterproofing. Skipping permits can complicate future home sales and insurance claims.\n\nKey factors:\n- Whether the opening size or framing is being modified\n- Local building department requirements in your city\n- Compliance with safety glass, egress, and wind loads\n- Whether electrical or other systems are affected\n\nPractically, call your city’s building department or check their website before starting; they can clarify when a permit is needed and what inspections will occur. Many contractors will handle the permit process as part of the job.\n\nIn San Mateo County cities like San Bruno, Daly City, and South San Francisco, expect permit requirements for any structural changes, while simple replacements may be treated differently.",
+        "@type": "Answer",
+        "description": "If you’re changing the opening size, cutting a new opening, or altering framing, you almost certainly need a permit. Simple like‑for‑like replacements may not, but rules vary by city—check with your local building department or ask your contractor to confirm."
+      }
+    }
+  ],
+  "description": "If you’re changing the opening size, cutting a new opening, or altering framing, you almost certainly need a permit. Simple like‑for‑like replacements may not,"
+}

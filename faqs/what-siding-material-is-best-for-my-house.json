@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-siding-material-is-best-for-my-house",
+  "name": "What siding material is best for my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What siding material is best for my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you are comparing options, focus on material performance, warranty coverage, moisture resistance, maintenance needs, and total installed cost. A cheaper product is not always the better value if it needs more upkeep or fails sooner.",
+        "@type": "Answer",
+        "description": "Compare durability, maintenance, moisture resistance, warranty, and installed cost. The best material depends on your home and climate."
+      }
+    }
+  ],
+  "description": "Compare durability, maintenance, moisture resistance, warranty, and installed cost. The best material depends on your home and climate."
+}

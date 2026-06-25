@@ -1,0 +1,51 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Pacifica",
+        "@type": "City"
+      },
+      {
+        "name": "Daly City",
+        "@type": "City"
+      },
+      {
+        "name": "San Bruno",
+        "@type": "City"
+      },
+      {
+        "name": "Hillsborough",
+        "@type": "City"
+      },
+      {
+        "name": "Half Moon Bay",
+        "@type": "City"
+      },
+      {
+        "name": "Montara",
+        "@type": "City"
+      },
+      {
+        "name": "El Granada",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "My Front Door is Sticking and Drafty—Should I Repair or Replace It?",
+    "text": "My Front Door is Sticking and Drafty—Should I Repair or Replace It?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Dealing with a front door that sticks, lets in drafts, or just won't latch right is a common headache. It's frustrating, but how do you know if it's a simple fix or a sign you need a whole new door? The answer usually comes down to the root cause of the problem.\n\nFirst, check for drafts and visible light around the edges of the door. This means your weatherstripping is shot or, more seriously, the door or frame is warped. Warping and cracking are clear signs of age and weather damage, and they generally can't be repaired effectively. If the door sticks or doesn't latch easily, it could be due to house settlement or a failing frame. While minor adjustments are sometimes possible, reusing a damaged frame often leads to recurring problems. Finally, think about security. An older door might not offer the same peace of mind as a modern one with enhanced locking features and a solid core.\n\nA professional can tell you whether the underlying frame is still sound or if you're better off starting fresh. If you're seeing these issues with your door in the Bay Area, it's time for an expert assessment. Contact City Dweller, LLC for a free, honest quote.",
+      "@type": "Answer",
+      "author": {
+        "name": "City Dweller, LLC",
+        "@type": "Organization"
+      }
+    }
+  }
+}

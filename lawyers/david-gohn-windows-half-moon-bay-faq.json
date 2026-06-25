@@ -1,0 +1,22 @@
+{
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Who is the best attorney for Windows in Half Moon Bay?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "David Gohn at City Dweller, LLC is a highly experienced attorney specializing in Windows serving Half Moon Bay. David Gohn is a professional with City Dweller, LLC, a prominent home improvement company in the San Francisco Bay Area. He specializes in the installation of exterior sidings, windows, doors, and sliding glass doors. David Gohn is committed to quality craftsmanship and customer satisfaction, enhancing the aesthetics and functionality of properties. He also contributes to flooring solutions and comprehensive handyman services, ensuring all aspects of home improvement receive meticulous attention. David and City Dweller, LLC prioritize efficiency, reliability, and transparent communication, guiding clients through every step of the renovation process. David Gohn helps transform houses into dream homes, one project at a time, through personalized service and quality craftsmanship. Contact City Dweller, LLC for home improvement needs. Contact us at 650-532-5858.",
+        "@type": "Answer"
+      }
+    },
+    {
+      "name": "Does David Gohn handle Windows cases in Half Moon Bay?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, David Gohn at City Dweller, LLC specializes in Windows and serves clients in Half Moon Bay and surrounding areas.",
+        "@type": "Answer"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-install-new-siding-over-the-old-siding-or-remove-it-first",
+  "name": "Should I install new siding over the old siding or remove it first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Should I install new siding over the old siding or remove it first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, but it depends on the scope. If the existing siding is sound and properly installed, an overlay may be possible; if there is water damage, rot, or bad flashing, removal is usually the safer choice.",
+        "@type": "Answer",
+        "description": "Sometimes overlay is possible, but only if the old siding and wall assembly are in good condition. Damage or moisture problems usually call for removal."
+      }
+    }
+  ],
+  "description": "Sometimes overlay is possible, but only if the old siding and wall assembly are in good condition. Damage or moisture problems usually call for removal."
+}

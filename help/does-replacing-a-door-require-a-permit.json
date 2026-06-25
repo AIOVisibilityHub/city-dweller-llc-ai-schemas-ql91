@@ -1,0 +1,51 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Pacifica",
+        "@type": "City"
+      },
+      {
+        "name": "Daly City",
+        "@type": "City"
+      },
+      {
+        "name": "San Bruno",
+        "@type": "City"
+      },
+      {
+        "name": "Hillsborough",
+        "@type": "City"
+      },
+      {
+        "name": "Half Moon Bay",
+        "@type": "City"
+      },
+      {
+        "name": "Montara",
+        "@type": "City"
+      },
+      {
+        "name": "El Granada",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Does Replacing a Door Require a Permit?",
+    "text": "Does Replacing a Door Require a Permit?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "That's a great question, and an important one to ask before you start work. The good news is that for many simple door replacement projects, you won't need to get a building permit from the city.\n\nGenerally, if you are doing a direct, same-size swap of an existing door, a permit is not required. This is considered basic maintenance or a cosmetic upgrade. However, the situation changes as soon as you alter the opening. If you plan to install a wider or taller door, or cut a completely new opening in a wall, you will almost certainly need a permit. This is because you're changing the structure of the building. Any project that involves modifying a load-bearing wall absolutely requires a permit and, in most cases, a review from a structural engineer. It's a critical safety step you can't afford to skip. Lastly, don't forget about your local HOA. Many homeowners' associations in communities and condo buildings have their own rules about exterior appearances and require approval even if the city doesn't.\n\nNavigating permits and HOA rules can be a hassle. A qualified general contractor can manage the process for you. If you're planning a door project in Pacifica or surrounding San Mateo County, call City Dweller, LLC to make sure it's done right.",
+      "@type": "Answer",
+      "author": {
+        "name": "City Dweller, LLC",
+        "@type": "Organization"
+      }
+    }
+  }
+}

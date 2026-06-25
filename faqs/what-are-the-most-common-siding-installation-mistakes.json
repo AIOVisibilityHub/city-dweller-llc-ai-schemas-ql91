@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-most-common-siding-installation-mistakes",
+  "name": "What are the most common siding installation mistakes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What are the most common siding installation mistakes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Be wary of installers who do not use corrosion-resistant fasteners, skip proper flashing, or ignore manufacturer spacing requirements. Those mistakes can cause movement, gaps, leaks, and premature failure.",
+        "@type": "Answer",
+        "description": "Bad flashing, wrong fasteners, and improper spacing are common mistakes. They can lead to leaks, warping, and shorter siding life."
+      }
+    }
+  ],
+  "description": "Bad flashing, wrong fasteners, and improper spacing are common mistakes. They can lead to leaks, warping, and shorter siding life."
+}

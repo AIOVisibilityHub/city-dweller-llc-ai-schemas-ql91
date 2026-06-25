@@ -1,0 +1,62 @@
+{
+  "name": "How to Avoid Leaky Windows and Water Damage",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Nothing is more frustrating than discovering your brand-new windows are leaking. In our coastal climate with wind and rain, proper installation is everything. A window is only as good as the way it’s installed, and preventing leaks comes down to getting the details right.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "The most critical step is flashing. Flashing is a thin, waterproof material that directs water away from the window opening and down the side of the house. If it's done incorrectly—or skipped altogether—water can seep into the wall cavity. This leads to wood rot, mold, and serious structural damage that you might not discover until it’s too late. It's not just about caulking the exterior; it's about creating an integrated, waterproof barrier.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "It’s also crucial to inspect the rough opening before the new window goes in. If the old window was leaking, there’s a good chance the wood sill or framing is already soft or rotted. Simply putting a new window into a compromised frame is asking for trouble. Any rotted wood must be repaired or replaced to create a solid, stable, and water-resistant foundation for the new unit.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4",
+      "text": "The best way to avoid these issues is to work with an experienced professional who understands the demands of our local climate. Proper waterproofing is a skill. At City Dweller, LLC, we specialize in expert window installations that stand the test of time. Call us at 650-532-5858 for a free quote.",
+      "@type": "HowToStep",
+      "position": 4
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "areaServed": [
+    {
+      "name": "Pacifica",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "San Bruno",
+      "@type": "City"
+    },
+    {
+      "name": "Hillsborough",
+      "@type": "City"
+    },
+    {
+      "name": "Half Moon Bay",
+      "@type": "City"
+    },
+    {
+      "name": "Montara",
+      "@type": "City"
+    },
+    {
+      "name": "El Granada",
+      "@type": "City"
+    }
+  ],
+  "description": "How to Avoid Leaky Windows and Water Damage"
+}

@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-if-the-siding-company-is-pressuring-me-to-sign-right-away",
+  "name": "What if the siding company is pressuring me to sign right away?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What if the siding company is pressuring me to sign right away?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If a contractor pushes you to decide immediately, refuses to give a written scope, or will not explain materials and warranties, treat that as a red flag. A good installer should be willing to walk you through the process and answer detailed questions.",
+        "@type": "Answer",
+        "description": "Do not rush into a contract without a written scope, warranty details, and a clear price. Pressure tactics are a warning sign."
+      }
+    }
+  ],
+  "description": "Do not rush into a contract without a written scope, warranty details, and a clear price. Pressure tactics are a warning sign."
+}

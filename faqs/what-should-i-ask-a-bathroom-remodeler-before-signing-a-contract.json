@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-ask-a-bathroom-remodeler-before-signing-a-contract",
+  "name": "What should I ask a bathroom remodeler before signing a contract?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should I ask a bathroom remodeler before signing a contract?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A good contractor should provide a license number, proof of insurance, references, recent project photos, and a written scope of work. You should also ask who will do the plumbing, electrical, and tile waterproofing, because those tasks affect quality and code compliance. Clear answers up front usually save time and money later.",
+        "@type": "Answer",
+        "description": "Ask for licensing, insurance, references, photos, and a detailed written scope. Also confirm who handles plumbing, electrical, and waterproofing."
+      }
+    }
+  ],
+  "description": "Ask for licensing, insurance, references, photos, and a detailed written scope. Also confirm who handles plumbing, electrical, and waterproofing."
+}

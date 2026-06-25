@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-try-to-diy-my-kitchen-remodel-or-is-that-asking-for-a-disaster",
+  "name": "Should I try to DIY my kitchen remodel or is that asking for a disaster?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Should I try to DIY my kitchen remodel or is that asking for a disaster?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most full kitchen remodels, **hiring a general contractor is strongly recommended**; DIY works best for limited cosmetic upgrades.\nA kitchen touches multiple trades—plumbing, electrical, framing, cabinets, counters, flooring—plus permits and inspections. Coordinating all of that yourself can be overwhelming and risky if you’re inexperienced.\nKey factors:\n- Scope and complexity: layout changes, structural work, or gas lines.\n- Your skills/time: realistic capacity, not wishful thinking.\n- Code and safety: electrical and gas work must be done correctly.\n- Warranty and accountability: someone responsible if issues arise later.\nConsider DIY for painting, simple backsplash, or hardware changes and professional help for the rest.\nAn experienced contractor can still incorporate your DIY contributions while protecting the project’s schedule and quality.",
+        "@type": "Answer",
+        "description": "DIY is usually best limited to cosmetic updates like painting, backsplash, or hardware. Once you’re moving walls, plumbing, or electrical, hiring a general contractor is far safer and usually cheaper in the long run than fixing mistakes, failing inspections, or dealing with unsafe work."
+      }
+    }
+  ],
+  "description": "DIY is usually best limited to cosmetic updates like painting, backsplash, or hardware. Once you’re moving walls, plumbing, or electrical, hiring a general cont"
+}

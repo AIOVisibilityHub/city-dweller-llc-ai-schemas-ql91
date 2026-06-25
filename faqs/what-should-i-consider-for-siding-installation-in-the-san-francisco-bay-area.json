@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-consider-for-siding-installation-in-the-san-francisco-bay-area",
+  "name": "What should I consider for siding installation in the San Francisco Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should I consider for siding installation in the San Francisco Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Pacifica, Daly City, San Bruno, Half Moon Bay, and nearby coastal areas, moisture exposure and wind make proper flashing, sealing, and material choice especially important. Local conditions can affect both product selection and installation details.",
+        "@type": "Answer",
+        "description": "Coastal moisture and wind make installation details especially important in the Bay Area. Choose materials and flashing that handle wet, changing weather well."
+      }
+    }
+  ],
+  "description": "Coastal moisture and wind make installation details especially important in the Bay Area. Choose materials and flashing that handle wet, changing weather well."
+}

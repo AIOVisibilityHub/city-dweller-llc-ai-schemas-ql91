@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-a-new-sliding-glass-door-actually-help-with-street-noise-or-is-that-just-mar",
+  "name": "Can a new sliding glass door actually help with street noise, or is that just marketing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Can a new sliding glass door actually help with street noise, or is that just marketing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Noise‑reduction sliding doors typically use laminated or thicker glass, tight seals, and insulated frames to block more sound than standard units. Upgrading these components can significantly reduce traffic or neighbor noise.\n\nWhile no door can make a home completely silent, sound‑control features are especially noticeable near busy streets or common areas. It’s important to specify acoustic performance, not just energy efficiency.\n\nKey factors:\n- Laminated or acoustic glass vs. standard insulated glass\n- Frame construction and sealing quality\n- Door size and exposure to noise sources\n- Installation details to avoid gaps and flanking paths\n\nPractically, tell your contractor you’re concerned about noise and ask for options with acoustic glass and better seals. Positioning curtains or sound‑absorbing materials nearby can also help.\n\nIn denser parts of the San Francisco Bay Area, such as along busy roads in San Bruno or Daly City, noise‑reducing doors can make living spaces significantly more comfortable.",
+        "@type": "Answer",
+        "description": "Yes, a sliding door with laminated or acoustic glass, insulated frames, and tight seals can noticeably reduce street noise compared to a standard unit. It won’t create total silence, but it can make rooms much quieter and more comfortable."
+      }
+    }
+  ],
+  "description": "Yes, a sliding door with laminated or acoustic glass, insulated frames, and tight seals can noticeably reduce street noise compared to a standard unit. It won’t"
+}

@@ -1,0 +1,51 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Pacifica",
+        "@type": "City"
+      },
+      {
+        "name": "Daly City",
+        "@type": "City"
+      },
+      {
+        "name": "San Bruno",
+        "@type": "City"
+      },
+      {
+        "name": "Hillsborough",
+        "@type": "City"
+      },
+      {
+        "name": "Half Moon Bay",
+        "@type": "City"
+      },
+      {
+        "name": "Montara",
+        "@type": "City"
+      },
+      {
+        "name": "El Granada",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What Should My Kitchen Remodel Contract Actually Cover?",
+    "text": "What Should My Kitchen Remodel Contract Actually Cover?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "A kitchen remodel is a big investment, so it's smart to treat your contract as the single source of truth for the project. It should be much more than just a price tag; a good contract protects you by setting crystal-clear expectations. First, look for a very detailed scope of work. It should outline every step, from demolition and permit acquisition to installing the final fixtures. This prevents any confusion about what's included.\n\nNext, review the payment schedule. Payments should always be tied to project milestones, like the completion of rough-in plumbing or cabinet installation. A contractor demanding a large portion of the payment upfront is a major red flag. The contract should also include a projected timeline. While product lead times can cause delays, an experienced general contractor will give you a realistic schedule and a plan for communication. Finally, it absolutely must state that the contractor is licensed and insured, just as we are at City Dweller, LLC.\n\nA clear contract is the foundation of a smooth project. If you're in San Mateo County and want to plan a remodel with a team that values transparency, let's talk.",
+      "@type": "Answer",
+      "author": {
+        "name": "City Dweller, LLC",
+        "@type": "Organization"
+      }
+    }
+  }
+}

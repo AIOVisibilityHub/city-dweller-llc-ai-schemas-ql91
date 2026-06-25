@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-check-before-starting-exterior-siding-installation",
+  "name": "What should I check before starting exterior siding installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should I check before starting exterior siding installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The first step is to inspect the existing walls and moisture barrier before choosing new siding. Any hidden rot, mold, or water intrusion should be fixed first, or the new siding can fail early.",
+        "@type": "Answer",
+        "description": "Inspect the walls, sheathing, flashing, and moisture barrier first. Fix any rot, mold, or water damage before new siding goes on."
+      }
+    }
+  ],
+  "description": "Inspect the walls, sheathing, flashing, and moisture barrier first. Fix any rot, mold, or water damage before new siding goes on."
+}

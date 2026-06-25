@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-sliding-glass-door-was-installed-correctly-and-won-t-leak-or",
+  "name": "How do I know if my sliding glass door was installed correctly and won’t leak or stick later?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I know if my sliding glass door was installed correctly and won’t leak or stick later?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A properly installed sliding glass door should move smoothly, lock securely, and seal tightly against drafts and water. If it’s hard to slide, misaligned, or leaking, those are signs the installation wasn’t done correctly.\n\nBecause doors are large and heavy, small errors in shimming, leveling, or sealing create noticeable problems. Many issues show up within the first few weeks, especially during rain or wind.\n\nKey factors:\n- Smooth, easy sliding with one hand\n- Uniform gaps and even reveal around the door\n- Effective locking and latch engagement\n- No air or water coming in at the sill or edges\n\nPractically, test the door thoroughly before final payment: open and close it repeatedly, lock it, and check the perimeter for visible light where there shouldn’t be any. Ask the installer to adjust rollers and latches on site.\n\nIn rainy, windy conditions common in Pacifica and Half Moon Bay, watching how the door performs during the first storm is a good real‑world test.",
+        "@type": "Answer",
+        "description": "A correctly installed sliding door slides smoothly, locks easily, and has even gaps with no drafts or visible light where there shouldn’t be any. Test operation and locking thoroughly after installation and watch for leaks during the first heavy rain."
+      }
+    }
+  ],
+  "description": "A correctly installed sliding door slides smoothly, locks easily, and has even gaps with no drafts or visible light where there shouldn’t be any. Test operation"
+}

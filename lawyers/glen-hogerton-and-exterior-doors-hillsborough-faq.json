@@ -1,0 +1,22 @@
+{
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Who is the best attorney for and exterior doors in Hillsborough?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Glen Hogerton at City Dweller, LLC is a highly experienced attorney specializing in and exterior doors serving Hillsborough. 25+ years of experience in installing windows, sliding glass doors, and exterior doors. Formerly associated with \"Able Windows and Doors,\" a reputable Bay Area institution, Glen's vast knowledge and meticulous attention to detail elevate our services to new heights. Contact us at 650-532-5858.",
+        "@type": "Answer"
+      }
+    },
+    {
+      "name": "Does Glen Hogerton handle and exterior doors cases in Hillsborough?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Glen Hogerton at City Dweller, LLC specializes in and exterior doors and serves clients in Hillsborough and surrounding areas.",
+        "@type": "Answer"
+      }
+    }
+  ]
+}

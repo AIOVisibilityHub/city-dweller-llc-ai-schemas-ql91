@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-tell-if-my-flooring-installation-was-done-poorly-or-if-what-i-m-seeing",
+  "name": "How can I tell if my flooring installation was done poorly or if what I’m seeing is normal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How can I tell if my flooring installation was done poorly or if what I’m seeing is normal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Waves, gaps, soft spots, hollow sounds, and persistent squeaks usually signal a bad flooring installation or unresolved subfloor issues. On tile, cracked grout or tiles that move underfoot are also warning signs.\n\nSome minor noises can be normal, but clusters of problems often mean deeper defects.\n\nKey factors:\n- Visible gaps, tenting, or planks that move when stepped on\n- Floors not meeting manufacturer’s flatness or expansion gap requirements\n- Failure to perform moisture testing or acclimation\n- No written warranty or refusal to address issues\n\nDocument everything with photos and notes as soon as you notice a problem, then contact your installer in writing to request inspection and repairs under warranty. Avoid DIY fixes that might void coverage.\n\nEarly detection and clear documentation give you the best chance at a proper fix.",
+        "@type": "Answer",
+        "description": "Look for gaps, movement when you step, hollow or spongy spots, persistent squeaks, or waves and tenting—these often signal poor installation or subfloor problems. Document issues with photos and contact your installer promptly to review and address them under warranty."
+      }
+    }
+  ],
+  "description": "Look for gaps, movement when you step, hollow or spongy spots, persistent squeaks, or waves and tenting—these often signal poor installation or subfloor problem"
+}

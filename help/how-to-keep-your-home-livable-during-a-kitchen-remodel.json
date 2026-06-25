@@ -1,0 +1,56 @@
+{
+  "name": "How to Keep Your Home Livable During a Kitchen Remodel",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Living without a kitchen is tough, but a remodel doesn't have to completely upend your life. With some smart planning, you can navigate the process without losing your sanity. The first step is to create a temporary kitchen space before the work begins. Set up a mini-fridge, microwave, and your coffee maker in a separate area like your dining room or garage. Stocking up on disposable plates and cutlery also helps a ton.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "Talk with your contractor about their plan for dust control and cleanup. Renovation work is inherently messy, but a professional team will take care to seal off the kitchen area to minimize dust spreading to the rest of your house. It's also helpful to understand the project's phasing. Ask for a schedule so you know ahead of time if the water or power will be temporarily shut off. At City Dweller, LLC, we believe transparent communication is key, so you’ll always know what to expect.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "Ultimately, a well-managed project is a less stressful project. If you're ready to partner with a general contractor who respects your home, we'd be happy to provide a free quote.",
+      "@type": "HowToStep",
+      "position": 3
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "areaServed": [
+    {
+      "name": "Pacifica",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "San Bruno",
+      "@type": "City"
+    },
+    {
+      "name": "Hillsborough",
+      "@type": "City"
+    },
+    {
+      "name": "Half Moon Bay",
+      "@type": "City"
+    },
+    {
+      "name": "Montara",
+      "@type": "City"
+    },
+    {
+      "name": "El Granada",
+      "@type": "City"
+    }
+  ],
+  "description": "How to Keep Your Home Livable During a Kitchen Remodel"
+}

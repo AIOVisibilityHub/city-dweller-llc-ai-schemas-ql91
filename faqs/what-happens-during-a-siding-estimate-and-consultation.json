@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-happens-during-a-siding-estimate-and-consultation",
+  "name": "What happens during a siding estimate and consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What happens during a siding estimate and consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process usually starts with an inspection, then a written estimate, material selection, scheduling, and prep work before installation day. If old siding must be removed, the contractor may also uncover repairs that need approval before moving forward.",
+        "@type": "Answer",
+        "description": "Expect an inspection, discussion of materials, measurements, and a written proposal. The contractor may also identify hidden repairs before the job begins."
+      }
+    }
+  ],
+  "description": "Expect an inspection, discussion of materials, measurements, and a written proposal. The contractor may also identify hidden repairs before the job begins."
+}

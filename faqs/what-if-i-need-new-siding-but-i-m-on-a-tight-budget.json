@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-if-i-need-new-siding-but-i-m-on-a-tight-budget",
+  "name": "What if I need new siding but I’m on a tight budget?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What if I need new siding but I’m on a tight budget?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you have a limited budget, focus first on fixing moisture problems and choosing a durable, low-maintenance siding that fits the home. It is usually better to do the job correctly in phases than to rush a cheaper install that will need repairs later.",
+        "@type": "Answer",
+        "description": "Fix moisture issues first and choose a durable material you can maintain. A properly phased project is often better than a rushed low-cost install."
+      }
+    }
+  ],
+  "description": "Fix moisture issues first and choose a durable material you can maintain. A properly phased project is often better than a rushed low-cost install."
+}

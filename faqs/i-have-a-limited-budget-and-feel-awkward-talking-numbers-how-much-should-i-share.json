@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/i-have-a-limited-budget-and-feel-awkward-talking-numbers-how-much-should-i-share",
+  "name": "I have a limited budget and feel awkward talking numbers—how much should I share with a door installer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "I have a limited budget and feel awkward talking numbers—how much should I share with a door installer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You don’t have to know every detail, but sharing your budget range and priorities lets an installer suggest realistic options instead of upselling you blindly.\n\nHaving no budget in mind often leads to sticker shock or misaligned proposals.\n\n**Key factors:**\n- Total amount you’re comfortable spending now\n- Must‑haves (security, weather resistance) vs. nice‑to‑haves (decorative glass)\n- Willingness to phase work across multiple visits\n- Openness to cost‑saving choices like simpler hardware or standard sizes\n\nPractical guidance: Tell the installer your rough budget range and what matters most—security, look, or durability. Ask them to propose at least one option that stays comfortably under your top number.\n\nSoft positioning: A good contractor treats your budget as a design constraint to solve, not a target to exceed.",
+        "@type": "Answer",
+        "description": "Share a realistic budget range and your top priorities so the installer can tailor options instead of overshooting. You don’t need exact numbers, but giving a ceiling and must‑haves (security, look, durability) helps avoid wasted quotes and sticker shock."
+      }
+    }
+  ],
+  "description": "Share a realistic budget range and your top priorities so the installer can tailor options instead of overshooting. You don’t need exact numbers, but giving a c"
+}

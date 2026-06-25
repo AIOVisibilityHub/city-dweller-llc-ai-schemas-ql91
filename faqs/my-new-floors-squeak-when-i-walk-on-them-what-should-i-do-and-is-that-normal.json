@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/my-new-floors-squeak-when-i-walk-on-them-what-should-i-do-and-is-that-normal",
+  "name": "My new floors squeak when I walk on them—what should I do, and is that normal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "My new floors squeak when I walk on them—what should I do, and is that normal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your new floor is squeaking or feels bouncy soon after installation, the issue is usually in the subfloor, fasteners, or joists—not the surface material itself. It’s important to address it early before movement worsens.\n\nSome minor noise is normal in older homes, but new squeaks after install deserve a closer look.\n\nKey factors:\n- Loose or inadequately fastened subfloor panels\n- Missing or misplaced fasteners in the new flooring\n- Structural issues in joists or framing\n- Seasonal expansion and contraction\n\nContact your installer, describe where and when you hear squeaks, and request an inspection under warranty. Avoid driving random screws yourself through finished surfaces, which can cause more damage.\n\nEarly, professional diagnosis is the best route to a lasting fix.",
+        "@type": "Answer",
+        "description": "Occasional minor noise can be normal, but new squeaks or bouncy spots often mean subfloor or fastening issues. Document where you hear the sounds and contact your installer promptly to inspect and fix under warranty rather than trying DIY screw‑through fixes."
+      }
+    }
+  ],
+  "description": "Occasional minor noise can be normal, but new squeaks or bouncy spots often mean subfloor or fastening issues. Document where you hear the sounds and contact yo"
+}

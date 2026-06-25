@@ -1,0 +1,18 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-replacing-all-my-windows-trigger-a-big-property-tax-increase-or-is-it-treat",
+  "name": "Will replacing all my windows trigger a big property tax increase, or is it treated as maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Will replacing all my windows trigger a big property tax increase, or is it treated as maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window installation rarely increases property taxes by itself, but it can raise your home’s assessed value slightly if part of a larger remodel. In many Bay Area jurisdictions, routine replacements are viewed as maintenance, not major improvements.\n\nAssessed value changes depend on local rules and whether you trigger a reassessment through other work or sale. Energy-efficient windows may be more about comfort and operating costs than tax implications.\n\nKey factors:\n- Local assessment practices for improvements\n- Whether work is considered maintenance vs. capital upgrades\n- Scope of your overall project (windows alone vs. full remodel)\n- Timing relative to property sales or refinances\n\nIf you’re concerned, ask your local assessor’s office how they treat window upgrades and whether permits impact valuation. Consider the long-term comfort and energy benefits alongside any minor assessment changes.\n\nA knowledgeable contractor can explain typical local practice, but final tax decisions rest with the county assessor, not the installer.",
+        "@type": "Answer",
+        "description": "Window replacement is often treated as maintenance and may not significantly raise property taxes by itself, though rules vary by jurisdiction. Any assessment change usually depends on overall improvement scope and local policy, so check with your county assessor if you’re worried."
+      }
+    }
+  ],
+  "description": "Window replacement is often treated as maintenance and may not significantly raise property taxes by itself, though rules vary by jurisdiction. Any assessment c"
+}

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-06-26T18:35:19.822Z",
+  "generatedAt": "2026-06-26T18:39:17.661Z",
   "client": {
     "name": "City Dweller, LLC",
     "canonicalUrl": "http://bayareacitydweller.com",
@@ -34,7 +34,7 @@
   },
   "package": {
     "totalFiles": 539,
-    "totalBytes": 5859259,
+    "totalBytes": 5805978,
     "stats": {
       "qna": 213,
       "faqs": 166,
@@ -2311,7 +2311,7 @@
       },
       {
         "path": "about.html",
-        "bytes": 69347,
+        "bytes": 69241,
         "purpose": "LLM-optimized public page"
       },
       {
@@ -2346,7 +2346,7 @@
       },
       {
         "path": "team.html",
-        "bytes": 82257,
+        "bytes": 34626,
         "purpose": "LLM-optimized public page"
       },
       {
@@ -2737,7 +2737,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 1793,
+        "bytes": 1105,
         "purpose": "LLM hint"
       },
       {
@@ -2757,32 +2757,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1651,
+        "bytes": 980,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 239457,
+        "bytes": 238024,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 76212,
+        "bytes": 75524,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 76212,
+        "bytes": 75524,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 1687,
+        "bytes": 999,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 73027,
+        "bytes": 72339,
         "purpose": "Repository README"
       },
       {
@@ -2797,11 +2797,5 @@
       }
     ]
   },
-  "destinations": {
-    "github": {
-      "url": "https://github.com/AIOVisibilityHub/city-dweller-llc-ai-schemas-ql91",
-      "pagesUrl": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91/",
-      "repo": "AIOVisibilityHub/city-dweller-llc-ai-schemas-ql91"
-    }
-  }
+  "destinations": {}
 }

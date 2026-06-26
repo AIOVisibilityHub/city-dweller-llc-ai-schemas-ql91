@@ -133,7 +133,7 @@ def title_case(s):
 # HTML Shell
 # ═══════════════════════════════════════
 PAGES = [('index.html','Home'),('about.html','About'),('services.html','Services'),
-         ('testimonials.html','Testimonials'),('faqs.html','FAQs'),('help.html','Help'),
+         ('testimonials.html','Reviews'),('faqs.html','FAQs'),('help.html','Help'),
          ('awards.html','Awards'),('contact.html','Contact')]
 
 # Track which pages will be built (pre-scanned for data)
@@ -209,7 +209,7 @@ def build_index():
     all_sections = [
         ('About Us', 'about.html'),
         ('Our Services', 'services.html'),
-        ('Testimonials', 'testimonials.html'),
+        ('Reviews', 'testimonials.html'),
         ('FAQs', 'faqs.html'),
         ('Help Center', 'help.html'),
         ('Awards', 'awards.html'),
@@ -426,7 +426,7 @@ def build_testimonials():
         print(f'  \u23ed testimonials.html skipped (no reviews data)')
         return
     content = ''.join(cards)
-    write_page('testimonials.html', 'Testimonials', content, f'Client testimonials and reviews for {BIZ}.')
+    write_page('testimonials.html', 'Reviews', content, f'Client reviews for {BIZ}.')
 
 def build_faqs():
     items = []

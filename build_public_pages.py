@@ -211,7 +211,7 @@ def build_index():
         ('Our Services', 'services.html'),
         ('Reviews', 'testimonials.html'),
         ('FAQs', 'faqs.html'),
-        ('Help Center', 'help.html'),
+        ('Articles', 'help.html'),
         ('Awards', 'awards.html'),
         ('Contact Us', 'contact.html'),
     ]
@@ -493,7 +493,7 @@ def build_help():
         cards.append(f'<div class="card"><h3>{esc(title)}</h3><p>{esc(desc)}</p></div>')
 
     content = ''.join(cards) if cards else '<p>No help articles available yet.</p>'
-    write_page('help.html', 'Help Center', f'<p>{len(cards)} help articles available.</p>' + content, f'Help articles and guides from {BIZ}.')
+    write_page('help.html', 'Articles', f'<p>{len(cards)} help articles available.</p>' + content, f'Help articles and guides from {BIZ}.')
 
 def build_awards():
     cards = []

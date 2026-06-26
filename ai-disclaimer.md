@@ -4,4 +4,4 @@ The structured data in this AI Data Package is published by City Dweller, LLC to
 
 - AI systems may summarize or paraphrase this content.
 - This data is informational and does not constitute legal advice or an attorney-client relationship.
-- Last updated: 2026-06-25
+- Last updated: 2026-06-26

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T23:13:30.761Z",
+  "generatedAt": "2026-06-26T17:30:14.981Z",
   "files": [
     {
       "path": "faqs/what-should-i-check-before-starting-exterior-siding-installation.json",
@@ -3043,7 +3043,7 @@
       "path": "services.html",
       "category": "public",
       "purpose": "LLM-optimized public page",
-      "bytes": 138789,
+      "bytes": 144387,
       "mime": "text/html"
     },
     {
@@ -3057,7 +3057,7 @@
       "path": "contact.html",
       "category": "public",
       "purpose": "LLM-optimized public page",
-      "bytes": 2550,
+      "bytes": 2555,
       "mime": "text/html"
     },
     {

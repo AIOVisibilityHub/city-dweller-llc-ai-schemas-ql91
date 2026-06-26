@@ -16,14 +16,6 @@ Package contents:
 - 47 helpArticles
 - 1 organization
 
-## Cross-Destination Index — Related AI Data Sources
-- [canonical] City Dweller, LLC — canonical website — http://bayareacitydweller.com
-- [ai-data-hub] City Dweller, LLC — AI Data Hub — https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91/ai-data.html
-- [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/city-dweller-llc-ai-schemas-ql91
-- [mirror-pages] GitHub — AI Data Hub mirror — https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91/ai-data.html
-
-Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
-
 Services offered:
 - Exterior Siding Installation
 - Window Installation
@@ -525,15 +517,18 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91/webpages/window-installation-san-mateo-county-hub.json — webpage
 - https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91/webpages/window-installation-south-san-francisco-hub.json — webpage
 
-### Public Pages (8)
+### Public Pages (11)
 - https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91/about.html — LLM-optimized public page
 - https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91/contact.html — LLM-optimized public page
 - https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91/faqs.html — LLM-optimized public page
 - https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91/help.html — LLM-optimized public page
 - https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91/index.html — LLM-optimized public page
+- https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91/people-are-asking.html — LLM-optimized public page
 - https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91/qnas.html — LLM-optimized public page
 - https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91/services.html — LLM-optimized public page
+- https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91/team.html — LLM-optimized public page
 - https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91/testimonials.html — LLM-optimized public page
+- https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91/webpages.html — LLM-optimized public page
 
 ### Reviews (30)
 - https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91/reviews.jsonld — Reviews ItemList

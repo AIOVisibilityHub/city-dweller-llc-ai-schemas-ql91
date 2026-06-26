@@ -19,7 +19,7 @@ This AI Data Package for City Dweller, LLC is assembled from:
 - Organization & About: 1 file(s)
 - Site Pages: 11 file(s)
 - Press: 1 file(s)
-- Public Pages: 8 file(s)
+- Public Pages: 11 file(s)
 - Q&A: 2 file(s)
 - Reviews: 30 file(s)
 - Services: 56 file(s)

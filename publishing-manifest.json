@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-06-26T17:30:32.348Z",
+  "generatedAt": "2026-06-26T18:12:47.298Z",
   "client": {
     "name": "City Dweller, LLC",
     "canonicalUrl": "http://bayareacitydweller.com",
@@ -33,8 +33,8 @@
     ]
   },
   "package": {
-    "totalFiles": 536,
-    "totalBytes": 5436527,
+    "totalFiles": 539,
+    "totalBytes": 5901288,
     "stats": {
       "qna": 213,
       "faqs": 166,
@@ -2306,42 +2306,57 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 2236,
+        "bytes": 2358,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 73445,
+        "bytes": 73567,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 144387,
+        "bytes": 144509,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "testimonials.html",
-        "bytes": 34238,
+        "bytes": 34360,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 2555,
+        "bytes": 2677,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 168864,
+        "bytes": 168986,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help.html",
-        "bytes": 111577,
+        "bytes": 111699,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "qnas.html",
-        "bytes": 326457,
+        "bytes": 326579,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "team.html",
+        "bytes": 85875,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "webpages.html",
+        "bytes": 117296,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "people-are-asking.html",
+        "bytes": 262362,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -2656,12 +2671,12 @@
       },
       {
         "path": "data/internal-links.json",
-        "bytes": 58276,
+        "bytes": 58494,
         "purpose": "Internal links index"
       },
       {
         "path": "data/source-map.json",
-        "bytes": 102625,
+        "bytes": 103130,
         "purpose": "Source-map of all entity files"
       },
       {
@@ -2688,12 +2703,12 @@
       },
       {
         "path": "data-sources.md",
-        "bytes": 711,
+        "bytes": 712,
         "purpose": "Data sources"
       },
       {
         "path": "content-review-status.json",
-        "bytes": 104788,
+        "bytes": 105270,
         "purpose": "Content review status"
       },
       {
@@ -2722,7 +2737,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 1793,
+        "bytes": 1105,
         "purpose": "LLM hint"
       },
       {
@@ -2742,51 +2757,45 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1651,
+        "bytes": 980,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 238595,
+        "bytes": 238024,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 75864,
+        "bytes": 75524,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 75864,
+        "bytes": 75524,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 1687,
+        "bytes": 999,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 72815,
+        "bytes": 72339,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 90258,
+        "bytes": 90668,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 3059,
+        "bytes": 3469,
         "purpose": "Standard sitemap"
       }
     ]
   },
-  "destinations": {
-    "github": {
-      "url": "https://github.com/AIOVisibilityHub/city-dweller-llc-ai-schemas-ql91",
-      "pagesUrl": "https://AIOVisibilityHub.github.io/city-dweller-llc-ai-schemas-ql91/",
-      "repo": "AIOVisibilityHub/city-dweller-llc-ai-schemas-ql91"
-    }
-  }
+  "destinations": {}
 }

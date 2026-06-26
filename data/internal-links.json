@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T17:30:14.980Z",
+  "generatedAt": "2026-06-26T18:12:47.290Z",
   "links": [
     {
       "path": "faqs/what-should-i-check-before-starting-exterior-siding-installation.json",
@@ -1759,6 +1759,18 @@
     },
     {
       "path": "qnas.html",
+      "category": "public"
+    },
+    {
+      "path": "team.html",
+      "category": "public"
+    },
+    {
+      "path": "webpages.html",
+      "category": "public"
+    },
+    {
+      "path": "people-are-asking.html",
       "category": "public"
     },
     {

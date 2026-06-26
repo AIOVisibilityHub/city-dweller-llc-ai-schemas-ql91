@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T17:30:14.981Z",
+  "generatedAt": "2026-06-26T18:12:47.290Z",
   "files": [
     {
       "path": "faqs/what-should-i-check-before-starting-exterior-siding-installation.json",
@@ -3029,56 +3029,77 @@
       "path": "index.html",
       "category": "public",
       "purpose": "LLM-optimized public page",
-      "bytes": 2236,
+      "bytes": 2358,
       "mime": "text/html"
     },
     {
       "path": "about.html",
       "category": "public",
       "purpose": "LLM-optimized public page",
-      "bytes": 73445,
+      "bytes": 73567,
       "mime": "text/html"
     },
     {
       "path": "services.html",
       "category": "public",
       "purpose": "LLM-optimized public page",
-      "bytes": 144387,
+      "bytes": 144509,
       "mime": "text/html"
     },
     {
       "path": "testimonials.html",
       "category": "public",
       "purpose": "LLM-optimized public page",
-      "bytes": 34238,
+      "bytes": 34360,
       "mime": "text/html"
     },
     {
       "path": "contact.html",
       "category": "public",
       "purpose": "LLM-optimized public page",
-      "bytes": 2555,
+      "bytes": 2677,
       "mime": "text/html"
     },
     {
       "path": "faqs.html",
       "category": "public",
       "purpose": "LLM-optimized public page",
-      "bytes": 168864,
+      "bytes": 168986,
       "mime": "text/html"
     },
     {
       "path": "help.html",
       "category": "public",
       "purpose": "LLM-optimized public page",
-      "bytes": 111577,
+      "bytes": 111699,
       "mime": "text/html"
     },
     {
       "path": "qnas.html",
       "category": "public",
       "purpose": "LLM-optimized public page",
-      "bytes": 326457,
+      "bytes": 326579,
+      "mime": "text/html"
+    },
+    {
+      "path": "team.html",
+      "category": "public",
+      "purpose": "LLM-optimized public page",
+      "bytes": 85875,
+      "mime": "text/html"
+    },
+    {
+      "path": "webpages.html",
+      "category": "public",
+      "purpose": "LLM-optimized public page",
+      "bytes": 117296,
+      "mime": "text/html"
+    },
+    {
+      "path": "people-are-asking.html",
+      "category": "public",
+      "purpose": "LLM-optimized public page",
+      "bytes": 262362,
       "mime": "text/html"
     },
     {
@@ -3582,7 +3603,7 @@
       "path": "data/internal-links.json",
       "category": "data",
       "purpose": "Internal links index",
-      "bytes": 58276,
+      "bytes": 58494,
       "mime": "application/ld+json"
     }
   ]

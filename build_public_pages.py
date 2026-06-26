@@ -106,6 +106,25 @@ EMAIL = _client.get('email') or manifest.get('email', '')
 MANIFEST_LOCATIONS = _client.get('locations') or manifest.get('locations', []) or []
 SERVICES = _client.get('services') or manifest.get('services', [])
 CITIES = _client.get('cities') or manifest.get('cities', [])
+VERTICAL = (str(_client.get('vertical') or manifest.get('vertical') or '')).lower()
+_biz_lower = (BIZ or '').lower()
+IS_LEGAL = VERTICAL == 'legal' or any(k in _biz_lower for k in ['law firm','attorney','lawyer','legal services'])
+
+_LEGAL_PHRASE_RE = re.compile(r'\b(personal injury|criminal defense|family law|estate planning|bar association|practice areas?|case types?|attorney[-\s]client relationship|legal representation|legal advice|legal help|legal counsel|legal options?|legal matters?|legal services?|law firm)\b', re.IGNORECASE)
+_LEGAL_WORD_RE = re.compile(r'\b(attorneys?|lawyers?|esquire|esq\.?)\b', re.IGNORECASE)
+
+def sanitize_legal(html):
+    if IS_LEGAL or not isinstance(html, str):
+        return html
+    html = _LEGAL_PHRASE_RE.sub('services', html)
+    def _w(m):
+        w = m.group(0)
+        lower = w.lower()
+        if lower.startswith('attorneys') or lower.startswith('lawyers'):
+            return 'Team' if w[0].isupper() else 'team members'
+        return 'Team Member' if w[0].isupper() else 'team member'
+    html = _LEGAL_WORD_RE.sub(_w, html)
+    return html
 
 def title_case(s):
     return ' '.join(w.capitalize() for w in s.split()) if s else ''
@@ -176,7 +195,7 @@ def write_page(filename, title, content, desc=''):
     global current_page
     current_page = filename
     with open(filename, 'w', encoding='utf-8') as f:
-        f.write(page_shell(title, content, desc))
+        f.write(sanitize_legal(page_shell(title, content, desc)))
     print(f'  \u2705 {filename}')
 
 current_page = 'index.html'
